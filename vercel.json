@@ -1,12 +1,32 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/cvm.js": { "maxDuration": 60 },
-    "api/markets.js": { "maxDuration": 60 },
-    "api/offer.js": { "maxDuration": 60 },
-    "api/coordinator.js": { "maxDuration": 60 },
-    "api/bcb.js": { "maxDuration": 30 },
-    "api/anbima.js": { "maxDuration": 30 },
-    "api/weekly.js": { "maxDuration": 60 }
+    "api/cvm.js": {
+      "maxDuration": 60
+    },
+    "api/markets.js": {
+      "maxDuration": 60
+    },
+    "api/offer.js": {
+      "maxDuration": 60
+    },
+    "api/coordinator.js": {
+      "maxDuration": 60
+    },
+    "api/bcb.js": {
+      "maxDuration": 30
+    },
+    "api/anbima.js": {
+      "maxDuration": 30
+    },
+    "api/weekly.js": {
+      "maxDuration": 60
+    },
+    "api/indices.js": {
+      "maxDuration": 60
+    },
+    "api/monthly.js": {
+      "maxDuration": 60
+    }
   }
 }

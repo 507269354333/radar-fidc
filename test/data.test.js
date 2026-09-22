@@ -6,6 +6,8 @@ import {fetchBcbDataset} from '../lib/bcb-data.js';
 import {isRelevantTitle} from '../api/news.js';
 import {previousFullWeek,buildWeeklyReport} from '../lib/weekly.js';
 import {parseAnbimaIndicators} from '../lib/anbima-data.js';
+import {percentileRank,computeMarketIndices} from '../lib/indices.js';
+import {previousFullMonth,buildMonthlyLetter} from '../lib/monthly.js';
 
 test('decodifica CSV oficial Windows-1252 e campos entre aspas',()=>{
   const bytes=Buffer.from('Nome;Descrição\r\n"FIDC Alfa";"Crédito; estruturado"\r\n','latin1');
@@ -126,4 +128,29 @@ test('sinaliza outlier estatístico de volume sem excluir o dado oficial',()=>{
   assert.equal(dataset.markets.FIAGRO.analytics.dataQuality.outlierCount,1);
   assert.equal(dataset.markets.FIAGRO.analytics.dataQuality.outliers[0].volume,1000000);
   assert.equal(dataset.markets.FIAGRO.analytics.volumeInMonth,1000300);
+});
+
+
+test('índices Radar usam escala 0-100 e não confundem oferta registrada com captação',()=>{
+  assert.equal(percentileRank(3,[1,2,3,4]),62.5);
+  const items=[];
+  for(let m=1;m<=8;m++)items.push({id:String(m),name:'FIDC '+m,cnpj:'11.111.111/0001-'+String(m).padStart(2,'0'),leader:'BANCO '+(m%3),leaderCnpj:'22.222.222/0001-0'+(m%3),date:`2026-${String(m).padStart(2,'0')}-15`,volume:m*100,audience:'Profissional'});
+  const idx=computeMarketIndices(items,null,'2026-08');
+  assert(idx.offerPressure.score>=0&&idx.offerPressure.score<=100);
+  assert(idx.concentration.score>=0&&idx.concentration.score<=100);
+  assert.equal(idx.funding.score,null);
+  assert.match(idx.methodology,/Volume registrado não equivale a captação efetiva/);
+});
+
+test('carta mensal usa o último mês fechado e cria cenários anualizados',()=>{
+  assert.equal(previousFullMonth(new Date('2026-09-22T12:00:00Z')),'2026-08');
+  const mk=items=>({items,analytics:{}});
+  const fidc=[{id:'1',market:'FIDC',name:'FIDC A',cnpj:'11',leader:'BANCO A',leaderCnpj:'1',date:'2026-08-10',volume:100},{id:'2',market:'FIDC',name:'FIDC B',cnpj:'12',leader:'BANCO B',leaderCnpj:'2',date:'2026-07-10',volume:50}];
+  const dataset={markets:{FIDC:mk(fidc),FIAGRO:mk([]),FII:mk([])},allItems:fidc};
+  const letter=buildMonthlyLetter(dataset,null,null,[],{month:'2026-08',market:'FIDC'});
+  assert.equal(letter.verticals.FIDC.current.offers,1);
+  assert.equal(letter.verticals.FIDC.current.registeredVolume,100);
+  assert.equal(letter.aggregate.current.offers,1);
+  assert(letter.verticals.FIDC.indices.projection.scenarios.length===3);
+  assert.match(letter.houseView.principles[0],/não captação efetiva/);
 });

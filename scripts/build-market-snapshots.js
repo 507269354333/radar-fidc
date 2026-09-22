@@ -4,6 +4,8 @@ import {fetchBcbDataset} from '../lib/bcb-data.js';
 import {fetchAnbimaIndicators} from '../lib/anbima-data.js';
 import {fetchCvmNews} from '../api/news.js';
 import {buildWeeklyReport} from '../lib/weekly.js';
+import {computeRadarIndices} from '../lib/indices.js';
+import {buildMonthlyLetter,previousFullMonth} from '../lib/monthly.js';
 
 const [cvm,bcbResult,anbimaResult,newsResult]=await Promise.all([
   fetchCvmMarketsDataset(),
@@ -26,4 +28,10 @@ for(const market of [...MARKETS,'ALL']){
   const payload={...report,sources:{cvm:{name:cvm.source,url:cvm.sourceUrl,updatedAt:cvm.sourceUpdatedAt},bcb:bcbResult?{name:bcbResult.source,url:bcbResult.sourceUrl,updatedAt:bcbResult.updatedAt}:null,anbima:anbimaResult?{name:anbimaResult.source,url:anbimaResult.sourceUrl,updatedAt:anbimaResult.sourceUpdatedAt}:null},macro:bcbResult?.series||null,anbima:anbimaResult?.indicators||null,regulatoryHighlights:(newsResult||[]).slice(0,8),marketComparison};
   await writeFile(`data/weekly-${market}.json`,pretty(payload));
 }
-console.log('Snapshots oficiais atualizados:',new Date().toISOString());
+const indexMonth=previousFullMonth(new Date());
+await writeFile('data/indices.json',pretty(computeRadarIndices(cvm,bcbResult,indexMonth)));
+for(const market of [...MARKETS,'ALL']){
+  const monthly=buildMonthlyLetter(cvm,bcbResult,anbimaResult,newsResult,{month:indexMonth,market});
+  await writeFile(`data/monthly-${indexMonth}-${market}.json`,pretty(monthly));
+}
+console.log('Snapshots oficiais atualizados:',new Date().toISOString(), 'mês mensal:',indexMonth);
