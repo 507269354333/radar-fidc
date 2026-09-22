@@ -2,7 +2,7 @@
 
 Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Versão 9 — Intelligence Layer
+## Versão 9.1 — Intelligence + Index Education
 
 - **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
 - **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
@@ -16,6 +16,8 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - **Teses testáveis:** toda tese publica evidência, mecanismo econômico, horizonte, variáveis que confirmam e critérios que invalidam a leitura.
 - **Regulatory Intelligence:** o Radar descreve primeiro o fato observado na fonte oficial e separa a interpretação operacional, sem atribuir intenção ao regulador.
 - **Consistência multicanal:** a mesma inteligência alimenta homepage, relatório semanal, Carta Mensal e a página dedicada.
+- **Educação dos índices:** IROP, IRBD, IRCC, IRFC e IRPM publicam pergunta respondida, definição, base técnica, evidência empírica, fórmula quantitativa, camada qualitativa, leitura do score atual e limitações.
+- **Governança metodológica:** score quantitativo e interpretação qualitativa permanecem separados; os índices são proprietários, não oficiais e estão em validação histórica contínua.
 
 ## Rotas
 

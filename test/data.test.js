@@ -6,7 +6,7 @@ import {fetchBcbDataset} from '../lib/bcb-data.js';
 import {isRelevantTitle} from '../api/news.js';
 import {previousFullWeek,buildWeeklyReport} from '../lib/weekly.js';
 import {parseAnbimaIndicators} from '../lib/anbima-data.js';
-import {percentileRank,computeMarketIndices} from '../lib/indices.js';
+import {percentileRank,computeMarketIndices,computeRadarIndices,RADAR_INDEX_GUIDE,RADAR_METHODOLOGICAL_FOUNDATION,explainRadarIndex} from '../lib/indices.js';
 import {previousFullMonth,buildMonthlyLetter} from '../lib/monthly.js';
 import {buildMarketIntelligence} from '../lib/intelligence.js';
 
@@ -197,4 +197,27 @@ test('inteligência Radar publica tese com evidência, confirmação e invalida�
   assert(intel.theses.every(t=>t.evidence.length&&t.confirms.length&&t.invalidates.length));
   assert.equal(intel.regulatory[0].theme,'Ofertas & distribuição');
   assert.match(intel.methodology,/critérios de confirmação\/invalidação/);
+});
+
+
+test('índices Radar publicam ficha educativa e separam score quantitativo de interpretação qualitativa',()=>{
+  assert.deepEqual(Object.keys(RADAR_INDEX_GUIDE),['IROP','IRBD','IRCC','IRFC','IRPM']);
+  const e=explainRadarIndex('IROP',66);
+  assert.equal(e.band,'faixa intermediária');
+  assert.match(e.currentReading,/66\/100/);
+  assert.match(RADAR_METHODOLOGICAL_FOUNDATION.quantitative,/regras matemáticas/);
+  assert.match(RADAR_METHODOLOGICAL_FOUNDATION.qualitative,/posterior e separada/);
+  assert.match(RADAR_METHODOLOGICAL_FOUNDATION.caveat,/não oficiais/);
+});
+
+test('dataset de índices entrega educação em cada score e guia metodológico no topo',()=>{
+  const mk=items=>({items,analytics:{}});
+  const make=(market,prefix)=>Array.from({length:12},(_,i)=>({id:prefix+i,market,name:market+' '+i,cnpj:prefix+i,leader:'BANCO '+(i%4),leaderCnpj:String(i%4),date:`2025-${String(i+1).padStart(2,'0')}-15`,volume:(i+1)*100}));
+  const fidc=make('FIDC','f'),fiagro=make('FIAGRO','a'),fii=make('FII','i');
+  const dataset={markets:{FIDC:mk(fidc),FIAGRO:mk(fiagro),FII:mk(fii)},allItems:[...fidc,...fiagro,...fii]};
+  const data=computeRadarIndices(dataset,null,'2025-12');
+  assert.equal(data.guide.IROP.code,'IROP');
+  assert.equal(data.markets.FIDC.offerPressure.education.code,'IROP');
+  assert.equal(data.markets.ALL.concentration.education.code,'IRCC');
+  assert.equal(data.foundation.version,'1.0');
 });
