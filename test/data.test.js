@@ -112,3 +112,9 @@ test('dataset multivertical mantém mercados separados e FIAGRO prevalece no his
   assert.equal(dataset.overall.count,4);
   assert.equal(dataset.markets.FIAGRO.analytics.volumeInMonth,250);
 });
+
+
+test('não trata vasos comunicantes como documento ou publicação',()=>{
+  const dataset=buildCvmMarketsDataset([{origin:'resolucao160',row:{Numero_Requerimento:'x1',Valor_Mobiliario:'Cotas de FII',Nome_Emissor:'FII TESTE',Data_Registro:'2026-09-20',Valor_Total_Registrado:'10',Oferta_vasos_comunicantes:'S'}}],null);
+  assert.equal(dataset.markets.FII.items[0].publications.length,0);
+});
