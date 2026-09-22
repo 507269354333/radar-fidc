@@ -2,7 +2,7 @@
 
 Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Versão 10 — Cockpit + Macro Tape
+## Versão 10.1 — Cockpit + carregamento progressivo
 
 - **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
 - **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
