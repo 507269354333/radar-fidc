@@ -1,0 +1,964 @@
+{
+  "month": "2026-08",
+  "generatedAt": "2026-09-22T04:14:15.653Z",
+  "brief": {
+    "headline": "Oferta primária forte encontra funding ainda seletivo.",
+    "summary": "O Radar lê a competência 2026-08 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
+    "watch": [
+      "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
+      "IRFC abaixo de 50 indica que o ambiente de funding ainda exige seletividade na interpretação de um pipeline forte.",
+      "Cenários anualizados são faixas de ritmo. O Radar revisa a leitura quando novas competências, dados macro ou atos regulatórios contradizem a tese."
+    ]
+  },
+  "directions": [
+    {
+      "market": "FIDC",
+      "headline": "Mercado em leitura intermediária",
+      "statement": "Oferta primária e funding precisam ser lidos em conjunto antes de inferir expansão ou retração.",
+      "scores": {
+        "IROP": 49.479166666666664,
+        "IRBD": 60.41666666666666,
+        "IRCC": 4.410424589453961,
+        "IRFC": 44.57352941176471,
+        "IRPM": 48.00747549019608
+      },
+      "bands": {
+        "offer": "intermediário",
+        "funding": "intermediário",
+        "pulse": "intermediário",
+        "concentration": "baixo"
+      }
+    },
+    {
+      "market": "FIAGRO",
+      "headline": "Pipeline forte, capital ainda seletivo",
+      "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+      "scores": {
+        "IROP": 77.29166666666667,
+        "IRBD": 79.16666666666667,
+        "IRCC": 26.12319393137262,
+        "IRFC": 44.57352941176471,
+        "IRPM": 67.47622549019607
+      },
+      "bands": {
+        "offer": "alto",
+        "funding": "intermediário",
+        "pulse": "alto",
+        "concentration": "baixo"
+      }
+    },
+    {
+      "market": "FII",
+      "headline": "Pipeline forte, capital ainda seletivo",
+      "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+      "scores": {
+        "IROP": 70.83333333333334,
+        "IRBD": 70.83333333333334,
+        "IRCC": 16.16447381956457,
+        "IRFC": 44.57352941176471,
+        "IRPM": 62.95539215686275
+      },
+      "bands": {
+        "offer": "alto",
+        "funding": "intermediário",
+        "pulse": "intermediário",
+        "concentration": "baixo"
+      }
+    }
+  ],
+  "theses": [
+    {
+      "id": "capital-competition",
+      "title": "Mais ofertas competindo por capital seletivo",
+      "statement": "O pipeline primário está relativamente forte, mas o ambiente de funding não acompanha na mesma intensidade. A leitura Radar é de maior competição por atenção e capital, não de excesso comprovado de recursos.",
+      "evidence": [
+        {
+          "label": "IROP agregado",
+          "value": 65.86805555555556,
+          "source": "Metodologia Radar / CVM"
+        },
+        {
+          "label": "IRFC",
+          "value": 44.57352941176471,
+          "source": "Metodologia Radar / BCB"
+        },
+        {
+          "label": "IRBD",
+          "value": 70.13888888888889,
+          "source": "Metodologia Radar / CVM"
+        },
+        {
+          "label": "IRCC",
+          "value": 15.566030780130383,
+          "source": "Metodologia Radar / CVM"
+        }
+      ],
+      "evidenceLevel": "ampla",
+      "mechanism": [
+        "mais ofertas registradas",
+        "disputa por distribuição e alocação",
+        "maior importância de preço, estrutura e diferenciação",
+        "absorção final depende de funding e demanda efetiva"
+      ],
+      "confirms": [
+        "IROP e IRBD permanecem elevados por mais de uma competência",
+        "IRFC melhora sem deterioração relevante de crédito",
+        "volume distribuído/captado confirma o volume registrado quando essa informação estiver disponível"
+      ],
+      "invalidates": [
+        "queda persistente do IROP",
+        "aumento de concentração com retração de emissores",
+        "piora adicional do funding acompanhada de redução do pipeline"
+      ],
+      "horizon": "3–12 meses"
+    },
+    {
+      "id": "leading-vertical",
+      "title": "FIAGRO lidera a pressão relativa de oferta",
+      "statement": "Na competência 2026-08, FIAGRO apresenta o maior IROP entre as três verticais. Isso mede intensidade relativa do pipeline na própria história do segmento; não significa maior retorno, melhor qualidade ou captação garantida.",
+      "evidence": [
+        {
+          "label": "IROP FIAGRO",
+          "value": 77.29166666666667,
+          "source": "Metodologia Radar / CVM"
+        },
+        {
+          "label": "IRBD FIAGRO",
+          "value": 79.16666666666667,
+          "source": "Metodologia Radar / CVM"
+        },
+        {
+          "label": "IRPM FIAGRO",
+          "value": 67.47622549019607,
+          "source": "Metodologia Radar / CVM + BCB"
+        },
+        {
+          "label": "IRFC comum",
+          "value": 44.57352941176471,
+          "source": "Metodologia Radar / BCB"
+        }
+      ],
+      "evidenceLevel": "ampla",
+      "mechanism": [
+        "pipeline mais intenso na vertical",
+        "maior número/volume relativo de operações",
+        "mais necessidade de comparar estruturas e participantes",
+        "funding restritivo pode aumentar seletividade"
+      ],
+      "confirms": [
+        "IROP de FIAGRO permanece acima das demais verticais",
+        "breadth acompanha o aumento de oferta",
+        "novas competências mantêm atividade sem depender de poucos coordenadores"
+      ],
+      "invalidates": [
+        "reversão do IROP na competência seguinte",
+        "crescimento concentrado em poucos registros ou outliers",
+        "queda relevante do breadth"
+      ],
+      "horizon": "1–6 meses"
+    },
+    {
+      "id": "real-estate-transmission",
+      "title": "Oferta de FII não é sinônimo de inflação imobiliária",
+      "statement": "Maior volume de ofertas de FII aumenta a capacidade potencial de formação de capital. O efeito sobre preços de imóveis depende de quanto é efetivamente distribuído, de onde o capital será alocado e de variáveis como juros, crédito, renda, vacância, estoque e desenvolvimento.",
+      "evidence": [
+        {
+          "label": "IROP FII",
+          "value": 70.83333333333334,
+          "source": "Metodologia Radar / CVM"
+        },
+        {
+          "label": "IRFC",
+          "value": 44.57352941176471,
+          "source": "Metodologia Radar / BCB"
+        },
+        {
+          "label": "IRCC FII",
+          "value": 16.16447381956457,
+          "source": "Metodologia Radar / CVM"
+        },
+        {
+          "label": "Cenário base anual",
+          "value": 50256131414.549995,
+          "source": "Cenário Radar"
+        }
+      ],
+      "evidenceLevel": "ampla",
+      "mechanism": [
+        "oferta registrada",
+        "capital efetivamente distribuído",
+        "aquisição/desenvolvimento/desalavancagem",
+        "competição por ativos ou aumento de oferta física",
+        "efeito final depende de fundamentos imobiliários e macro"
+      ],
+      "confirms": [
+        "captação efetiva acompanha registros",
+        "aquisições e desenvolvimento aceleram",
+        "cap rates, vacância, aluguel e crédito confirmam pressão no mesmo sentido"
+      ],
+      "invalidates": [
+        "baixa distribuição das ofertas",
+        "capital direcionado majoritariamente a desalavancagem",
+        "aumento de oferta física/vacância neutraliza pressão de demanda"
+      ],
+      "horizon": "6–24 meses"
+    }
+  ],
+  "scenarios": [
+    {
+      "market": "FIDC",
+      "current": {
+        "IROP": 49.479166666666664,
+        "IRPM": 48.00747549019608,
+        "IRFC": 44.57352941176471
+      },
+      "scenarios": [
+        {
+          "label": "Conservador",
+          "volume": 31531917666.760006,
+          "offers": 454
+        },
+        {
+          "label": "Base",
+          "volume": 36672458283.72,
+          "offers": 509
+        },
+        {
+          "label": "Expansão",
+          "volume": 48570035941.05,
+          "offers": 678
+        }
+      ],
+      "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+    },
+    {
+      "market": "FIAGRO",
+      "current": {
+        "IROP": 77.29166666666667,
+        "IRPM": 67.47622549019607,
+        "IRFC": 44.57352941176471
+      },
+      "scenarios": [
+        {
+          "label": "Conservador",
+          "volume": 4220599757.1899996,
+          "offers": 36
+        },
+        {
+          "label": "Base",
+          "volume": 5373395757.19,
+          "offers": 46
+        },
+        {
+          "label": "Expansão",
+          "volume": 6563349757.19,
+          "offers": 51
+        }
+      ],
+      "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+    },
+    {
+      "market": "FII",
+      "current": {
+        "IROP": 70.83333333333334,
+        "IRPM": 62.95539215686275,
+        "IRFC": 44.57352941176471
+      },
+      "scenarios": [
+        {
+          "label": "Conservador",
+          "volume": 41970832224.649994,
+          "offers": 140
+        },
+        {
+          "label": "Base",
+          "volume": 50256131414.549995,
+          "offers": 156
+        },
+        {
+          "label": "Expansão",
+          "volume": 72298967913.34999,
+          "offers": 200
+        }
+      ],
+      "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+    }
+  ],
+  "regulatory": [
+    {
+      "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
+      "source": "CVM",
+      "theme": "Supervisão de mercado",
+      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
+    },
+    {
+      "title": "CVM participa de debates sobre caminhos da tokenização de ativos mobiliários no País",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-debates-sobre-caminhos-da-tokenizacao-de-ativos-mobiliarios-no-pais",
+      "source": "CVM",
+      "theme": "Supervisão de mercado",
+      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
+    },
+    {
+      "title": "Confira o Ofício Circular Anual da SRE sobre ofertas públicas",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas",
+      "source": "CVM",
+      "theme": "Ofertas & distribuição",
+      "what": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
+      "implication": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título."
+    },
+    {
+      "title": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
+      "source": "CVM",
+      "theme": "Fundos & governança",
+      "what": "O título se relaciona ao regime de fundos, suas classes, prestadores ou obrigações.",
+      "implication": "Conferir escopo, vigência e participantes alcançados antes de ajustar governança, documentos ou rotinas."
+    },
+    {
+      "title": "Área técnica da CVM esclarece orientações para coordenadores de ofertas públicas",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-esclarece-orientacoes-para-coordenadores-de-ofertas-publicas",
+      "source": "CVM",
+      "theme": "Ofertas & distribuição",
+      "what": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
+      "implication": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título."
+    },
+    {
+      "title": "CVM debate tokenização de ativos no Brasil",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
+      "source": "CVM",
+      "theme": "Supervisão de mercado",
+      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
+    },
+    {
+      "title": "Revertida suspensão de oferta pública de distribuição de cotas do NTZ Empreendimentos FIDC Multicarteira Resp Limitada",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-de-oferta-publica-de-distribuicao-de-cotas-do-ntz-empreendimentos-fidc-multicarteira-resp-limitada",
+      "source": "CVM",
+      "theme": "Ofertas & distribuição",
+      "what": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
+      "implication": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título."
+    },
+    {
+      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
+      "source": "CVM",
+      "theme": "Supervisão de mercado",
+      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
+    }
+  ],
+  "stakeholderDesk": [
+    {
+      "role": "Coordenador / Distribuidor",
+      "question": "A oferta está entrando em uma janela com muita competição por capital?",
+      "radar": [
+        "Comparar IROP e IRBD com o pipeline próprio",
+        "Monitorar concentração de coordenadores e novas ofertas concorrentes",
+        "Conferir rito, documentação e orientações SRE/CVM antes do protocolo"
+      ],
+      "signal": "monitoramento regular"
+    },
+    {
+      "role": "Gestor",
+      "question": "O capital potencial do mercado está crescendo mais rápido que a capacidade de alocação?",
+      "radar": [
+        "Cruzar oferta primária com funding e condições do ativo subjacente",
+        "Separar volume registrado de capital efetivamente distribuído",
+        "Acompanhar cenários por vertical e variáveis que confirmam a tese"
+      ],
+      "signal": "pipeline intermediário/baixo"
+    },
+    {
+      "role": "Administrador / Prestadores",
+      "question": "O processo e os dados suportam aumento de atividade sem elevar risco operacional?",
+      "radar": [
+        "Acompanhar atos da CVM/ANBIMA relacionados à vertical",
+        "Reforçar consistência de cadastro, documentos e eventos da oferta",
+        "Usar alertas de mudanças regulatórias como gatilho de revisão, não como conclusão automática"
+      ],
+      "signal": "foco em qualidade e aderência"
+    },
+    {
+      "role": "Emissor / Originador",
+      "question": "Existe espaço de mercado para uma nova operação sem depender de premissas otimistas?",
+      "radar": [
+        "Comparar volume/ticket da operação com histórico e concorrentes",
+        "Observar funding e concentração de participantes",
+        "Testar cenários conservador, base e expansão antes de extrapolar demanda"
+      ],
+      "signal": "funding mais seletivo"
+    },
+    {
+      "role": "Profissional de mercado",
+      "question": "O que mudou desde a última leitura?",
+      "radar": [
+        "Começar pelo briefing Radar",
+        "Abrir teses com evidências e critérios de invalidação",
+        "Ir da interpretação para a fonte oficial quando o tema afetar uma operação real"
+      ],
+      "signal": "consumo diário"
+    }
+  ],
+  "marketContext": {
+    "anbima": [
+      {
+        "label": "Estimativa Selic",
+        "value": 13.65,
+        "unit": "% a.a.",
+        "date": "21/09/2026",
+        "source": "ANBIMA"
+      },
+      {
+        "label": "DI-B3",
+        "value": 13.65,
+        "unit": "% a.a.",
+        "date": "21/09/2026",
+        "source": "ANBIMA"
+      },
+      {
+        "label": "IPCA projetado",
+        "value": 0.56,
+        "unit": "%",
+        "date": "",
+        "source": "ANBIMA"
+      },
+      {
+        "label": "Dólar venda",
+        "value": 5.1117,
+        "unit": "R$/US$",
+        "date": "21/09/2026",
+        "source": "ANBIMA"
+      }
+    ],
+    "bcb": [
+      {
+        "label": "Selic",
+        "value": 13.65,
+        "unit": "%",
+        "date": "2026-09-21",
+        "source": "BCB / SGS"
+      },
+      {
+        "label": "Spread PJ",
+        "value": 4.8,
+        "unit": "p.p.",
+        "date": "2026-07-01",
+        "source": "BCB / SGS"
+      },
+      {
+        "label": "Inadimplência PJ",
+        "value": 3.31,
+        "unit": "%",
+        "date": "2026-07-01",
+        "source": "BCB / SGS"
+      },
+      {
+        "label": "Saldo de crédito PJ",
+        "value": 2731513,
+        "unit": "R$ milhões",
+        "date": "2026-07-01",
+        "source": "BCB / SGS"
+      }
+    ]
+  },
+  "indices": {
+    "month": "2026-08",
+    "markets": {
+      "FIDC": {
+        "month": "2026-08",
+        "dataQuality": {
+          "medianPositiveVolume": 24000000,
+          "threshold": 2400000000,
+          "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
+          "outliers": [],
+          "outlierCount": 0
+        },
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "score": 49.479166666666664,
+          "components": {
+            "volume": 45.83333333333333,
+            "quantity": 45.83333333333333,
+            "breadth": 60.41666666666666
+          },
+          "interpretation": "intermediária"
+        },
+        "breadth": {
+          "code": "IRBD",
+          "name": "Índice Radar de Breadth",
+          "score": 60.41666666666666,
+          "interpretation": "mediana"
+        },
+        "concentration": {
+          "code": "IRCC",
+          "name": "Índice Radar de Concentração",
+          "score": 4.410424589453961,
+          "countHHI": 2.549342105263158,
+          "volumeHHI": 6.271507073644764,
+          "interpretation": "baixa"
+        },
+        "funding": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "score": 44.57352941176471,
+          "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.9,
+              "date": "2026-08-31",
+              "score": 50,
+              "weight": 0.3
+            },
+            {
+              "key": "spreadPJ",
+              "label": "Spread PJ",
+              "value": 4.8,
+              "date": "2026-07-01",
+              "score": 67.5,
+              "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.31,
+              "date": "2026-07-01",
+              "score": 2.5,
+              "weight": 0.2
+            },
+            {
+              "key": "credito3m",
+              "label": "Crescimento 3m do saldo PJ",
+              "value": 1.7172879838623478,
+              "date": "2026-07-01",
+              "score": 44.11764705882353,
+              "weight": 0.2
+            }
+          ],
+          "asOf": "2026-08-31",
+          "interpretation": "neutras/medianas"
+        },
+        "pulse": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado",
+          "score": 48.00747549019608,
+          "interpretation": "equilibrado"
+        },
+        "projection": {
+          "year": 2026,
+          "actualThrough": "2026-08",
+          "officialActualVolume": 31923244659.100006,
+          "adjustedActualVolume": 26423244659.100006,
+          "actualOffers": 379,
+          "remainingMonths": 4,
+          "scenarios": [
+            {
+              "label": "Conservador",
+              "volume": 31531917666.760006,
+              "offers": 454,
+              "monthlyVolumeAssumption": 1277168251.915,
+              "monthlyOfferAssumption": 18.75
+            },
+            {
+              "label": "Base",
+              "volume": 36672458283.72,
+              "offers": 509,
+              "monthlyVolumeAssumption": 2562303406.1549997,
+              "monthlyOfferAssumption": 32.5
+            },
+            {
+              "label": "Expansão",
+              "volume": 48570035941.05,
+              "offers": 678,
+              "monthlyVolumeAssumption": 5536697820.487499,
+              "monthlyOfferAssumption": 74.75
+            }
+          ],
+          "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+        },
+        "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
+      },
+      "FIAGRO": {
+        "month": "2026-08",
+        "dataQuality": {
+          "medianPositiveVolume": 74600130.21,
+          "threshold": 7460013020.999999,
+          "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
+          "outliers": [
+            {
+              "id": "f28399b31bc4c68a",
+              "name": "FIAGRO BTG PACTUAL I RESPONSABILIDADE LIMITADA",
+              "volume": 250000000000,
+              "date": "2026-08-28",
+              "leader": "BTG PACTUAL INVESTMENT BANKING LTDA."
+            }
+          ],
+          "outlierCount": 1
+        },
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "score": 77.29166666666667,
+          "components": {
+            "volume": 70.83333333333334,
+            "quantity": 83.33333333333334,
+            "breadth": 79.16666666666667
+          },
+          "interpretation": "forte"
+        },
+        "breadth": {
+          "code": "IRBD",
+          "name": "Índice Radar de Breadth",
+          "score": 79.16666666666667,
+          "interpretation": "ampla"
+        },
+        "concentration": {
+          "code": "IRCC",
+          "name": "Índice Radar de Concentração",
+          "score": 26.12319393137262,
+          "countHHI": 2.7777777777777817,
+          "volumeHHI": 49.46861008496746,
+          "interpretation": "baixa"
+        },
+        "funding": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "score": 44.57352941176471,
+          "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.9,
+              "date": "2026-08-31",
+              "score": 50,
+              "weight": 0.3
+            },
+            {
+              "key": "spreadPJ",
+              "label": "Spread PJ",
+              "value": 4.8,
+              "date": "2026-07-01",
+              "score": 67.5,
+              "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.31,
+              "date": "2026-07-01",
+              "score": 2.5,
+              "weight": 0.2
+            },
+            {
+              "key": "credito3m",
+              "label": "Crescimento 3m do saldo PJ",
+              "value": 1.7172879838623478,
+              "date": "2026-07-01",
+              "score": 44.11764705882353,
+              "weight": 0.2
+            }
+          ],
+          "asOf": "2026-08-31",
+          "interpretation": "neutras/medianas"
+        },
+        "pulse": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado",
+          "score": 67.47622549019607,
+          "interpretation": "expansivo"
+        },
+        "projection": {
+          "year": 2026,
+          "actualThrough": "2026-08",
+          "officialActualVolume": 254085599757.19,
+          "adjustedActualVolume": 4085599757.1899996,
+          "actualOffers": 30,
+          "remainingMonths": 4,
+          "scenarios": [
+            {
+              "label": "Conservador",
+              "volume": 4220599757.1899996,
+              "offers": 36,
+              "monthlyVolumeAssumption": 33750000,
+              "monthlyOfferAssumption": 1.5
+            },
+            {
+              "label": "Base",
+              "volume": 5373395757.19,
+              "offers": 46,
+              "monthlyVolumeAssumption": 321949000,
+              "monthlyOfferAssumption": 4
+            },
+            {
+              "label": "Expansão",
+              "volume": 6563349757.19,
+              "offers": 51,
+              "monthlyVolumeAssumption": 619437500,
+              "monthlyOfferAssumption": 5.25
+            }
+          ],
+          "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+        },
+        "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
+      },
+      "FII": {
+        "month": "2026-08",
+        "dataQuality": {
+          "medianPositiveVolume": 120000000,
+          "threshold": 12000000000,
+          "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
+          "outliers": [],
+          "outlierCount": 0
+        },
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "score": 70.83333333333334,
+          "components": {
+            "volume": 70.83333333333334,
+            "quantity": 70.83333333333334,
+            "breadth": 70.83333333333334
+          },
+          "interpretation": "forte"
+        },
+        "breadth": {
+          "code": "IRBD",
+          "name": "Índice Radar de Breadth",
+          "score": 70.83333333333334,
+          "interpretation": "ampla"
+        },
+        "concentration": {
+          "code": "IRCC",
+          "name": "Índice Radar de Concentração",
+          "score": 16.16447381956457,
+          "countHHI": 4.545454545454549,
+          "volumeHHI": 27.78349309367459,
+          "interpretation": "baixa"
+        },
+        "funding": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "score": 44.57352941176471,
+          "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.9,
+              "date": "2026-08-31",
+              "score": 50,
+              "weight": 0.3
+            },
+            {
+              "key": "spreadPJ",
+              "label": "Spread PJ",
+              "value": 4.8,
+              "date": "2026-07-01",
+              "score": 67.5,
+              "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.31,
+              "date": "2026-07-01",
+              "score": 2.5,
+              "weight": 0.2
+            },
+            {
+              "key": "credito3m",
+              "label": "Crescimento 3m do saldo PJ",
+              "value": 1.7172879838623478,
+              "date": "2026-07-01",
+              "score": 44.11764705882353,
+              "weight": 0.2
+            }
+          ],
+          "asOf": "2026-08-31",
+          "interpretation": "neutras/medianas"
+        },
+        "pulse": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado",
+          "score": 62.95539215686275,
+          "interpretation": "equilibrado"
+        },
+        "projection": {
+          "year": 2026,
+          "actualThrough": "2026-08",
+          "officialActualVolume": 38216963911.689995,
+          "adjustedActualVolume": 38216963911.689995,
+          "actualOffers": 116,
+          "remainingMonths": 4,
+          "scenarios": [
+            {
+              "label": "Conservador",
+              "volume": 41970832224.649994,
+              "offers": 140,
+              "monthlyVolumeAssumption": 938467078.24,
+              "monthlyOfferAssumption": 6
+            },
+            {
+              "label": "Base",
+              "volume": 50256131414.549995,
+              "offers": 156,
+              "monthlyVolumeAssumption": 3009791875.715,
+              "monthlyOfferAssumption": 10
+            },
+            {
+              "label": "Expansão",
+              "volume": 72298967913.34999,
+              "offers": 200,
+              "monthlyVolumeAssumption": 8520501000.414999,
+              "monthlyOfferAssumption": 21
+            }
+          ],
+          "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+        },
+        "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
+      },
+      "ALL": {
+        "month": "2026-08",
+        "dataQuality": {
+          "rule": "Outliers são avaliados dentro de cada vertical; o agregado herda a união dos outliers FIDC/FIAGRO/FII.",
+          "outliers": [
+            {
+              "id": "f28399b31bc4c68a",
+              "name": "FIAGRO BTG PACTUAL I RESPONSABILIDADE LIMITADA",
+              "volume": 250000000000,
+              "date": "2026-08-28",
+              "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+              "market": "FIAGRO"
+            }
+          ],
+          "outlierCount": 1
+        },
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária - 3 mercados",
+          "score": 65.86805555555556,
+          "components": {
+            "volume": 62.5,
+            "quantity": 66.66666666666667,
+            "breadth": 70.13888888888889
+          },
+          "interpretation": "intermediária"
+        },
+        "breadth": {
+          "code": "IRBD",
+          "name": "Índice Radar de Breadth - 3 mercados",
+          "score": 70.13888888888889,
+          "interpretation": "ampla"
+        },
+        "concentration": {
+          "code": "IRCC",
+          "name": "Índice Radar de Concentração - 3 mercados",
+          "score": 15.566030780130383,
+          "interpretation": "baixa"
+        },
+        "funding": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "score": 44.57352941176471,
+          "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.9,
+              "date": "2026-08-31",
+              "score": 50,
+              "weight": 0.3
+            },
+            {
+              "key": "spreadPJ",
+              "label": "Spread PJ",
+              "value": 4.8,
+              "date": "2026-07-01",
+              "score": 67.5,
+              "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.31,
+              "date": "2026-07-01",
+              "score": 2.5,
+              "weight": 0.2
+            },
+            {
+              "key": "credito3m",
+              "label": "Crescimento 3m do saldo PJ",
+              "value": 1.7172879838623478,
+              "date": "2026-07-01",
+              "score": 44.11764705882353,
+              "weight": 0.2
+            }
+          ],
+          "asOf": "2026-08-31",
+          "interpretation": "neutras/medianas"
+        },
+        "pulse": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado - 3 mercados",
+          "score": 59.4796977124183,
+          "interpretation": "equilibrado"
+        },
+        "projection": {
+          "year": 2026,
+          "actualThrough": "2026-08",
+          "officialActualVolume": 324225808327.98004,
+          "adjustedActualVolume": 68725808327.98,
+          "actualOffers": 525,
+          "remainingMonths": 4,
+          "scenarios": [
+            {
+              "label": "Conservador",
+              "volume": 77723349648.6,
+              "offers": 630,
+              "monthlyVolumeAssumption": 2249385330.1549997,
+              "monthlyOfferAssumption": 26.25
+            },
+            {
+              "label": "Base",
+              "volume": 92301985455.45999,
+              "offers": 711,
+              "monthlyVolumeAssumption": 5894044281.87,
+              "monthlyOfferAssumption": 46.5
+            },
+            {
+              "label": "Expansão",
+              "volume": 127432353611.59,
+              "offers": 929,
+              "monthlyVolumeAssumption": 14676636320.902498,
+              "monthlyOfferAssumption": 101
+            }
+          ],
+          "method": "Soma dos cenários analíticos de FIDC, FIAGRO e FII; cada vertical aplica sua própria regra de outlier antes da agregação."
+        },
+        "methodology": "Composto de igual peso entre FIDC, FIAGRO e FII. Cada vertical calcula IROP, IRBD, IRCC e IRPM na própria distribuição histórica; o agregado é a média simples das três leituras. IRFC é comum por representar o ambiente macro de funding. Outliers são tratados somente dentro da vertical."
+      }
+    },
+    "generatedAt": "2026-09-22T04:14:15.653Z"
+  },
+  "sources": {
+    "cvm": {
+      "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
+      "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
+      "updatedAt": "2026-09-21T08:01:25.557890"
+    },
+    "bcb": {
+      "name": "Banco Central do Brasil — SGS",
+      "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
+      "updatedAt": "2026-09-22T04:14:15.633Z"
+    },
+    "anbima": {
+      "name": "ANBIMA — Quadro de Indicadores",
+      "url": "https://www.anbima.com.br/informacoes/indicadores/",
+      "updatedAt": "21/09/2026 15:01"
+    }
+  },
+  "methodology": "Inteligência Radar = dado oficial + índices proprietários + mecanismo econômico + critérios de confirmação/invalidação. A camada regulatória descreve primeiro o conteúdo observado na fonte oficial e separa a interpretação operacional do Radar. Cenários não são promessa de resultado, previsão garantida nem recomendação de investimento."
+}
