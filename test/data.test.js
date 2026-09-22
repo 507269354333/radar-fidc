@@ -171,3 +171,15 @@ test('carta mensal preserva volume oficial e isola outlier na camada analítica'
   assert.equal(letter.verticals.FIAGRO.current.outliers.length,1);
   assert.match(letter.verticals.FIAGRO.indices.methodology,/outliers/i);
 });
+
+
+test('carta mensal de uma vertical não herda o agregado dos três mercados',()=>{
+  const mk=items=>({items,analytics:{}});
+  const fidc=[{id:'f1',market:'FIDC',name:'FIDC TESTE',cnpj:'1',leader:'BANCO A',leaderCnpj:'1',date:'2026-08-10',volume:100}];
+  const fii=[{id:'i1',market:'FII',name:'FII TESTE',cnpj:'2',leader:'BANCO B',leaderCnpj:'2',date:'2026-08-10',volume:900}];
+  const dataset={markets:{FIDC:mk(fidc),FIAGRO:mk([]),FII:mk(fii)},allItems:[...fidc,...fii]};
+  const letter=buildMonthlyLetter(dataset,null,null,[],{month:'2026-08',market:'FIDC'});
+  assert.equal(letter.aggregate.current.offers,1);
+  assert.equal(letter.aggregate.current.registeredVolume,100);
+  assert.deepEqual(Object.keys(letter.verticals),['FIDC']);
+});
