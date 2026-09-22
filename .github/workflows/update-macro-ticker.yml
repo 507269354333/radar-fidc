@@ -1,0 +1,31 @@
+name: Atualizar macro tape
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 23 * * 1-5'
+
+permissions:
+  contents: write
+
+jobs:
+  macro:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-macro-ticker.js
+      - name: Publicar se houver mudança
+        run: |
+          if git diff --quiet -- data/macro-ticker.json; then
+            echo "Sem atualização."
+            exit 0
+          fi
+          git config user.name "Radar FIDC Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/macro-ticker.json
+          git commit -m "Atualizar macro tape oficial"
+          git push
