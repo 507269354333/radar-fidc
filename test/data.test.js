@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import {decodeOfficialCsv,parseCsv} from '../lib/csv.js';
 import {buildCvmDataset} from '../lib/cvm-data.js';
 import {fetchBcbDataset} from '../lib/bcb-data.js';
+import {isRelevantTitle} from '../api/news.js';
 
 test('decodifica CSV oficial Windows-1252 e campos entre aspas',()=>{
   const bytes=Buffer.from('Nome;Descrição\r\n"FIDC Alfa";"Crédito; estruturado"\r\n','latin1');
@@ -39,4 +40,13 @@ test('BCB preserva séries disponíveis quando uma falha',async()=>{
   assert.equal(dataset.partial,true);
   assert.equal(dataset.series.selic.latest.value,1.3);
   assert.match(dataset.series.spreadPJ.error,/HTTP 503/);
+});
+
+
+test('filtro de notícias mantém apenas temas aderentes ao Radar FIDC',()=>{
+  assert.equal(isRelevantTitle('CVM publica orientação sobre ofertas públicas de FIDC'),true);
+  assert.equal(isRelevantTitle('Superintendência de Registro de Valores Mobiliários - SRE divulga ofício sobre Resolução CVM 160'),true);
+  assert.equal(isRelevantTitle('Portal Dados Abertos CVM disponibiliza novo conjunto de dados nas informações sobre fundos de investimento'),false);
+  assert.equal(isRelevantTitle('Programas Financiados pelo Fundo de Amparo ao Trabalhador (FAT)'),false);
+  assert.equal(isRelevantTitle('Área técnica da CVM orienta sobre alavancagem em Fundos de Investimento Financeiro'),false);
 });
