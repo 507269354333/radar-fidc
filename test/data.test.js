@@ -154,3 +154,20 @@ test('carta mensal usa o último mês fechado e cria cenários anualizados',()=>
   assert(letter.verticals.FIDC.indices.projection.scenarios.length===3);
   assert.match(letter.houseView.principles[0],/não captação efetiva/);
 });
+
+
+test('carta mensal preserva volume oficial e isola outlier na camada analítica',()=>{
+  const mk=items=>({items,analytics:{}});
+  const fiagro=[
+    {id:'a',market:'FIAGRO',name:'FIAGRO NORMAL',cnpj:'1',leader:'BANCO A',leaderCnpj:'1',date:'2026-06-10',volume:100},
+    {id:'b',market:'FIAGRO',name:'FIAGRO NORMAL 2',cnpj:'2',leader:'BANCO B',leaderCnpj:'2',date:'2026-08-10',volume:200},
+    {id:'c',market:'FIAGRO',name:'FIAGRO OUTLIER',cnpj:'3',leader:'BANCO C',leaderCnpj:'3',date:'2026-08-11',volume:1000000}
+  ];
+  const dataset={markets:{FIDC:mk([]),FIAGRO:mk(fiagro),FII:mk([])},allItems:fiagro};
+  const letter=buildMonthlyLetter(dataset,null,null,[],{month:'2026-08',market:'FIAGRO'});
+  assert.equal(letter.verticals.FIAGRO.current.registeredVolume,1000200);
+  assert(letter.verticals.FIAGRO.current.analyticalVolume<letter.verticals.FIAGRO.current.registeredVolume);
+  assert.equal(letter.verticals.FIAGRO.previous.month,'2026-06');
+  assert.equal(letter.verticals.FIAGRO.current.outliers.length,1);
+  assert.match(letter.verticals.FIAGRO.indices.methodology,/outliers/i);
+});
