@@ -1,0 +1,4680 @@
+{
+  "market": "FIAGRO",
+  "generatedAt": "2026-09-22T13:41:07.344Z",
+  "source": {
+    "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
+    "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
+    "updatedAt": "2026-09-22T08:01:06.487390"
+  },
+  "coordinators": [
+    {
+      "key": "CNPJ:22610500000188",
+      "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "cnpj": "22.610.500/0001-88",
+      "stats12m": {
+        "offers": 8,
+        "volume": 279250000,
+        "offersWithVolume": 8,
+        "averageTicket": 34906250
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 3,
+          "volume": 17100000
+        },
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 45000000
+        },
+        {
+          "month": "2024-02",
+          "count": 3,
+          "volume": 48500000
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 49999275
+        },
+        {
+          "month": "2025-10",
+          "count": 3,
+          "volume": 150000000
+        },
+        {
+          "month": "2025-12",
+          "count": 2,
+          "volume": 44000000
+        },
+        {
+          "month": "2026-04",
+          "count": 1,
+          "volume": 77000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 3750000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 4500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "16cc9a3be2f3f435",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE II - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.669.747/0001-10",
+          "registration": "27963",
+          "processNumber": "SRE/3007/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 4500000,
+          "date": "2026-09-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "130aff39146f3a74",
+          "market": "FIAGRO",
+          "name": "CULTTIVO CREDITO AGRICOLA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
+          "cnpj": "44.302.001/0001-66",
+          "registration": "27668",
+          "processNumber": "SRE/2736/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 3750000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "d0f7bce2291b55bb",
+          "market": "FIAGRO",
+          "name": "CULTTIVO CRÉDITO AGRÍCOLA FIAGRO - DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.302.001/0001-66",
+          "registration": "25793",
+          "processNumber": "SRE/1025/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 77000000,
+          "date": "2026-04-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "e79e8d1e3e56fc42",
+          "market": "FIAGRO",
+          "name": "UP NORTH FIAGRO - DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.008.175/0001-28",
+          "registration": "23949",
+          "processNumber": "SRE/4321/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 20000000,
+          "date": "2025-12-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b499ff25c71e96df",
+          "market": "FIAGRO",
+          "name": "GRUPO AGRO FIAGRO - DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.866.936/0001-10",
+          "registration": "23711",
+          "processNumber": "SRE/4130/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 24000000,
+          "date": "2025-12-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7e21f30eeb03d491",
+          "market": "FIAGRO",
+          "name": "SICOOB PRIME FLEX FIAGRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.910.733/0001-10",
+          "registration": "22966",
+          "processNumber": "SRE/3451/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 90000000,
+          "date": "2025-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "46333c802cb0ebec",
+          "market": "FIAGRO",
+          "name": "SICOOB PRIME FLEX FIAGRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.910.733/0001-10",
+          "registration": "22967",
+          "processNumber": "SRE/3452/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 15000000,
+          "date": "2025-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ec79e188d8d998ce",
+          "market": "FIAGRO",
+          "name": "SICOOB PRIME FLEX FIAGRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.910.733/0001-10",
+          "registration": "22968",
+          "processNumber": "SRE/3453/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 45000000,
+          "date": "2025-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5adb2ef6ac1555b2",
+          "market": "FIAGRO",
+          "name": "SANTA ROSA FUNDO DE INVESTIMENTO EM CADEIAS PRODUTIVAS AGROINDUSTRIAIS - DIREITOS CREDITÓRIOS",
+          "cnpj": "58.056.955/0001-40",
+          "registration": "19089",
+          "processNumber": "SRE/0073/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 49999275,
+          "date": "2025-01-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0eeb57f434cbbc9c",
+          "market": "FIAGRO",
+          "name": "FAZENDA BELA VISTA FIAGRO FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "56.729.347/0001-24",
+          "registration": "17018",
+          "processNumber": "SRE/2495/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 50000000,
+          "date": "2024-08-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b694c984057f5c8c",
+          "market": "FIAGRO",
+          "name": "AGBI III CARBON FI NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO - PARTICIPAÇÕES VERDE",
+          "cnpj": "35.434.726/0001-17",
+          "registration": "16009",
+          "processNumber": "SRE/1611/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 300000000,
+          "date": "2024-06-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5a9c9d5fd45fc663",
+          "market": "FIAGRO",
+          "name": "CREDITARES OCTANTE CRÉDITO RURAL FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "53.147.984/0001-02",
+          "registration": "14752",
+          "processNumber": "SRE/0516/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 37500000,
+          "date": "2024-02-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "bee7214693fd1154",
+          "market": "FIAGRO",
+          "name": "CREDITARES OCTANTE CRÉDITO RURAL FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "53.147.984/0001-02",
+          "registration": "14762",
+          "processNumber": "SRE/0517/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 7500000,
+          "date": "2024-02-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "798751b36b02f890",
+          "market": "FIAGRO",
+          "name": "CREDITARES OCTANTE CRÉDITO RURAL FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "53.147.984/0001-02",
+          "registration": "14763",
+          "processNumber": "SRE/0518/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 3500000,
+          "date": "2024-02-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "3900ac3b8faf31e2",
+          "market": "FIAGRO",
+          "name": "CAETÊ FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "50.749.446/0001-91",
+          "registration": "2236",
+          "processNumber": "SRE/1401/2023",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 45000000,
+          "date": "2023-07-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f213089df050188b",
+          "market": "FIAGRO",
+          "name": "NAGRO GHIA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - DIREITOS CREDITÓRIOS",
+          "cnpj": "42.133.756/0001-59",
+          "registration": "1288",
+          "processNumber": "SRE/0577/2023",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 500000,
+          "date": "2023-04-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7a8eeaa3c11db687",
+          "market": "FIAGRO",
+          "name": "NAGRO GHIA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - DIREITOS CREDITÓRIOS",
+          "cnpj": "42.133.756/0001-59",
+          "registration": "1289",
+          "processNumber": "SRE/0578/2023",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 1600000,
+          "date": "2023-04-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ccd9b19be2e8d72e",
+          "market": "FIAGRO",
+          "name": "NAGRO GHIA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - DIREITOS CREDITÓRIOS",
+          "cnpj": "42.133.756/0001-59",
+          "registration": "1290",
+          "processNumber": "SRE/0579/2023",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 15000000,
+          "date": "2023-04-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 146,
+          "volume": 10463073198.679996
+        },
+        {
+          "market": "FIAGRO",
+          "count": 18,
+          "volume": 789849275
+        },
+        {
+          "market": "FII",
+          "count": 82,
+          "volume": 6626116774.479998
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:62232889000190",
+      "name": "BANCO DAYCOVAL S.A.",
+      "cnpj": "62.232.889/0001-90",
+      "stats12m": {
+        "offers": 7,
+        "volume": 812312400,
+        "offersWithVolume": 7,
+        "averageTicket": 116044628.57142857
+      },
+      "byMonth": [
+        {
+          "month": "2023-09",
+          "count": 1,
+          "volume": 125000000
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 30000000
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2024-02",
+          "count": 1,
+          "volume": 373000000
+        },
+        {
+          "month": "2024-03",
+          "count": 1,
+          "volume": 101000000
+        },
+        {
+          "month": "2024-06",
+          "count": 2,
+          "volume": 120500000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 18300000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 185000000
+        },
+        {
+          "month": "2025-02",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 72000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 140312400
+        },
+        {
+          "month": "2026-04",
+          "count": 1,
+          "volume": 60000000
+        },
+        {
+          "month": "2026-08",
+          "count": 2,
+          "volume": 455000000
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 85000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "1c8b1426ef1701e1",
+          "market": "FIAGRO",
+          "name": "KIJANI INOVA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.384.456/0001-00",
+          "registration": "27793",
+          "processNumber": "SRE/2848/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 40000000,
+          "date": "2026-09-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "93e11c7760e9d6f6",
+          "market": "FIAGRO",
+          "name": "ECOAGRO BRAVE FUNDO DE INVESTIMENTO NAS CADEAIS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.728.243/0001-84",
+          "registration": "27726",
+          "processNumber": "SRE/2795/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 45000000,
+          "date": "2026-09-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4f7d7c51d3dd920f",
+          "market": "FIAGRO",
+          "name": "TOAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.288.683/0001-07",
+          "registration": "27721",
+          "processNumber": "SRE/2792/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 35000000,
+          "date": "2026-08-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "e46f45db956dcfa5",
+          "market": "FIAGRO",
+          "name": "MOBIUS LM FIAGRO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.182.805/0001-10",
+          "registration": "27663",
+          "processNumber": "SRE/2737/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 420000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ae52dcdb9b663ab7",
+          "market": "FIAGRO",
+          "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
+          "cnpj": "62.919.053/0001-68",
+          "registration": "25788",
+          "processNumber": "SRE/1021/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 60000000,
+          "date": "2026-04-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "aed7ad1697cb41d5",
+          "market": "FIAGRO",
+          "name": "VALORA AGRO FEEDER FIC DE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
+          "cnpj": "64.221.570/0001-94",
+          "registration": "24930",
+          "processNumber": "SRE/0583/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 140312400,
+          "date": "2026-02-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4154f3f5d4133a40",
+          "market": "FIAGRO",
+          "name": "GOPLAN FIAGRO",
+          "cnpj": "51.550.112/0001-57",
+          "registration": "23669",
+          "processNumber": "SRE/4101/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 72000000,
+          "date": "2025-12-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "902faec0aacf1e32",
+          "market": "FIAGRO",
+          "name": "MBS AGRO FIAGRO - IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.678.342/0001-82",
+          "registration": "19400",
+          "processNumber": "SRE/0350/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 40000000,
+          "date": "2025-02-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1f695ce0bef994c5",
+          "market": "FIAGRO",
+          "name": "TRUST FEEDER FIAGRO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.182.805/0001-10",
+          "registration": "19183",
+          "processNumber": "SRE/0142/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 185000000,
+          "date": "2025-01-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0ddd71c4121433da",
+          "market": "FIAGRO",
+          "name": "THREPSI FIAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "50.860.854/0001-16",
+          "registration": "16787",
+          "processNumber": "SRE/2283/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 18300000,
+          "date": "2024-08-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "17328512c78a2e97",
+          "market": "FIAGRO",
+          "name": "BIGTRADE SUNO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO -RESPONSABILIDADE LIMITADA - FIAGRO DC",
+          "cnpj": "51.764.889/0001-14",
+          "registration": "16073",
+          "processNumber": "SRE/1675/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 20000000,
+          "date": "2024-06-12",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5bbb63cc66be19c0",
+          "market": "FIAGRO",
+          "name": "EXES TERRAS FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.635.202/0001-39",
+          "registration": "15938",
+          "processNumber": "SRE/1549/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 100500000,
+          "date": "2024-06-03",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bb2448662ef66e73",
+          "market": "FIAGRO",
+          "name": "MÖBIUS JMS FIAGRO - DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.326.875/0001-07",
+          "registration": "15046",
+          "processNumber": "SRE/0765/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 101000000,
+          "date": "2024-03-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0aab50284a366c45",
+          "market": "FIAGRO",
+          "name": "INDIGO FIAGRO - DIREITOS CREDITÓRIOS DO AGRONEGÓCIO",
+          "cnpj": "50.653.601/0001-71",
+          "registration": "14642",
+          "processNumber": "SRE/0403/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 373000000,
+          "date": "2024-02-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "91c6e435552881ae",
+          "market": "FIAGRO",
+          "name": "BIGTRADE SUNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.764.889/0001-14",
+          "registration": "4253",
+          "processNumber": "SRE/0052/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 10000000,
+          "date": "2024-01-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "dc1662f760e1becf",
+          "market": "FIAGRO",
+          "name": "EQUIPMED FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "39.338.006/0001-09",
+          "registration": "3946",
+          "processNumber": "SRE/2923/2023",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 30000000,
+          "date": "2023-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9d874e3e32e872cb",
+          "market": "FIAGRO",
+          "name": "VALORA HEDGE FUND AGRO - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "51.658.280/0001-60",
+          "registration": "2867",
+          "processNumber": "SRE/1946/2023",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 125000000,
+          "date": "2023-09-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 187,
+          "volume": 15422122056.010002
+        },
+        {
+          "market": "FIAGRO",
+          "count": 17,
+          "volume": 1815112400
+        },
+        {
+          "market": "FII",
+          "count": 43,
+          "volume": 6677424090.5
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:59281253000123",
+      "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "cnpj": "59.281.253/0001-23",
+      "stats12m": {
+        "offers": 6,
+        "volume": 925000465.44,
+        "offersWithVolume": 6,
+        "averageTicket": 154166744.24
+      },
+      "byMonth": [
+        {
+          "month": "2023-03",
+          "count": 1,
+          "volume": 60000000
+        },
+        {
+          "month": "2025-01",
+          "count": 2,
+          "volume": 500000000
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 50150000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2025-12",
+          "count": 2,
+          "volume": 470000000
+        },
+        {
+          "month": "2026-01",
+          "count": 1,
+          "volume": 20000000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 270000000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 65000465.44
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 100000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "4c1977ee81c7ac73",
+          "market": "FIAGRO",
+          "name": "G5 ALLOCATION FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO",
+          "cnpj": "68.544.688/0001-04",
+          "registration": "27602",
+          "processNumber": "SRE/2675/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 100000000,
+          "date": "2026-08-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3abc2abbb754084d",
+          "market": "FIAGRO",
+          "name": "AGROFIN MILÊNIO EQI FUNDO DE INVESTIMENTO EM COTAS DE FIAGRO",
+          "cnpj": "61.700.255/0001-51",
+          "registration": "26851",
+          "processNumber": "SRE/2004/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 65000465.44,
+          "date": "2026-06-23",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1509f38b096d7a26",
+          "market": "FIAGRO",
+          "name": "ECOAGRO DATAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RL",
+          "cnpj": "66.397.199/0001-41",
+          "registration": "26170",
+          "processNumber": "SRE/1379/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 270000000,
+          "date": "2026-05-29",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "e60b421a755e0ae6",
+          "market": "FIAGRO",
+          "name": "CERES RENDA AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESP LIMITADA",
+          "cnpj": "64.611.656/0001-23",
+          "registration": "24529",
+          "processNumber": "SRE/0275/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 20000000,
+          "date": "2026-01-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e135c0b47d815afa",
+          "market": "FIAGRO",
+          "name": "PACKEM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.932.359/0001-17",
+          "registration": "23786",
+          "processNumber": "SRE/4196/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 320000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6eef46124ba75de3",
+          "market": "FIAGRO",
+          "name": "PACKEM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.932.359/0001-17",
+          "registration": "23788",
+          "processNumber": "SRE/4194/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0016cabf1564401d",
+          "market": "FIAGRO",
+          "name": "AGROFIN MILÊNIO EQI FUNDO DE INVESTIMENTO EM COTAS DE FIAGRO",
+          "cnpj": "61.700.255/0001-51",
+          "registration": "21472",
+          "processNumber": "SRE/2191/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150000000,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d83efd24c86ddb23",
+          "market": "FIAGRO",
+          "name": "ÉXES CARAJÁ FI NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO - DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "57.076.795/0001-39",
+          "registration": "20246",
+          "processNumber": "SRE/1088/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 50150000,
+          "date": "2025-04-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cee29bc53363753d",
+          "market": "FIAGRO",
+          "name": "BTG PACTUAL CRÉDITO AGRÍCOLA BTAG II CDI FIAGRO - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.600.779/0001-66",
+          "registration": "19114",
+          "processNumber": "SRE/0091/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 250000000,
+          "date": "2025-01-10",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4b6fd66859a06e6d",
+          "market": "FIAGRO",
+          "name": "BTG PACTUAL CRÉDITO AGRÍCOLA BTAG II PRÉ FIAGRO - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.595.391/0001-14",
+          "registration": "19113",
+          "processNumber": "SRE/0090/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 250000000,
+          "date": "2025-01-10",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0038792c483dc155",
+          "market": "FIAGRO",
+          "name": "KAPITALO SÍDERO FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES MULTIESTRATÉGIA",
+          "cnpj": "49.896.537/0001-70",
+          "registration": "1205",
+          "processNumber": "SRE/0505/2023",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 60000000,
+          "date": "2023-03-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 152,
+          "volume": 27961248543.73
+        },
+        {
+          "market": "FIAGRO",
+          "count": 11,
+          "volume": 1685150465.44
+        },
+        {
+          "market": "FII",
+          "count": 172,
+          "volume": 23848968090.760002
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:28650236000192",
+      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+      "cnpj": "28.650.236/0001-92",
+      "stats12m": {
+        "offers": 6,
+        "volume": 220000186.17999998,
+        "offersWithVolume": 6,
+        "averageTicket": 36666697.696666665
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2025-12",
+          "count": 3,
+          "volume": 120000186.17999999
+        },
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 100000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "985067df394484ef",
+          "market": "FIAGRO",
+          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.119.359/0001-89",
+          "registration": "27916",
+          "processNumber": "SRE/2969/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 70000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "de4f2ed157cdc21e",
+          "market": "FIAGRO",
+          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.119.359/0001-89",
+          "registration": "27918",
+          "processNumber": "SRE/2970/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 10000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f45451bc7691f024",
+          "market": "FIAGRO",
+          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.119.359/0001-89",
+          "registration": "27921",
+          "processNumber": "SRE/2971/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 20000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c9730dc8a748834a",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.868.204/0001-69",
+          "registration": "23776",
+          "processNumber": "SRE/4181/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 6000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9048a7f224c790b7",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.868.204/0001-69",
+          "registration": "23778",
+          "processNumber": "SRE/4183/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 74600130.21,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bf771244ff4b4260",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.868.204/0001-69",
+          "registration": "23779",
+          "processNumber": "SRE/4184/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 39400055.97,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "86a5c1da04ea1a2c",
+          "market": "FIAGRO",
+          "name": "GALAPAGOS FOF INFRA FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES EM INFRAESTRUTURA",
+          "cnpj": "50.284.286/0001-52",
+          "registration": "1373",
+          "processNumber": "SRE/0656/2023",
+          "leader": "BS2 DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2023-04-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 21,
+          "volume": 1643000243.25
+        },
+        {
+          "market": "FIAGRO",
+          "count": 7,
+          "volume": 320000186.17999995
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 1105738496.75
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:04845753000159",
+      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "cnpj": "04.845.753/0001-59",
+      "stats12m": {
+        "offers": 5,
+        "volume": 594498000,
+        "offersWithVolume": 5,
+        "averageTicket": 118899600
+      },
+      "byMonth": [
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 248000000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2025-06",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 147000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 81998000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 97500000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 34000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 231000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "ed902e8babdeb22e",
+          "market": "FIAGRO",
+          "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.134.120/0001-39",
+          "registration": "27755",
+          "processNumber": "SRE/2822/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 231000000,
+          "date": "2026-09-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "fc68a647b40f6291",
+          "market": "FIAGRO",
+          "name": "BIO CANTO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.555.204/0001-22",
+          "registration": "27654",
+          "processNumber": "SRE/2723/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 34000000,
+          "date": "2026-08-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "29bb95286dcc7199",
+          "market": "FIAGRO",
+          "name": "CIBRA OCP FIAGRO DIREITOS CREDITORIOS COMERCIAIS RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.194.165/0001-61",
+          "registration": "26884",
+          "processNumber": "SRE/2032/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 97500000,
+          "date": "2026-06-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1121d0b542961d78",
+          "market": "FIAGRO",
+          "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.134.120/0001-39",
+          "registration": "25636",
+          "processNumber": "SRE/0878/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 81998000,
+          "date": "2026-03-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "600a7e0205dc97f6",
+          "market": "FIAGRO",
+          "name": "GS3 II FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.861.162/0001-71",
+          "registration": "24579",
+          "processNumber": "SRE/0322/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 150000000,
+          "date": "2026-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "306ed83566fd75b9",
+          "market": "FIAGRO",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS AGRO OPEA BIOFINANCE",
+          "cnpj": "52.908.543/0001-05",
+          "registration": "21683",
+          "processNumber": "SRE/2370/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 51000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "301fcde48f61942c",
+          "market": "FIAGRO",
+          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.291.962/0001-27",
+          "registration": "21637",
+          "processNumber": "SRE/2326/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 96000000,
+          "date": "2025-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6b099c94ea1c064f",
+          "market": "FIAGRO",
+          "name": "THEROS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.648.939/0001-99",
+          "registration": "21073",
+          "processNumber": "SRE/1833/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 300000000,
+          "date": "2025-06-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d444474fc3d12d4b",
+          "market": "FIAGRO",
+          "name": "RCL3X FIAGRO - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "42.922.157/0001-14",
+          "registration": "16718",
+          "processNumber": "SRE/2535/2024",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 40000000,
+          "date": "2024-08-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "104bb63c3c57f648",
+          "market": "FIAGRO",
+          "name": "LAVORO AGRO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS",
+          "cnpj": "55.476.342/0001-74",
+          "registration": "16697",
+          "processNumber": "SRE/2213/2024",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 248000000,
+          "date": "2024-07-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 52,
+          "volume": 16822170059
+        },
+        {
+          "market": "FIAGRO",
+          "count": 10,
+          "volume": 1329498000
+        },
+        {
+          "market": "FII",
+          "count": 18,
+          "volume": 10927659211.42
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:02332886000104",
+      "name": "XP INVESTIMENTOS CCTVM S.A.",
+      "cnpj": "02.332.886/0001-04",
+      "stats12m": {
+        "offers": 4,
+        "volume": 1197500010.2,
+        "offersWithVolume": 4,
+        "averageTicket": 299375002.55
+      },
+      "byMonth": [
+        {
+          "month": "2023-02",
+          "count": 2,
+          "volume": 872591813.69
+        },
+        {
+          "month": "2023-03",
+          "count": 2,
+          "volume": 951725510.4
+        },
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 31531250
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 215000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 510000010.2
+        },
+        {
+          "month": "2026-04",
+          "count": 2,
+          "volume": 562500000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 125000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "0d7520d43d4f7c68",
+          "market": "FIAGRO",
+          "name": "OBY FIAGRO DE TERRAS I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
+          "cnpj": "66.592.089/0001-30",
+          "registration": "26184",
+          "processNumber": "SRE/1392/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 125000000,
+          "date": "2026-05-05",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b9753b266622aa3b",
+          "market": "FIAGRO",
+          "name": "DAYCOVAL D393 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "65.344.522/0001-56",
+          "registration": "25728",
+          "processNumber": "SRE/0968/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 312500000,
+          "date": "2026-04-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2d728d3c6eb2b1b8",
+          "market": "FIAGRO",
+          "name": "DAYCOVAL D394 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "65.344.621/0001-38",
+          "registration": "25727",
+          "processNumber": "SRE/0969/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 250000000,
+          "date": "2026-04-06",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6c4a0a2c42d47fb3",
+          "market": "FIAGRO",
+          "name": "VALORA CRA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - FIAGRO",
+          "cnpj": "41.081.088/0001-09",
+          "registration": "24771",
+          "processNumber": "SRE/0512/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 510000010.2,
+          "date": "2026-02-23",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "10373f6d9d50db9e",
+          "market": "FIAGRO",
+          "name": "051 AGRO FAZENDAS IV FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO IMOBILIÁRIO",
+          "cnpj": "59.680.687/0001-04",
+          "registration": "19780",
+          "processNumber": "SRE/0719/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 215000000,
+          "date": "2025-03-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "95cedc8705da2066",
+          "market": "FIAGRO",
+          "name": "HIGH GHIA FIAGRO - IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "56.052.009/0001-09",
+          "registration": "18204",
+          "processNumber": "SRE/3558/2024",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 31531250,
+          "date": "2024-11-14",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Revogada",
+          "publications": []
+        },
+        {
+          "id": "96af72aac03d2d47",
+          "market": "FIAGRO",
+          "name": "KIJANI ASATALA FIAGRO - IMOBILIÁRIO - FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS",
+          "cnpj": "40.265.671/0001-07",
+          "registration": "1183",
+          "processNumber": "SRE/0483/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 437500000,
+          "date": "2023-03-24",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3349c4fb846e82a9",
+          "market": "FIAGRO",
+          "name": "XP CRÉDITO AGRÍCOLA-FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS IMOB.-FIAGRO-IMOB.",
+          "cnpj": "41.269.527/0001-01",
+          "registration": "1130",
+          "processNumber": "SRE/0430/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 514225510.4,
+          "date": "2023-03-22",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d9854f96295c0db3",
+          "market": "FIAGRO",
+          "name": "051 AGRO FAZENDAS III FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS",
+          "cnpj": "49.489.928/0001-70",
+          "registration": "667",
+          "processNumber": "SRE/0122/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 360000000,
+          "date": "2023-02-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3263a72d5fc0f857",
+          "market": "FIAGRO",
+          "name": "VALORA CRA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "41.081.088/0001-09",
+          "registration": "671",
+          "processNumber": "SRE/0126/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 512591813.69,
+          "date": "2023-02-08",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 81,
+          "volume": 24831140133.030003
+        },
+        {
+          "market": "FIAGRO",
+          "count": 10,
+          "volume": 3268348584.29
+        },
+        {
+          "market": "FII",
+          "count": 141,
+          "volume": 71170323026.59001
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:62285390000140",
+      "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "cnpj": "62.285.390/0001-40",
+      "stats12m": {
+        "offers": 4,
+        "volume": 791068282.63,
+        "offersWithVolume": 4,
+        "averageTicket": 197767070.6575
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 5200000
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 353150000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 61628000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 8000001.08
+        },
+        {
+          "month": "2026-01",
+          "count": 1,
+          "volume": 25000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 637773706.5
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 120294575.05
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "d844642023e0c4af",
+          "market": "FIAGRO",
+          "name": "SUNO FAZENDAS FIAGRO - IMOBILIÁRIO",
+          "cnpj": "53.313.475/0001-02",
+          "registration": "26474",
+          "processNumber": "SRE/1651/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 120294575.05,
+          "date": "2026-05-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d43d81d17e118aa5",
+          "market": "FIAGRO",
+          "name": "SUNO AGRO - FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "28.152.777/0001-90",
+          "registration": "24911",
+          "processNumber": "SRE/0574/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 637773706.5,
+          "date": "2026-02-26",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4bce6c6200685f4d",
+          "market": "FIAGRO",
+          "name": "BAVIERA PURA ORIGEM FIAGRO - DIREITOS CREDITÓRIO",
+          "cnpj": "51.707.901/0001-59",
+          "registration": "24316",
+          "processNumber": "SRE/0086/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 25000000,
+          "date": "2026-01-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "96b85121d3205af6",
+          "market": "FIAGRO",
+          "name": "AGROFORTE - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "41.520.452/0001-81",
+          "registration": "23705",
+          "processNumber": "SRE/4125/2025",
+          "leader": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 8000001.08,
+          "date": "2025-12-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f07db1a082d4b502",
+          "market": "FIAGRO",
+          "name": "SUNO FAZENDAS FIAGRO - IMOBILIÁRIO",
+          "cnpj": "53.313.475/0001-02",
+          "registration": "21614",
+          "processNumber": "SRE/2310/2025",
+          "leader": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 61628000,
+          "date": "2025-07-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8bfbae3835d82a59",
+          "market": "FIAGRO",
+          "name": "SUNO AGRO - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "28.152.777/0001-90",
+          "registration": "16776",
+          "processNumber": "SRE/2274/2024",
+          "leader": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 353150000,
+          "date": "2024-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "746fa87bbeddbe5d",
+          "market": "FIAGRO",
+          "name": "MULTITÉCNICA FIAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "53.215.017/0001-22",
+          "registration": "4013",
+          "processNumber": "SRE/2985/2023",
+          "leader": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 100000000,
+          "date": "2023-12-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5bbc07ed7c0417be",
+          "market": "FIAGRO",
+          "name": "DEMETER FUNDO DE INVESTIMENTOS NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - IMOBILIÁRIO",
+          "cnpj": "50.255.690/0001-06",
+          "registration": "1401",
+          "processNumber": "SRE/0680/2023",
+          "leader": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 5200000,
+          "date": "2023-04-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1037,
+          "volume": 56446570860.38995
+        },
+        {
+          "market": "FIAGRO",
+          "count": 8,
+          "volume": 1311046282.63
+        },
+        {
+          "market": "FII",
+          "count": 44,
+          "volume": 3932251954.89
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:59588111000103",
+      "name": "BANCO VOTORANTIM S.A.",
+      "cnpj": "59.588.111/0001-03",
+      "stats12m": {
+        "offers": 4,
+        "volume": 372652000,
+        "offersWithVolume": 4,
+        "averageTicket": 93163000
+      },
+      "byMonth": [
+        {
+          "month": "2024-02",
+          "count": 1,
+          "volume": 38183000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 89092000
+        },
+        {
+          "month": "2024-12",
+          "count": 2,
+          "volume": 200000000
+        },
+        {
+          "month": "2025-10",
+          "count": 1,
+          "volume": 112000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 63752000
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 169900000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 27000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "7d05fcba527e8b51",
+          "market": "FIAGRO",
+          "name": "GRUPO SANTA CLARA FIAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
+          "cnpj": "65.611.066/0001-63",
+          "registration": "26840",
+          "processNumber": "SRE/1994/2026",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 27000000,
+          "date": "2026-06-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "911a9c15766d9f1f",
+          "market": "FIAGRO",
+          "name": "AGRO AMAZONIA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO FIAGRO RESPONSABILIDADE LI",
+          "cnpj": "65.626.240/0001-41",
+          "registration": "25631",
+          "processNumber": "SRE/0874/2026",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 169900000,
+          "date": "2026-03-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "99d2dc8911539a99",
+          "market": "FIAGRO",
+          "name": "LABOR AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.759.311/0001-59",
+          "registration": "23722",
+          "processNumber": "SRE/4140/2025",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 63752000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a23c2e8639822dbe",
+          "market": "FIAGRO",
+          "name": "UBYFOL AGRO III FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
+          "cnpj": "37.645.417/0001-11",
+          "registration": "22974",
+          "processNumber": "SRE/3486/2025",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 112000000,
+          "date": "2025-10-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7bdbbbbc16937096",
+          "market": "FIAGRO",
+          "name": "MULTITÉCNICA FIAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "53.215.017/0001-22",
+          "registration": "18930",
+          "processNumber": "SRE/4165/2024",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 40000000,
+          "date": "2024-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "13b24eb1121ee9f1",
+          "market": "FIAGRO",
+          "name": "CIBRA FIAGRO - DIREITOS CREDITÓRIOS COMERCIAIS",
+          "cnpj": "57.933.661/0001-97",
+          "registration": "18706",
+          "processNumber": "SRE/3977/2024",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 160000000,
+          "date": "2024-12-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f96dcbbfcadd4600",
+          "market": "FIAGRO",
+          "name": "CULTTIVO OCTANTE CRÉDITO AGRÍCOLA FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "44.302.001/0001-66",
+          "registration": "16807",
+          "processNumber": "SRE/2306/2024",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 89092000,
+          "date": "2024-08-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "993d0095609b6d6e",
+          "market": "FIAGRO",
+          "name": "CULTTIVO OCTANTE CRÉDITO AGRÍCOLA FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "44.302.001/0001-66",
+          "registration": "14619",
+          "processNumber": "SRE/0388/2024",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 38183000,
+          "date": "2024-02-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 51,
+          "volume": 16080622370.97
+        },
+        {
+          "market": "FIAGRO",
+          "count": 8,
+          "volume": 699927000
+        },
+        {
+          "market": "FII",
+          "count": 3,
+          "volume": 326378000
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:46482072000113",
+      "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+      "cnpj": "46.482.072/0001-13",
+      "stats12m": {
+        "offers": 2,
+        "volume": 250000000000,
+        "offersWithVolume": 1,
+        "averageTicket": 250000000000
+      },
+      "byMonth": [
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 255750000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 250000000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 0
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "4c3200af91d57353",
+          "market": "FIAGRO",
+          "name": "FIAGRO BTG PACTUAL II RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.816.734/0001-87",
+          "registration": "27799",
+          "processNumber": "SRE/2866/2026",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 0,
+          "date": "2026-09-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "f28399b31bc4c68a",
+          "market": "FIAGRO",
+          "name": "FIAGRO BTG PACTUAL I RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.703.584/0001-03",
+          "registration": "27706",
+          "processNumber": "SRE/2779/2026",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 250000000000,
+          "date": "2026-08-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5a4563e8bc66d774",
+          "market": "FIAGRO",
+          "name": "SPARTA FIAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - IMOBILIÁRIO",
+          "cnpj": "48.903.610/0001-21",
+          "registration": "18173",
+          "processNumber": "SRE/3499/2024",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 255750000,
+          "date": "2024-11-11",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Revogada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 4,
+          "volume": 9500000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 250255750000
+        },
+        {
+          "market": "FII",
+          "count": 14,
+          "volume": 9934672048.76
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:27652684000162",
+      "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "27.652.684/0001-62",
+      "stats12m": {
+        "offers": 1,
+        "volume": 130000000,
+        "offersWithVolume": 1,
+        "averageTicket": 130000000
+      },
+      "byMonth": [
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2024-02",
+          "count": 1,
+          "volume": 17000000
+        },
+        {
+          "month": "2024-12",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2025-06",
+          "count": 2,
+          "volume": 196208000
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 130000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "4074df05ef2c28d1",
+          "market": "FIAGRO",
+          "name": "RIZA KAFE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - FIAGRO - RESP LIMITADA",
+          "cnpj": "59.535.572/0001-18",
+          "registration": "25771",
+          "processNumber": "SRE/1004/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 130000000,
+          "date": "2026-03-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "549561f82344ef56",
+          "market": "FIAGRO",
+          "name": "ATLAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - RESPONSABILIDADE LIMITA",
+          "cnpj": "61.184.625/0001-45",
+          "registration": "21133",
+          "processNumber": "SRE/1880/2025",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 100000000,
+          "date": "2025-06-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "47926e02af61db41",
+          "market": "FIAGRO",
+          "name": "PARANA I FIAGRO FIDC - FIDC NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.629.874/0001-55",
+          "registration": "21081",
+          "processNumber": "SRE/1835/2025",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 96208000,
+          "date": "2025-06-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9cc6cba78f39e46f",
+          "market": "FIAGRO",
+          "name": "VINCI MAV III - FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "58.377.489/0001-03",
+          "registration": "18691",
+          "processNumber": "SRE/3943/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 300000000,
+          "date": "2024-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e67541d14bb564dd",
+          "market": "FIAGRO",
+          "name": "MAV II FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "51.170.105/0001-20",
+          "registration": "14766",
+          "processNumber": "SRE/0524/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 17000000,
+          "date": "2024-02-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9d343929c1627052",
+          "market": "FIAGRO",
+          "name": "GENIAL AGRO BOI BRASIL FI NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - DIREITOS CREDITÓRIOS FIAGRO",
+          "cnpj": "52.856.288/0001-02",
+          "registration": "3749",
+          "processNumber": "SRE/2726/2023",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 50000000,
+          "date": "2023-11-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 25,
+          "volume": 1536049000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 6,
+          "volume": 693208000
+        },
+        {
+          "market": "FII",
+          "count": 21,
+          "volume": 2530042493.4400005
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:55440852000191",
+      "name": "KEA CAPITAL MARKETS LTDA",
+      "cnpj": "55.440.852/0001-91",
+      "stats12m": {
+        "offers": 1,
+        "volume": 124500000,
+        "offersWithVolume": 1,
+        "averageTicket": 124500000
+      },
+      "byMonth": [
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 124500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "9a77604e98fd9a10",
+          "market": "FIAGRO",
+          "name": "FIAGRO FIELD MAQUINAS I - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.728.923/0001-11",
+          "registration": "24674",
+          "processNumber": "SRE/0413/2026",
+          "leader": "KEA CAPITAL MARKETS LTDA",
+          "leaderCnpj": "55.440.852/0001-91",
+          "volume": 124500000,
+          "date": "2026-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1,
+          "volume": 105000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 124500000
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 125000000
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:00806535000154",
+      "name": "PLANNER CORRETORA DE VALORES S.A.",
+      "cnpj": "00.806.535/0001-54",
+      "stats12m": {
+        "offers": 1,
+        "volume": 100000000,
+        "offersWithVolume": 1,
+        "averageTicket": 100000000
+      },
+      "byMonth": [
+        {
+          "month": "2023-05",
+          "count": 1,
+          "volume": 80000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 2500000
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 100000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "da5ac33a93aa2746",
+          "market": "FIAGRO",
+          "name": "FORTUNE CARBON REMOVAL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO",
+          "cnpj": "63.550.475/0001-71",
+          "registration": "24179",
+          "processNumber": "SRE/4563/2025",
+          "leader": "PLANNER CORRETORA DE VALORES S.A.",
+          "leaderCnpj": "00.806.535/0001-54",
+          "volume": 100000000,
+          "date": "2025-12-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "91182affbab92aa6",
+          "market": "FIAGRO",
+          "name": "MINAS AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - FIAGRO - IMOBILIARIO - RES",
+          "cnpj": "59.693.395/0001-06",
+          "registration": "19844",
+          "processNumber": "SRE/0743/2025",
+          "leader": "PLANNER CORRETORA DE VALORES S.A.",
+          "leaderCnpj": "00.806.535/0001-54",
+          "volume": 10000000,
+          "date": "2025-03-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a2891e63a8a559d4",
+          "market": "FIAGRO",
+          "name": "DOLOMONTI FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONGÓCIO - FIAGRO - PARTICIPAÇÕES",
+          "cnpj": "58.493.223/0001-18",
+          "registration": "19168",
+          "processNumber": "SRE/0136/2025",
+          "leader": "PLANNER CORRETORA DE VALORES S.A.",
+          "leaderCnpj": "00.806.535/0001-54",
+          "volume": 2500000,
+          "date": "2025-01-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "32676ca7a3657399",
+          "market": "FIAGRO",
+          "name": "AGILE INVESTE DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "49.640.601/0001-58",
+          "registration": "1796",
+          "processNumber": "SRE/1012/2023",
+          "leader": "PLANNER CORRETORA DE VALORES SA",
+          "leaderCnpj": "00.806.535/0001-54",
+          "volume": 80000000,
+          "date": "2023-05-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 175,
+          "volume": 5129319826.01
+        },
+        {
+          "market": "FIAGRO",
+          "count": 4,
+          "volume": 192500000
+        },
+        {
+          "market": "FII",
+          "count": 36,
+          "volume": 3447211750.81
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:13486793000142",
+      "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "cnpj": "13.486.793/0001-42",
+      "stats12m": {
+        "offers": 1,
+        "volume": 47070600,
+        "offersWithVolume": 1,
+        "averageTicket": 47070600
+      },
+      "byMonth": [
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 100000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 47070600
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "200e284f93c67275",
+          "market": "FIAGRO",
+          "name": "KIJANI TERRAS GENESISAGRO FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.607.099/0001-00",
+          "registration": "26210",
+          "processNumber": "SRE/1414/2026",
+          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 47070600,
+          "date": "2026-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f77fa5f6556f306f",
+          "market": "FIAGRO",
+          "name": "SL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - NÃO PADRONIZADOS",
+          "cnpj": "41.820.379/0001-63",
+          "registration": "16417",
+          "processNumber": "SRE/1963/2024",
+          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 100000,
+          "date": "2024-07-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 170,
+          "volume": 21020365590.539997
+        },
+        {
+          "market": "FIAGRO",
+          "count": 2,
+          "volume": 47170600
+        },
+        {
+          "market": "FII",
+          "count": 145,
+          "volume": 27735636596.590004
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:13673855000125",
+      "name": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "cnpj": "13.673.855/0001-25",
+      "stats12m": {
+        "offers": 1,
+        "volume": 30000000,
+        "offersWithVolume": 1,
+        "averageTicket": 30000000
+      },
+      "byMonth": [
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 51652390.68
+        },
+        {
+          "month": "2023-10",
+          "count": 1,
+          "volume": 80000000
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 30000000
+        },
+        {
+          "month": "2025-08",
+          "count": 4,
+          "volume": 175500000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 30000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "ec50804b30b18f94",
+          "market": "FIAGRO",
+          "name": "INSUMOS MILENIO TERRAMAGNA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+          "cnpj": "43.616.501/0001-00",
+          "registration": "23761",
+          "processNumber": "SRE/4172/2025",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 30000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2c4574e4c524cb80",
+          "market": "FIAGRO",
+          "name": "AGRODINAMICA INSUMOS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+          "cnpj": "58.532.808/0001-08",
+          "registration": "21763",
+          "processNumber": "SRE/2437/2025",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 26500000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6d1d114c3e4b3b96",
+          "market": "FIAGRO",
+          "name": "CONCEITO INSUMOS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+          "cnpj": "57.187.234/0001-07",
+          "registration": "21764",
+          "processNumber": "SRE/2439/2025",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 35000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0ff68d6bb985cbd1",
+          "market": "FIAGRO",
+          "name": "INSUMOS MILENIO TERRAMAGNA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+          "cnpj": "43.616.501/0001-00",
+          "registration": "21738",
+          "processNumber": "SRE/2422/2025",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 15000000,
+          "date": "2025-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "196973c956f0e1b7",
+          "market": "FIAGRO",
+          "name": "CULTTIVO CRÉDITO AGRÍCOLA FIAGRO - DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.302.001/0001-66",
+          "registration": "21675",
+          "processNumber": "SRE/2362/2025",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 99000000,
+          "date": "2025-08-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "07d7bff1f342de8d",
+          "market": "FIAGRO",
+          "name": "EXA MÍDIA FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES MULTIESTRATÉGIA",
+          "cnpj": "53.028.695/0001-86",
+          "registration": "16090",
+          "processNumber": "SRE/1688/2024",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 30000000,
+          "date": "2024-06-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "59c3a9ffab5f7b18",
+          "market": "FIAGRO",
+          "name": "AGROGALAXY FORNECEDORES FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+          "cnpj": "52.286.115/0001-98",
+          "registration": "3338",
+          "processNumber": "SRE/2386/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 80000000,
+          "date": "2023-10-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ac816f9f797dd8a2",
+          "market": "FIAGRO",
+          "name": "HIGH FUNDO DE INVESTIMENTO AGRO - FIAGRO - IMOBILIÁRIO",
+          "cnpj": "40.343.867/0001-64",
+          "registration": "2285",
+          "processNumber": "SRE/1441/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 51652390.68,
+          "date": "2023-07-17",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 23,
+          "volume": 1205961288.27
+        },
+        {
+          "market": "FIAGRO",
+          "count": 8,
+          "volume": 367152390.68
+        },
+        {
+          "market": "FII",
+          "count": 44,
+          "volume": 1046683702.5400001
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:33644196000106",
+      "name": "BANCO FATOR S/A",
+      "cnpj": "33.644.196/0001-06",
+      "stats12m": {
+        "offers": 1,
+        "volume": 27000000,
+        "offersWithVolume": 1,
+        "averageTicket": 27000000
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 27000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "d3e2d146d45e1626",
+          "market": "FIAGRO",
+          "name": "FLORINDO AGRO FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.027.610/0001-61",
+          "registration": "23941",
+          "processNumber": "SRE/4396/2025",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 27000000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "fd73d0f27086d20b",
+          "market": "FIAGRO",
+          "name": "PONTO RURAL FIAGRO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.131.490/0001-82",
+          "registration": "17629",
+          "processNumber": "SRE/3053/2024",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 120000000,
+          "date": "2024-10-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a6d4e64a7168258b",
+          "market": "FIAGRO",
+          "name": "AGRICONNECTION FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "50.089.559/0001-08",
+          "registration": "1429",
+          "processNumber": "SRE/0699/2023",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 100000000,
+          "date": "2023-04-20",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 8,
+          "volume": 631589282.59
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 247000000
+        },
+        {
+          "market": "FII",
+          "count": 8,
+          "volume": 1208577439
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:03751794000113",
+      "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "cnpj": "03.751.794/0001-13",
+      "stats12m": {
+        "offers": 1,
+        "volume": 25000000,
+        "offersWithVolume": 1,
+        "averageTicket": 25000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 25000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "5ff5ec0153a9a6bb",
+          "market": "FIAGRO",
+          "name": "CERES RENDA AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
+          "cnpj": "64.611.656/0001-23",
+          "registration": "26223",
+          "processNumber": "SRE/1428/2026",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 25000000,
+          "date": "2026-05-11",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 81,
+          "volume": 2217824193.7600007
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 25000000
+        },
+        {
+          "market": "FII",
+          "count": 20,
+          "volume": 1306904530.3899999
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:21610424000148",
+      "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+      "cnpj": "21.610.424/0001-48",
+      "stats12m": {
+        "offers": 1,
+        "volume": 18000000,
+        "offersWithVolume": 1,
+        "averageTicket": 18000000
+      },
+      "byMonth": [
+        {
+          "month": "2024-04",
+          "count": 2,
+          "volume": 12000000
+        },
+        {
+          "month": "2024-12",
+          "count": 2,
+          "volume": 30000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 18000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "afeba43efcaecf43",
+          "market": "FIAGRO",
+          "name": "HEDGE CREDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "26875",
+          "processNumber": "SRE/2011/2026",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 18000000,
+          "date": "2026-06-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7b5024d4a868a7ba",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "19290",
+          "processNumber": "SRE/0246/2025",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 10000000,
+          "date": "2025-01-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4da1863d14e8d3c9",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "18923",
+          "processNumber": "SRE/4159/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 20000000,
+          "date": "2024-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2d34f197c60081ff",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "18709",
+          "processNumber": "SRE/3995/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 10000000,
+          "date": "2024-12-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "de46aa1a0f35d8cc",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "15357",
+          "processNumber": "SRE/1031/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 8000000,
+          "date": "2024-04-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8a4a1f2142d2c125",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "15362",
+          "processNumber": "SRE/1033/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 4000000,
+          "date": "2024-04-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 6,
+          "volume": 70000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:55108951000170",
+      "name": "EXES SERVICOS FINANCEIROS LTDA",
+      "cnpj": "55.108.951/0001-70",
+      "stats12m": {
+        "offers": 1,
+        "volume": 9000000,
+        "offersWithVolume": 1,
+        "averageTicket": 9000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 9000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "628e58b8ca7c25ae",
+          "market": "FIAGRO",
+          "name": "EXES TERRAS FIAGFRO - FIAGRO IMOBILIARIO RESP LIMITADA",
+          "cnpj": "54.635.202/0001-39",
+          "registration": "24546",
+          "processNumber": "SRE/0333/2026",
+          "leader": "EXES SERVICOS FINANCEIROS LTDA",
+          "leaderCnpj": "55.108.951/0001-70",
+          "volume": 9000000,
+          "date": "2026-02-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 3,
+          "volume": 240500000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 9000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:16695922000109",
+      "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "cnpj": "16.695.922/0001-09",
+      "stats12m": {
+        "offers": 1,
+        "volume": 4000000.1,
+        "offersWithVolume": 1,
+        "averageTicket": 4000000.1
+      },
+      "byMonth": [
+        {
+          "month": "2024-07",
+          "count": 3,
+          "volume": 9000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 4000000.1
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "f50bb2dc52610145",
+          "market": "FIAGRO",
+          "name": "AC HIGHLAND AGRO FUNDO DE INVESTIMENTO FIAGRO - IMOBILIARIO",
+          "cnpj": "63.792.749/0001-39",
+          "registration": "27896",
+          "processNumber": "SRE/2941/2026",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 4000000.1,
+          "date": "2026-09-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4928e2238f8fdda4",
+          "market": "FIAGRO",
+          "name": "TAG EDGE I FIAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS AGROINDUSTRIAIS RESP LIMITADA",
+          "cnpj": "61.164.097/0001-62",
+          "registration": "21563",
+          "processNumber": "SRE/2266/2025",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 10000000,
+          "date": "2025-07-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "dc10f86080315897",
+          "market": "FIAGRO",
+          "name": "FOCO CAPITAL FIAGRO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.427.293/0001-17",
+          "registration": "16514",
+          "processNumber": "SRE/2045/2024",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 3000000,
+          "date": "2024-07-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "1409558e1edb7dae",
+          "market": "FIAGRO",
+          "name": "FOCO CAPITAL FIAGRO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.427.293/0001-17",
+          "registration": "16512",
+          "processNumber": "SRE/2043/2024",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 3000000,
+          "date": "2024-07-10",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "75bf802aa210c7ca",
+          "market": "FIAGRO",
+          "name": "FOCO CAPITAL FIAGRO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.427.293/0001-17",
+          "registration": "16513",
+          "processNumber": "SRE/2044/2024",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 3000000,
+          "date": "2024-07-10",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Caducado",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 137,
+          "volume": 2021174933.6999998
+        },
+        {
+          "market": "FIAGRO",
+          "count": 5,
+          "volume": 23000000.1
+        },
+        {
+          "market": "FII",
+          "count": 27,
+          "volume": 1626460461.16
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:37537640000145",
+      "name": "YARDS ASSET GESTORA DE RECURSOS LTDA.",
+      "cnpj": "37.537.640/0001-45",
+      "stats12m": {
+        "offers": 1,
+        "volume": 2600000,
+        "offersWithVolume": 1,
+        "averageTicket": 2600000
+      },
+      "byMonth": [
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 2600000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "a037f0ffc6b51861",
+          "market": "FIAGRO",
+          "name": "RUMO YD FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.814.175/0001-40",
+          "registration": "27891",
+          "processNumber": "SRE/2978/2026",
+          "leader": "YARDS ASSET GESTORA DE RECURSOS LTDA.",
+          "leaderCnpj": "37.537.640/0001-45",
+          "volume": 2600000,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 2600000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:45201272000198",
+      "name": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "cnpj": "45.201.272/0001-98",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 2600000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 2500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "667515ebec7db129",
+          "market": "FIAGRO",
+          "name": "UNICARV FIAGRO FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES MULTIESTRATÉGIA RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.546.603/0001-24",
+          "registration": "16863",
+          "processNumber": "SRE/2356/2024",
+          "leader": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+          "leaderCnpj": "45.201.272/0001-98",
+          "volume": 2500000,
+          "date": "2024-08-08",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8d8fda77814b1a7a",
+          "market": "FIAGRO",
+          "name": "AGRO VALOR FIAGRO PARTICIPAÇÕES MULTIESTRATÉGIA - RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.543.052/0001-70",
+          "registration": "16757",
+          "processNumber": "SRE/2259/2024",
+          "leader": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+          "leaderCnpj": "45.201.272/0001-98",
+          "volume": 2600000,
+          "date": "2024-07-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 2,
+          "volume": 5100000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:40434681000110",
+      "name": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "40.434.681/0001-10",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 10000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "d64619ef77015ed5",
+          "market": "FIAGRO",
+          "name": "ALUMEN FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES MULTIESTRATÉGIA",
+          "cnpj": "54.561.521/0001-47",
+          "registration": "16993",
+          "processNumber": "SRE/2481/2024",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 10000000,
+          "date": "2024-08-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 27,
+          "volume": 259672101.54999998
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "market": "FII",
+          "count": 5,
+          "volume": 184834650.4
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:48795256000169",
+      "name": "BANCO ANDBANK (BRASIL) S.A.",
+      "cnpj": "48.795.256/0001-69",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-05",
+          "count": 1,
+          "volume": 103652695.44
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "7c9ba411a5190984",
+          "market": "FIAGRO",
+          "name": "LESTE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS- FIAGRO - IMOBILIÁRIO",
+          "cnpj": "42.592.476/0001-09",
+          "registration": "1737",
+          "processNumber": "SRE/0956/2023",
+          "leader": "BANCO ANDBANK (BRASIL) S.A.",
+          "leaderCnpj": "48.795.256/0001-69",
+          "volume": 103652695.44,
+          "date": "2023-05-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 103652695.44
+        },
+        {
+          "market": "FII",
+          "count": 5,
+          "volume": 533600522.51
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:15114366000169",
+      "name": "BANCO BOCOM BBM S.A.",
+      "cnpj": "15.114.366/0001-69",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2024-09",
+          "count": 1,
+          "volume": 150924800
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "96de7a7fd32c9cbb",
+          "market": "FIAGRO",
+          "name": "BOCOM BBM FIAGRO-DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.657.680/0001-02",
+          "registration": "16315",
+          "processNumber": "SRE/1894/2024",
+          "leader": "BANCO BOCOM BBM S.A.",
+          "leaderCnpj": "15.114.366/0001-69",
+          "volume": 150924800,
+          "date": "2024-09-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 150924800
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:06271464000119",
+      "name": "BANCO BRADESCO BBI S.A.",
+      "cnpj": "06.271.464/0001-19",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 193055000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "449e7d24ab778f07",
+          "market": "FIAGRO",
+          "name": "BRADESCO FARMTECH FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+          "cnpj": "52.512.069/0001-06",
+          "registration": "3373",
+          "processNumber": "SRE/2397/2023",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 193055000,
+          "date": "2023-11-28",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 28,
+          "volume": 22177709000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 193055000
+        },
+        {
+          "market": "FII",
+          "count": 10,
+          "volume": 2445124809.4
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:17298092000130",
+      "name": "BANCO ITAU BBA S.A.",
+      "cnpj": "17.298.092/0001-30",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-03",
+          "count": 2,
+          "volume": 150000000
+        },
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 425460000
+        },
+        {
+          "month": "2023-06",
+          "count": 1,
+          "volume": 624600000
+        },
+        {
+          "month": "2023-08",
+          "count": 1,
+          "volume": 500000000
+        },
+        {
+          "month": "2023-10",
+          "count": 1,
+          "volume": 62500000
+        },
+        {
+          "month": "2024-03",
+          "count": 1,
+          "volume": 54000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6946bc78f3c8b13a",
+          "market": "FIAGRO",
+          "name": "RCL3X FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "42.922.157/0001-14",
+          "registration": "15036",
+          "processNumber": "SRE/0757/2024",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 54000000,
+          "date": "2024-03-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d1c90605a150a1ca",
+          "market": "FIAGRO",
+          "name": "RCL3X FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "42.922.157/0001-14",
+          "registration": "3425",
+          "processNumber": "SRE/2442/2023",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 62500000,
+          "date": "2023-10-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "37ffc3f43535e703",
+          "market": "FIAGRO",
+          "name": "KINEA OPORTUNIDADES AGRO I FIAGRO-IMOBILIÁRIO",
+          "cnpj": "51.475.461/0001-51",
+          "registration": "2457",
+          "processNumber": "SRE/1588/2023",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 500000000,
+          "date": "2023-08-02",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "77c101b32cc59fa7",
+          "market": "FIAGRO",
+          "name": "KINEA CRÉDITO AGRO FIAGRO-IMOBILIÁRIO",
+          "cnpj": "41.745.701/0001-37",
+          "registration": "1857",
+          "processNumber": "SRE/1066/2023",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 624600000,
+          "date": "2023-06-05",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "76d98ec8dae8959e",
+          "market": "FIAGRO",
+          "name": "ITAÚ ASSET RURAL DÓLAR FIAGRO - IMOBILIÁRIO",
+          "cnpj": "50.237.032/0001-83",
+          "registration": "1468",
+          "processNumber": "SRE/0728/2023",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 425460000,
+          "date": "2023-04-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "44d5c4b886fdf953",
+          "market": "FIAGRO",
+          "name": "RCL3X FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "42.922.157/0001-14",
+          "registration": "1207",
+          "processNumber": "SRE/0509/2023",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 30000000,
+          "date": "2023-03-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "78e69ed373f9fac1",
+          "market": "FIAGRO",
+          "name": "RCL3X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "42.922.157/0001-14",
+          "registration": "1206",
+          "processNumber": "SRE/0508/2023",
+          "leader": "BANCO ITAU BBA S.A.",
+          "leaderCnpj": "17.298.092/0001-30",
+          "volume": 120000000,
+          "date": "2023-03-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 102,
+          "volume": 33060722662.18
+        },
+        {
+          "market": "FIAGRO",
+          "count": 7,
+          "volume": 1816560000
+        },
+        {
+          "market": "FII",
+          "count": 9,
+          "volume": 3423374118.22
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:34169557000172",
+      "name": "BANCO MERCANTIL DE INVESTIMENTOS S.A.",
+      "cnpj": "34.169.557/0001-72",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-05",
+          "count": 1,
+          "volume": 30000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6a2817e6fd090468",
+          "market": "FIAGRO",
+          "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "cnpj": "62.285.390/0001-40",
+          "registration": "1542",
+          "processNumber": "SRE/0794/2023",
+          "leader": "BANCO MERCANTIL DE INVESTIMENTOS S.A.",
+          "leaderCnpj": "34.169.557/0001-72",
+          "volume": 30000000,
+          "date": "2023-05-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 5,
+          "volume": 301000817.88
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 30000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:02671743000119",
+      "name": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILI?RIOS LTDA",
+      "cnpj": "02.671.743/0001-19",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2025-07",
+          "count": 2,
+          "volume": 24999904.84
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "5a322d627fcae450",
+          "market": "FIAGRO",
+          "name": "ARC FIAGRO - DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.102.997/0001-82",
+          "registration": "21468",
+          "processNumber": "SRE/2190/2025",
+          "leader": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILI?RIOS LTDA",
+          "leaderCnpj": "02.671.743/0001-19",
+          "volume": 9999947.16,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "41f6eb30fb1abc89",
+          "market": "FIAGRO",
+          "name": "ARC FIAGRO - DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.102.997/0001-82",
+          "registration": "21469",
+          "processNumber": "SRE/2189/2025",
+          "leader": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILI?RIOS LTDA",
+          "leaderCnpj": "02.671.743/0001-19",
+          "volume": 14999957.68,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 176,
+          "volume": 16306858633.970001
+        },
+        {
+          "market": "FIAGRO",
+          "count": 2,
+          "volume": 24999904.84
+        },
+        {
+          "market": "FII",
+          "count": 10,
+          "volume": 1391131326.6299999
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:37678915000160",
+      "name": "FIDD DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "cnpj": "37.678.915/0001-60",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 400000000
+        },
+        {
+          "month": "2025-02",
+          "count": 1,
+          "volume": 37500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6671882a79c0baf6",
+          "market": "FIAGRO",
+          "name": "FRUTO TERRAS I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO IMOBILIARIO",
+          "cnpj": "55.307.025/0001-24",
+          "registration": "19683",
+          "processNumber": "SRE/0616/2025",
+          "leader": "FIDD DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "37.678.915/0001-60",
+          "volume": 37500000,
+          "date": "2025-02-28",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1a5ad418800d42ac",
+          "market": "FIAGRO",
+          "name": "FRUTO TERRAS I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO IMOBILIARIO",
+          "cnpj": "55.307.025/0001-24",
+          "registration": "16026",
+          "processNumber": "SRE/1629/2024",
+          "leader": "FIDD DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "37.678.915/0001-60",
+          "volume": 400000000,
+          "date": "2024-06-07",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 55,
+          "volume": 2659642141.0099993
+        },
+        {
+          "market": "FIAGRO",
+          "count": 2,
+          "volume": 437500000
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 3000000
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:65913436000117",
+      "name": "GUIDE INVESTIMENTOS S.A. CORRETORA DE VALORES",
+      "cnpj": "65.913.436/0001-17",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-05",
+          "count": 1,
+          "volume": 74998420.08
+        },
+        {
+          "month": "2023-09",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 37500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "83f5451fced71b76",
+          "market": "FIAGRO",
+          "name": "ASSET BANK AGRONEGÓCIOS FIAGRO - DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.670.402/0001-05",
+          "registration": "3834",
+          "processNumber": "SRE/2806/2023",
+          "leader": "GUIDE INVESTIMENTOS S.A. CORRETORA DE VALORES",
+          "leaderCnpj": "65.913.436/0001-17",
+          "volume": 37500000,
+          "date": "2023-12-08",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "660d80a7ed94feb3",
+          "market": "FIAGRO",
+          "name": "NEX CRÉDITO AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO IMOBILIÁRIO",
+          "cnpj": "52.044.477/0001-72",
+          "registration": "2965",
+          "processNumber": "SRE/2044/2023",
+          "leader": "GUIDE INVESTIMENTOS S.A. CORRETORA DE VALORES",
+          "leaderCnpj": "65.913.436/0001-17",
+          "volume": 100000000,
+          "date": "2023-09-21",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "beb02f6b00ac3794",
+          "market": "FIAGRO",
+          "name": "SFI INVESTIMENTOS DO AGRONEGÓCIO - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "44.286.898/0001-81",
+          "registration": "1808",
+          "processNumber": "SRE/1016/2023",
+          "leader": "GUIDE INVESTIMENTOS S.A. CORRETORA DE VALORES",
+          "leaderCnpj": "65.913.436/0001-17",
+          "volume": 74998420.08,
+          "date": "2023-05-29",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1,
+          "volume": 19218750
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 212498420.07999998
+        },
+        {
+          "market": "FII",
+          "count": 26,
+          "volume": 2249146994.71
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:07253654000176",
+      "name": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "07.253.654/0001-76",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-02",
+          "count": 1,
+          "volume": 2101050
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "7c34dc8325623069",
+          "market": "FIAGRO",
+          "name": "HEDGE I FIAGRO - PARTICIPAÇÕES - MULTIESTRATÉGIA",
+          "cnpj": "49.371.794/0001-99",
+          "registration": "674",
+          "processNumber": "SRE/0160/2023",
+          "leader": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "07.253.654/0001-76",
+          "volume": 2101050,
+          "date": "2023-02-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 9,
+          "volume": 504999313.85
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 2101050
+        },
+        {
+          "market": "FII",
+          "count": 28,
+          "volume": 5728807931.02
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:18945670000146",
+      "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "cnpj": "18.945.670/0001-46",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 100000007.25
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "ff30c0c88063a7f8",
+          "market": "FIAGRO",
+          "name": "INTER AMERRA - FIAGRO - IMOBILIARIO",
+          "cnpj": "42.692.399/0001-69",
+          "registration": "16891",
+          "processNumber": "SRE/2385/2024",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 100000007.25,
+          "date": "2024-08-09",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1,
+          "volume": 60000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 100000007.25
+        },
+        {
+          "market": "FII",
+          "count": 20,
+          "volume": 3567873498.1699996
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:53279748000131",
+      "name": "NEVES INVESTMENT BANK LTDA",
+      "cnpj": "53.279.748/0001-31",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 50050000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "b6f3f7e67c792009",
+          "market": "FIAGRO",
+          "name": "NEVES FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.426.823/0001-75",
+          "registration": "16896",
+          "processNumber": "SRE/2395/2024",
+          "leader": "NEVES INVESTMENT BANK LTDA",
+          "leaderCnpj": "53.279.748/0001-31",
+          "volume": 50050000,
+          "date": "2024-08-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Revogada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 50050000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:62169875000179",
+      "name": "NU INVEST CORRETORA DE VALORES S.A.",
+      "cnpj": "62.169.875/0001-79",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-02",
+          "count": 1,
+          "volume": 160000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "a327a58778fed47e",
+          "market": "FIAGRO",
+          "name": "AMAZON FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO IMOBILIÁRIO",
+          "cnpj": "39.405.730/0001-08",
+          "registration": "729",
+          "processNumber": "SRE/0210/2023",
+          "leader": "NU INVEST CORRETORA DE VALORES S.A.",
+          "leaderCnpj": "62.169.875/0001-79",
+          "volume": 160000000,
+          "date": "2023-02-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 8,
+          "volume": 1132840000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 160000000
+        },
+        {
+          "market": "FII",
+          "count": 4,
+          "volume": 1597653461.8
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:36113876000191",
+      "name": "OLIVEIRA TRUST DTVM S.A.",
+      "cnpj": "36.113.876/0001-91",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 56000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 19000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "46721edc625e7edb",
+          "market": "FIAGRO",
+          "name": "FARMTECH AGRO I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC RESP LTDA",
+          "cnpj": "58.199.148/0001-87",
+          "registration": "21611",
+          "processNumber": "SRE/2306/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 19000000,
+          "date": "2025-07-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d5e299c459f5405e",
+          "market": "FIAGRO",
+          "name": "CAPSICUM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO I - FIAGRO-FII - RESP. LTDA",
+          "cnpj": "58.823.628/0001-77",
+          "registration": "19135",
+          "processNumber": "SRE/0113/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 56000000,
+          "date": "2025-01-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 83,
+          "volume": 31621343441.309994
+        },
+        {
+          "market": "FIAGRO",
+          "count": 2,
+          "volume": 75000000
+        },
+        {
+          "market": "FII",
+          "count": 29,
+          "volume": 5915871834.62
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:13293225000125",
+      "name": "ÓRAMA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "13.293.225/0001-25",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-03",
+          "count": 1,
+          "volume": 154147841.77
+        },
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 127609616.04
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 196286149.5
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "f101c0be3b0f83cd",
+          "market": "FIAGRO",
+          "name": "FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS EXES ARAGUAIA - FIAGRO - IMOBILIÁRIO",
+          "cnpj": "43.951.911/0001-07",
+          "registration": "4379",
+          "processNumber": "SRE/0168/2024",
+          "leader": "ÓRAMA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.293.225/0001-25",
+          "volume": 196286149.5,
+          "date": "2024-01-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cba5ae5df931ba4d",
+          "market": "FIAGRO",
+          "name": "FG/AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "42.405.905/0001-91",
+          "registration": "2378",
+          "processNumber": "SRE/1512/2023",
+          "leader": "ÓRAMA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.293.225/0001-25",
+          "volume": 127609616.04,
+          "date": "2023-07-25",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "399e53aef69525b6",
+          "market": "FIAGRO",
+          "name": "ECOAGRO I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO - IMOBILIÁRIO",
+          "cnpj": "41.224.330/0001-48",
+          "registration": "1246",
+          "processNumber": "SRE/0541/2023",
+          "leader": "ÓRAMA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.293.225/0001-25",
+          "volume": 154147841.77,
+          "date": "2023-03-30",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1,
+          "volume": 269914450
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 478043607.31000006
+        },
+        {
+          "market": "FII",
+          "count": 17,
+          "volume": 5009616374.489999
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:47754034000135",
+      "name": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+      "cnpj": "47.754.034/0001-35",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 130727100
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 83632000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6cd7ee4f5e5c8d51",
+          "market": "FIAGRO",
+          "name": "ORIZ RAIZ FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS- FIAGRO - IMOBILIÁRIO",
+          "cnpj": "52.984.403/0001-16",
+          "registration": "15288",
+          "processNumber": "SRE/0952/2024",
+          "leader": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+          "leaderCnpj": "47.754.034/0001-35",
+          "volume": 83632000,
+          "date": "2024-04-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "93b8bd2993f32643",
+          "market": "FIAGRO",
+          "name": "ORIZ RAIZ FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS- FIAGRO - IMOBILIÁRIO",
+          "cnpj": "52.984.403/0001-16",
+          "registration": "3891",
+          "processNumber": "SRE/2851/2023",
+          "leader": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+          "leaderCnpj": "47.754.034/0001-35",
+          "volume": 100000000,
+          "date": "2023-12-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e3511b093cf32eb2",
+          "market": "FIAGRO",
+          "name": "FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS EXES ARAGUAIA - FIAGRO - IMOBILIÁRIO",
+          "cnpj": "43.951.911/0001-07",
+          "registration": "4328",
+          "processNumber": "SRE/0126/2024",
+          "leader": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+          "leaderCnpj": "47.754.034/0001-35",
+          "volume": 130727100,
+          "date": "2023-11-01",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 3,
+          "volume": 336200000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 314359100
+        },
+        {
+          "market": "FII",
+          "count": 7,
+          "volume": 2204922289.53
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:34829992000186",
+      "name": "REAG DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "cnpj": "34.829.992/0001-86",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 70000000
+        },
+        {
+          "month": "2024-01",
+          "count": 2,
+          "volume": 125000000
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 2800000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "f02316e3e7e9223d",
+          "market": "FIAGRO",
+          "name": "FERTEXPRESS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS-FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "55.107.695/0001-05",
+          "registration": "16002",
+          "processNumber": "SRE/1637/2024",
+          "leader": "REAG DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "34.829.992/0001-86",
+          "volume": 2800000,
+          "date": "2024-06-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "8e2bbda33aaf3ae7",
+          "market": "FIAGRO",
+          "name": "ARC AUXILIAR - FIAGRO FIDC - RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.312.645/0001-26",
+          "registration": "4434",
+          "processNumber": "SRE/0235/2024",
+          "leader": "REAG DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "34.829.992/0001-86",
+          "volume": 124000000,
+          "date": "2024-01-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "38f8fcec248e0df0",
+          "market": "FIAGRO",
+          "name": "BOQ1 FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO - IMOBILIÁRIO",
+          "cnpj": "53.190.891/0001-52",
+          "registration": "4162",
+          "processNumber": "SRE/0046/2024",
+          "leader": "REAG DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "34.829.992/0001-86",
+          "volume": 1000000,
+          "date": "2024-01-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4768bf7acad29fc3",
+          "market": "FIAGRO",
+          "name": "GFS EXCELÊNCIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO",
+          "cnpj": "32.024.768/0001-91",
+          "registration": "4116",
+          "processNumber": "SRE/3051/2023",
+          "leader": "REAG DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "34.829.992/0001-86",
+          "volume": 70000000,
+          "date": "2023-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 126,
+          "volume": 10171083120.07
+        },
+        {
+          "market": "FIAGRO",
+          "count": 4,
+          "volume": 197800000
+        },
+        {
+          "market": "FII",
+          "count": 36,
+          "volume": 2815992453.7499995
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:40962925000138",
+      "name": "STRUTTURA CAPITAL GESTAO DE INVESTIMENTOS LTDA.",
+      "cnpj": "40.962.925/0001-38",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2023-10",
+          "count": 1,
+          "volume": 12500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "50069e65b9e2263b",
+          "market": "FIAGRO",
+          "name": "VERTICAL BANK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "36.115.099/0001-14",
+          "registration": "3296",
+          "processNumber": "SRE/2345/2023",
+          "leader": "STRUTTURA CAPITAL GESTAO DE INVESTIMENTOS LTDA.",
+          "leaderCnpj": "40.962.925/0001-38",
+          "volume": 12500000,
+          "date": "2023-10-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 3,
+          "volume": 37500000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 12500000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:48967968000118",
+      "name": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "48.967.968/0001-18",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [
+        {
+          "month": "2025-06",
+          "count": 1,
+          "volume": 45000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "28267243606c27aa",
+          "market": "FIAGRO",
+          "name": "FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS ÁGUA BRANCA",
+          "cnpj": "61.248.471/0001-08",
+          "registration": "21110",
+          "processNumber": "SRE/1855/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 45000000,
+          "date": "2025-06-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 10,
+          "volume": 1219000603.5700002
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 45000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    }
+  ]
+}

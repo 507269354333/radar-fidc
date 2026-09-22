@@ -7,6 +7,7 @@ import {buildWeeklyReport} from '../lib/weekly.js';
 import {computeRadarIndices} from '../lib/indices.js';
 import {buildMonthlyLetter,previousFullMonth} from '../lib/monthly.js';
 import {buildMarketIntelligence} from '../lib/intelligence.js';
+import {buildCoordinatorSnapshots} from '../lib/coordinator-data.js';
 
 const [cvm,bcbResult,anbimaResult,newsResult]=await Promise.all([
   fetchCvmMarketsDataset(),
@@ -33,6 +34,8 @@ for(const market of [...MARKETS,'ALL']){
   await writeFile(`data/weekly-${market}.json`,pretty(payload));
 }
 await writeFile('data/indices.json',pretty(computeRadarIndices(cvm,bcbResult,indexMonth)));
+const coordinatorSnapshots=buildCoordinatorSnapshots(cvm);
+for(const market of MARKETS)await writeFile(`data/coordinators-${market}.json`,pretty(coordinatorSnapshots[market]));
 for(const market of [...MARKETS,'ALL']){
   const monthly=buildMonthlyLetter(cvm,bcbResult,anbimaResult,newsResult,{month:indexMonth,market});
   await writeFile(`data/monthly-${indexMonth}-${market}.json`,pretty({...monthly,intelligence:{brief:intelligence.brief,theses:intelligence.theses,directions:intelligence.directions,scenarios:intelligence.scenarios}}));
