@@ -7,21 +7,18 @@ import {buildWeeklyReport} from '../lib/weekly.js';
 import {computeRadarIndices} from '../lib/indices.js';
 import {buildMonthlyLetter,previousFullMonth} from '../lib/monthly.js';
 import {buildMarketIntelligence} from '../lib/intelligence.js';
-import {fetchMacroTicker} from '../lib/macro-ticker.js';
 
-const [cvm,bcbResult,anbimaResult,newsResult,macroTicker]=await Promise.all([
+const [cvm,bcbResult,anbimaResult,newsResult]=await Promise.all([
   fetchCvmMarketsDataset(),
   fetchBcbDataset().catch(()=>null),
   fetchAnbimaIndicators().catch(()=>null),
-  fetchCvmNews().catch(()=>[]),
-  fetchMacroTicker().catch(()=>null)
+  fetchCvmNews().catch(()=>[])
 ]);
 await mkdir('data',{recursive:true});
 const pretty=data=>JSON.stringify(data,null,2)+'\n';
 const indexMonth=previousFullMonth(new Date());
 const intelligence=buildMarketIntelligence(cvm,bcbResult,anbimaResult,newsResult,{month:indexMonth});
 await writeFile('data/intelligence.json',pretty(intelligence));
-if(macroTicker)await writeFile('data/macro-ticker.json',pretty(macroTicker));
 const marketComparison=MARKETS.map(key=>({market:key,count:cvm.markets[key].count,latestMonth:cvm.markets[key].analytics.latestMonth,offersInMonth:cvm.markets[key].analytics.offersInMonth,volumeInMonth:cvm.markets[key].analytics.volumeInMonth}));
 const sourceSummary={source:cvm.source,sourceUrl:cvm.sourceUrl,sourceUpdatedAt:cvm.sourceUpdatedAt,overall:cvm.overall,markets:Object.fromEntries(MARKETS.map(key=>{const d=cvm.markets[key];return[key,{market:key,count:d.count,analytics:d.analytics,methodology:d.methodology}]})),updatedAt:new Date().toISOString()};
 await writeFile('data/markets-summary.json',pretty(sourceSummary));
