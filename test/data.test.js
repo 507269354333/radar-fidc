@@ -79,4 +79,9 @@ test('parser ANBIMA lê o quadro oficial sem inventar indicadores',()=>{
   assert.equal(data.indicators.dollarSell.value,5.1575);
   assert.equal(data.indicators.ipcaProjection.value,0.56);
   assert.equal(data.indicators.igpmProjection.value,0.95);
+  const mojibake=Buffer.from(html,'utf8').toString('latin1');
+  const repaired=parseAnbimaIndicators(mojibake);
+  assert.equal(repaired.sourceUpdatedAt,'18/09/2026 16:39');
+  assert.equal(repaired.indicators.dollarSell.value,5.1575);
+  assert.equal(repaired.indicators.ipcaProjection.value,0.56);
 });

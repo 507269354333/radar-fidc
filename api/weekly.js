@@ -6,9 +6,9 @@ import {buildWeeklyReport} from '../lib/weekly.js';
 
 export default async function handler(req,res){
   try{
-    const cvm=await fetchCvmDataset();
-    const report=buildWeeklyReport(cvm.items,new Date());
-    const [bcbResult,anbimaResult,newsResult]=await Promise.allSettled([fetchBcbDataset(),fetchAnbimaIndicators(),fetchCvmNews()]);
+    const [cvmResult,bcbResult,anbimaResult,newsResult]=await Promise.allSettled([fetchCvmDataset(),fetchBcbDataset(),fetchAnbimaIndicators(),fetchCvmNews()]);
+    if(cvmResult.status!=='fulfilled')throw cvmResult.reason;
+    const cvm=cvmResult.value,report=buildWeeklyReport(cvm.items,new Date());
     const bcb=bcbResult.status==='fulfilled'?bcbResult.value:null;
     const anbima=anbimaResult.status==='fulfilled'?anbimaResult.value:null;
     const news=newsResult.status==='fulfilled'?newsResult.value:[];
