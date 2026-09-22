@@ -1,7 +1,7 @@
 {
   "month": "2026-08",
   "market": "FIAGRO",
-  "generatedAt": "2026-09-22T03:37:54.927Z",
+  "generatedAt": "2026-09-22T04:33:34.101Z",
   "title": "Carta Mensal Radar - 2026-08",
   "aggregate": {
     "current": {
@@ -343,13 +343,56 @@
           "quantity": 83.33333333333334,
           "breadth": 79.16666666666667
         },
-        "interpretation": "forte"
+        "interpretation": "forte",
+        "education": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "type": "Índice composto de intensidade do mercado primário",
+          "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+          "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+          "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+          "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+          "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+          "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+          "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+          "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+          "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+          "limits": [
+            "Mede oferta registrada, não captação efetiva.",
+            "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+            "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+          ],
+          "score": 77.29166666666667,
+          "band": "faixa alta",
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 77/100, faixa alta."
+        }
       },
       "breadth": {
         "code": "IRBD",
         "name": "Índice Radar de Breadth",
         "score": 79.16666666666667,
-        "interpretation": "ampla"
+        "interpretation": "ampla",
+        "education": {
+          "code": "IRBD",
+          "name": "Índice Radar de Breadth",
+          "type": "Índice de amplitude de participação",
+          "question": "A atividade está disseminada ou depende de poucos participantes?",
+          "whatItMeasures": "Mede a amplitude do mercado observando quantos emissores e coordenadores distintos participam da competência em relação aos últimos 12 meses.",
+          "technicalBasis": "Média dos percentis da quantidade de emissores distintos e coordenadores distintos na janela histórica.",
+          "empiricalBasis": "Participantes identificados nos registros oficiais da CVM em 12 competências mensais.",
+          "quantitativeBasis": "50% percentil de emissores distintos + 50% percentil de coordenadores distintos.",
+          "qualitativeLayer": "A leitura ampla/mediana/estreita descreve a disseminação da atividade; a conclusão econômica depende de ser lida junto com IROP e IRCC.",
+          "whyItMatters": "Um mercado pode crescer porque muitos participantes estão ativos ou porque poucos agentes concentram grandes operações. O IRBD separa essas situações.",
+          "highMeans": "Atividade mais espalhada entre emissores e coordenadores.",
+          "lowMeans": "Atividade mais estreita, com menor diversidade de participantes.",
+          "limits": [
+            "Não mede concentração de volume sozinho; isso é função do IRCC.",
+            "Participante distinto não significa estratégia, qualidade ou porte distintos."
+          ],
+          "score": 79.16666666666667,
+          "band": "faixa alta",
+          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 79/100, faixa alta."
+        }
       },
       "concentration": {
         "code": "IRCC",
@@ -357,7 +400,28 @@
         "score": 26.12319393137262,
         "countHHI": 2.7777777777777817,
         "volumeHHI": 49.46861008496746,
-        "interpretation": "baixa"
+        "interpretation": "baixa",
+        "education": {
+          "code": "IRCC",
+          "name": "Índice Radar de Concentração",
+          "type": "Índice estrutural de concentração",
+          "question": "Quanto da atividade está concentrada em poucos coordenadores?",
+          "whatItMeasures": "Mede concentração dos coordenadores por quantidade de ofertas e por volume analítico registrado.",
+          "technicalBasis": "Índice Herfindahl-Hirschman (HHI) normalizado para escala 0–100, calculado separadamente por quantidade e volume e depois combinado.",
+          "empiricalBasis": "Distribuição observada dos coordenadores na competência corrente da base oficial CVM.",
+          "quantitativeBasis": "50% HHI normalizado por quantidade + 50% HHI normalizado por volume analítico.",
+          "qualitativeLayer": "Baixo significa mercado mais distribuído; alto significa maior dependência de poucos coordenadores. A interpretação não presume poder de mercado ou conduta competitiva.",
+          "whyItMatters": "Mostra se a expansão do pipeline é compartilhada pelo mercado ou dominada por poucos participantes.",
+          "highMeans": "Maior concentração da atividade em poucos coordenadores.",
+          "lowMeans": "Maior dispersão da atividade entre coordenadores.",
+          "limits": [
+            "Concentração não é sinônimo de problema concorrencial.",
+            "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
+          ],
+          "score": 26.12319393137262,
+          "band": "faixa baixa",
+          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 26/100, faixa baixa."
+        }
       },
       "funding": {
         "code": "IRFC",
@@ -398,13 +462,57 @@
           }
         ],
         "asOf": "2026-08-31",
-        "interpretation": "neutras/medianas"
+        "interpretation": "neutras/medianas",
+        "education": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "type": "Índice composto de ambiente financeiro",
+          "question": "O ambiente de crédito e juros ajuda ou restringe a absorção de novas ofertas?",
+          "whatItMeasures": "Resume o ambiente de funding usando juros, spread de crédito PJ, inadimplência PJ e crescimento do saldo de crédito PJ.",
+          "technicalBasis": "Cada variável é transformada em posição percentílica dentro do histórico disponível do BCB; Selic, spread e inadimplência têm direção invertida porque níveis mais altos são tratados como condições menos favoráveis. Componentes indisponíveis são reponderados.",
+          "empiricalBasis": "Séries oficiais BCB/SGS disponíveis ao Radar, preservando frequência e datas de cada série.",
+          "quantitativeBasis": "30% Selic + 30% spread PJ + 20% inadimplência PJ + 20% crescimento trimestral do saldo PJ, com reponderação quando necessário.",
+          "qualitativeLayer": "Favorável/neutro/restritivo é uma leitura do ambiente de funding, não uma previsão de demanda por cotas nem de sucesso de distribuição.",
+          "whyItMatters": "Um pipeline forte pode encontrar pouca capacidade de absorção quando custo de capital, spreads ou qualidade do crédito pioram.",
+          "highMeans": "Condições relativas de funding mais favoráveis dentro da amostra observada.",
+          "lowMeans": "Condições relativas mais restritivas.",
+          "limits": [
+            "As séries têm frequências distintas e datas de atualização diferentes.",
+            "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
+            "É um indicador de regime, não uma taxa de funding de uma operação específica."
+          ],
+          "score": 44.57352941176471,
+          "band": "faixa intermediária",
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 45/100, faixa intermediária."
+        }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
         "score": 67.47622549019607,
-        "interpretation": "expansivo"
+        "interpretation": "expansivo",
+        "education": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado",
+          "type": "Índice-síntese de atividade e funding",
+          "question": "Qual é o pulso conjunto do mercado primário e das condições de funding?",
+          "whatItMeasures": "Combina a intensidade das ofertas com o ambiente financeiro para produzir uma leitura sintética do momento.",
+          "technicalBasis": "Composto linear que mantém maior peso no comportamento observado do mercado primário e usa funding como condição de transmissão.",
+          "empiricalBasis": "Combina IROP, construído com dados CVM, e IRFC, construído com séries BCB/SGS.",
+          "quantitativeBasis": "70% IROP + 30% IRFC.",
+          "qualitativeLayer": "Expansivo/equilibrado/contido é a síntese editorial do score. A Tese Radar continua exigindo evidências adicionais e critérios de invalidação.",
+          "whyItMatters": "Evita interpretar muitas ofertas como expansão plena quando o funding continua restritivo — ou o contrário.",
+          "highMeans": "Atividade primária e condições financeiras combinadas apontam para pulso mais expansivo.",
+          "lowMeans": "O conjunto aponta para pulso mais contido.",
+          "limits": [
+            "É um composto proprietário e depende das premissas de peso declaradas.",
+            "Não substitui análise de cada vertical ou operação.",
+            "Ainda está construindo histórico de validação fora da amostra."
+          ],
+          "score": 67.47622549019607,
+          "band": "faixa alta",
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 67/100, faixa alta."
+        }
       },
       "projection": {
         "year": 2026,
@@ -782,13 +890,56 @@
             "quantity": 83.33333333333334,
             "breadth": 79.16666666666667
           },
-          "interpretation": "forte"
+          "interpretation": "forte",
+          "education": {
+            "code": "IROP",
+            "name": "Índice Radar de Oferta Primária",
+            "type": "Índice composto de intensidade do mercado primário",
+            "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+            "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+            "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+            "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+            "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+            "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+            "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+            "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+            "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+            "limits": [
+              "Mede oferta registrada, não captação efetiva.",
+              "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+              "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+            ],
+            "score": 77.29166666666667,
+            "band": "faixa alta",
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 77/100, faixa alta."
+          }
         },
         "breadth": {
           "code": "IRBD",
           "name": "Índice Radar de Breadth",
           "score": 79.16666666666667,
-          "interpretation": "ampla"
+          "interpretation": "ampla",
+          "education": {
+            "code": "IRBD",
+            "name": "Índice Radar de Breadth",
+            "type": "Índice de amplitude de participação",
+            "question": "A atividade está disseminada ou depende de poucos participantes?",
+            "whatItMeasures": "Mede a amplitude do mercado observando quantos emissores e coordenadores distintos participam da competência em relação aos últimos 12 meses.",
+            "technicalBasis": "Média dos percentis da quantidade de emissores distintos e coordenadores distintos na janela histórica.",
+            "empiricalBasis": "Participantes identificados nos registros oficiais da CVM em 12 competências mensais.",
+            "quantitativeBasis": "50% percentil de emissores distintos + 50% percentil de coordenadores distintos.",
+            "qualitativeLayer": "A leitura ampla/mediana/estreita descreve a disseminação da atividade; a conclusão econômica depende de ser lida junto com IROP e IRCC.",
+            "whyItMatters": "Um mercado pode crescer porque muitos participantes estão ativos ou porque poucos agentes concentram grandes operações. O IRBD separa essas situações.",
+            "highMeans": "Atividade mais espalhada entre emissores e coordenadores.",
+            "lowMeans": "Atividade mais estreita, com menor diversidade de participantes.",
+            "limits": [
+              "Não mede concentração de volume sozinho; isso é função do IRCC.",
+              "Participante distinto não significa estratégia, qualidade ou porte distintos."
+            ],
+            "score": 79.16666666666667,
+            "band": "faixa alta",
+            "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 79/100, faixa alta."
+          }
         },
         "concentration": {
           "code": "IRCC",
@@ -796,7 +947,28 @@
           "score": 26.12319393137262,
           "countHHI": 2.7777777777777817,
           "volumeHHI": 49.46861008496746,
-          "interpretation": "baixa"
+          "interpretation": "baixa",
+          "education": {
+            "code": "IRCC",
+            "name": "Índice Radar de Concentração",
+            "type": "Índice estrutural de concentração",
+            "question": "Quanto da atividade está concentrada em poucos coordenadores?",
+            "whatItMeasures": "Mede concentração dos coordenadores por quantidade de ofertas e por volume analítico registrado.",
+            "technicalBasis": "Índice Herfindahl-Hirschman (HHI) normalizado para escala 0–100, calculado separadamente por quantidade e volume e depois combinado.",
+            "empiricalBasis": "Distribuição observada dos coordenadores na competência corrente da base oficial CVM.",
+            "quantitativeBasis": "50% HHI normalizado por quantidade + 50% HHI normalizado por volume analítico.",
+            "qualitativeLayer": "Baixo significa mercado mais distribuído; alto significa maior dependência de poucos coordenadores. A interpretação não presume poder de mercado ou conduta competitiva.",
+            "whyItMatters": "Mostra se a expansão do pipeline é compartilhada pelo mercado ou dominada por poucos participantes.",
+            "highMeans": "Maior concentração da atividade em poucos coordenadores.",
+            "lowMeans": "Maior dispersão da atividade entre coordenadores.",
+            "limits": [
+              "Concentração não é sinônimo de problema concorrencial.",
+              "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
+            ],
+            "score": 26.12319393137262,
+            "band": "faixa baixa",
+            "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 26/100, faixa baixa."
+          }
         },
         "funding": {
           "code": "IRFC",
@@ -837,13 +1009,57 @@
             }
           ],
           "asOf": "2026-08-31",
-          "interpretation": "neutras/medianas"
+          "interpretation": "neutras/medianas",
+          "education": {
+            "code": "IRFC",
+            "name": "Índice Radar de Condições de Funding",
+            "type": "Índice composto de ambiente financeiro",
+            "question": "O ambiente de crédito e juros ajuda ou restringe a absorção de novas ofertas?",
+            "whatItMeasures": "Resume o ambiente de funding usando juros, spread de crédito PJ, inadimplência PJ e crescimento do saldo de crédito PJ.",
+            "technicalBasis": "Cada variável é transformada em posição percentílica dentro do histórico disponível do BCB; Selic, spread e inadimplência têm direção invertida porque níveis mais altos são tratados como condições menos favoráveis. Componentes indisponíveis são reponderados.",
+            "empiricalBasis": "Séries oficiais BCB/SGS disponíveis ao Radar, preservando frequência e datas de cada série.",
+            "quantitativeBasis": "30% Selic + 30% spread PJ + 20% inadimplência PJ + 20% crescimento trimestral do saldo PJ, com reponderação quando necessário.",
+            "qualitativeLayer": "Favorável/neutro/restritivo é uma leitura do ambiente de funding, não uma previsão de demanda por cotas nem de sucesso de distribuição.",
+            "whyItMatters": "Um pipeline forte pode encontrar pouca capacidade de absorção quando custo de capital, spreads ou qualidade do crédito pioram.",
+            "highMeans": "Condições relativas de funding mais favoráveis dentro da amostra observada.",
+            "lowMeans": "Condições relativas mais restritivas.",
+            "limits": [
+              "As séries têm frequências distintas e datas de atualização diferentes.",
+              "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
+              "É um indicador de regime, não uma taxa de funding de uma operação específica."
+            ],
+            "score": 44.57352941176471,
+            "band": "faixa intermediária",
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 45/100, faixa intermediária."
+          }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
           "score": 67.47622549019607,
-          "interpretation": "expansivo"
+          "interpretation": "expansivo",
+          "education": {
+            "code": "IRPM",
+            "name": "Índice Radar de Pulso de Mercado",
+            "type": "Índice-síntese de atividade e funding",
+            "question": "Qual é o pulso conjunto do mercado primário e das condições de funding?",
+            "whatItMeasures": "Combina a intensidade das ofertas com o ambiente financeiro para produzir uma leitura sintética do momento.",
+            "technicalBasis": "Composto linear que mantém maior peso no comportamento observado do mercado primário e usa funding como condição de transmissão.",
+            "empiricalBasis": "Combina IROP, construído com dados CVM, e IRFC, construído com séries BCB/SGS.",
+            "quantitativeBasis": "70% IROP + 30% IRFC.",
+            "qualitativeLayer": "Expansivo/equilibrado/contido é a síntese editorial do score. A Tese Radar continua exigindo evidências adicionais e critérios de invalidação.",
+            "whyItMatters": "Evita interpretar muitas ofertas como expansão plena quando o funding continua restritivo — ou o contrário.",
+            "highMeans": "Atividade primária e condições financeiras combinadas apontam para pulso mais expansivo.",
+            "lowMeans": "O conjunto aponta para pulso mais contido.",
+            "limits": [
+              "É um composto proprietário e depende das premissas de peso declaradas.",
+              "Não substitui análise de cada vertical ou operação.",
+              "Ainda está construindo histórico de validação fora da amostra."
+            ],
+            "score": 67.47622549019607,
+            "band": "faixa alta",
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 67/100, faixa alta."
+          }
         },
         "projection": {
           "year": 2026,
@@ -1381,5 +1597,290 @@
       "Impacto econômico é tratado por canais de transmissão e variáveis de confirmação, evitando causalidade direta."
     ]
   },
-  "methodology": "Carta mensal construída sobre ofertas oficiais da CVM consolidadas por número de oferta/processo, indicadores macro do BCB/SGS e quadro público da ANBIMA. Quando a competência imediatamente anterior não tem registros datados, a comparação usa a última competência disponível e explicita o intervalo. Índices Radar usam metodologia proprietária pública, reproduzível e robusta a outliers."
+  "methodology": "Carta mensal construída sobre ofertas oficiais da CVM consolidadas por número de oferta/processo, indicadores macro do BCB/SGS e quadro público da ANBIMA. Quando a competência imediatamente anterior não tem registros datados, a comparação usa a última competência disponível e explicita o intervalo. Índices Radar usam metodologia proprietária pública, reproduzível e robusta a outliers.",
+  "intelligence": {
+    "brief": {
+      "headline": "Oferta primária forte encontra funding ainda seletivo.",
+      "summary": "O Radar lê a competência 2026-08 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
+      "watch": [
+        "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
+        "IRFC abaixo de 50 indica que o ambiente de funding ainda exige seletividade na interpretação de um pipeline forte.",
+        "Cenários anualizados são faixas de ritmo. O Radar revisa a leitura quando novas competências, dados macro ou atos regulatórios contradizem a tese."
+      ]
+    },
+    "theses": [
+      {
+        "id": "capital-competition",
+        "title": "Mais ofertas competindo por capital seletivo",
+        "statement": "O pipeline primário está relativamente forte, mas o ambiente de funding não acompanha na mesma intensidade. A leitura Radar é de maior competição por atenção e capital, não de excesso comprovado de recursos.",
+        "evidence": [
+          {
+            "label": "IROP agregado",
+            "value": 65.86805555555556,
+            "source": "Metodologia Radar / CVM"
+          },
+          {
+            "label": "IRFC",
+            "value": 44.57352941176471,
+            "source": "Metodologia Radar / BCB"
+          },
+          {
+            "label": "IRBD",
+            "value": 70.13888888888889,
+            "source": "Metodologia Radar / CVM"
+          },
+          {
+            "label": "IRCC",
+            "value": 15.566030780130383,
+            "source": "Metodologia Radar / CVM"
+          }
+        ],
+        "evidenceLevel": "ampla",
+        "mechanism": [
+          "mais ofertas registradas",
+          "disputa por distribuição e alocação",
+          "maior importância de preço, estrutura e diferenciação",
+          "absorção final depende de funding e demanda efetiva"
+        ],
+        "confirms": [
+          "IROP e IRBD permanecem elevados por mais de uma competência",
+          "IRFC melhora sem deterioração relevante de crédito",
+          "volume distribuído/captado confirma o volume registrado quando essa informação estiver disponível"
+        ],
+        "invalidates": [
+          "queda persistente do IROP",
+          "aumento de concentração com retração de emissores",
+          "piora adicional do funding acompanhada de redução do pipeline"
+        ],
+        "horizon": "3–12 meses"
+      },
+      {
+        "id": "leading-vertical",
+        "title": "FIAGRO lidera a pressão relativa de oferta",
+        "statement": "Na competência 2026-08, FIAGRO apresenta o maior IROP entre as três verticais. Isso mede intensidade relativa do pipeline na própria história do segmento; não significa maior retorno, melhor qualidade ou captação garantida.",
+        "evidence": [
+          {
+            "label": "IROP FIAGRO",
+            "value": 77.29166666666667,
+            "source": "Metodologia Radar / CVM"
+          },
+          {
+            "label": "IRBD FIAGRO",
+            "value": 79.16666666666667,
+            "source": "Metodologia Radar / CVM"
+          },
+          {
+            "label": "IRPM FIAGRO",
+            "value": 67.47622549019607,
+            "source": "Metodologia Radar / CVM + BCB"
+          },
+          {
+            "label": "IRFC comum",
+            "value": 44.57352941176471,
+            "source": "Metodologia Radar / BCB"
+          }
+        ],
+        "evidenceLevel": "ampla",
+        "mechanism": [
+          "pipeline mais intenso na vertical",
+          "maior número/volume relativo de operações",
+          "mais necessidade de comparar estruturas e participantes",
+          "funding restritivo pode aumentar seletividade"
+        ],
+        "confirms": [
+          "IROP de FIAGRO permanece acima das demais verticais",
+          "breadth acompanha o aumento de oferta",
+          "novas competências mantêm atividade sem depender de poucos coordenadores"
+        ],
+        "invalidates": [
+          "reversão do IROP na competência seguinte",
+          "crescimento concentrado em poucos registros ou outliers",
+          "queda relevante do breadth"
+        ],
+        "horizon": "1–6 meses"
+      },
+      {
+        "id": "real-estate-transmission",
+        "title": "Oferta de FII não é sinônimo de inflação imobiliária",
+        "statement": "Maior volume de ofertas de FII aumenta a capacidade potencial de formação de capital. O efeito sobre preços de imóveis depende de quanto é efetivamente distribuído, de onde o capital será alocado e de variáveis como juros, crédito, renda, vacância, estoque e desenvolvimento.",
+        "evidence": [
+          {
+            "label": "IROP FII",
+            "value": 70.83333333333334,
+            "source": "Metodologia Radar / CVM"
+          },
+          {
+            "label": "IRFC",
+            "value": 44.57352941176471,
+            "source": "Metodologia Radar / BCB"
+          },
+          {
+            "label": "IRCC FII",
+            "value": 16.16447381956457,
+            "source": "Metodologia Radar / CVM"
+          },
+          {
+            "label": "Cenário base anual",
+            "value": 50256131414.549995,
+            "source": "Cenário Radar"
+          }
+        ],
+        "evidenceLevel": "ampla",
+        "mechanism": [
+          "oferta registrada",
+          "capital efetivamente distribuído",
+          "aquisição/desenvolvimento/desalavancagem",
+          "competição por ativos ou aumento de oferta física",
+          "efeito final depende de fundamentos imobiliários e macro"
+        ],
+        "confirms": [
+          "captação efetiva acompanha registros",
+          "aquisições e desenvolvimento aceleram",
+          "cap rates, vacância, aluguel e crédito confirmam pressão no mesmo sentido"
+        ],
+        "invalidates": [
+          "baixa distribuição das ofertas",
+          "capital direcionado majoritariamente a desalavancagem",
+          "aumento de oferta física/vacância neutraliza pressão de demanda"
+        ],
+        "horizon": "6–24 meses"
+      }
+    ],
+    "directions": [
+      {
+        "market": "FIDC",
+        "headline": "Mercado em leitura intermediária",
+        "statement": "Oferta primária e funding precisam ser lidos em conjunto antes de inferir expansão ou retração.",
+        "scores": {
+          "IROP": 49.479166666666664,
+          "IRBD": 60.41666666666666,
+          "IRCC": 4.410424589453961,
+          "IRFC": 44.57352941176471,
+          "IRPM": 48.00747549019608
+        },
+        "bands": {
+          "offer": "intermediário",
+          "funding": "intermediário",
+          "pulse": "intermediário",
+          "concentration": "baixo"
+        }
+      },
+      {
+        "market": "FIAGRO",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+        "scores": {
+          "IROP": 77.29166666666667,
+          "IRBD": 79.16666666666667,
+          "IRCC": 26.12319393137262,
+          "IRFC": 44.57352941176471,
+          "IRPM": 67.47622549019607
+        },
+        "bands": {
+          "offer": "alto",
+          "funding": "intermediário",
+          "pulse": "alto",
+          "concentration": "baixo"
+        }
+      },
+      {
+        "market": "FII",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+        "scores": {
+          "IROP": 70.83333333333334,
+          "IRBD": 70.83333333333334,
+          "IRCC": 16.16447381956457,
+          "IRFC": 44.57352941176471,
+          "IRPM": 62.95539215686275
+        },
+        "bands": {
+          "offer": "alto",
+          "funding": "intermediário",
+          "pulse": "intermediário",
+          "concentration": "baixo"
+        }
+      }
+    ],
+    "scenarios": [
+      {
+        "market": "FIDC",
+        "current": {
+          "IROP": 49.479166666666664,
+          "IRPM": 48.00747549019608,
+          "IRFC": 44.57352941176471
+        },
+        "scenarios": [
+          {
+            "label": "Conservador",
+            "volume": 31531917666.760006,
+            "offers": 454
+          },
+          {
+            "label": "Base",
+            "volume": 36672458283.72,
+            "offers": 509
+          },
+          {
+            "label": "Expansão",
+            "volume": 48570035941.05,
+            "offers": 678
+          }
+        ],
+        "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+      },
+      {
+        "market": "FIAGRO",
+        "current": {
+          "IROP": 77.29166666666667,
+          "IRPM": 67.47622549019607,
+          "IRFC": 44.57352941176471
+        },
+        "scenarios": [
+          {
+            "label": "Conservador",
+            "volume": 4220599757.1899996,
+            "offers": 36
+          },
+          {
+            "label": "Base",
+            "volume": 5373395757.19,
+            "offers": 46
+          },
+          {
+            "label": "Expansão",
+            "volume": 6563349757.19,
+            "offers": 51
+          }
+        ],
+        "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+      },
+      {
+        "market": "FII",
+        "current": {
+          "IROP": 70.83333333333334,
+          "IRPM": 62.95539215686275,
+          "IRFC": 44.57352941176471
+        },
+        "scenarios": [
+          {
+            "label": "Conservador",
+            "volume": 41970832224.649994,
+            "offers": 140
+          },
+          {
+            "label": "Base",
+            "volume": 50256131414.549995,
+            "offers": 156
+          },
+          {
+            "label": "Expansão",
+            "volume": 72298967913.34999,
+            "offers": 200
+          }
+        ],
+        "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+      }
+    ]
+  }
 }
