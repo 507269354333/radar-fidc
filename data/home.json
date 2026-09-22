@@ -1,0 +1,1137 @@
+{
+  "generatedAt": "2026-09-22T16:00:47.699Z",
+  "macro": {
+    "generatedAt": "2026-09-22T11:30:06.141Z",
+    "items": [
+      {
+        "key": "selic",
+        "label": "SELIC",
+        "fullLabel": "Selic",
+        "category": "Macro",
+        "value": 13.65,
+        "display": "13,65%",
+        "change": 0,
+        "changePct": 0,
+        "date": "2026-09-21",
+        "source": "BCB / SGS",
+        "status": "ok",
+        "deltaDisplay": "+0 p.p."
+      },
+      {
+        "key": "ipca",
+        "label": "IPCA",
+        "fullLabel": "IPCA mensal",
+        "category": "Inflação",
+        "value": -0.32,
+        "display": "-0,32%",
+        "change": -0.39,
+        "changePct": -557.1428571428571,
+        "date": "2026-08-01",
+        "source": "BCB / SGS",
+        "status": "ok",
+        "deltaDisplay": "-0,39 p.p."
+      },
+      {
+        "key": "igpm",
+        "label": "IGP-M",
+        "fullLabel": "IGP-M mensal",
+        "category": "Inflação",
+        "value": -0.22,
+        "display": "-0,22%",
+        "change": 0.94,
+        "changePct": -81.03448275862068,
+        "date": "2026-08-01",
+        "source": "BCB / SGS",
+        "status": "ok",
+        "deltaDisplay": "+0,94 p.p."
+      },
+      {
+        "key": "usdbrl",
+        "label": "USD/BRL",
+        "fullLabel": "Dólar / Real",
+        "category": "Câmbio",
+        "value": 5.1117,
+        "display": "R$ 5,1117",
+        "change": -0.04579999999999984,
+        "changePct": -0.8880271449345556,
+        "date": "2026-09-21",
+        "source": "BCB / PTAX",
+        "status": "ok"
+      },
+      {
+        "key": "riscoBrasil",
+        "label": "RISCO BRASIL",
+        "fullLabel": "EMBI+Br",
+        "category": "Risco",
+        "value": null,
+        "display": "fonte pública interrompida",
+        "change": null,
+        "changePct": null,
+        "date": "2024-08",
+        "source": "IPEA / EMBI+Br",
+        "status": "stale",
+        "note": "Divulgação pública do EMBI+Br pelo IPEA interrompida em agosto de 2024; o Radar não substitui por cotação não oficial."
+      },
+      {
+        "key": "dbgg",
+        "label": "DBGG",
+        "fullLabel": "Dívida Bruta do Governo Geral",
+        "category": "Fiscal",
+        "value": 10946725.8,
+        "display": "R$ 10,95 tri",
+        "change": 137250.61000000127,
+        "changePct": 1.2697250105812241,
+        "date": "2026-07-01",
+        "source": "BCB / SGS",
+        "status": "ok"
+      },
+      {
+        "key": "dbggPib",
+        "label": "DBGG/PIB",
+        "fullLabel": "Dívida Bruta / PIB",
+        "category": "Fiscal",
+        "value": 82.56,
+        "display": "82,56%",
+        "change": 0.6099999999999994,
+        "changePct": 0.7443563148261223,
+        "date": "2026-07-01",
+        "source": "BCB / SGS",
+        "status": "ok",
+        "deltaDisplay": "+0,61 p.p."
+      },
+      {
+        "key": "irfm",
+        "label": "IRF-M",
+        "fullLabel": "Prefixados · LTN / NTN-F",
+        "category": "Renda Fixa",
+        "value": 23537.590581,
+        "display": "23.537,59",
+        "change": 0.2872,
+        "changePct": 0.2872,
+        "date": "2026-09-21",
+        "source": "ANBIMA · IMA público",
+        "status": "ok",
+        "note": "yield 13,75%",
+        "deltaDisplay": "+0,2872% dia"
+      },
+      {
+        "key": "imas",
+        "label": "IMA-S",
+        "fullLabel": "Pós-fixados · LFT / Selic",
+        "category": "Renda Fixa",
+        "value": 8967.763574,
+        "display": "8.967,76",
+        "change": 0.0505,
+        "changePct": 0.0505,
+        "date": "2026-09-21",
+        "source": "ANBIMA · IMA público",
+        "status": "ok",
+        "note": "LFT / Selic",
+        "deltaDisplay": "+0,0505% dia"
+      },
+      {
+        "key": "imab",
+        "label": "IMA-B",
+        "fullLabel": "Inflação · NTN-B / IPCA",
+        "category": "Renda Fixa",
+        "value": 11915.881313,
+        "display": "11.915,88",
+        "change": 0.1276,
+        "changePct": 0.1276,
+        "date": "2026-09-21",
+        "source": "ANBIMA · IMA público",
+        "status": "ok",
+        "note": "yield 7,33%",
+        "deltaDisplay": "+0,1276% dia"
+      },
+      {
+        "key": "imac",
+        "label": "IMA-C",
+        "fullLabel": "Inflação · NTN-C / IGP-M",
+        "category": "Renda Fixa",
+        "display": "n/d",
+        "status": "unavailable",
+        "source": "ANBIMA",
+        "value": null,
+        "change": null,
+        "changePct": null,
+        "date": "2026-09-21",
+        "note": "Sem total corrente no arquivo público IMA desta atualização."
+      }
+    ],
+    "sources": {
+      "bcb": "Banco Central do Brasil — SGS/PTAX",
+      "anbima": "ANBIMA — IMA Resultados Diários",
+      "riskBrazil": "IPEA / EMBI+Br: divulgação pública interrompida em agosto de 2024"
+    },
+    "methodology": "Ticker usa apenas fontes oficiais/públicas conectadas. IRF-M, IMA-S, IMA-B e IMA-C são índices ANBIMA de carteiras de títulos públicos federais. O Radar não preenche cotações ausentes com fontes não oficiais."
+  },
+  "overview": {
+    "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
+    "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
+    "sourceUpdatedAt": "2026-09-22T08:01:06.487390",
+    "count": 4434,
+    "analytics": {
+      "latestMonth": "2026-09",
+      "offersInMonth": 82,
+      "volumeInMonth": 15827033151.28,
+      "offersWithVolumeInMonth": 78,
+      "leadersInMonth": 27,
+      "byRite": [
+        {
+          "name": "Automático",
+          "count": 82
+        }
+      ],
+      "byAudience": [
+        {
+          "name": "Profissional",
+          "count": 77
+        },
+        {
+          "name": "Qualificado",
+          "count": 5
+        }
+      ],
+      "topLeaders": [
+        {
+          "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "cnpj": "62.285.390/0001-40",
+          "count": 12,
+          "volume": 426000001.23999995
+        },
+        {
+          "name": "BANCO DAYCOVAL S.A.",
+          "cnpj": "62.232.889/0001-90",
+          "count": 10,
+          "volume": 974662000
+        },
+        {
+          "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "cnpj": "39.669.186/0001-01",
+          "count": 6,
+          "volume": 179000000
+        },
+        {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 5,
+          "volume": 4521400000
+        },
+        {
+          "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "cnpj": "59.281.253/0001-23",
+          "count": 5,
+          "volume": 914750838.8399999
+        },
+        {
+          "name": "BANCO BRADESCO BBI S.A.",
+          "cnpj": "06.271.464/0001-19",
+          "count": 5,
+          "volume": 700000000
+        },
+        {
+          "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "cnpj": "03.751.794/0001-13",
+          "count": 5,
+          "volume": 60420000
+        },
+        {
+          "name": "XP INVESTIMENTOS CCTVM S.A.",
+          "cnpj": "02.332.886/0001-04",
+          "count": 3,
+          "volume": 1650000000
+        },
+        {
+          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "cnpj": "22.610.500/0001-88",
+          "count": 3,
+          "volume": 150000000
+        },
+        {
+          "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "cnpj": "24.361.690/0001-72",
+          "count": 3,
+          "volume": 105000000
+        }
+      ],
+      "byMonth": [
+        {
+          "month": "2025-02",
+          "count": 123,
+          "volume": 8452513163.660002,
+          "withVolume": 123
+        },
+        {
+          "month": "2025-03",
+          "count": 97,
+          "volume": 4756022998.780001,
+          "withVolume": 97
+        },
+        {
+          "month": "2025-04",
+          "count": 54,
+          "volume": 4625946406.13,
+          "withVolume": 54
+        },
+        {
+          "month": "2025-05",
+          "count": 38,
+          "volume": 3001439263.95,
+          "withVolume": 38
+        },
+        {
+          "month": "2025-06",
+          "count": 33,
+          "volume": 2748075299.71,
+          "withVolume": 33
+        },
+        {
+          "month": "2025-07",
+          "count": 97,
+          "volume": 7853540772.63,
+          "withVolume": 96
+        },
+        {
+          "month": "2025-08",
+          "count": 43,
+          "volume": 2322900652.89,
+          "withVolume": 43
+        },
+        {
+          "month": "2025-10",
+          "count": 22,
+          "volume": 2639602009.14,
+          "withVolume": 22
+        },
+        {
+          "month": "2025-11",
+          "count": 33,
+          "volume": 1756293444.94,
+          "withVolume": 33
+        },
+        {
+          "month": "2025-12",
+          "count": 162,
+          "volume": 16176862614.84,
+          "withVolume": 162
+        },
+        {
+          "month": "2026-01",
+          "count": 9,
+          "volume": 402571672.41999996,
+          "withVolume": 9
+        },
+        {
+          "month": "2026-02",
+          "count": 115,
+          "volume": 5146322770.379999,
+          "withVolume": 115
+        },
+        {
+          "month": "2026-03",
+          "count": 69,
+          "volume": 12207822970.810001,
+          "withVolume": 69
+        },
+        {
+          "month": "2026-04",
+          "count": 25,
+          "volume": 1568700445.08,
+          "withVolume": 25
+        },
+        {
+          "month": "2026-05",
+          "count": 92,
+          "volume": 7389836170.5,
+          "withVolume": 92
+        },
+        {
+          "month": "2026-06",
+          "count": 37,
+          "volume": 2722985826.7400002,
+          "withVolume": 37
+        },
+        {
+          "month": "2026-08",
+          "count": 32,
+          "volume": 2485004803.17,
+          "withVolume": 31
+        },
+        {
+          "month": "2026-09",
+          "count": 82,
+          "volume": 15827033151.28,
+          "withVolume": 78
+        }
+      ],
+      "trailing12": {
+        "offers": 678,
+        "volume": 68323035879.3,
+        "offersWithVolume": 673,
+        "leaders": 59,
+        "topLeaders": [
+          {
+            "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+            "cnpj": "62.285.390/0001-40",
+            "count": 158,
+            "volume": 7732792100.6900015
+          },
+          {
+            "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+            "cnpj": "39.669.186/0001-01",
+            "count": 104,
+            "volume": 2598166119.3500004
+          },
+          {
+            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "cnpj": "22.610.500/0001-88",
+            "count": 45,
+            "volume": 2320099998.68
+          },
+          {
+            "name": "BANCO DAYCOVAL S.A.",
+            "cnpj": "62.232.889/0001-90",
+            "count": 43,
+            "volume": 2898850513.67
+          },
+          {
+            "name": "PLANNER CORRETORA DE VALORES S.A.",
+            "cnpj": "00.806.535/0001-54",
+            "count": 25,
+            "volume": 320003656.39
+          },
+          {
+            "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+            "cnpj": "03.751.794/0001-13",
+            "count": 22,
+            "volume": 420530000
+          },
+          {
+            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "cnpj": "04.845.753/0001-59",
+            "count": 21,
+            "volume": 10116320059
+          },
+          {
+            "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "cnpj": "13.486.793/0001-42",
+            "count": 21,
+            "volume": 1072803997.88
+          },
+          {
+            "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "cnpj": "24.361.690/0001-72",
+            "count": 19,
+            "volume": 606250000
+          },
+          {
+            "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+            "cnpj": "59.281.253/0001-23",
+            "count": 17,
+            "volume": 2425750823.83
+          },
+          {
+            "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+            "cnpj": "27.652.684/0001-62",
+            "count": 16,
+            "volume": 461000000
+          },
+          {
+            "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "cnpj": "44.782.130/0001-07",
+            "count": 15,
+            "volume": 159600000
+          },
+          {
+            "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "cnpj": "16.695.922/0001-09",
+            "count": 14,
+            "volume": 233400000.06
+          },
+          {
+            "name": "XP INVESTIMENTOS CCTVM S.A.",
+            "cnpj": "02.332.886/0001-04",
+            "count": 12,
+            "volume": 5374731001.41
+          },
+          {
+            "name": "MAF DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "cnpj": "36.864.992/0001-42",
+            "count": 12,
+            "volume": 474524200.29
+          }
+        ]
+      },
+      "dataQuality": {
+        "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
+        "medianPositiveVolume": 25000000,
+        "outlierCount": 4,
+        "outliers": [
+          {
+            "id": "2d469cdadcf56a18",
+            "name": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+            "date": "2026-03-03",
+            "volume": 5500000000,
+            "leader": "BANCO BRADESCO BBI S.A."
+          },
+          {
+            "id": "c7bf675e443d7950",
+            "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SANTANDER AUTO LOANS II SEGMENTO FINANCEIRO - RL",
+            "date": "2026-09-03",
+            "volume": 5000000000,
+            "leader": "BANCO SANTANDER (BRASIL) S.A."
+          },
+          {
+            "id": "ddb3568b9d3c6b84",
+            "name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+            "date": "2026-09-01",
+            "volume": 4000000000,
+            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A"
+          },
+          {
+            "id": "12bb8dbba421873c",
+            "name": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+            "date": "2025-12-11",
+            "volume": 3000000000,
+            "leader": "BANCO SANTANDER (BRASIL) S.A."
+          }
+        ]
+      },
+      "latestOffers": [
+        {
+          "id": "ea2f1103f30bfdc1",
+          "market": "FIDC",
+          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "37.351.013/0001-15",
+          "registration": "27958",
+          "processNumber": "SRE/3029/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 5000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-21",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "d66610535a81db68",
+          "market": "FIDC",
+          "name": "Fundo de Investimento em Direitos Creditórios Somacred Bach - Responsabilidade Limitada",
+          "cnpj": "39.669.950/0001-49",
+          "registration": "27936",
+          "processNumber": "SRE/3037/2026",
+          "leader": "ATIVA INVESTIMENTOS S.A. C.T.C.V.",
+          "leaderCnpj": "33.775.974/0001-04",
+          "volume": 112200000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-21",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "afa11413047465ff",
+          "market": "FIDC",
+          "name": "HEIVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "58.593.281/0001-13",
+          "registration": "27968",
+          "processNumber": "SRE/3032/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 10000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-21",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "c2e29da4c3cfd754",
+          "market": "FIDC",
+          "name": "ICRED INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.347.578/0001-64",
+          "registration": "27938",
+          "processNumber": "SRE/3006/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 195000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-21",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "08238cbfc613922b",
+          "market": "FIDC",
+          "name": "HB CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "27.326.160/0001-81",
+          "registration": "27953",
+          "processNumber": "SRE/3013/2026",
+          "leader": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "24.361.690/0001-72",
+          "volume": 30000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-18",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "ab30e520ac6040c7",
+          "market": "FIDC",
+          "name": "PATRIMONIAL VALMOREL FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "69.179.735/0001-20",
+          "registration": "27964",
+          "processNumber": "SRE/3010/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 93750000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "date": "2026-09-18",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "b4eac75ee7454156",
+          "market": "FIDC",
+          "name": "PNEUCASH II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE CLASSE ÚNICA FECHADA RESP LIMITADA",
+          "cnpj": "65.836.995/0001-70",
+          "registration": "27917",
+          "processNumber": "SRE/2967/2026",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 310000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-18",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "75131b3b939eeeda",
+          "market": "FIDC",
+          "name": "CLOUDWALK LEO FIDC SEGMENTO MEIOS DE PAGAMENTO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.145.248/0001-47",
+          "registration": "27960",
+          "processNumber": "SRE/3008/2026",
+          "leader": "CAIXA ECONOMICA FEDERAL",
+          "leaderCnpj": "00.360.305/0001-04",
+          "volume": 0,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "date": "2026-09-17",
+          "dateBasis": "requerimento",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "927a32b438245213",
+          "market": "FIDC",
+          "name": "GAVEA REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "54.639.537/0001-25",
+          "registration": "27954",
+          "processNumber": "SRE/3001/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 50000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "9c18ed16d4077dee",
+          "market": "FIDC",
+          "name": "GUIBOR SL I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP. LIMITADA",
+          "cnpj": "67.294.246/0001-94",
+          "registration": "27956",
+          "processNumber": "SRE/3003/2026",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 10000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "9cb7c36e1786c57f",
+          "market": "FIDC",
+          "name": "TARUMÃ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCIAMENTO DE VEÍCULOS DE RESP LIMITADA",
+          "cnpj": "67.736.126/0001-08",
+          "registration": "27635",
+          "processNumber": "SRE/2709/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 900000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "05a17df8fef3bbd7",
+          "market": "FIDC",
+          "name": "AMERICA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.137.602/0001-17",
+          "registration": "27925",
+          "processNumber": "SRE/2985/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 24000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-16",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "da3333f422790d41",
+          "market": "FIDC",
+          "name": "ARACATUY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.551.063/0001-70",
+          "registration": "27928",
+          "processNumber": "SRE/2979/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-16",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "f824b233188260eb",
+          "market": "FIDC",
+          "name": "BEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.002.535/0001-77",
+          "registration": "27939",
+          "processNumber": "SRE/2989/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 119500000.47,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-16",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "e8bb6d1158199244",
+          "market": "FIDC",
+          "name": "CAPITÂNIA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.121.826/0001-05",
+          "registration": "27929",
+          "processNumber": "SRE/2981/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 20000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-09-16",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        }
+      ]
+    },
+    "methodology": "Ofertas FIDC identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos."
+  },
+  "indices": {
+    "month": "2026-08",
+    "foundation": {
+      "version": "1.0",
+      "status": "Metodologia proprietária em validação contínua",
+      "technical": "Sim. As fórmulas, pesos, tratamento de outliers, HHI e regras de escala são explícitos e reproduzíveis.",
+      "empirical": "Sim. Os scores partem de observações oficiais da CVM e do BCB e são recalculados à medida que novas competências entram.",
+      "quantitative": "Sim. O número de cada índice é produzido por regras matemáticas definidas antes da interpretação editorial.",
+      "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
+      "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
+    },
+    "guide": {
+      "IROP": {
+        "code": "IROP",
+        "name": "Índice Radar de Oferta Primária",
+        "type": "Índice composto de intensidade do mercado primário",
+        "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+        "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+        "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+        "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+        "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+        "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+        "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+        "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+        "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+        "limits": [
+          "Mede oferta registrada, não captação efetiva.",
+          "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+          "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+        ]
+      },
+      "IRBD": {
+        "code": "IRBD",
+        "name": "Índice Radar de Breadth",
+        "type": "Índice de amplitude de participação",
+        "question": "A atividade está disseminada ou depende de poucos participantes?",
+        "whatItMeasures": "Mede a amplitude do mercado observando quantos emissores e coordenadores distintos participam da competência em relação aos últimos 12 meses.",
+        "technicalBasis": "Média dos percentis da quantidade de emissores distintos e coordenadores distintos na janela histórica.",
+        "empiricalBasis": "Participantes identificados nos registros oficiais da CVM em 12 competências mensais.",
+        "quantitativeBasis": "50% percentil de emissores distintos + 50% percentil de coordenadores distintos.",
+        "qualitativeLayer": "A leitura ampla/mediana/estreita descreve a disseminação da atividade; a conclusão econômica depende de ser lida junto com IROP e IRCC.",
+        "whyItMatters": "Um mercado pode crescer porque muitos participantes estão ativos ou porque poucos agentes concentram grandes operações. O IRBD separa essas situações.",
+        "highMeans": "Atividade mais espalhada entre emissores e coordenadores.",
+        "lowMeans": "Atividade mais estreita, com menor diversidade de participantes.",
+        "limits": [
+          "Não mede concentração de volume sozinho; isso é função do IRCC.",
+          "Participante distinto não significa estratégia, qualidade ou porte distintos."
+        ]
+      },
+      "IRCC": {
+        "code": "IRCC",
+        "name": "Índice Radar de Concentração",
+        "type": "Índice estrutural de concentração",
+        "question": "Quanto da atividade está concentrada em poucos coordenadores?",
+        "whatItMeasures": "Mede concentração dos coordenadores por quantidade de ofertas e por volume analítico registrado.",
+        "technicalBasis": "Índice Herfindahl-Hirschman (HHI) normalizado para escala 0–100, calculado separadamente por quantidade e volume e depois combinado.",
+        "empiricalBasis": "Distribuição observada dos coordenadores na competência corrente da base oficial CVM.",
+        "quantitativeBasis": "50% HHI normalizado por quantidade + 50% HHI normalizado por volume analítico.",
+        "qualitativeLayer": "Baixo significa mercado mais distribuído; alto significa maior dependência de poucos coordenadores. A interpretação não presume poder de mercado ou conduta competitiva.",
+        "whyItMatters": "Mostra se a expansão do pipeline é compartilhada pelo mercado ou dominada por poucos participantes.",
+        "highMeans": "Maior concentração da atividade em poucos coordenadores.",
+        "lowMeans": "Maior dispersão da atividade entre coordenadores.",
+        "limits": [
+          "Concentração não é sinônimo de problema concorrencial.",
+          "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
+        ]
+      },
+      "IRFC": {
+        "code": "IRFC",
+        "name": "Índice Radar de Condições de Funding",
+        "type": "Índice composto de ambiente financeiro",
+        "question": "O ambiente de crédito e juros ajuda ou restringe a absorção de novas ofertas?",
+        "whatItMeasures": "Resume o ambiente de funding usando juros, spread de crédito PJ, inadimplência PJ e crescimento do saldo de crédito PJ.",
+        "technicalBasis": "Cada variável é transformada em posição percentílica dentro do histórico disponível do BCB; Selic, spread e inadimplência têm direção invertida porque níveis mais altos são tratados como condições menos favoráveis. Componentes indisponíveis são reponderados.",
+        "empiricalBasis": "Séries oficiais BCB/SGS disponíveis ao Radar, preservando frequência e datas de cada série.",
+        "quantitativeBasis": "30% Selic + 30% spread PJ + 20% inadimplência PJ + 20% crescimento trimestral do saldo PJ, com reponderação quando necessário.",
+        "qualitativeLayer": "Favorável/neutro/restritivo é uma leitura do ambiente de funding, não uma previsão de demanda por cotas nem de sucesso de distribuição.",
+        "whyItMatters": "Um pipeline forte pode encontrar pouca capacidade de absorção quando custo de capital, spreads ou qualidade do crédito pioram.",
+        "highMeans": "Condições relativas de funding mais favoráveis dentro da amostra observada.",
+        "lowMeans": "Condições relativas mais restritivas.",
+        "limits": [
+          "As séries têm frequências distintas e datas de atualização diferentes.",
+          "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
+          "É um indicador de regime, não uma taxa de funding de uma operação específica."
+        ]
+      },
+      "IRPM": {
+        "code": "IRPM",
+        "name": "Índice Radar de Pulso de Mercado",
+        "type": "Índice-síntese de atividade e funding",
+        "question": "Qual é o pulso conjunto do mercado primário e das condições de funding?",
+        "whatItMeasures": "Combina a intensidade das ofertas com o ambiente financeiro para produzir uma leitura sintética do momento.",
+        "technicalBasis": "Composto linear que mantém maior peso no comportamento observado do mercado primário e usa funding como condição de transmissão.",
+        "empiricalBasis": "Combina IROP, construído com dados CVM, e IRFC, construído com séries BCB/SGS.",
+        "quantitativeBasis": "70% IROP + 30% IRFC.",
+        "qualitativeLayer": "Expansivo/equilibrado/contido é a síntese editorial do score. A Tese Radar continua exigindo evidências adicionais e critérios de invalidação.",
+        "whyItMatters": "Evita interpretar muitas ofertas como expansão plena quando o funding continua restritivo — ou o contrário.",
+        "highMeans": "Atividade primária e condições financeiras combinadas apontam para pulso mais expansivo.",
+        "lowMeans": "O conjunto aponta para pulso mais contido.",
+        "limits": [
+          "É um composto proprietário e depende das premissas de peso declaradas.",
+          "Não substitui análise de cada vertical ou operação.",
+          "Ainda está construindo histórico de validação fora da amostra."
+        ]
+      }
+    },
+    "markets": {
+      "FIDC": {
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "score": 49.479166666666664,
+          "interpretation": "intermediária",
+          "education": {
+            "code": "IROP",
+            "name": "Índice Radar de Oferta Primária",
+            "type": "Índice composto de intensidade do mercado primário",
+            "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+            "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+            "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+            "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+            "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+            "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+            "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+            "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+            "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+            "limits": [
+              "Mede oferta registrada, não captação efetiva.",
+              "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+              "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+            ],
+            "score": 49.479166666666664,
+            "band": "faixa intermediária",
+            "currentReading": "A intensidade das ofertas está intermediária frente à janela recente. Score 49/100, faixa intermediária."
+          }
+        }
+      },
+      "FIAGRO": {
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "score": 77.29166666666667,
+          "interpretation": "forte",
+          "education": {
+            "code": "IROP",
+            "name": "Índice Radar de Oferta Primária",
+            "type": "Índice composto de intensidade do mercado primário",
+            "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+            "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+            "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+            "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+            "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+            "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+            "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+            "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+            "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+            "limits": [
+              "Mede oferta registrada, não captação efetiva.",
+              "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+              "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+            ],
+            "score": 77.29166666666667,
+            "band": "faixa alta",
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 77/100, faixa alta."
+          }
+        }
+      },
+      "FII": {
+        "offerPressure": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "score": 70.83333333333334,
+          "interpretation": "forte",
+          "education": {
+            "code": "IROP",
+            "name": "Índice Radar de Oferta Primária",
+            "type": "Índice composto de intensidade do mercado primário",
+            "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+            "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+            "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+            "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+            "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+            "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+            "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+            "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+            "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+            "limits": [
+              "Mede oferta registrada, não captação efetiva.",
+              "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+              "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+            ],
+            "score": 70.83333333333334,
+            "band": "faixa alta",
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 71/100, faixa alta."
+          }
+        }
+      },
+      "ALL": {
+        "funding": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "score": 44.57352941176471,
+          "interpretation": "neutras/medianas",
+          "education": {
+            "code": "IRFC",
+            "name": "Índice Radar de Condições de Funding",
+            "type": "Índice composto de ambiente financeiro",
+            "question": "O ambiente de crédito e juros ajuda ou restringe a absorção de novas ofertas?",
+            "whatItMeasures": "Resume o ambiente de funding usando juros, spread de crédito PJ, inadimplência PJ e crescimento do saldo de crédito PJ.",
+            "technicalBasis": "Cada variável é transformada em posição percentílica dentro do histórico disponível do BCB; Selic, spread e inadimplência têm direção invertida porque níveis mais altos são tratados como condições menos favoráveis. Componentes indisponíveis são reponderados.",
+            "empiricalBasis": "Séries oficiais BCB/SGS disponíveis ao Radar, preservando frequência e datas de cada série.",
+            "quantitativeBasis": "30% Selic + 30% spread PJ + 20% inadimplência PJ + 20% crescimento trimestral do saldo PJ, com reponderação quando necessário.",
+            "qualitativeLayer": "Favorável/neutro/restritivo é uma leitura do ambiente de funding, não uma previsão de demanda por cotas nem de sucesso de distribuição.",
+            "whyItMatters": "Um pipeline forte pode encontrar pouca capacidade de absorção quando custo de capital, spreads ou qualidade do crédito pioram.",
+            "highMeans": "Condições relativas de funding mais favoráveis dentro da amostra observada.",
+            "lowMeans": "Condições relativas mais restritivas.",
+            "limits": [
+              "As séries têm frequências distintas e datas de atualização diferentes.",
+              "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
+              "É um indicador de regime, não uma taxa de funding de uma operação específica."
+            ],
+            "score": 44.57352941176471,
+            "band": "faixa intermediária",
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 45/100, faixa intermediária."
+          }
+        },
+        "pulse": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado - 3 mercados",
+          "score": 59.4796977124183,
+          "interpretation": "equilibrado",
+          "education": {
+            "code": "IRPM",
+            "name": "Índice Radar de Pulso de Mercado",
+            "type": "Índice-síntese de atividade e funding",
+            "question": "Qual é o pulso conjunto do mercado primário e das condições de funding?",
+            "whatItMeasures": "Combina a intensidade das ofertas com o ambiente financeiro para produzir uma leitura sintética do momento.",
+            "technicalBasis": "Composto linear que mantém maior peso no comportamento observado do mercado primário e usa funding como condição de transmissão.",
+            "empiricalBasis": "Combina IROP, construído com dados CVM, e IRFC, construído com séries BCB/SGS.",
+            "quantitativeBasis": "70% IROP + 30% IRFC.",
+            "qualitativeLayer": "Expansivo/equilibrado/contido é a síntese editorial do score. A Tese Radar continua exigindo evidências adicionais e critérios de invalidação.",
+            "whyItMatters": "Evita interpretar muitas ofertas como expansão plena quando o funding continua restritivo — ou o contrário.",
+            "highMeans": "Atividade primária e condições financeiras combinadas apontam para pulso mais expansivo.",
+            "lowMeans": "O conjunto aponta para pulso mais contido.",
+            "limits": [
+              "É um composto proprietário e depende das premissas de peso declaradas.",
+              "Não substitui análise de cada vertical ou operação.",
+              "Ainda está construindo histórico de validação fora da amostra."
+            ],
+            "score": 59.4796977124183,
+            "band": "faixa intermediária",
+            "currentReading": "O pulso está equilibrado: atividade e funding ainda não formam um sinal extremo. Score 59/100, faixa intermediária."
+          }
+        }
+      }
+    }
+  },
+  "intelligence": {
+    "month": "2026-08",
+    "brief": {
+      "headline": "Oferta primária forte encontra funding ainda seletivo.",
+      "summary": "O Radar lê a competência 2026-08 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
+      "watch": [
+        "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
+        "IRFC abaixo de 50 indica que o ambiente de funding ainda exige seletividade na interpretação de um pipeline forte.",
+        "Cenários anualizados são faixas de ritmo. O Radar revisa a leitura quando novas competências, dados macro ou atos regulatórios contradizem a tese."
+      ]
+    },
+    "thesesCount": 3,
+    "regulatoryCount": 8
+  }
+}

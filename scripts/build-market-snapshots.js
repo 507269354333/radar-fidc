@@ -36,7 +36,24 @@ for(const market of [...MARKETS,'ALL']){
   const payload={...report,sources:{cvm:{name:cvm.source,url:cvm.sourceUrl,updatedAt:cvm.sourceUpdatedAt},bcb:bcbResult?{name:bcbResult.source,url:bcbResult.sourceUrl,updatedAt:bcbResult.updatedAt}:null,anbima:anbimaResult?{name:anbimaResult.source,url:anbimaResult.sourceUrl,updatedAt:anbimaResult.sourceUpdatedAt}:null},macro:bcbResult?.series||null,anbima:anbimaResult?.indicators||null,regulatoryHighlights:(newsResult||[]).slice(0,8),marketComparison,intelligence:{month:intelligence.month,brief:intelligence.brief,theses:intelligence.theses.slice(0,3),directions:intelligence.directions}};
   await writeFile(`data/weekly-${market}.json`,pretty(payload));
 }
-await writeFile('data/indices.json',pretty(computeRadarIndices(cvm,bcbResult,indexMonth)));
+const radarIndices=computeRadarIndices(cvm,bcbResult,indexMonth);
+await writeFile('data/indices.json',pretty(radarIndices));
+const fidcSummary={source:cvm.source,sourceUrl:cvm.sourceUrl,sourceUpdatedAt:cvm.sourceUpdatedAt,count:cvm.markets.FIDC.count,analytics:cvm.markets.FIDC.analytics,methodology:cvm.markets.FIDC.methodology};
+const pickIndex=x=>x?{code:x.code,name:x.name,score:x.score,interpretation:x.interpretation,education:x.education}:null;
+const homeSnapshot={
+ generatedAt:new Date().toISOString(),
+ macro:null,
+ overview:fidcSummary,
+ indices:{month:radarIndices.month,foundation:radarIndices.foundation,guide:radarIndices.guide,markets:{
+  FIDC:{offerPressure:pickIndex(radarIndices.markets.FIDC.offerPressure)},
+  FIAGRO:{offerPressure:pickIndex(radarIndices.markets.FIAGRO.offerPressure)},
+  FII:{offerPressure:pickIndex(radarIndices.markets.FII.offerPressure)},
+  ALL:{funding:pickIndex(radarIndices.markets.ALL.funding),pulse:pickIndex(radarIndices.markets.ALL.pulse)}
+ }},
+ intelligence:{month:intelligence.month,brief:intelligence.brief,thesesCount:(intelligence.theses||[]).length,regulatoryCount:(intelligence.regulatory||[]).length}
+};
+try{homeSnapshot.macro=JSON.parse(await (await import('node:fs/promises')).readFile('data/macro-ticker.json','utf8'))}catch{}
+await writeFile('data/home.json',pretty(homeSnapshot));
 const coordinatorSnapshots=buildCoordinatorSnapshots(cvm);
 for(const market of MARKETS)await writeFile(`data/coordinators-${market}.json`,pretty(coordinatorSnapshots[market]));
 for(const market of [...MARKETS,'ALL']){
