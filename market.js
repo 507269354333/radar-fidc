@@ -1,1 +1,1 @@
-export default async function handler(req,res){res.setHeader('Cache-Control','s-maxage=300');res.status(200).json({source:'Radar FIDC',quotes:[],note:'Cotações externas pausadas até definição de fonte adequada para redistribuição pública.'})}
+export {default} from './api/market.js';
