@@ -1,18 +1,41 @@
 # Radar FIDC
 
-Analytics de ofertas públicas FIDC sobre bases oficiais da CVM e do Banco Central do Brasil.
+Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Entrega
-- KPIs de ofertas, volume observado, coordenadores e atualização da base
-- filtros por busca, rito, público-alvo e coordenador
-- ranking de coordenadores consolidados por CNPJ
-- composição por rito e público-alvo
-- tabela filtrável
-- drawer individual de cada operação
-- séries BCB independentes, sem indisponibilidade em cascata
+## Versão 7
 
-## Publicação
-O deploy é realizado pela integração GitHub/Vercel. As rotas `/api/*` exigem ambiente Node compatível; abrir `index.html` diretamente não executa o backend.
+- **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
+- **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
+- **League tables:** coordenadores por quantidade e volume, com janela de 12 meses e página individual.
+- **Monitor de eventos:** novas ofertas, status, documentos/publicações presentes na base e histórico do emissor/coordenador.
+- **Relatório semanal:** fechamento de segunda a domingo para cada vertical ou para os três mercados, com comparação contra a semana anterior.
+- **Contexto macro:** Banco Central/SGS e Quadro de Indicadores da ANBIMA.
+- **Regulação:** curadoria de publicações oficiais da CVM ligada a ofertas, FIDC, FIAGRO, FII, securitização e distribuição.
+- **Separação editorial:** dado oficial, documento da operação e leitura Radar permanecem identificados separadamente.
+
+## Rotas
+
+- `/` — visão geral FIDC + resumo dos três mercados
+- `/markets.html?market=FIDC|FIAGRO|FII` — inteligência por vertical
+- `/offer.html?market=...&id=...` — ficha individual de oferta
+- `/coordinator.html?market=...&cnpj=...` — perfil do coordenador
+- `/weekly-report.html?market=FIDC|FIAGRO|FII|ALL` — relatório semanal imprimível/PDF
+- `/api/markets`, `/api/offer`, `/api/coordinator`, `/api/weekly` — camada de dados
+
+## Fontes
+
+- CVM Dados Abertos — Ofertas Públicas de Distribuição.
+- Banco Central do Brasil — Sistema Gerenciador de Séries Temporais (SGS).
+- ANBIMA — Quadro de Indicadores público.
+- CVM — notícias e orientações oficiais.
+
+A integração de séries licenciadas/autenticadas do **ANBIMA Data** (por exemplo, famílias IDA/IMA quando aplicável) deve usar credenciais próprias e a API oficial; o projeto não replica cotações a partir de fontes não oficiais.
+
+## Metodologia
+
+A classificação FIDC/FIAGRO/FII usa somente campos oficiais de tipo de fundo, tipo de ativo ou valor mobiliário. FIAGRO tem precedência sobre classificações históricas como FIAGRO-FIDC/FIAGRO-FII. Linhas de classes ou séries da mesma oferta são consolidadas pelo número oficial/processo e somente componentes distintos compõem o volume.
+
+Sinais de tema no relatório semanal são derivados apenas da denominação e aparecem como **indicativos**, nunca como tese confirmada. Uma tese/destinação só deve ser atribuída quando houver documento público que a sustente.
 
 ## Validação
 
@@ -21,9 +44,4 @@ npm test
 npm run validate:data
 ```
 
-## Fontes e metodologia
-
-- CVM Dados Abertos — Ofertas Públicas de Distribuição.
-- Banco Central do Brasil — Sistema Gerenciador de Séries Temporais (SGS).
-
-As ofertas são identificadas pelos campos oficiais de tipo do ativo/fundo. Linhas de classes e séries da mesma oferta são consolidadas pelo número oficial ou processo, e somente componentes distintos compõem o volume. Campos ausentes permanecem não informados; o Radar não cria estimativas.
+O deploy é feito automaticamente pela integração GitHub/Vercel; não é necessário alterar o projeto Vercel manualmente.

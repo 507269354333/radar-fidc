@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {decodeOfficialCsv,parseCsv} from '../lib/csv.js';
-import {buildCvmDataset} from '../lib/cvm-data.js';
+import {buildCvmDataset,buildCvmMarketsDataset,classifyMarket} from '../lib/cvm-data.js';
 import {fetchBcbDataset} from '../lib/bcb-data.js';
 import {isRelevantTitle} from '../api/news.js';
 import {previousFullWeek,buildWeeklyReport} from '../lib/weekly.js';
@@ -51,6 +51,8 @@ test('filtro de notícias mantém apenas temas aderentes ao Radar FIDC',()=>{
   assert.equal(isRelevantTitle('Portal Dados Abertos CVM disponibiliza novo conjunto de dados nas informações sobre fundos de investimento'),false);
   assert.equal(isRelevantTitle('Programas Financiados pelo Fundo de Amparo ao Trabalhador (FAT)'),false);
   assert.equal(isRelevantTitle('Área técnica da CVM orienta sobre alavancagem em Fundos de Investimento Financeiro'),false);
+  assert.equal(isRelevantTitle('CVM orienta mercado sobre FIAGRO em ofertas públicas'),true);
+  assert.equal(isRelevantTitle('CVM publica atualização para fundos de investimento imobiliário - FII'),true);
 });
 
 
@@ -84,4 +86,29 @@ test('parser ANBIMA lê o quadro oficial sem inventar indicadores',()=>{
   assert.equal(repaired.sourceUpdatedAt,'18/09/2026 16:39');
   assert.equal(repaired.indicators.dollarSell.value,5.1575);
   assert.equal(repaired.indicators.ipcaProjection.value,0.56);
+});
+
+
+test('classifica FIDC, FIAGRO e FII apenas pelos campos oficiais',()=>{
+  const common={Data_Registro:'2026-09-15',Status_Requerimento:'Registro Concedido',Rito_Requerimento:'Automático',Publico_alvo:'Profissional',Valor_Total_Registrado:'100'};
+  assert.equal(classifyMarket({...common,Valor_Mobiliario:'Cotas de FIDC'},'resolucao160'),'FIDC');
+  assert.equal(classifyMarket({...common,Valor_Mobiliario:'Cotas de FIAGRO'},'resolucao160'),'FIAGRO');
+  assert.equal(classifyMarket({...common,Valor_Mobiliario:'Cotas de FII'},'resolucao160'),'FII');
+  assert.equal(classifyMarket({Tipo_Fundo_Investimento:'FIAGRO - FIDC',Tipo_Ativo:'Cotas de FIDC'},'distribuicao'),'FIAGRO');
+  assert.equal(classifyMarket({Nome_Emissor:'FII QUE INVESTE EM FIDC',Tipo_Fundo_Investimento:'Fundo de Ações'},'distribuicao'),'');
+});
+
+test('dataset multivertical mantém mercados separados e FIAGRO prevalece no histórico',()=>{
+  const rows=[
+    {origin:'resolucao160',row:{Numero_Requerimento:'1',Valor_Mobiliario:'Cotas de FIDC',Nome_Emissor:'FIDC A',CNPJ_Emissor:'11.111.111/0001-11',Data_Registro:'2026-09-15',Valor_Total_Registrado:'100'}},
+    {origin:'resolucao160',row:{Numero_Requerimento:'2',Valor_Mobiliario:'Cotas de FIAGRO',Nome_Emissor:'FIAGRO B',CNPJ_Emissor:'22.222.222/0001-22',Data_Registro:'2026-09-15',Valor_Total_Registrado:'200'}},
+    {origin:'distribuicao',row:{Numero_Registro_Oferta:'3',Tipo_Fundo_Investimento:'FIAGRO-FIDC',Tipo_Ativo:'Cotas de FIDC',Nome_Emissor:'FIAGRO HIST',CNPJ_Emissor:'33.333.333/0001-33',Data_Registro_Oferta:'2026-09-14',Valor_Total:'50'}},
+    {origin:'resolucao160',row:{Numero_Requerimento:'4',Valor_Mobiliario:'Cotas de FII',Nome_Emissor:'FII C',CNPJ_Emissor:'44.444.444/0001-44',Data_Registro:'2026-09-15',Valor_Total_Registrado:'300'}}
+  ];
+  const dataset=buildCvmMarketsDataset(rows,'2026-09-21');
+  assert.equal(dataset.markets.FIDC.count,1);
+  assert.equal(dataset.markets.FIAGRO.count,2);
+  assert.equal(dataset.markets.FII.count,1);
+  assert.equal(dataset.overall.count,4);
+  assert.equal(dataset.markets.FIAGRO.analytics.volumeInMonth,250);
 });
