@@ -2,7 +2,7 @@
 
 Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Versão 9.1 — Intelligence + Index Education
+## Versão 10 — Cockpit + Macro Tape
 
 - **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
 - **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
@@ -28,7 +28,7 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - `/weekly-report.html?market=FIDC|FIAGRO|FII|ALL` — relatório semanal imprimível/PDF
 - `/intelligence.html?month=AAAA-MM` — briefing, teses, cenários, regulador e mesa de decisão
 - `/monthly-letter.html?month=AAAA-MM&market=ALL|FIDC|FIAGRO|FII` — Carta Mensal Radar
-- `/api/markets`, `/api/offer`, `/api/coordinator`, `/api/weekly`, `/api/monthly`, `/api/indices`, `/api/intelligence` — camada de dados e inteligência
+- `/api/markets`, `/api/offer`, `/api/coordinator`, `/api/weekly`, `/api/monthly`, `/api/indices`, `/api/intelligence`, `/api/macro-ticker` — camada de dados e inteligência
 
 ## Fontes
 

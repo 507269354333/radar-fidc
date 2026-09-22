@@ -9,6 +9,7 @@ import {parseAnbimaIndicators} from '../lib/anbima-data.js';
 import {percentileRank,computeMarketIndices,computeRadarIndices,RADAR_INDEX_GUIDE,RADAR_METHODOLOGICAL_FOUNDATION,explainRadarIndex} from '../lib/indices.js';
 import {previousFullMonth,buildMonthlyLetter} from '../lib/monthly.js';
 import {buildMarketIntelligence} from '../lib/intelligence.js';
+import {parseImaXml} from '../lib/macro-ticker.js';
 
 test('decodifica CSV oficial Windows-1252 e campos entre aspas',()=>{
   const bytes=Buffer.from('Nome;Descrição\r\n"FIDC Alfa";"Crédito; estruturado"\r\n','latin1');
@@ -220,4 +221,14 @@ test('dataset de índices entrega educação em cada score e guia metodológico 
   assert.equal(data.markets.FIDC.offerPressure.education.code,'IROP');
   assert.equal(data.markets.ALL.concentration.education.code,'IRCC');
   assert.equal(data.foundation.version,'1.0');
+});
+
+
+test('parser IMA público lê totais de prefixado, pós e inflação',()=>{
+ const xml='<IMA><FAMILIA INDICE="IRF-M"><TOTAIS DT_REF="21/09/2026"><TOTAL T_Indice="TOTAL" T_Num_Indice="23537,590581" T_Var_Diaria="0,2872" T_Var_Mensal="1,7598" T_Var_Anual="8,9405" T_Var_Ult12M="12,8250" T_Yield="13,7539"/></TOTAIS></FAMILIA><FAMILIA INDICE="IMA-S"><TOTAIS DT_REF="21/09/2026"><TOTAL T_Indice="TOTAL" T_Num_Indice="9000,50" T_Var_Diaria="0,05"/></TOTAIS></FAMILIA><FAMILIA INDICE="IMA-B"><TOTAIS DT_REF="21/09/2026"><TOTAL T_Indice="TOTAL" T_Num_Indice="10000,10" T_Var_Diaria="-0,12"/></TOTAIS></FAMILIA><FAMILIA INDICE="IMA-C"><TOTAIS DT_REF="21/09/2026"><TOTAL T_Indice="TOTAL" T_Num_Indice="8000,20" T_Var_Diaria="0,03"/></TOTAIS></FAMILIA></IMA>';
+ const d=parseImaXml(xml);
+ assert.equal(d['IRF-M'].numberIndex,23537.590581);
+ assert.equal(d['IRF-M'].daily,0.2872);
+ assert.equal(d['IMA-B'].daily,-0.12);
+ assert.equal(d['IMA-C'].date,'2026-09-21');
 });
