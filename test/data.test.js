@@ -118,3 +118,12 @@ test('não trata vasos comunicantes como documento ou publicação',()=>{
   const dataset=buildCvmMarketsDataset([{origin:'resolucao160',row:{Numero_Requerimento:'x1',Valor_Mobiliario:'Cotas de FII',Nome_Emissor:'FII TESTE',Data_Registro:'2026-09-20',Valor_Total_Registrado:'10',Oferta_vasos_comunicantes:'S'}}],null);
   assert.equal(dataset.markets.FII.items[0].publications.length,0);
 });
+
+
+test('sinaliza outlier estatístico de volume sem excluir o dado oficial',()=>{
+  const base=(n,v)=>({origin:'resolucao160',row:{Numero_Requerimento:String(n),Valor_Mobiliario:'Cotas de FIAGRO',Nome_Emissor:'FIAGRO '+n,CNPJ_Emissor:'55.555.555/000'+n+'-55',Data_Registro:'2026-09-1'+n,Valor_Total_Registrado:String(v)}});
+  const dataset=buildCvmMarketsDataset([base(1,100),base(2,200),base(3,1000000)],null);
+  assert.equal(dataset.markets.FIAGRO.analytics.dataQuality.outlierCount,1);
+  assert.equal(dataset.markets.FIAGRO.analytics.dataQuality.outliers[0].volume,1000000);
+  assert.equal(dataset.markets.FIAGRO.analytics.volumeInMonth,1000300);
+});
