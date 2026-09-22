@@ -53,3 +53,21 @@ npm run validate:data
 ```
 
 O deploy é feito automaticamente pela integração GitHub/Vercel; não é necessário alterar o projeto Vercel manualmente.
+
+
+## Institucionalização
+
+O **Radar FIDC** é um projeto independente de inteligência em mercado de capitais estruturados, criado por **Daniel Alves Sousa**.
+
+A camada pública separa:
+- **Dado oficial** — CVM, Banco Central e ANBIMA, com competência/data da fonte.
+- **Documento da operação** — prospectos, anúncios, regulamentos e demais documentos públicos.
+- **Leitura Radar** — interpretação autoral identificada, com evidências, mecanismo, limitações e critérios de invalidação.
+
+Páginas institucionais:
+- `/about.html` — missão, autoria, público e independência.
+- `/methodology.html` — metodologia dos índices, governança de dados e limites.
+- `/robots.txt` + `/sitemap.xml` — indexação pública.
+- `/site.webmanifest` — identidade da aplicação.
+
+O Radar FIDC não é afiliado nem endossado por CVM, ANBIMA, Banco Central, emissores, coordenadores, administradores, gestores ou empregadores do autor. O conteúdo é informativo e analítico e não constitui recomendação de investimento, aconselhamento jurídico, regulatório ou financeiro.
