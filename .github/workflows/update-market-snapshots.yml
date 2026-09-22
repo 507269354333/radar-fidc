@@ -1,0 +1,34 @@
+name: Atualizar snapshots oficiais
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 11 * * 1-5'
+
+permissions:
+  contents: write
+
+jobs:
+  snapshots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run snapshot:data
+      - name: Publicar snapshots se houver mudança
+        run: |
+          if git diff --quiet -- data; then
+            echo "Sem mudanças nos snapshots."
+            exit 0
+          fi
+          git config user.name "Radar FIDC Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git commit -m "Atualizar snapshots oficiais"
+          git push

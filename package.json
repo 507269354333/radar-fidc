@@ -1,1 +1,14 @@
-{"name":"radar-fidc","version":"7.0.0","private":true,"type":"module","scripts":{"test":"node --test","validate:data":"node scripts/validate-data.js"},"dependencies":{"adm-zip":"^0.5.16"}}
+{
+  "name": "radar-fidc",
+  "version": "7.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "validate:data": "node scripts/validate-data.js",
+    "snapshot:data": "node scripts/build-market-snapshots.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  }
+}
