@@ -4,6 +4,8 @@ import {decodeOfficialCsv,parseCsv} from '../lib/csv.js';
 import {buildCvmDataset} from '../lib/cvm-data.js';
 import {fetchBcbDataset} from '../lib/bcb-data.js';
 import {isRelevantTitle} from '../api/news.js';
+import {previousFullWeek,buildWeeklyReport} from '../lib/weekly.js';
+import {parseAnbimaIndicators} from '../lib/anbima-data.js';
 
 test('decodifica CSV oficial Windows-1252 e campos entre aspas',()=>{
   const bytes=Buffer.from('Nome;Descrição\r\n"FIDC Alfa";"Crédito; estruturado"\r\n','latin1');
@@ -49,4 +51,32 @@ test('filtro de notícias mantém apenas temas aderentes ao Radar FIDC',()=>{
   assert.equal(isRelevantTitle('Portal Dados Abertos CVM disponibiliza novo conjunto de dados nas informações sobre fundos de investimento'),false);
   assert.equal(isRelevantTitle('Programas Financiados pelo Fundo de Amparo ao Trabalhador (FAT)'),false);
   assert.equal(isRelevantTitle('Área técnica da CVM orienta sobre alavancagem em Fundos de Investimento Financeiro'),false);
+});
+
+
+test('relatório semanal usa a última semana fechada de segunda a domingo',()=>{
+  assert.deepEqual(previousFullWeek(new Date('2026-09-21T12:00:00Z')),{start:'2026-09-14',end:'2026-09-20'});
+  const items=[
+    {id:'1',name:'FIDC A',date:'2026-09-18',leader:'BANCO A',leaderCnpj:'11.111.111/0001-11',volume:100,audience:'Profissional',rite:'Automático'},
+    {id:'2',name:'FIDC B',date:'2026-09-17',leader:'BANCO A',leaderCnpj:'11.111.111/0001-11',volume:200,audience:'Profissional',rite:'Automático'},
+    {id:'3',name:'FIDC C',date:'2026-09-16',leader:'BANCO B',leaderCnpj:'22.222.222/0001-22',volume:0,audience:'Qualificado',rite:'Automático'},
+    {id:'4',name:'FIDC D',date:'2026-09-11',leader:'BANCO B',leaderCnpj:'22.222.222/0001-22',volume:50,audience:'Profissional',rite:'Automático'}
+  ];
+  const report=buildWeeklyReport(items,new Date('2026-09-21T12:00:00Z'));
+  assert.equal(report.current.offers,3);
+  assert.equal(report.current.volume,300);
+  assert.equal(report.current.offersWithVolume,2);
+  assert.equal(report.current.topLeaders[0].name,'BANCO A');
+  assert.equal(report.prior.offers,1);
+  assert.equal(report.changes.offersPct,200);
+});
+
+test('parser ANBIMA lê o quadro oficial sem inventar indicadores',()=>{
+  const html='<div>Data e Hora da Última Atualização: 18/09/2026 - 16:39 h</div><table><tr><td>Estimativa SELIC</td><td>18/09/2026</td><td>13,65</td></tr><tr><td>Taxa SELIC do BC</td><td>18/09/2026</td><td>13,65</td></tr><tr><td>DI-B3</td><td>18/09/2026</td><td>13,65</td></tr><tr><td>IGP-M (ago/26)</td><td>Número Índice 1.206,897 Var % no mês -0,22</td></tr><tr><td>IGP-M Projeção (set/26)</td><td>0,95</td></tr><tr><td>IPCA (ago/26)</td><td>Número Índice 7.633,23 Var % no mês -0,32</td></tr><tr><td>IPCA Projeção (set/26)</td><td>0,56</td></tr><tr><td>Dólar Comercial Venda</td><td>18/09/2026</td><td>5,1575</td></tr></table>';
+  const data=parseAnbimaIndicators(html);
+  assert.equal(data.sourceUpdatedAt,'18/09/2026 16:39');
+  assert.equal(data.indicators.selicEstimate.value,13.65);
+  assert.equal(data.indicators.dollarSell.value,5.1575);
+  assert.equal(data.indicators.ipcaProjection.value,0.56);
+  assert.equal(data.indicators.igpmProjection.value,0.95);
 });
