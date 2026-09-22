@@ -8,6 +8,7 @@ import {previousFullWeek,buildWeeklyReport} from '../lib/weekly.js';
 import {parseAnbimaIndicators} from '../lib/anbima-data.js';
 import {percentileRank,computeMarketIndices} from '../lib/indices.js';
 import {previousFullMonth,buildMonthlyLetter} from '../lib/monthly.js';
+import {buildMarketIntelligence} from '../lib/intelligence.js';
 
 test('decodifica CSV oficial Windows-1252 e campos entre aspas',()=>{
   const bytes=Buffer.from('Nome;Descrição\r\n"FIDC Alfa";"Crédito; estruturado"\r\n','latin1');
@@ -182,4 +183,18 @@ test('carta mensal de uma vertical não herda o agregado dos três mercados',()=
   assert.equal(letter.aggregate.current.offers,1);
   assert.equal(letter.aggregate.current.registeredVolume,100);
   assert.deepEqual(Object.keys(letter.verticals),['FIDC']);
+});
+
+
+test('inteligência Radar publica tese com evidência, confirmação e invalidação',()=>{
+  const mk=items=>({items,analytics:{}});
+  const make=(market,prefix)=>Array.from({length:8},(_,i)=>({id:prefix+i,market,name:market+' '+i,cnpj:prefix+i,leader:'BANCO '+(i%3),leaderCnpj:String(i%3),date:`2026-${String(i+1).padStart(2,'0')}-15`,volume:(i+1)*100}));
+  const fidc=make('FIDC','f'),fiagro=make('FIAGRO','a'),fii=make('FII','i');
+  const dataset={source:'CVM',sourceUrl:'https://dados.cvm.gov.br',sourceUpdatedAt:'2026-09-21',markets:{FIDC:mk(fidc),FIAGRO:mk(fiagro),FII:mk(fii)},allItems:[...fidc,...fiagro,...fii]};
+  const intel=buildMarketIntelligence(dataset,null,null,[{title:'CVM orienta sobre ofertas públicas e coordenadores',url:'https://www.gov.br/cvm',source:'CVM'}],{month:'2026-08'});
+  assert.equal(intel.directions.length,3);
+  assert(intel.theses.length>=3);
+  assert(intel.theses.every(t=>t.evidence.length&&t.confirms.length&&t.invalidates.length));
+  assert.equal(intel.regulatory[0].theme,'Ofertas & distribuição');
+  assert.match(intel.methodology,/critérios de confirmação\/invalidação/);
 });

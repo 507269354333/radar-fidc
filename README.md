@@ -2,7 +2,7 @@
 
 Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Versão 7
+## Versão 9 — Intelligence Layer
 
 - **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
 - **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
@@ -12,6 +12,10 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - **Contexto macro:** Banco Central/SGS e Quadro de Indicadores da ANBIMA.
 - **Regulação:** curadoria de publicações oficiais da CVM ligada a ofertas, FIDC, FIAGRO, FII, securitização e distribuição.
 - **Separação editorial:** dado oficial, documento da operação e leitura Radar permanecem identificados separadamente.
+- **Inteligência de Mercado:** briefing, mapa de direção, teses Radar, cenários condicionais, regulador decodificado e mesa de decisão por participante.
+- **Teses testáveis:** toda tese publica evidência, mecanismo econômico, horizonte, variáveis que confirmam e critérios que invalidam a leitura.
+- **Regulatory Intelligence:** o Radar descreve primeiro o fato observado na fonte oficial e separa a interpretação operacional, sem atribuir intenção ao regulador.
+- **Consistência multicanal:** a mesma inteligência alimenta homepage, relatório semanal, Carta Mensal e a página dedicada.
 
 ## Rotas
 
@@ -20,7 +24,9 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - `/offer.html?market=...&id=...` — ficha individual de oferta
 - `/coordinator.html?market=...&cnpj=...` — perfil do coordenador
 - `/weekly-report.html?market=FIDC|FIAGRO|FII|ALL` — relatório semanal imprimível/PDF
-- `/api/markets`, `/api/offer`, `/api/coordinator`, `/api/weekly` — camada de dados
+- `/intelligence.html?month=AAAA-MM` — briefing, teses, cenários, regulador e mesa de decisão
+- `/monthly-letter.html?month=AAAA-MM&market=ALL|FIDC|FIAGRO|FII` — Carta Mensal Radar
+- `/api/markets`, `/api/offer`, `/api/coordinator`, `/api/weekly`, `/api/monthly`, `/api/indices`, `/api/intelligence` — camada de dados e inteligência
 
 ## Fontes
 

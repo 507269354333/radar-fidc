@@ -6,6 +6,7 @@ import {fetchCvmNews} from '../api/news.js';
 import {buildWeeklyReport} from '../lib/weekly.js';
 import {computeRadarIndices} from '../lib/indices.js';
 import {buildMonthlyLetter,previousFullMonth} from '../lib/monthly.js';
+import {buildMarketIntelligence} from '../lib/intelligence.js';
 
 const [cvm,bcbResult,anbimaResult,newsResult]=await Promise.all([
   fetchCvmMarketsDataset(),
@@ -15,6 +16,9 @@ const [cvm,bcbResult,anbimaResult,newsResult]=await Promise.all([
 ]);
 await mkdir('data',{recursive:true});
 const pretty=data=>JSON.stringify(data,null,2)+'\n';
+const indexMonth=previousFullMonth(new Date());
+const intelligence=buildMarketIntelligence(cvm,bcbResult,anbimaResult,newsResult,{month:indexMonth});
+await writeFile('data/intelligence.json',pretty(intelligence));
 const marketComparison=MARKETS.map(key=>({market:key,count:cvm.markets[key].count,latestMonth:cvm.markets[key].analytics.latestMonth,offersInMonth:cvm.markets[key].analytics.offersInMonth,volumeInMonth:cvm.markets[key].analytics.volumeInMonth}));
 const sourceSummary={source:cvm.source,sourceUrl:cvm.sourceUrl,sourceUpdatedAt:cvm.sourceUpdatedAt,overall:cvm.overall,markets:Object.fromEntries(MARKETS.map(key=>{const d=cvm.markets[key];return[key,{market:key,count:d.count,analytics:d.analytics,methodology:d.methodology}]})),updatedAt:new Date().toISOString()};
 await writeFile('data/markets-summary.json',pretty(sourceSummary));
@@ -25,13 +29,12 @@ for(const market of MARKETS){
 for(const market of [...MARKETS,'ALL']){
   const items=market==='ALL'?cvm.allItems:cvm.markets[market].items;
   const report=buildWeeklyReport(items,new Date(),{market});
-  const payload={...report,sources:{cvm:{name:cvm.source,url:cvm.sourceUrl,updatedAt:cvm.sourceUpdatedAt},bcb:bcbResult?{name:bcbResult.source,url:bcbResult.sourceUrl,updatedAt:bcbResult.updatedAt}:null,anbima:anbimaResult?{name:anbimaResult.source,url:anbimaResult.sourceUrl,updatedAt:anbimaResult.sourceUpdatedAt}:null},macro:bcbResult?.series||null,anbima:anbimaResult?.indicators||null,regulatoryHighlights:(newsResult||[]).slice(0,8),marketComparison};
+  const payload={...report,sources:{cvm:{name:cvm.source,url:cvm.sourceUrl,updatedAt:cvm.sourceUpdatedAt},bcb:bcbResult?{name:bcbResult.source,url:bcbResult.sourceUrl,updatedAt:bcbResult.updatedAt}:null,anbima:anbimaResult?{name:anbimaResult.source,url:anbimaResult.sourceUrl,updatedAt:anbimaResult.sourceUpdatedAt}:null},macro:bcbResult?.series||null,anbima:anbimaResult?.indicators||null,regulatoryHighlights:(newsResult||[]).slice(0,8),marketComparison,intelligence:{month:intelligence.month,brief:intelligence.brief,theses:intelligence.theses.slice(0,3),directions:intelligence.directions}};
   await writeFile(`data/weekly-${market}.json`,pretty(payload));
 }
-const indexMonth=previousFullMonth(new Date());
 await writeFile('data/indices.json',pretty(computeRadarIndices(cvm,bcbResult,indexMonth)));
 for(const market of [...MARKETS,'ALL']){
   const monthly=buildMonthlyLetter(cvm,bcbResult,anbimaResult,newsResult,{month:indexMonth,market});
-  await writeFile(`data/monthly-${indexMonth}-${market}.json`,pretty(monthly));
+  await writeFile(`data/monthly-${indexMonth}-${market}.json`,pretty({...monthly,intelligence:{brief:intelligence.brief,theses:intelligence.theses,directions:intelligence.directions,scenarios:intelligence.scenarios}}));
 }
 console.log('Snapshots oficiais atualizados:',new Date().toISOString(), 'mês mensal:',indexMonth);
