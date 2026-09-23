@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-22T15:31:49.229Z",
+  "generatedAt": "2026-09-23T15:27:40.122Z",
   "market": "ALL",
   "current": {
     "period": {
       "start": "2026-09-14",
       "end": "2026-09-20"
     },
-    "offers": 52,
-    "offersWithVolume": 50,
-    "volume": 6695099257.61,
-    "averageTicket": 133901985.1522,
+    "offers": 51,
+    "offersWithVolume": 49,
+    "volume": 6545099257.61,
+    "averageTicket": 133573454.23693877,
     "leaders": 23,
     "topLeaders": [
       {
@@ -43,12 +43,6 @@
         "volume": 366987687.53
       },
       {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 3,
-        "volume": 293750000
-      },
-      {
         "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
         "cnpj": "28.650.236/0001-92",
         "count": 3,
@@ -71,6 +65,12 @@
         "cnpj": "62.285.390/0001-40",
         "count": 2,
         "volume": 169500000.47
+      },
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 2,
+        "volume": 143750000
       }
     ],
     "topOffers": [
@@ -198,7 +198,7 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 50
+        "count": 49
       },
       {
         "name": "Qualificado",
@@ -208,17 +208,17 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 52
+        "count": 51
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 45
+        "count": 43
       },
       {
         "name": "Oferta Encerrada",
-        "count": 5
+        "count": 6
       },
       {
         "name": "Aguardando Bookbuilding",
@@ -228,7 +228,7 @@
     "byMarket": [
       {
         "name": "FIDC",
-        "count": 36
+        "count": 35
       },
       {
         "name": "FII",
@@ -239,12 +239,12 @@
         "count": 6
       }
     ],
-    "professionalShare": 0.9615384615384616,
-    "top3Concentration": 0.28846153846153844,
+    "professionalShare": 0.9607843137254902,
+    "top3Concentration": 0.29411764705882354,
     "busiestDays": [
       {
         "date": "2026-09-16",
-        "count": 22
+        "count": 21
       },
       {
         "date": "2026-09-15",
@@ -552,14 +552,14 @@
     ]
   },
   "changes": {
-    "offersPct": 48.57142857142857,
-    "volumePct": 8.394064685687143
+    "offersPct": 45.714285714285715,
+    "volumePct": 5.965555551282285
   },
   "observations": [
-    "Atividade semanal de 52 ofertas ALL, 48,6% acima da semana anterior.",
-    "Volume informado de R$ 6.695.099.258 em 50 ofertas com valor positivo; ticket médio de R$ 133.901.985.",
-    "BANCO DAYCOVAL S.A. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 28,8% das ofertas da semana.",
-    "96,2% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Atividade semanal de 51 ofertas ALL, 45,7% acima da semana anterior.",
+    "Volume informado de R$ 6.545.099.258 em 49 ofertas com valor positivo; ticket médio de R$ 133.573.454.",
+    "BANCO DAYCOVAL S.A. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 29,4% das ofertas da semana.",
+    "96,1% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (7), Meios de pagamento (4), Veículos (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -567,17 +567,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-22T08:01:06.487390"
+      "updatedAt": "2026-09-23T08:00:43.191668"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-22T15:31:43.139Z"
+      "updatedAt": "2026-09-23T15:27:32.808Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "22/09/2026 09:37"
+      "updatedAt": "23/09/2026 09:30"
     }
   },
   "macro": {
@@ -586,19 +586,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-18",
+        "date": "2026-09-21",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-24",
-          "value": 13.9
-        },
         {
           "date": "2026-08-25",
           "value": 13.9
@@ -673,6 +669,10 @@
         },
         {
           "date": "2026-09-21",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-22",
           "value": 13.65
         }
       ]
@@ -968,26 +968,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "22/09/2026",
+      "date": "23/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "21/09/2026",
+      "date": "22/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "21/09/2026",
+      "date": "22/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "21/09/2026",
-      "value": 5.1117,
+      "date": "22/09/2026",
+      "value": 5.1161,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1049,10 +1049,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4434,
+      "count": 4433,
       "latestMonth": "2026-09",
-      "offersInMonth": 82,
-      "volumeInMonth": 15827033151.28
+      "offersInMonth": 81,
+      "volumeInMonth": 15677033151.28
     },
     {
       "market": "FIAGRO",

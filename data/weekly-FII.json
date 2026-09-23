@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:31:49.226Z",
+  "generatedAt": "2026-09-23T15:27:40.119Z",
   "market": "FII",
   "current": {
     "period": {
@@ -128,7 +128,7 @@
         "date": "2026-09-18",
         "rite": "Automático",
         "audience": "Profissional",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "publications": []
       },
       {
@@ -192,11 +192,11 @@
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 9
+        "count": 8
       },
       {
         "name": "Oferta Encerrada",
-        "count": 1
+        "count": 2
       }
     ],
     "byMarket": [
@@ -427,17 +427,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-22T08:01:06.487390"
+      "updatedAt": "2026-09-23T08:00:43.191668"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-22T15:31:43.139Z"
+      "updatedAt": "2026-09-23T15:27:32.808Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "22/09/2026 09:37"
+      "updatedAt": "23/09/2026 09:30"
     }
   },
   "macro": {
@@ -446,19 +446,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-18",
+        "date": "2026-09-21",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-24",
-          "value": 13.9
-        },
         {
           "date": "2026-08-25",
           "value": 13.9
@@ -533,6 +529,10 @@
         },
         {
           "date": "2026-09-21",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-22",
           "value": 13.65
         }
       ]
@@ -828,26 +828,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "22/09/2026",
+      "date": "23/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "21/09/2026",
+      "date": "22/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "21/09/2026",
+      "date": "22/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "21/09/2026",
-      "value": 5.1117,
+      "date": "22/09/2026",
+      "value": 5.1161,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -909,10 +909,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4434,
+      "count": 4433,
       "latestMonth": "2026-09",
-      "offersInMonth": 82,
-      "volumeInMonth": 15827033151.28
+      "offersInMonth": 81,
+      "volumeInMonth": 15677033151.28
     },
     {
       "market": "FIAGRO",

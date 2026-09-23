@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-09-22T15:31:49.262Z",
+  "generatedAt": "2026-09-23T15:27:40.158Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-22T08:01:06.487390"
+    "updatedAt": "2026-09-23T08:00:43.191668"
   },
   "coordinators": [
     {
@@ -3341,7 +3341,7 @@
           "date": "2026-03-24",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5430,10 +5430,10 @@
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 17,
-        "volume": 2425750823.83,
-        "offersWithVolume": 17,
-        "averageTicket": 142691224.93117645
+        "offers": 16,
+        "volume": 2275750823.83,
+        "offersWithVolume": 16,
+        "averageTicket": 142234426.489375
       },
       "byMonth": [
         {
@@ -5523,8 +5523,8 @@
         },
         {
           "month": "2026-09",
-          "count": 5,
-          "volume": 914750838.8399999
+          "count": 4,
+          "volume": 764750838.8399999
         }
       ],
       "recentOffers": [
@@ -5541,22 +5541,6 @@
           "date": "2026-09-18",
           "rite": "Automático",
           "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "da3333f422790d41",
-          "market": "FIDC",
-          "name": "ARACATUY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.551.063/0001-70",
-          "registration": "27928",
-          "processNumber": "SRE/2979/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 150000000,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
         },
@@ -6007,13 +5991,29 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
+        },
+        {
+          "id": "4100b455dc3dce40",
+          "market": "FIDC",
+          "name": "G5 SPECIAL F SUB FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "38.948.698/0001-44",
+          "registration": "19643",
+          "processNumber": "SRE/0584/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 100000000,
+          "date": "2025-02-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 152,
-          "volume": 27961248543.73
+          "count": 151,
+          "volume": 27811248543.73
         },
         {
           "market": "FIAGRO",

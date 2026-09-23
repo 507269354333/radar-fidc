@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-22T15:31:49.224Z",
+  "generatedAt": "2026-09-23T15:27:40.117Z",
   "market": "FIDC",
   "current": {
     "period": {
       "start": "2026-09-14",
       "end": "2026-09-20"
     },
-    "offers": 36,
-    "offersWithVolume": 34,
-    "volume": 3778412000.4700003,
-    "averageTicket": 111129764.7197059,
+    "offers": 35,
+    "offersWithVolume": 33,
+    "volume": 3628412000.4700003,
+    "averageTicket": 109951878.80212122,
     "leaders": 19,
     "topLeaders": [
       {
@@ -23,12 +23,6 @@
         "cnpj": "62.232.889/0001-90",
         "count": 4,
         "volume": 139662000
-      },
-      {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 3,
-        "volume": 293750000
       },
       {
         "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -47,6 +41,12 @@
         "cnpj": "62.285.390/0001-40",
         "count": 2,
         "volume": 169500000.47
+      },
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 2,
+        "volume": 143750000
       },
       {
         "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -180,15 +180,15 @@
         "publications": []
       },
       {
-        "id": "da3333f422790d41",
+        "id": "215776687819609d",
         "market": "FIDC",
-        "name": "ARACATUY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.551.063/0001-70",
-        "registration": "27928",
-        "processNumber": "SRE/2979/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "name": "ARC SPECIAL I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "66.745.267/0001-16",
+        "registration": "27900",
+        "processNumber": "SRE/2953/2026",
+        "leader": "OLIVEIRA TRUST DTVM S.A.",
         "volume": 150000000,
-        "date": "2026-09-16",
+        "date": "2026-09-15",
         "rite": "Automático",
         "audience": "Profissional",
         "status": "Registro Concedido",
@@ -198,7 +198,7 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 34
+        "count": 33
       },
       {
         "name": "Qualificado",
@@ -208,13 +208,13 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 36
+        "count": 35
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 31
+        "count": 30
       },
       {
         "name": "Oferta Encerrada",
@@ -228,15 +228,15 @@
     "byMarket": [
       {
         "name": "FIDC",
-        "count": 36
+        "count": 35
       }
     ],
-    "professionalShare": 0.9444444444444444,
-    "top3Concentration": 0.3055555555555556,
+    "professionalShare": 0.9428571428571428,
+    "top3Concentration": 0.3142857142857143,
     "busiestDays": [
       {
         "date": "2026-09-16",
-        "count": 16
+        "count": 15
       },
       {
         "date": "2026-09-15",
@@ -520,14 +520,14 @@
     ]
   },
   "changes": {
-    "offersPct": 28.57142857142857,
-    "volumePct": 60.925868421210225
+    "offersPct": 25,
+    "volumePct": 54.537237361341994
   },
   "observations": [
-    "Atividade semanal de 36 ofertas FIDC, 28,6% acima da semana anterior.",
-    "Volume informado de R$ 3.778.412.000 em 34 ofertas com valor positivo; ticket médio de R$ 111.129.765.",
-    "BANCO BRADESCO BBI S.A. liderou por quantidade de registros (4); os três coordenadores mais presentes concentraram 30,6% das ofertas da semana.",
-    "94,4% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Atividade semanal de 35 ofertas FIDC, 25,0% acima da semana anterior.",
+    "Volume informado de R$ 3.628.412.000 em 33 ofertas com valor positivo; ticket médio de R$ 109.951.879.",
+    "BANCO BRADESCO BBI S.A. liderou por quantidade de registros (4); os três coordenadores mais presentes concentraram 31,4% das ofertas da semana.",
+    "94,3% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Meios de pagamento (4), Veículos (2), Agronegócio (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -535,17 +535,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-22T08:01:06.487390"
+      "updatedAt": "2026-09-23T08:00:43.191668"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-22T15:31:43.139Z"
+      "updatedAt": "2026-09-23T15:27:32.808Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "22/09/2026 09:37"
+      "updatedAt": "23/09/2026 09:30"
     }
   },
   "macro": {
@@ -554,19 +554,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-18",
+        "date": "2026-09-21",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-24",
-          "value": 13.9
-        },
         {
           "date": "2026-08-25",
           "value": 13.9
@@ -641,6 +637,10 @@
         },
         {
           "date": "2026-09-21",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-22",
           "value": 13.65
         }
       ]
@@ -936,26 +936,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "22/09/2026",
+      "date": "23/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "21/09/2026",
+      "date": "22/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "21/09/2026",
+      "date": "22/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "21/09/2026",
-      "value": 5.1117,
+      "date": "22/09/2026",
+      "value": 5.1161,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1017,10 +1017,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4434,
+      "count": 4433,
       "latestMonth": "2026-09",
-      "offersInMonth": 82,
-      "volumeInMonth": 15827033151.28
+      "offersInMonth": 81,
+      "volumeInMonth": 15677033151.28
     },
     {
       "market": "FIAGRO",

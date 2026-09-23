@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-09-22T08:01:06.487390",
+  "sourceUpdatedAt": "2026-09-23T08:00:43.191668",
   "market": "FIDC",
-  "count": 4434,
+  "count": 4433,
   "analytics": {
     "latestMonth": "2026-09",
-    "offersInMonth": 82,
-    "volumeInMonth": 15827033151.28,
-    "offersWithVolumeInMonth": 78,
+    "offersInMonth": 81,
+    "volumeInMonth": 15677033151.28,
+    "offersWithVolumeInMonth": 77,
     "leadersInMonth": 27,
     "byRite": [
       {
         "name": "Automático",
-        "count": 82
+        "count": 81
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 77
+        "count": 76
       },
       {
         "name": "Qualificado",
@@ -52,12 +52,6 @@
         "volume": 4521400000
       },
       {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 5,
-        "volume": 914750838.8399999
-      },
-      {
         "name": "BANCO BRADESCO BBI S.A.",
         "cnpj": "06.271.464/0001-19",
         "count": 5,
@@ -68,6 +62,12 @@
         "cnpj": "03.751.794/0001-13",
         "count": 5,
         "volume": 60420000
+      },
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 4,
+        "volume": 764750838.8399999
       },
       {
         "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -193,15 +193,15 @@
       },
       {
         "month": "2026-09",
-        "count": 82,
-        "volume": 15827033151.28,
-        "withVolume": 78
+        "count": 81,
+        "volume": 15677033151.28,
+        "withVolume": 77
       }
     ],
     "trailing12": {
-      "offers": 678,
-      "volume": 68323035879.3,
-      "offersWithVolume": 673,
+      "offers": 677,
+      "volume": 68173035879.3,
+      "offersWithVolume": 672,
       "leaders": 59,
       "topLeaders": [
         {
@@ -261,8 +261,8 @@
         {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
-          "count": 17,
-          "volume": 2425750823.83
+          "count": 16,
+          "volume": 2275750823.83
         },
         {
           "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
@@ -621,30 +621,6 @@
         "distinctComponents": 1
       },
       {
-        "id": "da3333f422790d41",
-        "market": "FIDC",
-        "name": "ARACATUY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.551.063/0001-70",
-        "registration": "27928",
-        "processNumber": "SRE/2979/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "leaderCnpj": "59.281.253/0001-23",
-        "volume": 150000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-16",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
         "id": "f824b233188260eb",
         "market": "FIDC",
         "name": "BEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
@@ -691,9 +667,33 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
+      },
+      {
+        "id": "b50cd3e49f167582",
+        "market": "FIDC",
+        "name": "CLASSE I FECHADA DO RIZA KRATOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESP LIMITADA",
+        "cnpj": "66.814.473/0001-30",
+        "registration": "27941",
+        "processNumber": "SRE/2993/2026",
+        "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "27.652.684/0001-62",
+        "volume": 1400000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-09-16",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIDC identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-09-22T15:31:49.211Z"
+  "updatedAt": "2026-09-23T15:27:40.104Z"
 }
