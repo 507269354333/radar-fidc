@@ -2,7 +2,7 @@
 
 Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Versão 10.1 — Cockpit + carregamento progressivo
+## Versão 10.2 — Regulatory Execution
 
 - **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
 - **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
@@ -15,6 +15,8 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - **Inteligência de Mercado:** briefing, mapa de direção, teses Radar, cenários condicionais, regulador decodificado e mesa de decisão por participante.
 - **Teses testáveis:** toda tese publica evidência, mecanismo econômico, horizonte, variáveis que confirmam e critérios que invalidam a leitura.
 - **Regulatory Intelligence:** o Radar descreve primeiro o fato observado na fonte oficial e separa a interpretação operacional, sem atribuir intenção ao regulador.
+- **Regulatory Execution:** cada mudança pode ser traduzida em fonte → aplicabilidade → gap → processo executável → evidência → monitoramento, preservando a fronteira entre obrigação expressa e interpretação operacional.
+- **Playbooks regulatórios:** modelos reutilizáveis para ofertas públicas, fundos e change management regulatório.
 - **Consistência multicanal:** a mesma inteligência alimenta homepage, relatório semanal, Carta Mensal e a página dedicada.
 - **Educação dos índices:** IROP, IRBD, IRCC, IRFC e IRPM publicam pergunta respondida, definição, base técnica, evidência empírica, fórmula quantitativa, camada qualitativa, leitura do score atual e limitações.
 - **Governança metodológica:** score quantitativo e interpretação qualitativa permanecem separados; os índices são proprietários, não oficiais e estão em validação histórica contínua.
@@ -27,6 +29,7 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - `/coordinator.html?market=...&cnpj=...` — perfil do coordenador
 - `/weekly-report.html?market=FIDC|FIAGRO|FII|ALL` — relatório semanal imprimível/PDF
 - `/intelligence.html?month=AAAA-MM` — briefing, teses, cenários, regulador e mesa de decisão
+- `/regulatory.html` — Regulatory Execution: fonte, aplicabilidade, gap, processo, evidência, monitoramento e playbooks
 - `/monthly-letter.html?month=AAAA-MM&market=ALL|FIDC|FIAGRO|FII` — Carta Mensal Radar
 - `/api/markets`, `/api/offer`, `/api/coordinator`, `/api/weekly`, `/api/monthly`, `/api/indices`, `/api/intelligence`, `/api/macro-ticker` — camada de dados e inteligência
 
@@ -63,6 +66,7 @@ A camada pública separa:
 - **Dado oficial** — CVM, Banco Central e ANBIMA, com competência/data da fonte.
 - **Documento da operação** — prospectos, anúncios, regulamentos e demais documentos públicos.
 - **Leitura Radar** — interpretação autoral identificada, com evidências, mecanismo, limitações e critérios de invalidação.
+- **Regulatory Execution** — tradução operacional identificada, com aplicabilidade, processo, evidência e monitoramento; não substitui jurídico/compliance.
 
 Páginas institucionais:
 - `/about.html` — missão, autoria, público e independência.

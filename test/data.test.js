@@ -9,6 +9,7 @@ import {parseAnbimaIndicators} from '../lib/anbima-data.js';
 import {percentileRank,computeMarketIndices,computeRadarIndices,RADAR_INDEX_GUIDE,RADAR_METHODOLOGICAL_FOUNDATION,explainRadarIndex} from '../lib/indices.js';
 import {previousFullMonth,buildMonthlyLetter} from '../lib/monthly.js';
 import {buildMarketIntelligence} from '../lib/intelligence.js';
+import {buildRegulatoryWorkspace,REGULATORY_EXECUTION_METHOD,REGULATORY_REFERENCES} from '../lib/regulatory-execution.js';
 
 test('decodifica CSV oficial Windows-1252 e campos entre aspas',()=>{
   const bytes=Buffer.from('Nome;Descrição\r\n"FIDC Alfa";"Crédito; estruturado"\r\n','latin1');
@@ -220,4 +221,19 @@ test('dataset de índices entrega educação em cada score e guia metodológico 
   assert.equal(data.markets.FIDC.offerPressure.education.code,'IROP');
   assert.equal(data.markets.ALL.concentration.education.code,'IRCC');
   assert.equal(data.foundation.version,'1.0');
+});
+
+
+test('Regulatory Execution separa fonte, interpretação e processo executável',()=>{
+  const regulatory=[{title:'CVM orienta sobre registro automático de ofertas públicas',url:'https://www.gov.br/cvm/exemplo',source:'CVM',theme:'Ofertas & distribuição',what:'Orientação oficial identificada.',implication:'Revisar rito e documentação aplicável.'}];
+  const w=buildRegulatoryWorkspace(regulatory);
+  assert.equal(w.methodology.steps.length,6);
+  assert.equal(w.methodology.steps[0].key,'source');
+  assert.equal(w.methodology.steps[4].key,'evidence');
+  assert.equal(w.live.length,1);
+  assert.match(w.live[0].execution.firstAction,/fonte oficial/i);
+  assert(w.live[0].execution.checkpoints.length>=3);
+  assert.match(w.live[0].boundary,/obrigação/i);
+  assert(REGULATORY_REFERENCES.some(x=>x.code==='RCVM 160'));
+  assert.match(REGULATORY_EXECUTION_METHOD.guardrail,/não substitui/i);
 });
