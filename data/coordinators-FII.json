@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-09-23T15:27:40.161Z",
+  "generatedAt": "2026-09-24T14:42:33.661Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-23T08:00:43.191668"
+    "updatedAt": "2026-09-24T08:00:44.734230"
   },
   "coordinators": [
     {
@@ -594,8 +594,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 81,
-          "volume": 24831140133.030003
+          "count": 80,
+          "volume": 24487390133.030003
         },
         {
           "market": "FIAGRO",
@@ -606,6 +606,608 @@
           "market": "FII",
           "count": 141,
           "volume": 71170323026.59001
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:59281253000123",
+      "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "cnpj": "59.281.253/0001-23",
+      "stats12m": {
+        "offers": 19,
+        "volume": 4487830254.07,
+        "offersWithVolume": 19,
+        "averageTicket": 236201592.31947365
+      },
+      "byMonth": [
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2024-11",
+          "count": 4,
+          "volume": 445000000
+        },
+        {
+          "month": "2024-12",
+          "count": 1,
+          "volume": 430000000
+        },
+        {
+          "month": "2025-01",
+          "count": 3,
+          "volume": 399999856.94
+        },
+        {
+          "month": "2025-02",
+          "count": 3,
+          "volume": 805018320.85
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2025-04",
+          "count": 2,
+          "volume": 450187500
+        },
+        {
+          "month": "2025-05",
+          "count": 1,
+          "volume": 255549061.25
+        },
+        {
+          "month": "2025-06",
+          "count": 3,
+          "volume": 817500000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 250000000
+        },
+        {
+          "month": "2025-08",
+          "count": 4,
+          "volume": 668249704.48
+        },
+        {
+          "month": "2025-12",
+          "count": 6,
+          "volume": 1031883417.75
+        },
+        {
+          "month": "2026-02",
+          "count": 3,
+          "volume": 560398863.74
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 140000000
+        },
+        {
+          "month": "2026-04",
+          "count": 1,
+          "volume": 610000000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 375000000
+        },
+        {
+          "month": "2026-08",
+          "count": 2,
+          "volume": 550000002
+        },
+        {
+          "month": "2026-09",
+          "count": 5,
+          "volume": 1220547970.58
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "0a53effa606db27e",
+          "market": "FII",
+          "name": "CAPITÂNIA OFFICE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "48.916.699/0001-60",
+          "registration": "28055",
+          "processNumber": "SRE/3093/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150547961.58,
+          "date": "2026-09-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "0e43c0f232ba2347",
+          "market": "FII",
+          "name": "RESIDENCIAL INTERIOR DE SÃO PAULO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.551.703/0001-41",
+          "registration": "27858",
+          "processNumber": "SRE/2911/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 125000000,
+          "date": "2026-09-10",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "149b1ee1d166df87",
+          "market": "FII",
+          "name": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "41.076.851/0001-03",
+          "registration": "27651",
+          "processNumber": "SRE/2730/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 70000009,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ceac987211fb0595",
+          "market": "FII",
+          "name": "MAUÁ CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.729.014/0001-84",
+          "registration": "27737",
+          "processNumber": "SRE/2802/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 625000000,
+          "date": "2026-09-01",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "a44817439fadd201",
+          "market": "FII",
+          "name": "TIJOLO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.246.163/0001-92",
+          "registration": "27736",
+          "processNumber": "SRE/2801/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 250000000,
+          "date": "2026-09-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5e2d9e2b726eb0cd",
+          "market": "FII",
+          "name": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "35.652.278/0001-28",
+          "registration": "27638",
+          "processNumber": "SRE/2707/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 50000002,
+          "date": "2026-08-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "cc3218738077f9d7",
+          "market": "FII",
+          "name": "BTG PACTUAL CRÉDITO IMOBILIÁRIO CDI - FII FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.027.987/0001-60",
+          "registration": "27626",
+          "processNumber": "SRE/2697/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 500000000,
+          "date": "2026-08-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "6ec7e2397c58822b",
+          "market": "FII",
+          "name": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.768.655/0001-12",
+          "registration": "26477",
+          "processNumber": "SRE/1654/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 375000000,
+          "date": "2026-05-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f53e4678bd25ebbd",
+          "market": "FII",
+          "name": "INFRA ENERGIA FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.355.592/0001-72",
+          "registration": "26082",
+          "processNumber": "SRE/1292/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 610000000,
+          "date": "2026-04-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "efa78babd6635060",
+          "market": "FII",
+          "name": "CVPAR BC FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.794.271/0001-01",
+          "registration": "25652",
+          "processNumber": "SRE/0889/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 140000000,
+          "date": "2026-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d931b56b21fe6245",
+          "market": "FII",
+          "name": "LCP RENDA IMOBILIÁRIA PREFIXADA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.261.977/0001-08",
+          "registration": "24836",
+          "processNumber": "SRE/0550/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 375000000,
+          "date": "2026-02-25",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4ae829d28839a20a",
+          "market": "FII",
+          "name": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "35.652.278/0001-28",
+          "registration": "24833",
+          "processNumber": "SRE/0547/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 49999845,
+          "date": "2026-02-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b98aeaaf8881b2e7",
+          "market": "FII",
+          "name": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.090.726/0001-05",
+          "registration": "24745",
+          "processNumber": "SRE/0484/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 135399018.74,
+          "date": "2026-02-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bc2b68788df68812",
+          "market": "FII",
+          "name": "CENTRO LOGÍSTICO RIO CLARO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.145.927/0001-00",
+          "registration": "24198",
+          "processNumber": "SRE/4575/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 100000000,
+          "date": "2025-12-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9237c314a6083d77",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PARQUE DOM PEDRO SHOPPING CENTER RESPONSABILIDADE LIMITADA",
+          "cnpj": "10.869.155/0001-12",
+          "registration": "24143",
+          "processNumber": "SRE/4515/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 348300900,
+          "date": "2025-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e1a5a683ef9963ba",
+          "market": "FII",
+          "name": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "26.681.370/0001-25",
+          "registration": "24077",
+          "processNumber": "SRE/4456/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 72721946.8,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "555e37b4b6452dda",
+          "market": "FII",
+          "name": "HEDGE FUND LORE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.083.111/0001-91",
+          "registration": "23943",
+          "processNumber": "SRE/4313/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150150000,
+          "date": "2025-12-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "324404115a21cff5",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SHOPPING CIDADE JARDIM RESPONSABILIDADE LIMITADA",
+          "cnpj": "15.447.110/0001-73",
+          "registration": "23690",
+          "processNumber": "SRE/4112/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 49996285.36,
+          "date": "2025-12-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "80b4531fca46d5c4",
+          "market": "FII",
+          "name": "TM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "23.570.871/0001-46",
+          "registration": "23693",
+          "processNumber": "SRE/4115/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 310714285.59,
+          "date": "2025-12-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9a1b92d571f3a6f2",
+          "market": "FII",
+          "name": "FII LOTUS TOWER FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.173.916/0001-09",
+          "registration": "21843",
+          "processNumber": "SRE/2513/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 381000000,
+          "date": "2025-08-15",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ccb740dd21df9a21",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO IRIDIUM RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "28.830.325/0001-10",
+          "registration": "21766",
+          "processNumber": "SRE/2440/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 119999704.48,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e1fc6427c01cd01f",
+          "market": "FII",
+          "name": "LEBLON REALTY DESENVOLVIMENTO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.816.615/0001-85",
+          "registration": "21708",
+          "processNumber": "SRE/2393/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 15000000,
+          "date": "2025-08-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d523affc83bc3f1d",
+          "market": "FII",
+          "name": "SPECIALE REAL ESTATE CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.793.651/0001-70",
+          "registration": "21695",
+          "processNumber": "SRE/2382/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 152250000,
+          "date": "2025-08-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "708fb7ffe2e463d5",
+          "market": "FII",
+          "name": "VINCI OPORTUNIDADES LOGÍSTICAS FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.909.000/0001-26",
+          "registration": "20266",
+          "processNumber": "SRE/1091/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 250000000,
+          "date": "2025-07-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3af40af564dd9261",
+          "market": "FII",
+          "name": "KINEA DESENVOLVIMENTO GUARARÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.305.758/0001-22",
+          "registration": "21111",
+          "processNumber": "SRE/1857/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 62500000,
+          "date": "2025-06-30",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8b9365ca7cc27f0e",
+          "market": "FII",
+          "name": "BTG PACTUAL PRIME LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.922.008/0001-37",
+          "registration": "21151",
+          "processNumber": "SRE/1897/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 75000000,
+          "date": "2025-06-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e4994b34576a4a20",
+          "market": "FII",
+          "name": "BRASIL ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "61.250.889/0001-50",
+          "registration": "21084",
+          "processNumber": "SRE/1838/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 680000000,
+          "date": "2025-06-17",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f5b89d8765836f13",
+          "market": "FII",
+          "name": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "18.979.895/0001-13",
+          "registration": "20400",
+          "processNumber": "SRE/1212/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 255549061.25,
+          "date": "2025-05-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "187961f9c54479df",
+          "market": "FII",
+          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.192.125/0001-00",
+          "registration": "20384",
+          "processNumber": "SRE/1203/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 35000000,
+          "date": "2025-04-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0380d7b0b5c9725c",
+          "market": "FII",
+          "name": "BTG HOSPITALIDADE RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.329.826/0001-20",
+          "registration": "20328",
+          "processNumber": "SRE/1149/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 415187500,
+          "date": "2025-04-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Revogada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 151,
+          "volume": 27811248543.73
+        },
+        {
+          "market": "FIAGRO",
+          "count": 11,
+          "volume": 1685150465.44
+        },
+        {
+          "market": "FII",
+          "count": 173,
+          "volume": 23999516052.340004
         }
       ]
     },
@@ -725,7 +1327,7 @@
           "date": "2026-09-16",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1208,608 +1810,6 @@
           "market": "FII",
           "count": 145,
           "volume": 27735636596.590004
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:59281253000123",
-      "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "cnpj": "59.281.253/0001-23",
-      "stats12m": {
-        "offers": 18,
-        "volume": 4337282292.49,
-        "offersWithVolume": 18,
-        "averageTicket": 240960127.36055553
-      },
-      "byMonth": [
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2024-11",
-          "count": 4,
-          "volume": 445000000
-        },
-        {
-          "month": "2024-12",
-          "count": 1,
-          "volume": 430000000
-        },
-        {
-          "month": "2025-01",
-          "count": 3,
-          "volume": 399999856.94
-        },
-        {
-          "month": "2025-02",
-          "count": 3,
-          "volume": 805018320.85
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 120000000
-        },
-        {
-          "month": "2025-04",
-          "count": 2,
-          "volume": 450187500
-        },
-        {
-          "month": "2025-05",
-          "count": 1,
-          "volume": 255549061.25
-        },
-        {
-          "month": "2025-06",
-          "count": 3,
-          "volume": 817500000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 250000000
-        },
-        {
-          "month": "2025-08",
-          "count": 4,
-          "volume": 668249704.48
-        },
-        {
-          "month": "2025-12",
-          "count": 6,
-          "volume": 1031883417.75
-        },
-        {
-          "month": "2026-02",
-          "count": 3,
-          "volume": 560398863.74
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 140000000
-        },
-        {
-          "month": "2026-04",
-          "count": 1,
-          "volume": 610000000
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 375000000
-        },
-        {
-          "month": "2026-08",
-          "count": 2,
-          "volume": 550000002
-        },
-        {
-          "month": "2026-09",
-          "count": 4,
-          "volume": 1070000009
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "0e43c0f232ba2347",
-          "market": "FII",
-          "name": "RESIDENCIAL INTERIOR DE SÃO PAULO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.551.703/0001-41",
-          "registration": "27858",
-          "processNumber": "SRE/2911/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 125000000,
-          "date": "2026-09-10",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "149b1ee1d166df87",
-          "market": "FII",
-          "name": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "41.076.851/0001-03",
-          "registration": "27651",
-          "processNumber": "SRE/2730/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 70000009,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ceac987211fb0595",
-          "market": "FII",
-          "name": "MAUÁ CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.729.014/0001-84",
-          "registration": "27737",
-          "processNumber": "SRE/2802/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 625000000,
-          "date": "2026-09-01",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "a44817439fadd201",
-          "market": "FII",
-          "name": "TIJOLO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.246.163/0001-92",
-          "registration": "27736",
-          "processNumber": "SRE/2801/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 250000000,
-          "date": "2026-09-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "5e2d9e2b726eb0cd",
-          "market": "FII",
-          "name": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "35.652.278/0001-28",
-          "registration": "27638",
-          "processNumber": "SRE/2707/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 50000002,
-          "date": "2026-08-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "cc3218738077f9d7",
-          "market": "FII",
-          "name": "BTG PACTUAL CRÉDITO IMOBILIÁRIO CDI - FII FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.027.987/0001-60",
-          "registration": "27626",
-          "processNumber": "SRE/2697/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 500000000,
-          "date": "2026-08-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "6ec7e2397c58822b",
-          "market": "FII",
-          "name": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.768.655/0001-12",
-          "registration": "26477",
-          "processNumber": "SRE/1654/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 375000000,
-          "date": "2026-05-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f53e4678bd25ebbd",
-          "market": "FII",
-          "name": "INFRA ENERGIA FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.355.592/0001-72",
-          "registration": "26082",
-          "processNumber": "SRE/1292/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 610000000,
-          "date": "2026-04-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "efa78babd6635060",
-          "market": "FII",
-          "name": "CVPAR BC FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.794.271/0001-01",
-          "registration": "25652",
-          "processNumber": "SRE/0889/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 140000000,
-          "date": "2026-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d931b56b21fe6245",
-          "market": "FII",
-          "name": "LCP RENDA IMOBILIÁRIA PREFIXADA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.261.977/0001-08",
-          "registration": "24836",
-          "processNumber": "SRE/0550/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 375000000,
-          "date": "2026-02-25",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4ae829d28839a20a",
-          "market": "FII",
-          "name": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "35.652.278/0001-28",
-          "registration": "24833",
-          "processNumber": "SRE/0547/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 49999845,
-          "date": "2026-02-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b98aeaaf8881b2e7",
-          "market": "FII",
-          "name": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.090.726/0001-05",
-          "registration": "24745",
-          "processNumber": "SRE/0484/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 135399018.74,
-          "date": "2026-02-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bc2b68788df68812",
-          "market": "FII",
-          "name": "CENTRO LOGÍSTICO RIO CLARO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.145.927/0001-00",
-          "registration": "24198",
-          "processNumber": "SRE/4575/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 100000000,
-          "date": "2025-12-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9237c314a6083d77",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PARQUE DOM PEDRO SHOPPING CENTER RESPONSABILIDADE LIMITADA",
-          "cnpj": "10.869.155/0001-12",
-          "registration": "24143",
-          "processNumber": "SRE/4515/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 348300900,
-          "date": "2025-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e1a5a683ef9963ba",
-          "market": "FII",
-          "name": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "26.681.370/0001-25",
-          "registration": "24077",
-          "processNumber": "SRE/4456/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 72721946.8,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "555e37b4b6452dda",
-          "market": "FII",
-          "name": "HEDGE FUND LORE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.083.111/0001-91",
-          "registration": "23943",
-          "processNumber": "SRE/4313/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 150150000,
-          "date": "2025-12-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "324404115a21cff5",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SHOPPING CIDADE JARDIM RESPONSABILIDADE LIMITADA",
-          "cnpj": "15.447.110/0001-73",
-          "registration": "23690",
-          "processNumber": "SRE/4112/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 49996285.36,
-          "date": "2025-12-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "80b4531fca46d5c4",
-          "market": "FII",
-          "name": "TM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "23.570.871/0001-46",
-          "registration": "23693",
-          "processNumber": "SRE/4115/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 310714285.59,
-          "date": "2025-12-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9a1b92d571f3a6f2",
-          "market": "FII",
-          "name": "FII LOTUS TOWER FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.173.916/0001-09",
-          "registration": "21843",
-          "processNumber": "SRE/2513/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 381000000,
-          "date": "2025-08-15",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ccb740dd21df9a21",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO IRIDIUM RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "28.830.325/0001-10",
-          "registration": "21766",
-          "processNumber": "SRE/2440/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 119999704.48,
-          "date": "2025-08-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e1fc6427c01cd01f",
-          "market": "FII",
-          "name": "LEBLON REALTY DESENVOLVIMENTO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.816.615/0001-85",
-          "registration": "21708",
-          "processNumber": "SRE/2393/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 15000000,
-          "date": "2025-08-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d523affc83bc3f1d",
-          "market": "FII",
-          "name": "SPECIALE REAL ESTATE CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.793.651/0001-70",
-          "registration": "21695",
-          "processNumber": "SRE/2382/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 152250000,
-          "date": "2025-08-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "708fb7ffe2e463d5",
-          "market": "FII",
-          "name": "VINCI OPORTUNIDADES LOGÍSTICAS FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.909.000/0001-26",
-          "registration": "20266",
-          "processNumber": "SRE/1091/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 250000000,
-          "date": "2025-07-11",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3af40af564dd9261",
-          "market": "FII",
-          "name": "KINEA DESENVOLVIMENTO GUARARÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.305.758/0001-22",
-          "registration": "21111",
-          "processNumber": "SRE/1857/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 62500000,
-          "date": "2025-06-30",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8b9365ca7cc27f0e",
-          "market": "FII",
-          "name": "BTG PACTUAL PRIME LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.922.008/0001-37",
-          "registration": "21151",
-          "processNumber": "SRE/1897/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 75000000,
-          "date": "2025-06-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e4994b34576a4a20",
-          "market": "FII",
-          "name": "BRASIL ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "61.250.889/0001-50",
-          "registration": "21084",
-          "processNumber": "SRE/1838/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 680000000,
-          "date": "2025-06-17",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f5b89d8765836f13",
-          "market": "FII",
-          "name": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "18.979.895/0001-13",
-          "registration": "20400",
-          "processNumber": "SRE/1212/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 255549061.25,
-          "date": "2025-05-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "187961f9c54479df",
-          "market": "FII",
-          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.192.125/0001-00",
-          "registration": "20384",
-          "processNumber": "SRE/1203/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 35000000,
-          "date": "2025-04-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0380d7b0b5c9725c",
-          "market": "FII",
-          "name": "BTG HOSPITALIDADE RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.329.826/0001-20",
-          "registration": "20328",
-          "processNumber": "SRE/1149/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 415187500,
-          "date": "2025-04-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Revogada",
-          "publications": []
-        },
-        {
-          "id": "3a9fb4fcdbabce93",
-          "market": "FII",
-          "name": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI",
-          "cnpj": "38.294.329/0001-85",
-          "registration": "19906",
-          "processNumber": "SRE/0802/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 120000000,
-          "date": "2025-03-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 151,
-          "volume": 27811248543.73
-        },
-        {
-          "market": "FIAGRO",
-          "count": 11,
-          "volume": 1685150465.44
-        },
-        {
-          "market": "FII",
-          "count": 172,
-          "volume": 23848968090.760002
         }
       ]
     },
@@ -2738,7 +2738,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 52,
+          "count": 53,
           "volume": 16822170059
         },
         {
@@ -4354,8 +4354,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 146,
-          "volume": 10463073198.679996
+          "count": 147,
+          "volume": 10471073198.679996
         },
         {
           "market": "FIAGRO",
@@ -5456,335 +5456,14 @@
       ]
     },
     {
-      "key": "CNPJ:46482072000113",
-      "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "cnpj": "46.482.072/0001-13",
-      "stats12m": {
-        "offers": 5,
-        "volume": 2936521695.3900003,
-        "offersWithVolume": 5,
-        "averageTicket": 587304339.0780001
-      },
-      "byMonth": [
-        {
-          "month": "2023-11",
-          "count": 1,
-          "volume": 625000001.83
-        },
-        {
-          "month": "2023-12",
-          "count": 1,
-          "volume": 437499936
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 1499999953.05
-        },
-        {
-          "month": "2024-04",
-          "count": 1,
-          "volume": 625000008.6
-        },
-        {
-          "month": "2024-05",
-          "count": 1,
-          "volume": 780413979.69
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 384734672.52
-        },
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 518749995.6
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 875000000
-        },
-        {
-          "month": "2025-05",
-          "count": 1,
-          "volume": 1251751806.08
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 1027021710.24
-        },
-        {
-          "month": "2026-01",
-          "count": 1,
-          "volume": 500000000
-        },
-        {
-          "month": "2026-02",
-          "count": 2,
-          "volume": 1109499985.15
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 300000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "8fde30752438f153",
-          "market": "FII",
-          "name": "BTG PACTUAL PRIME HOSPITALIDADE FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.331.709/0001-15",
-          "registration": "24941",
-          "processNumber": "SRE/0966/2026",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 300000000,
-          "date": "2026-03-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "687ba501cc4e7167",
-          "market": "FII",
-          "name": "BTG PACTUAL PRIME HOSPITALIDADE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.331.709/0001-15",
-          "registration": "24942",
-          "processNumber": "SRE/0585/2026",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 1037500000,
-          "date": "2026-02-27",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9f401c98ecf56d6e",
-          "market": "FII",
-          "name": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "15.447.108/0001-02",
-          "registration": "24790",
-          "processNumber": "SRE/0526/2026",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 71999985.15,
-          "date": "2026-02-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d33c8b359f593c90",
-          "market": "FII",
-          "name": "BTG PACTUAL PRIME LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.922.008/0001-37",
-          "registration": "24307",
-          "processNumber": "SRE/0079/2026",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 500000000,
-          "date": "2026-01-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2ae44dceeabb27f6",
-          "market": "FII",
-          "name": "BTG PACTUAL PRIME LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.922.008/0001-37",
-          "registration": "24016",
-          "processNumber": "SRE/4391/2025",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 1027021710.24,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a36a97e78a905b36",
-          "market": "FII",
-          "name": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "28.548.288/0001-52",
-          "registration": "20403",
-          "processNumber": "SRE/1218/2025",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 1251751806.08,
-          "date": "2025-05-02",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "937157b88512a3cd",
-          "market": "FII",
-          "name": "BTG LOG AAA CAJAMAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.658.166/0001-42",
-          "registration": "19718",
-          "processNumber": "SRE/0650/2025",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 875000000,
-          "date": "2025-03-06",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b1359e38b9570e5a",
-          "market": "FII",
-          "name": "BTG PACTUAL LOGCP FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "50.479.122/0001-80",
-          "registration": "17618",
-          "processNumber": "SRE/3044/2024",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 518749995.6,
-          "date": "2024-10-01",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "686b3797b1aab04b",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RBR OPORTUNIDADES EM CRÉDITO IMOBILIÁRIO",
-          "cnpj": "50.352.284/0001-53",
-          "registration": "16858",
-          "processNumber": "SRE/2352/2024",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 384734672.52,
-          "date": "2024-08-07",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "cbffcd6c60afd0f6",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL",
-          "cnpj": "25.032.881/0001-53",
-          "registration": "15882",
-          "processNumber": "SRE/1490/2024",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 780413979.69,
-          "date": "2024-05-27",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "90023e65fc5f0c83",
-          "market": "FII",
-          "name": "CANUMA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "43.010.844/0001-26",
-          "registration": "15452",
-          "processNumber": "SRE/1134/2024",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 625000008.6,
-          "date": "2024-04-23",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6ed6aac97158ae9e",
-          "market": "FII",
-          "name": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "11.839.593/0001-09",
-          "registration": "4427",
-          "processNumber": "SRE/0214/2024",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 1499999953.05,
-          "date": "2024-01-26",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4298da89885a1e0a",
-          "market": "FII",
-          "name": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "15.447.108/0001-02",
-          "registration": "4195",
-          "processNumber": "SRE/3108/2023",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 437499936,
-          "date": "2023-12-28",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6dc526164b792093",
-          "market": "FII",
-          "name": "BTG Pactual Crédito para Incorporação - FII Fundo de Investimento Imobiliário",
-          "cnpj": "43.008.233/0001-43",
-          "registration": "3461",
-          "processNumber": "SRE/2478/2023",
-          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-          "leaderCnpj": "46.482.072/0001-13",
-          "volume": 625000001.83,
-          "date": "2023-11-01",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 4,
-          "volume": 9500000000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 3,
-          "volume": 250255750000
-        },
-        {
-          "market": "FII",
-          "count": 14,
-          "volume": 9934672048.76
-        }
-      ]
-    },
-    {
       "key": "CNPJ:62285390000140",
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 5,
-        "volume": 655716743.3000001,
-        "offersWithVolume": 5,
-        "averageTicket": 131143348.66000001
+        "offers": 6,
+        "volume": 700716743.4499999,
+        "offersWithVolume": 6,
+        "averageTicket": 116786123.90833332
       },
       "byMonth": [
         {
@@ -5844,11 +5523,27 @@
         },
         {
           "month": "2026-09",
-          "count": 1,
-          "volume": 230000000
+          "count": 2,
+          "volume": 275000000.15
         }
       ],
       "recentOffers": [
+        {
+          "id": "d6c1632e9e77ac07",
+          "market": "FII",
+          "name": "G5 ALLOCATION FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "32.140.405/0001-11",
+          "registration": "28048",
+          "processNumber": "SRE/3088/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 45000000.15,
+          "date": "2026-09-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "15aeb8bd332207f8",
           "market": "FII",
@@ -6460,42 +6155,13 @@
               "url": ""
             }
           ]
-        },
-        {
-          "id": "28f8c97fde43a0a0",
-          "market": "FII",
-          "name": "G5 EMPREENDIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "45.777.119/0001-03",
-          "registration": "",
-          "processNumber": "",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 60000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-08-01",
-              "url": ""
-            }
-          ]
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1037,
-          "volume": 56446570860.38995
+          "count": 1039,
+          "volume": 56502070860.38995
         },
         {
           "market": "FIAGRO",
@@ -6504,8 +6170,329 @@
         },
         {
           "market": "FII",
-          "count": 44,
-          "volume": 3932251954.89
+          "count": 45,
+          "volume": 3977251955.04
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:46482072000113",
+      "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+      "cnpj": "46.482.072/0001-13",
+      "stats12m": {
+        "offers": 5,
+        "volume": 2936521695.3900003,
+        "offersWithVolume": 5,
+        "averageTicket": 587304339.0780001
+      },
+      "byMonth": [
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 625000001.83
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 437499936
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 1499999953.05
+        },
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 625000008.6
+        },
+        {
+          "month": "2024-05",
+          "count": 1,
+          "volume": 780413979.69
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 384734672.52
+        },
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 518749995.6
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 875000000
+        },
+        {
+          "month": "2025-05",
+          "count": 1,
+          "volume": 1251751806.08
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 1027021710.24
+        },
+        {
+          "month": "2026-01",
+          "count": 1,
+          "volume": 500000000
+        },
+        {
+          "month": "2026-02",
+          "count": 2,
+          "volume": 1109499985.15
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 300000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8fde30752438f153",
+          "market": "FII",
+          "name": "BTG PACTUAL PRIME HOSPITALIDADE FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.331.709/0001-15",
+          "registration": "24941",
+          "processNumber": "SRE/0966/2026",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 300000000,
+          "date": "2026-03-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "687ba501cc4e7167",
+          "market": "FII",
+          "name": "BTG PACTUAL PRIME HOSPITALIDADE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.331.709/0001-15",
+          "registration": "24942",
+          "processNumber": "SRE/0585/2026",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 1037500000,
+          "date": "2026-02-27",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9f401c98ecf56d6e",
+          "market": "FII",
+          "name": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "15.447.108/0001-02",
+          "registration": "24790",
+          "processNumber": "SRE/0526/2026",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 71999985.15,
+          "date": "2026-02-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d33c8b359f593c90",
+          "market": "FII",
+          "name": "BTG PACTUAL PRIME LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.922.008/0001-37",
+          "registration": "24307",
+          "processNumber": "SRE/0079/2026",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 500000000,
+          "date": "2026-01-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2ae44dceeabb27f6",
+          "market": "FII",
+          "name": "BTG PACTUAL PRIME LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.922.008/0001-37",
+          "registration": "24016",
+          "processNumber": "SRE/4391/2025",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 1027021710.24,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a36a97e78a905b36",
+          "market": "FII",
+          "name": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "28.548.288/0001-52",
+          "registration": "20403",
+          "processNumber": "SRE/1218/2025",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 1251751806.08,
+          "date": "2025-05-02",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "937157b88512a3cd",
+          "market": "FII",
+          "name": "BTG LOG AAA CAJAMAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.658.166/0001-42",
+          "registration": "19718",
+          "processNumber": "SRE/0650/2025",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 875000000,
+          "date": "2025-03-06",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b1359e38b9570e5a",
+          "market": "FII",
+          "name": "BTG PACTUAL LOGCP FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "50.479.122/0001-80",
+          "registration": "17618",
+          "processNumber": "SRE/3044/2024",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 518749995.6,
+          "date": "2024-10-01",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "686b3797b1aab04b",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RBR OPORTUNIDADES EM CRÉDITO IMOBILIÁRIO",
+          "cnpj": "50.352.284/0001-53",
+          "registration": "16858",
+          "processNumber": "SRE/2352/2024",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 384734672.52,
+          "date": "2024-08-07",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cbffcd6c60afd0f6",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL",
+          "cnpj": "25.032.881/0001-53",
+          "registration": "15882",
+          "processNumber": "SRE/1490/2024",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 780413979.69,
+          "date": "2024-05-27",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "90023e65fc5f0c83",
+          "market": "FII",
+          "name": "CANUMA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "43.010.844/0001-26",
+          "registration": "15452",
+          "processNumber": "SRE/1134/2024",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 625000008.6,
+          "date": "2024-04-23",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6ed6aac97158ae9e",
+          "market": "FII",
+          "name": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "11.839.593/0001-09",
+          "registration": "4427",
+          "processNumber": "SRE/0214/2024",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 1499999953.05,
+          "date": "2024-01-26",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4298da89885a1e0a",
+          "market": "FII",
+          "name": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "15.447.108/0001-02",
+          "registration": "4195",
+          "processNumber": "SRE/3108/2023",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 437499936,
+          "date": "2023-12-28",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6dc526164b792093",
+          "market": "FII",
+          "name": "BTG Pactual Crédito para Incorporação - FII Fundo de Investimento Imobiliário",
+          "cnpj": "43.008.233/0001-43",
+          "registration": "3461",
+          "processNumber": "SRE/2478/2023",
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+          "leaderCnpj": "46.482.072/0001-13",
+          "volume": 625000001.83,
+          "date": "2023-11-01",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 4,
+          "volume": 9500000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 250255750000
+        },
+        {
+          "market": "FII",
+          "count": 14,
+          "volume": 9934672048.76
         }
       ]
     },
@@ -10698,6 +10685,120 @@
       ]
     },
     {
+      "key": "CNPJ:36266751000100",
+      "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "36.266.751/0001-00",
+      "stats12m": {
+        "offers": 3,
+        "volume": 665000000,
+        "offersWithVolume": 3,
+        "averageTicket": 221666666.66666666
+      },
+      "byMonth": [
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 665000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "5f545683c72b650a",
+          "market": "FII",
+          "name": "PAC-MAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.948.341/0001-27",
+          "registration": "27937",
+          "processNumber": "SRE/3076/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 500000000,
+          "date": "2026-09-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "952256c8ef368e35",
+          "market": "FII",
+          "name": "TERRA NOVA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.131.160/0001-76",
+          "registration": "27942",
+          "processNumber": "SRE/3075/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 15000000,
+          "date": "2026-09-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "05150959b1eb7c0a",
+          "market": "FII",
+          "name": "SC DRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.950.709/0001-91",
+          "registration": "27817",
+          "processNumber": "SRE/2960/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 150000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3fd68d734492727b",
+          "market": "FII",
+          "name": "WHG FINVEST SP REALTY FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "43.741.150/0001-69",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 91400000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-04-28",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 17,
+          "volume": 2609012200
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 4,
+          "volume": 756400000
+        }
+      ]
+    },
+    {
       "key": "CNPJ:44077014000189",
       "name": "BR-CAPITAL DTVM S.A.",
       "cnpj": "44.077.014/0001-89",
@@ -11496,8 +11597,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 28,
-          "volume": 22177709000
+          "count": 30,
+          "volume": 24057669000
         },
         {
           "market": "FIAGRO",
@@ -13377,88 +13478,6 @@
           "market": "FII",
           "count": 20,
           "volume": 4259815322.4199996
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:36266751000100",
-      "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "36.266.751/0001-00",
-      "stats12m": {
-        "offers": 1,
-        "volume": 150000000,
-        "offersWithVolume": 1,
-        "averageTicket": 150000000
-      },
-      "byMonth": [
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 150000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "05150959b1eb7c0a",
-          "market": "FII",
-          "name": "SC DRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.950.709/0001-91",
-          "registration": "27817",
-          "processNumber": "SRE/2960/2026",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 150000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3fd68d734492727b",
-          "market": "FII",
-          "name": "WHG FINVEST SP REALTY FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "43.741.150/0001-69",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 91400000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-04-28",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 17,
-          "volume": 2609012200
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 2,
-          "volume": 241400000
         }
       ]
     },

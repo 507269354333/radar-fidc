@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:27:40.122Z",
+  "generatedAt": "2026-09-24T14:42:33.638Z",
   "market": "ALL",
   "current": {
     "period": {
@@ -116,7 +116,7 @@
         "date": "2026-09-16",
         "rite": "Automático",
         "audience": "Profissional",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "publications": []
       },
       {
@@ -214,11 +214,11 @@
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 43
+        "count": 42
       },
       {
         "name": "Oferta Encerrada",
-        "count": 6
+        "count": 7
       },
       {
         "name": "Aguardando Bookbuilding",
@@ -283,10 +283,10 @@
       "start": "2026-09-07",
       "end": "2026-09-13"
     },
-    "offers": 35,
-    "offersWithVolume": 34,
-    "volume": 6176629022.1,
-    "averageTicket": 181665559.47352943,
+    "offers": 34,
+    "offersWithVolume": 33,
+    "volume": 5832879022.1,
+    "averageTicket": 176753909.76060608,
     "leaders": 15,
     "topLeaders": [
       {
@@ -308,12 +308,6 @@
         "volume": 981000019.96
       },
       {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 3,
-        "volume": 2210000000
-      },
-      {
         "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
         "cnpj": "39.669.186/0001-01",
         "count": 3,
@@ -324,6 +318,12 @@
         "cnpj": "03.751.794/0001-13",
         "count": 3,
         "volume": 45420000
+      },
+      {
+        "name": "XP INVESTIMENTOS CCTVM S.A.",
+        "cnpj": "02.332.886/0001-04",
+        "count": 2,
+        "volume": 1866250000
       },
       {
         "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -442,21 +442,6 @@
         "publications": []
       },
       {
-        "id": "80d5a534f79b417f",
-        "market": "FIDC",
-        "name": "JIVE DISTRESSED & SPECIAL SITUATIONS V FEEDER (PROFISSIONAL) FIC DE FIDC RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.908.387/0001-12",
-        "registration": "27824",
-        "processNumber": "SRE/2882/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 343750000,
-        "date": "2026-09-08",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
         "id": "b2fe2060764ebc13",
         "market": "FII",
         "name": "CONTE BIANCAMANO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -470,12 +455,27 @@
         "audience": "Profissional",
         "status": "Oferta Encerrada",
         "publications": []
+      },
+      {
+        "id": "ed902e8babdeb22e",
+        "market": "FIAGRO",
+        "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
+        "cnpj": "62.134.120/0001-39",
+        "registration": "27755",
+        "processNumber": "SRE/2822/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "volume": 231000000,
+        "date": "2026-09-10",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 31
+        "count": 30
       },
       {
         "name": "Qualificado",
@@ -485,13 +485,13 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 35
+        "count": 34
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 33
+        "count": 32
       },
       {
         "name": "Aguardando Bookbuilding",
@@ -505,7 +505,7 @@
     "byMarket": [
       {
         "name": "FIDC",
-        "count": 28
+        "count": 27
       },
       {
         "name": "FII",
@@ -516,8 +516,8 @@
         "count": 1
       }
     ],
-    "professionalShare": 0.8857142857142857,
-    "top3Concentration": 0.4,
+    "professionalShare": 0.8823529411764706,
+    "top3Concentration": 0.4117647058823529,
     "busiestDays": [
       {
         "date": "2026-09-10",
@@ -552,32 +552,122 @@
     ]
   },
   "changes": {
-    "offersPct": 45.714285714285715,
-    "volumePct": 5.965555551282285
+    "offersPct": 50,
+    "volumePct": 12.21044072423741
+  },
+  "benchmarks": {
+    "prior4Average": {
+      "offers": 30.25,
+      "volume": 70080047179.2775,
+      "leaders": 15.25,
+      "professionalShare": 0.9064434984520123,
+      "top3Concentration": 0.4644908840729274
+    },
+    "currentVsPrior4Average": {
+      "offersPct": 68.59504132231406,
+      "volumePct": -90.66053816877941
+    }
+  },
+  "history": {
+    "weeks": [
+      {
+        "period": {
+          "start": "2026-07-27",
+          "end": "2026-08-02"
+        },
+        "offers": 0,
+        "volume": 0,
+        "leaders": 0
+      },
+      {
+        "period": {
+          "start": "2026-08-03",
+          "end": "2026-08-09"
+        },
+        "offers": 1,
+        "volume": 45500000,
+        "leaders": 1
+      },
+      {
+        "period": {
+          "start": "2026-08-10",
+          "end": "2026-08-16"
+        },
+        "offers": 0,
+        "volume": 0,
+        "leaders": 0
+      },
+      {
+        "period": {
+          "start": "2026-08-17",
+          "end": "2026-08-23"
+        },
+        "offers": 9,
+        "volume": 1855991953.0700002,
+        "leaders": 5
+      },
+      {
+        "period": {
+          "start": "2026-08-24",
+          "end": "2026-08-30"
+        },
+        "offers": 40,
+        "volume": 258664130475.47998,
+        "leaders": 24
+      },
+      {
+        "period": {
+          "start": "2026-08-31",
+          "end": "2026-09-06"
+        },
+        "offers": 38,
+        "volume": 13967187266.46,
+        "leaders": 17
+      },
+      {
+        "period": {
+          "start": "2026-09-07",
+          "end": "2026-09-13"
+        },
+        "offers": 34,
+        "volume": 5832879022.1,
+        "leaders": 15
+      },
+      {
+        "period": {
+          "start": "2026-09-14",
+          "end": "2026-09-20"
+        },
+        "offers": 51,
+        "volume": 6545099257.61,
+        "leaders": 23
+      }
+    ]
   },
   "observations": [
-    "Atividade semanal de 51 ofertas ALL, 45,7% acima da semana anterior.",
+    "Atividade semanal de 51 ofertas ALL, 50,0% acima da semana anterior.",
     "Volume informado de R$ 6.545.099.258 em 49 ofertas com valor positivo; ticket médio de R$ 133.573.454.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 90,7% abaixo e a quantidade de ofertas 68,6% acima.",
     "BANCO DAYCOVAL S.A. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 29,4% das ofertas da semana.",
     "96,1% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (7), Meios de pagamento (4), Veículos (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
-  "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
+  "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-23T08:00:43.191668"
+      "updatedAt": "2026-09-24T08:00:44.734230"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-23T15:27:32.808Z"
+      "updatedAt": "2026-09-24T14:42:28.931Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "23/09/2026 09:30"
+      "updatedAt": "24/09/2026 09:26"
     }
   },
   "macro": {
@@ -586,19 +676,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-25",
-          "value": 13.9
-        },
         {
           "date": "2026-08-26",
           "value": 13.9
@@ -673,6 +759,10 @@
         },
         {
           "date": "2026-09-22",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-23",
           "value": 13.65
         }
       ]
@@ -968,26 +1058,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "23/09/2026",
+      "date": "24/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "22/09/2026",
+      "date": "23/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "22/09/2026",
+      "date": "23/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "22/09/2026",
-      "value": 5.1161,
+      "date": "23/09/2026",
+      "value": 5.1414,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1049,10 +1139,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4433,
+      "count": 4438,
       "latestMonth": "2026-09",
-      "offersInMonth": 81,
-      "volumeInMonth": 15677033151.28
+      "offersInMonth": 86,
+      "volumeInMonth": 17276743151.28
     },
     {
       "market": "FIAGRO",
@@ -1063,10 +1153,10 @@
     },
     {
       "market": "FII",
-      "count": 1494,
+      "count": 1498,
       "latestMonth": "2026-09",
-      "offersInMonth": 29,
-      "volumeInMonth": 9910982394.79
+      "offersInMonth": 33,
+      "volumeInMonth": 10621530356.52
     }
   ],
   "intelligence": {

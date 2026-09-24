@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generatedAt": "2026-09-23T15:27:40.097Z",
+  "generatedAt": "2026-09-24T14:42:33.619Z",
   "brief": {
     "headline": "Oferta primária forte encontra funding ainda seletivo.",
     "summary": "O Radar lê a competência 2026-08 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
@@ -350,6 +350,533 @@
       "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
     }
   ],
+  "regulatoryExecution": {
+    "methodology": {
+      "name": "Método Radar — Regulação → Execução",
+      "steps": [
+        {
+          "order": 1,
+          "key": "source",
+          "label": "Fonte oficial",
+          "question": "O que foi efetivamente publicado?",
+          "output": "Ato, ofício, resolução, código ou comunicado identificado e linkado."
+        },
+        {
+          "order": 2,
+          "key": "applicability",
+          "label": "Aplicabilidade",
+          "question": "Quem e qual processo podem ser alcançados?",
+          "output": "Participantes, produtos, ritos e etapas potencialmente afetados — sem presumir incidência antes da leitura da fonte."
+        },
+        {
+          "order": 3,
+          "key": "gap",
+          "label": "Gap operacional",
+          "question": "O processo atual já atende ao que a fonte exige?",
+          "output": "Diferenças entre prática atual e requisito/entendimento observado."
+        },
+        {
+          "order": 4,
+          "key": "process",
+          "label": "Processo executável",
+          "question": "Que mudança precisa virar tarefa, gate ou controle?",
+          "output": "Sequência operacional com responsáveis, pontos de decisão e dependências."
+        },
+        {
+          "order": 5,
+          "key": "evidence",
+          "label": "Evidência",
+          "question": "Como provar que o processo foi executado?",
+          "output": "Documento, protocolo, checklist, aprovação, registro de sistema ou trilha de auditoria."
+        },
+        {
+          "order": 6,
+          "key": "monitor",
+          "label": "Monitoramento",
+          "question": "O que pode mudar ou invalidar a implementação?",
+          "output": "Vigência, nova orientação, supervisão, atualização do documento e revisão periódica."
+        }
+      ],
+      "guardrail": "O Radar separa obrigação expressa da fonte oficial de interpretação operacional. A tradução para processo não substitui parecer jurídico, compliance, autorregulação aplicável ou leitura integral da norma."
+    },
+    "references": [
+      {
+        "institution": "CVM",
+        "kind": "Regulação",
+        "code": "RCVM 160",
+        "title": "Ofertas públicas de distribuição",
+        "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol160.html",
+        "scope": "Regime de ofertas públicas, ritos, documentos, responsabilidades e negociação dos valores mobiliários ofertados."
+      },
+      {
+        "institution": "CVM",
+        "kind": "Regulação",
+        "code": "RCVM 175",
+        "title": "Fundos de investimento",
+        "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html",
+        "scope": "Constituição, funcionamento, divulgação de informações e prestação de serviços para fundos, com anexos específicos por categoria."
+      },
+      {
+        "institution": "CVM / SRE",
+        "kind": "Orientação",
+        "code": "Ofício Anual SRE 2026",
+        "title": "Orientações gerais sobre ofertas públicas",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas/",
+        "scope": "Orientações da área técnica para emissores, ofertantes e intermediários em procedimentos de ofertas públicas."
+      },
+      {
+        "institution": "CVM / SRE",
+        "kind": "Orientação",
+        "code": "Ofício Circular SRE 4/2026",
+        "title": "Registro automático e análise prévia",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-requerimentos-de-registro-automatico-de-ofertas-publicas-de-distribuicao-de-valores-mobiliarios",
+        "scope": "Orientação a coordenadores líderes sobre requerimentos de registro automático submetidos à análise prévia de entidade autorreguladora e campos de emissores não registrados."
+      },
+      {
+        "institution": "ANBIMA",
+        "kind": "Autorregulação",
+        "code": "Código de Ofertas Públicas",
+        "title": "Estruturação e atividades em ofertas públicas",
+        "url": "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/",
+        "scope": "Regras de autorregulação aplicáveis às instituições aderentes e às atividades alcançadas pelo Código de Ofertas Públicas."
+      }
+    ],
+    "playbooks": [
+      {
+        "id": "oferta-publica",
+        "title": "Oferta pública: da definição do rito à evidência final",
+        "scope": "Modelo operacional para transformar requisitos de oferta em gates verificáveis.",
+        "participants": [
+          "Coordenador / Distribuidor",
+          "Emissor / Ofertante",
+          "Jurídico / Compliance",
+          "Administrador / Gestor quando aplicável"
+        ],
+        "stages": [
+          {
+            "name": "1. Enquadramento",
+            "actions": [
+              "Identificar valor mobiliário, veículo, público-alvo e participantes.",
+              "Confirmar o rito e a fonte normativa/orientativa aplicável."
+            ],
+            "evidence": "Memo de enquadramento ou checklist de aplicabilidade."
+          },
+          {
+            "name": "2. Documentação",
+            "actions": [
+              "Mapear documentos exigidos pela fonte aplicável.",
+              "Controlar versões, aprovações e consistência entre documentos e cadastro."
+            ],
+            "evidence": "Checklist documental versionado e trilha de aprovação."
+          },
+          {
+            "name": "3. Autorregulação",
+            "actions": [
+              "Verificar se o Código/fluxo ANBIMA é aplicável à operação e aos participantes.",
+              "Quando aplicável, incorporar análise, protocolo e saneamento ao cronograma."
+            ],
+            "evidence": "Registro da análise de aplicabilidade e protocolo/parecer quando existente."
+          },
+          {
+            "name": "4. Protocolo / Registro",
+            "actions": [
+              "Executar o fluxo de requerimento ou registro compatível com o enquadramento validado.",
+              "Registrar número, data e evidências da submissão."
+            ],
+            "evidence": "Protocolo, número oficial e comprovantes do processo."
+          },
+          {
+            "name": "5. Exigências / Saneamento",
+            "actions": [
+              "Registrar pedido, óbice ou orientação recebido.",
+              "Converter cada ponto em tarefa com responsável, prazo interno e evidência de resposta."
+            ],
+            "evidence": "Log de exigências e pacote de resposta/revisão."
+          },
+          {
+            "name": "6. Fechamento",
+            "actions": [
+              "Confirmar status final e documentos definitivos.",
+              "Arquivar evidências e lições de processo para reutilização."
+            ],
+            "evidence": "Dossiê final da oferta e trilha de decisão."
+          }
+        ]
+      },
+      {
+        "id": "fundos",
+        "title": "Fundos: mudança regulatória → governança e operação",
+        "scope": "Modelo para absorver alterações que atinjam FIDC, FIAGRO, FII ou prestadores.",
+        "participants": [
+          "Administrador fiduciário",
+          "Gestor",
+          "Jurídico / Compliance",
+          "Controladoria / Operações",
+          "Distribuição quando aplicável"
+        ],
+        "stages": [
+          {
+            "name": "1. Identificar o alcance",
+            "actions": [
+              "Localizar parte geral, anexo, ofício ou orientação aplicável.",
+              "Separar fundo, classe, subclasse, prestador e atividade atingidos."
+            ],
+            "evidence": "Matriz de aplicabilidade."
+          },
+          {
+            "name": "2. Gap de documentos",
+            "actions": [
+              "Comparar regulamento, anexos, políticas, contratos e cadastros com o novo requisito."
+            ],
+            "evidence": "Gap list documentado."
+          },
+          {
+            "name": "3. Gap de processo",
+            "actions": [
+              "Mapear rotinas, controles, eventos e responsabilidades afetados."
+            ],
+            "evidence": "Fluxo atual x fluxo-alvo."
+          },
+          {
+            "name": "4. Implementação",
+            "actions": [
+              "Transformar cada gap em tarefa, responsável, dependência e aceite."
+            ],
+            "evidence": "Plano de implementação e aprovações."
+          },
+          {
+            "name": "5. Prestação / cadastro",
+            "actions": [
+              "Verificar reflexos em informes, cadastros, registros e comunicações aplicáveis."
+            ],
+            "evidence": "Protocolo, arquivo enviado ou evidência de revisão."
+          },
+          {
+            "name": "6. Revisão",
+            "actions": [
+              "Testar o processo após implementação e manter gatilho para nova orientação."
+            ],
+            "evidence": "Teste de controle e registro de revisão."
+          }
+        ]
+      },
+      {
+        "id": "change-management",
+        "title": "Mudança regulatória: change management do início ao fim",
+        "scope": "Playbook transversal para qualquer ato novo capturado pelo Radar.",
+        "participants": [
+          "Regulatório / Compliance",
+          "Jurídico",
+          "Dono do processo",
+          "Tecnologia / Dados quando aplicável",
+          "Gestão"
+        ],
+        "stages": [
+          {
+            "name": "1. Captura",
+            "actions": [
+              "Registrar fonte, data, vigência e versão."
+            ],
+            "evidence": "Registro da mudança e link oficial."
+          },
+          {
+            "name": "2. Classificação",
+            "actions": [
+              "Classificar tema, produtos, participantes e criticidade operacional."
+            ],
+            "evidence": "Ficha de mudança regulatória."
+          },
+          {
+            "name": "3. Aplicabilidade",
+            "actions": [
+              "Definir se a mudança alcança o processo e em que condições."
+            ],
+            "evidence": "Decisão de aplicabilidade com fundamento."
+          },
+          {
+            "name": "4. Desenho",
+            "actions": [
+              "Traduzir requisito em fluxo, regra de sistema, checklist ou controle."
+            ],
+            "evidence": "Fluxo-alvo e especificação."
+          },
+          {
+            "name": "5. Implementação",
+            "actions": [
+              "Executar tarefas e coletar aceite dos responsáveis."
+            ],
+            "evidence": "Evidências de implementação."
+          },
+          {
+            "name": "6. Sustentação",
+            "actions": [
+              "Monitorar supervisão, dúvidas, novos ofícios e necessidade de ajuste."
+            ],
+            "evidence": "Histórico de revisão e testes periódicos."
+          }
+        ]
+      }
+    ],
+    "live": [
+      {
+        "id": "reg-01",
+        "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
+        "theme": "Supervisão de mercado",
+        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Regulatório / Compliance",
+            "Jurídico",
+            "Dono do processo"
+          ],
+          "checkpoints": [
+            "Abrir e ler a fonte oficial.",
+            "Determinar aplicabilidade.",
+            "Converter o impacto confirmado em tarefa/controle.",
+            "Guardar evidência e monitorar novas orientações."
+          ],
+          "evidence": [
+            "Fonte oficial",
+            "Decisão de aplicabilidade",
+            "Plano de ação",
+            "Evidência de implementação"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-02",
+        "title": "CVM participa de debates sobre caminhos da tokenização de ativos mobiliários no País",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-debates-sobre-caminhos-da-tokenizacao-de-ativos-mobiliarios-no-pais",
+        "theme": "Supervisão de mercado",
+        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Regulatório / Compliance",
+            "Jurídico",
+            "Dono do processo"
+          ],
+          "checkpoints": [
+            "Abrir e ler a fonte oficial.",
+            "Determinar aplicabilidade.",
+            "Converter o impacto confirmado em tarefa/controle.",
+            "Guardar evidência e monitorar novas orientações."
+          ],
+          "evidence": [
+            "Fonte oficial",
+            "Decisão de aplicabilidade",
+            "Plano de ação",
+            "Evidência de implementação"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-03",
+        "title": "Confira o Ofício Circular Anual da SRE sobre ofertas públicas",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas",
+        "theme": "Ofertas & distribuição",
+        "observed": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
+        "radarInterpretation": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Coordenação / Distribuição",
+            "Estruturação",
+            "Formalização",
+            "Jurídico / Compliance"
+          ],
+          "checkpoints": [
+            "Confirmar aplicabilidade e rito.",
+            "Revisar documentação e campos de protocolo.",
+            "Verificar reflexos em autorregulação quando aplicável.",
+            "Registrar evidência da implementação antes de tratar o item como concluído."
+          ],
+          "evidence": [
+            "Checklist de enquadramento",
+            "Controle de versões",
+            "Protocolo/registro",
+            "Log de exigência e resposta"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-04",
+        "title": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
+        "theme": "Fundos & governança",
+        "observed": "O título se relaciona ao regime de fundos, suas classes, prestadores ou obrigações.",
+        "radarInterpretation": "Conferir escopo, vigência e participantes alcançados antes de ajustar governança, documentos ou rotinas.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Administrador fiduciário",
+            "Gestor",
+            "Jurídico / Compliance",
+            "Operações"
+          ],
+          "checkpoints": [
+            "Confirmar fundo/classe/prestador alcançado.",
+            "Comparar documentos e rotinas atuais com a fonte.",
+            "Mapear eventos, informes, cadastros e controles afetados.",
+            "Testar o fluxo implementado e preservar evidências."
+          ],
+          "evidence": [
+            "Matriz de aplicabilidade",
+            "Gap list",
+            "Fluxo-alvo",
+            "Aprovação / protocolo / teste de controle"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-05",
+        "title": "Área técnica da CVM esclarece orientações para coordenadores de ofertas públicas",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-esclarece-orientacoes-para-coordenadores-de-ofertas-publicas",
+        "theme": "Ofertas & distribuição",
+        "observed": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
+        "radarInterpretation": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Coordenação / Distribuição",
+            "Estruturação",
+            "Formalização",
+            "Jurídico / Compliance"
+          ],
+          "checkpoints": [
+            "Confirmar aplicabilidade e rito.",
+            "Revisar documentação e campos de protocolo.",
+            "Verificar reflexos em autorregulação quando aplicável.",
+            "Registrar evidência da implementação antes de tratar o item como concluído."
+          ],
+          "evidence": [
+            "Checklist de enquadramento",
+            "Controle de versões",
+            "Protocolo/registro",
+            "Log de exigência e resposta"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-06",
+        "title": "CVM debate tokenização de ativos no Brasil",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
+        "theme": "Supervisão de mercado",
+        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Regulatório / Compliance",
+            "Jurídico",
+            "Dono do processo"
+          ],
+          "checkpoints": [
+            "Abrir e ler a fonte oficial.",
+            "Determinar aplicabilidade.",
+            "Converter o impacto confirmado em tarefa/controle.",
+            "Guardar evidência e monitorar novas orientações."
+          ],
+          "evidence": [
+            "Fonte oficial",
+            "Decisão de aplicabilidade",
+            "Plano de ação",
+            "Evidência de implementação"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-07",
+        "title": "Revertida suspensão de oferta pública de distribuição de cotas do NTZ Empreendimentos FIDC Multicarteira Resp Limitada",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-de-oferta-publica-de-distribuicao-de-cotas-do-ntz-empreendimentos-fidc-multicarteira-resp-limitada",
+        "theme": "Ofertas & distribuição",
+        "observed": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
+        "radarInterpretation": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Coordenação / Distribuição",
+            "Estruturação",
+            "Formalização",
+            "Jurídico / Compliance"
+          ],
+          "checkpoints": [
+            "Confirmar aplicabilidade e rito.",
+            "Revisar documentação e campos de protocolo.",
+            "Verificar reflexos em autorregulação quando aplicável.",
+            "Registrar evidência da implementação antes de tratar o item como concluído."
+          ],
+          "evidence": [
+            "Checklist de enquadramento",
+            "Controle de versões",
+            "Protocolo/registro",
+            "Log de exigência e resposta"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      },
+      {
+        "id": "reg-08",
+        "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
+        "source": "CVM",
+        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
+        "theme": "Supervisão de mercado",
+        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
+        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
+        "execution": {
+          "status": "triagem necessária",
+          "owners": [
+            "Regulatório / Compliance",
+            "Jurídico",
+            "Dono do processo"
+          ],
+          "checkpoints": [
+            "Abrir e ler a fonte oficial.",
+            "Determinar aplicabilidade.",
+            "Converter o impacto confirmado em tarefa/controle.",
+            "Guardar evidência e monitorar novas orientações."
+          ],
+          "evidence": [
+            "Fonte oficial",
+            "Decisão de aplicabilidade",
+            "Plano de ação",
+            "Evidência de implementação"
+          ],
+          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
+        },
+        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
+      }
+    ],
+    "positioning": {
+      "promise": "Transformar exigência regulatória em processo executável e evidenciável.",
+      "audience": "Coordenadores, distribuidores, gestores, administradores, emissores, operações, jurídico e compliance.",
+      "differentiator": "O Radar não termina na leitura da norma: organiza aplicabilidade, gap, execução, evidência e monitoramento, sem confundir interpretação operacional com obrigação jurídica."
+    }
+  },
   "stakeholderDesk": [
     {
       "role": "Coordenador / Distribuidor",
@@ -408,14 +935,14 @@
         "label": "Estimativa Selic",
         "value": 13.65,
         "unit": "% a.a.",
-        "date": "23/09/2026",
+        "date": "24/09/2026",
         "source": "ANBIMA"
       },
       {
         "label": "DI-B3",
         "value": 13.65,
         "unit": "% a.a.",
-        "date": "22/09/2026",
+        "date": "23/09/2026",
         "source": "ANBIMA"
       },
       {
@@ -427,9 +954,9 @@
       },
       {
         "label": "Dólar venda",
-        "value": 5.1161,
+        "value": 5.1414,
         "unit": "R$/US$",
-        "date": "22/09/2026",
+        "date": "23/09/2026",
         "source": "ANBIMA"
       }
     ],
@@ -438,7 +965,7 @@
         "label": "Selic",
         "value": 13.65,
         "unit": "%",
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "source": "BCB / SGS"
       },
       {
@@ -1497,551 +2024,24 @@
       "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
       "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
     },
-    "generatedAt": "2026-09-23T15:27:40.097Z"
+    "generatedAt": "2026-09-24T14:42:33.619Z"
   },
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-23T08:00:43.191668"
+      "updatedAt": "2026-09-24T08:00:44.734230"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-23T15:27:32.808Z"
+      "updatedAt": "2026-09-24T14:42:28.931Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "23/09/2026 09:30"
+      "updatedAt": "24/09/2026 09:26"
     }
   },
-  "methodology": "Inteligência Radar = dado oficial + índices proprietários + mecanismo econômico + critérios de confirmação/invalidação. A camada regulatória descreve primeiro o conteúdo observado na fonte oficial, separa a interpretação operacional do Radar e organiza aplicabilidade, gap, processo, evidência e monitoramento. Cenários não são promessa de resultado, previsão garantida nem recomendação de investimento.",
-  "regulatoryExecution": {
-    "methodology": {
-      "name": "Método Radar — Regulação → Execução",
-      "steps": [
-        {
-          "order": 1,
-          "key": "source",
-          "label": "Fonte oficial",
-          "question": "O que foi efetivamente publicado?",
-          "output": "Ato, ofício, resolução, código ou comunicado identificado e linkado."
-        },
-        {
-          "order": 2,
-          "key": "applicability",
-          "label": "Aplicabilidade",
-          "question": "Quem e qual processo podem ser alcançados?",
-          "output": "Participantes, produtos, ritos e etapas potencialmente afetados — sem presumir incidência antes da leitura da fonte."
-        },
-        {
-          "order": 3,
-          "key": "gap",
-          "label": "Gap operacional",
-          "question": "O processo atual já atende ao que a fonte exige?",
-          "output": "Diferenças entre prática atual e requisito/entendimento observado."
-        },
-        {
-          "order": 4,
-          "key": "process",
-          "label": "Processo executável",
-          "question": "Que mudança precisa virar tarefa, gate ou controle?",
-          "output": "Sequência operacional com responsáveis, pontos de decisão e dependências."
-        },
-        {
-          "order": 5,
-          "key": "evidence",
-          "label": "Evidência",
-          "question": "Como provar que o processo foi executado?",
-          "output": "Documento, protocolo, checklist, aprovação, registro de sistema ou trilha de auditoria."
-        },
-        {
-          "order": 6,
-          "key": "monitor",
-          "label": "Monitoramento",
-          "question": "O que pode mudar ou invalidar a implementação?",
-          "output": "Vigência, nova orientação, supervisão, atualização do documento e revisão periódica."
-        }
-      ],
-      "guardrail": "O Radar separa obrigação expressa da fonte oficial de interpretação operacional. A tradução para processo não substitui parecer jurídico, compliance, autorregulação aplicável ou leitura integral da norma."
-    },
-    "references": [
-      {
-        "institution": "CVM",
-        "kind": "Regulação",
-        "code": "RCVM 160",
-        "title": "Ofertas públicas de distribuição",
-        "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol160.html",
-        "scope": "Regime de ofertas públicas, ritos, documentos, responsabilidades e negociação dos valores mobiliários ofertados."
-      },
-      {
-        "institution": "CVM",
-        "kind": "Regulação",
-        "code": "RCVM 175",
-        "title": "Fundos de investimento",
-        "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html",
-        "scope": "Constituição, funcionamento, divulgação de informações e prestação de serviços para fundos, com anexos específicos por categoria."
-      },
-      {
-        "institution": "CVM / SRE",
-        "kind": "Orientação",
-        "code": "Ofício Anual SRE 2026",
-        "title": "Orientações gerais sobre ofertas públicas",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas/",
-        "scope": "Orientações da área técnica para emissores, ofertantes e intermediários em procedimentos de ofertas públicas."
-      },
-      {
-        "institution": "CVM / SRE",
-        "kind": "Orientação",
-        "code": "Ofício Circular SRE 4/2026",
-        "title": "Registro automático e análise prévia",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-requerimentos-de-registro-automatico-de-ofertas-publicas-de-distribuicao-de-valores-mobiliarios",
-        "scope": "Orientação a coordenadores líderes sobre requerimentos de registro automático submetidos à análise prévia de entidade autorreguladora e campos de emissores não registrados."
-      },
-      {
-        "institution": "ANBIMA",
-        "kind": "Autorregulação",
-        "code": "Código de Ofertas Públicas",
-        "title": "Estruturação e atividades em ofertas públicas",
-        "url": "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/",
-        "scope": "Regras de autorregulação aplicáveis às instituições aderentes e às atividades alcançadas pelo Código de Ofertas Públicas."
-      }
-    ],
-    "playbooks": [
-      {
-        "id": "oferta-publica",
-        "title": "Oferta pública: da definição do rito à evidência final",
-        "scope": "Modelo operacional para transformar requisitos de oferta em gates verificáveis.",
-        "participants": [
-          "Coordenador / Distribuidor",
-          "Emissor / Ofertante",
-          "Jurídico / Compliance",
-          "Administrador / Gestor quando aplicável"
-        ],
-        "stages": [
-          {
-            "name": "1. Enquadramento",
-            "actions": [
-              "Identificar valor mobiliário, veículo, público-alvo e participantes.",
-              "Confirmar o rito e a fonte normativa/orientativa aplicável."
-            ],
-            "evidence": "Memo de enquadramento ou checklist de aplicabilidade."
-          },
-          {
-            "name": "2. Documentação",
-            "actions": [
-              "Mapear documentos exigidos pela fonte aplicável.",
-              "Controlar versões, aprovações e consistência entre documentos e cadastro."
-            ],
-            "evidence": "Checklist documental versionado e trilha de aprovação."
-          },
-          {
-            "name": "3. Autorregulação",
-            "actions": [
-              "Verificar se o Código/fluxo ANBIMA é aplicável à operação e aos participantes.",
-              "Quando aplicável, incorporar análise, protocolo e saneamento ao cronograma."
-            ],
-            "evidence": "Registro da análise de aplicabilidade e protocolo/parecer quando existente."
-          },
-          {
-            "name": "4. Protocolo / Registro",
-            "actions": [
-              "Executar o fluxo de requerimento ou registro compatível com o enquadramento validado.",
-              "Registrar número, data e evidências da submissão."
-            ],
-            "evidence": "Protocolo, número oficial e comprovantes do processo."
-          },
-          {
-            "name": "5. Exigências / Saneamento",
-            "actions": [
-              "Registrar pedido, óbice ou orientação recebido.",
-              "Converter cada ponto em tarefa com responsável, prazo interno e evidência de resposta."
-            ],
-            "evidence": "Log de exigências e pacote de resposta/revisão."
-          },
-          {
-            "name": "6. Fechamento",
-            "actions": [
-              "Confirmar status final e documentos definitivos.",
-              "Arquivar evidências e lições de processo para reutilização."
-            ],
-            "evidence": "Dossiê final da oferta e trilha de decisão."
-          }
-        ]
-      },
-      {
-        "id": "fundos",
-        "title": "Fundos: mudança regulatória → governança e operação",
-        "scope": "Modelo para absorver alterações que atinjam FIDC, FIAGRO, FII ou prestadores.",
-        "participants": [
-          "Administrador fiduciário",
-          "Gestor",
-          "Jurídico / Compliance",
-          "Controladoria / Operações",
-          "Distribuição quando aplicável"
-        ],
-        "stages": [
-          {
-            "name": "1. Identificar o alcance",
-            "actions": [
-              "Localizar parte geral, anexo, ofício ou orientação aplicável.",
-              "Separar fundo, classe, subclasse, prestador e atividade atingidos."
-            ],
-            "evidence": "Matriz de aplicabilidade."
-          },
-          {
-            "name": "2. Gap de documentos",
-            "actions": [
-              "Comparar regulamento, anexos, políticas, contratos e cadastros com o novo requisito."
-            ],
-            "evidence": "Gap list documentado."
-          },
-          {
-            "name": "3. Gap de processo",
-            "actions": [
-              "Mapear rotinas, controles, eventos e responsabilidades afetados."
-            ],
-            "evidence": "Fluxo atual x fluxo-alvo."
-          },
-          {
-            "name": "4. Implementação",
-            "actions": [
-              "Transformar cada gap em tarefa, responsável, dependência e aceite."
-            ],
-            "evidence": "Plano de implementação e aprovações."
-          },
-          {
-            "name": "5. Prestação / cadastro",
-            "actions": [
-              "Verificar reflexos em informes, cadastros, registros e comunicações aplicáveis."
-            ],
-            "evidence": "Protocolo, arquivo enviado ou evidência de revisão."
-          },
-          {
-            "name": "6. Revisão",
-            "actions": [
-              "Testar o processo após implementação e manter gatilho para nova orientação."
-            ],
-            "evidence": "Teste de controle e registro de revisão."
-          }
-        ]
-      },
-      {
-        "id": "change-management",
-        "title": "Mudança regulatória: change management do início ao fim",
-        "scope": "Playbook transversal para qualquer ato novo capturado pelo Radar.",
-        "participants": [
-          "Regulatório / Compliance",
-          "Jurídico",
-          "Dono do processo",
-          "Tecnologia / Dados quando aplicável",
-          "Gestão"
-        ],
-        "stages": [
-          {
-            "name": "1. Captura",
-            "actions": [
-              "Registrar fonte, data, vigência e versão."
-            ],
-            "evidence": "Registro da mudança e link oficial."
-          },
-          {
-            "name": "2. Classificação",
-            "actions": [
-              "Classificar tema, produtos, participantes e criticidade operacional."
-            ],
-            "evidence": "Ficha de mudança regulatória."
-          },
-          {
-            "name": "3. Aplicabilidade",
-            "actions": [
-              "Definir se a mudança alcança o processo e em que condições."
-            ],
-            "evidence": "Decisão de aplicabilidade com fundamento."
-          },
-          {
-            "name": "4. Desenho",
-            "actions": [
-              "Traduzir requisito em fluxo, regra de sistema, checklist ou controle."
-            ],
-            "evidence": "Fluxo-alvo e especificação."
-          },
-          {
-            "name": "5. Implementação",
-            "actions": [
-              "Executar tarefas e coletar aceite dos responsáveis."
-            ],
-            "evidence": "Evidências de implementação."
-          },
-          {
-            "name": "6. Sustentação",
-            "actions": [
-              "Monitorar supervisão, dúvidas, novos ofícios e necessidade de ajuste."
-            ],
-            "evidence": "Histórico de revisão e testes periódicos."
-          }
-        ]
-      }
-    ],
-    "live": [
-      {
-        "id": "reg-01",
-        "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-02",
-        "title": "CVM participa de debates sobre caminhos da tokenização de ativos mobiliários no País",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-debates-sobre-caminhos-da-tokenizacao-de-ativos-mobiliarios-no-pais",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-03",
-        "title": "Confira o Ofício Circular Anual da SRE sobre ofertas públicas",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas",
-        "theme": "Ofertas & distribuição",
-        "observed": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
-        "radarInterpretation": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Coordenação / Distribuição",
-            "Estruturação",
-            "Formalização",
-            "Jurídico / Compliance"
-          ],
-          "checkpoints": [
-            "Confirmar aplicabilidade e rito.",
-            "Revisar documentação e campos de protocolo.",
-            "Verificar reflexos em autorregulação quando aplicável.",
-            "Registrar evidência da implementação antes de tratar o item como concluído."
-          ],
-          "evidence": [
-            "Checklist de enquadramento",
-            "Controle de versões",
-            "Protocolo/registro",
-            "Log de exigência e resposta"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-04",
-        "title": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
-        "theme": "Fundos & governança",
-        "observed": "O título se relaciona ao regime de fundos, suas classes, prestadores ou obrigações.",
-        "radarInterpretation": "Conferir escopo, vigência e participantes alcançados antes de ajustar governança, documentos ou rotinas.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Administrador fiduciário",
-            "Gestor",
-            "Jurídico / Compliance",
-            "Operações"
-          ],
-          "checkpoints": [
-            "Confirmar fundo/classe/prestador alcançado.",
-            "Comparar documentos e rotinas atuais com a fonte.",
-            "Mapear eventos, informes, cadastros e controles afetados.",
-            "Testar o fluxo implementado e preservar evidências."
-          ],
-          "evidence": [
-            "Matriz de aplicabilidade",
-            "Gap list",
-            "Fluxo-alvo",
-            "Aprovação / protocolo / teste de controle"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-05",
-        "title": "Área técnica da CVM esclarece orientações para coordenadores de ofertas públicas",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-esclarece-orientacoes-para-coordenadores-de-ofertas-publicas",
-        "theme": "Ofertas & distribuição",
-        "observed": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
-        "radarInterpretation": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Coordenação / Distribuição",
-            "Estruturação",
-            "Formalização",
-            "Jurídico / Compliance"
-          ],
-          "checkpoints": [
-            "Confirmar aplicabilidade e rito.",
-            "Revisar documentação e campos de protocolo.",
-            "Verificar reflexos em autorregulação quando aplicável.",
-            "Registrar evidência da implementação antes de tratar o item como concluído."
-          ],
-          "evidence": [
-            "Checklist de enquadramento",
-            "Controle de versões",
-            "Protocolo/registro",
-            "Log de exigência e resposta"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-06",
-        "title": "CVM debate tokenização de ativos no Brasil",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-07",
-        "title": "Revertida suspensão de oferta pública de distribuição de cotas do NTZ Empreendimentos FIDC Multicarteira Resp Limitada",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-de-oferta-publica-de-distribuicao-de-cotas-do-ntz-empreendimentos-fidc-multicarteira-resp-limitada",
-        "theme": "Ofertas & distribuição",
-        "observed": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
-        "radarInterpretation": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Coordenação / Distribuição",
-            "Estruturação",
-            "Formalização",
-            "Jurídico / Compliance"
-          ],
-          "checkpoints": [
-            "Confirmar aplicabilidade e rito.",
-            "Revisar documentação e campos de protocolo.",
-            "Verificar reflexos em autorregulação quando aplicável.",
-            "Registrar evidência da implementação antes de tratar o item como concluído."
-          ],
-          "evidence": [
-            "Checklist de enquadramento",
-            "Controle de versões",
-            "Protocolo/registro",
-            "Log de exigência e resposta"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-08",
-        "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      }
-    ],
-    "positioning": {
-      "promise": "Transformar exigência regulatória em processo executável e evidenciável.",
-      "audience": "Coordenadores, distribuidores, gestores, administradores, emissores, operações, jurídico e compliance.",
-      "differentiator": "O Radar não termina na leitura da norma: organiza aplicabilidade, gap, execução, evidência e monitoramento, sem confundir interpretação operacional com obrigação jurídica."
-    }
-  }
+  "methodology": "Inteligência Radar = dado oficial + índices proprietários + mecanismo econômico + critérios de confirmação/invalidação. A camada regulatória descreve primeiro o conteúdo observado na fonte oficial, separa a interpretação operacional do Radar e organiza aplicabilidade, gap, processo, evidência e monitoramento. Cenários não são promessa de resultado, previsão garantida nem recomendação de investimento."
 }
