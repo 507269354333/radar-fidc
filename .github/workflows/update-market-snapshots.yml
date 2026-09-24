@@ -2,6 +2,17 @@ name: Atualizar snapshots oficiais
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'lib/weekly.js'
+      - 'lib/monthly.js'
+      - 'lib/indices.js'
+      - 'lib/intelligence.js'
+      - 'lib/regulatory-execution.js'
+      - 'scripts/build-market-snapshots.js'
+      - '.github/workflows/update-market-snapshots.yml'
   schedule:
     - cron: '20 11 * * 1-5'
 
