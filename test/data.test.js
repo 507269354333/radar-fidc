@@ -237,3 +237,17 @@ test('Regulatory Execution separa fonte, interpretação e processo executável'
   assert(REGULATORY_REFERENCES.some(x=>x.code==='RCVM 160'));
   assert.match(REGULATORY_EXECUTION_METHOD.guardrail,/não substitui/i);
 });
+
+
+test('relatório semanal inclui benchmark de quatro semanas e série de oito semanas',()=>{
+  const items=[];
+  for(let w=0;w<8;w++){
+    const d=new Date(Date.UTC(2026,8,20-w*7));
+    items.push({id:'x'+w,name:'FIDC '+w,date:d.toISOString().slice(0,10),leader:'BANCO A',leaderCnpj:'1',volume:(w+1)*100,audience:'Profissional',rite:'Automático'});
+  }
+  const report=buildWeeklyReport(items,new Date('2026-09-21T12:00:00Z'));
+  assert.equal(report.history.weeks.length,8);
+  assert(Number.isFinite(report.benchmarks.prior4Average.offers));
+  assert('offersPct' in report.benchmarks.currentVsPrior4Average);
+  assert.match(report.methodology,/quatro semanas completas anteriores/);
+});

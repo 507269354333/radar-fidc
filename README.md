@@ -2,7 +2,7 @@
 
 Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO e FII**, construída sobre fontes oficiais.
 
-## Versão 10.2 — Regulatory Execution
+## Versão 11 — Research Publishing
 
 - **Mercados 360:** FIDC, FIAGRO e FII classificados pelos campos oficiais da CVM, sem inferência pelo nome do fundo.
 - **Analytics por vertical:** competência, quantidade de ofertas, volume observado, ticket, ritos, públicos e séries mensais.
@@ -18,6 +18,9 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - **Regulatory Execution:** cada mudança pode ser traduzida em fonte → aplicabilidade → gap → processo executável → evidência → monitoramento, preservando a fronteira entre obrigação expressa e interpretação operacional.
 - **Playbooks regulatórios:** modelos reutilizáveis para ofertas públicas, fundos e change management regulatório.
 - **Consistência multicanal:** a mesma inteligência alimenta homepage, relatório semanal, Carta Mensal e a página dedicada.
+- **Linha editorial de PDFs:** materiais padronizados com capa, tese, contraste histórico, ofertas em destaque e conclusão; a base completa permanece no portal.
+- **Research Library:** Semanal FIDC, Semanal FIAGRO, Semanal FII, Radar Global, Radar Regulatório, Radar Inteligência e Carta Mensal.
+- **Contraste histórico semanal:** semana corrente comparada à semana anterior e à média das quatro semanas completas anteriores.
 - **Educação dos índices:** IROP, IRBD, IRCC, IRFC e IRPM publicam pergunta respondida, definição, base técnica, evidência empírica, fórmula quantitativa, camada qualitativa, leitura do score atual e limitações.
 - **Governança metodológica:** score quantitativo e interpretação qualitativa permanecem separados; os índices são proprietários, não oficiais e estão em validação histórica contínua.
 
@@ -27,7 +30,11 @@ Plataforma de inteligência de mercado para ofertas públicas de **FIDC, FIAGRO 
 - `/markets.html?market=FIDC|FIAGRO|FII` — inteligência por vertical
 - `/offer.html?market=...&id=...` — ficha individual de oferta
 - `/coordinator.html?market=...&cnpj=...` — perfil do coordenador
-- `/weekly-report.html?market=FIDC|FIAGRO|FII|ALL` — relatório semanal imprimível/PDF
+- `/research.html` — biblioteca de materiais Radar
+- `/weekly-report.html?market=FIDC|FIAGRO|FII|ALL` — semanal editorial imprimível/PDF
+- `/global-report.html` — resumo executivo global
+- `/regulatory-report.html` — relatório regulatório executivo
+- `/intelligence-report.html` — relatório de inteligência, índices e teses
 - `/intelligence.html?month=AAAA-MM` — briefing, teses, cenários, regulador e mesa de decisão
 - `/regulatory.html` — Regulatory Execution: fonte, aplicabilidade, gap, processo, evidência, monitoramento e playbooks
 - `/monthly-letter.html?month=AAAA-MM&market=ALL|FIDC|FIAGRO|FII` — Carta Mensal Radar
