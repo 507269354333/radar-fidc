@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-09-24T15:49:38.321Z",
+  "generatedAt": "2026-09-25T15:50:06.389Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-24T08:00:44.734230"
+    "updatedAt": "2026-09-25T08:00:49.808742"
   },
   "coordinators": [
     {
@@ -614,10 +614,10 @@
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 19,
-        "volume": 4487830254.07,
-        "offersWithVolume": 19,
-        "averageTicket": 236201592.31947365
+        "offers": 20,
+        "volume": 4788434490.0199995,
+        "offersWithVolume": 20,
+        "averageTicket": 239421724.501
       },
       "byMonth": [
         {
@@ -707,11 +707,27 @@
         },
         {
           "month": "2026-09",
-          "count": 5,
-          "volume": 1220547970.58
+          "count": 6,
+          "volume": 1521152206.53
         }
       ],
       "recentOffers": [
+        {
+          "id": "458df344c2954dc5",
+          "market": "FII",
+          "name": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "34.691.520/0001-00",
+          "registration": "28068",
+          "processNumber": "SRE/3110/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 300604235.95,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "0a53effa606db27e",
           "market": "FII",
@@ -757,7 +773,7 @@
           "date": "2026-09-02",
           "rite": "Automático",
           "audience": "Público geral",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1175,29 +1191,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "0380d7b0b5c9725c",
-          "market": "FII",
-          "name": "BTG HOSPITALIDADE RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.329.826/0001-20",
-          "registration": "20328",
-          "processNumber": "SRE/1149/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 415187500,
-          "date": "2025-04-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Revogada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 151,
-          "volume": 27811248543.73
+          "count": 152,
+          "volume": 27961248543.73
         },
         {
           "market": "FIAGRO",
@@ -1206,8 +1206,8 @@
         },
         {
           "market": "FII",
-          "count": 173,
-          "volume": 23999516052.340004
+          "count": 174,
+          "volume": 24300120288.29
         }
       ]
     },
@@ -5176,8 +5176,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 24,
-          "volume": 5553912292.490001
+          "count": 25,
+          "volume": 6353912292.49
         },
         {
           "market": "FIAGRO",
@@ -6160,8 +6160,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1039,
-          "volume": 56502070860.38995
+          "count": 1041,
+          "volume": 56521070860.47996
         },
         {
           "market": "FIAGRO",
@@ -11291,8 +11291,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 231,
-          "volume": 6196205114.030002
+          "count": 233,
+          "volume": 6816205114.030002
         },
         {
           "market": "FIAGRO",
@@ -11892,7 +11892,7 @@
         {
           "market": "FIDC",
           "count": 19,
-          "volume": 2855259757.8
+          "volume": 2855259314.79
         },
         {
           "market": "FIAGRO",
@@ -23511,8 +23511,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 3,
-          "volume": 25000000
+          "count": 5,
+          "volume": 31000000
         },
         {
           "market": "FIAGRO",
