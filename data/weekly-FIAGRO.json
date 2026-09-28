@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-09-25T15:50:06.344Z",
+  "generatedAt": "2026-09-28T18:36:40.211Z",
   "market": "FIAGRO",
   "current": {
+    "period": {
+      "start": "2026-09-21",
+      "end": "2026-09-27"
+    },
+    "offers": 0,
+    "offersWithVolume": 0,
+    "volume": 0,
+    "averageTicket": null,
+    "leaders": 0,
+    "topLeaders": [],
+    "topOffers": [],
+    "byAudience": [],
+    "byRite": [],
+    "byStatus": [],
+    "byMarket": [],
+    "professionalShare": null,
+    "top3Concentration": null,
+    "busiestDays": [],
+    "themeSignals": []
+  },
+  "prior": {
     "period": {
       "start": "2026-09-14",
       "end": "2026-09-20"
@@ -180,108 +201,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-09-07",
-      "end": "2026-09-13"
-    },
-    "offers": 1,
-    "offersWithVolume": 1,
-    "volume": 231000000,
-    "averageTicket": 231000000,
-    "leaders": 1,
-    "topLeaders": [
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 1,
-        "volume": 231000000
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "ed902e8babdeb22e",
-        "market": "FIAGRO",
-        "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
-        "cnpj": "62.134.120/0001-39",
-        "registration": "27755",
-        "processNumber": "SRE/2822/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "volume": 231000000,
-        "date": "2026-09-10",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 1
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 1
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 1
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FIAGRO",
-        "count": 1
-      }
-    ],
-    "professionalShare": 1,
-    "top3Concentration": 1,
-    "busiestDays": [
-      {
-        "date": "2026-09-10",
-        "count": 1
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Agronegócio",
-        "count": 1
-      }
-    ]
-  },
   "changes": {
-    "offersPct": 500,
-    "volumePct": -51.90476186147186
+    "offersPct": -100,
+    "volumePct": -100
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 2.5,
-      "volume": 62727187500,
-      "leaders": 2,
+      "offers": 3.75,
+      "volume": 62729962500.025,
+      "leaders": 2.75,
       "professionalShare": 1,
-      "top3Concentration": 0.9375
+      "top3Concentration": 0.8958333333333334
     },
     "currentVsPrior4Average": {
-      "offersPct": 140,
-      "volumePct": -99.82288381716461
+      "offersPct": -100,
+      "volumePct": -100
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-07-27",
-          "end": "2026-08-02"
-        },
-        "offers": 0,
-        "volume": 0,
-        "leaders": 0
-      },
       {
         "period": {
           "start": "2026-08-03",
@@ -344,33 +282,37 @@
         "offers": 6,
         "volume": 111100000.1,
         "leaders": 4
+      },
+      {
+        "period": {
+          "start": "2026-09-21",
+          "end": "2026-09-27"
+        },
+        "offers": 0,
+        "volume": 0,
+        "leaders": 0
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 6 ofertas FIAGRO, 500,0% acima da semana anterior.",
-    "Volume informado de R$ 111.100.000 em 6 ofertas com valor positivo; ticket médio de R$ 18.516.667.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 99,8% abaixo e a quantidade de ofertas 140,0% acima.",
-    "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM liderou por quantidade de registros (3); os três coordenadores mais presentes concentraram 83,3% das ofertas da semana.",
-    "100,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
-    "Sinais de tema pela denominação dos veículos: Agronegócio (6). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
+    "Nenhuma oferta FIAGRO com data de registro/requerimento foi identificada no período semanal selecionado."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-25T08:00:49.808742"
+      "updatedAt": "2026-09-28T08:01:36.000350"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-25T15:50:06.306Z"
+      "updatedAt": "2026-09-28T18:36:33.257Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "25/09/2026 09:31"
+      "updatedAt": "28/09/2026 09:34"
     }
   },
   "macro": {
@@ -379,19 +321,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-27",
-          "value": 13.9
-        },
         {
           "date": "2026-08-28",
           "value": 13.9
@@ -466,6 +404,10 @@
         },
         {
           "date": "2026-09-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-25",
           "value": 13.65
         }
       ]
@@ -761,32 +703,32 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "25/09/2026",
+      "date": "28/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "24/09/2026",
+      "date": "25/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "24/09/2026",
+      "date": "25/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "24/09/2026",
-      "value": 5.1795,
+      "date": "25/09/2026",
+      "value": 5.1991,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.56,
+      "value": 0.72,
       "label": "IPCA projetado",
       "unit": "%"
     },
@@ -842,10 +784,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4447,
+      "count": 4450,
       "latestMonth": "2026-09",
-      "offersInMonth": 95,
-      "volumeInMonth": 18891742708.36
+      "offersInMonth": 98,
+      "volumeInMonth": 19941742708.36
     },
     {
       "market": "FIAGRO",
@@ -856,9 +798,9 @@
     },
     {
       "market": "FII",
-      "count": 1499,
+      "count": 1500,
       "latestMonth": "2026-09",
-      "offersInMonth": 34,
+      "offersInMonth": 35,
       "volumeInMonth": 10922134592.47
     }
   ],

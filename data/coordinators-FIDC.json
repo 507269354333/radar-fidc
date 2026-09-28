@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-09-25T15:50:06.386Z",
+  "generatedAt": "2026-09-28T18:36:40.257Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-25T08:00:49.808742"
+    "updatedAt": "2026-09-28T08:01:36.000350"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 162,
-        "volume": 7807292100.780002,
-        "offersWithVolume": 162,
-        "averageTicket": 48193161.11592594
+        "offers": 163,
+        "volume": 7857292100.780002,
+        "offersWithVolume": 163,
+        "averageTicket": 48204246.01705523
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-09",
-          "count": 16,
-          "volume": 500500001.33
+          "count": 17,
+          "volume": 550500001.3299999
         }
       ],
       "recentOffers": [
+        {
+          "id": "c58879f63aee2d98",
+          "market": "FIDC",
+          "name": "SOLAR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL",
+          "cnpj": "29.970.251/0001-80",
+          "registration": "28070",
+          "processNumber": "SRE/3113/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 50000000,
+          "date": "2026-09-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "c25310925917e31d",
           "market": "FIDC",
@@ -573,29 +589,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "32953ecbd54fe640",
-          "market": "FIDC",
-          "name": "CD CASH FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "37.035.970/0001-32",
-          "registration": "26447",
-          "processNumber": "SRE/1638/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 50000000,
-          "date": "2026-05-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1041,
-          "volume": 56521070860.47996
+          "count": 1042,
+          "volume": 56571070860.47996
         },
         {
           "market": "FIAGRO",
@@ -2233,7 +2233,7 @@
           "date": "2026-03-30",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -3022,7 +3022,7 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 22,
+        "offers": 24,
         "volume": 10116320059,
         "offersWithVolume": 20,
         "averageTicket": 505816002.95
@@ -3115,11 +3115,43 @@
         },
         {
           "month": "2026-09",
-          "count": 6,
+          "count": 8,
           "volume": 4521400000
         }
       ],
       "recentOffers": [
+        {
+          "id": "ac0e283cf8f83538",
+          "market": "FIDC",
+          "name": "PRAVALER CRÉDITO UNIVERSITÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADA",
+          "cnpj": "08.417.544/0001-65",
+          "registration": "28083",
+          "processNumber": "SRE/3122/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-09-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "9f2556a870707741",
+          "market": "FIDC",
+          "name": "VTK II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.003.946/0001-08",
+          "registration": "28078",
+          "processNumber": "SRE/3121/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-09-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "c40ba36ce027b57c",
           "market": "FIDC",
@@ -3567,44 +3599,12 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "6d72b07adacc6c33",
-          "market": "FIDC",
-          "name": "ANGICO FIDC SEGMENTO INFRAESTRUTURA E AGRONEGÓCIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.325.251/0001-63",
-          "registration": "19741",
-          "processNumber": "SRE/0685/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 200000000,
-          "date": "2025-03-14",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "78e78e7d797cb07a",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS AMOVERI RESPONSABILIDADE LIMITADA",
-          "cnpj": "48.213.067/0001-30",
-          "registration": "19800",
-          "processNumber": "SRE/0721/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 20000000,
-          "date": "2025-03-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 53,
+          "count": 55,
           "volume": 16822170059
         },
         {
@@ -3911,7 +3911,7 @@
           "date": "2026-03-31",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -3927,7 +3927,7 @@
           "date": "2026-03-31",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -4513,7 +4513,7 @@
           "date": "2026-03-30",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -7831,22 +7831,6 @@
       ],
       "recentOffers": [
         {
-          "id": "042cfb976195547f",
-          "market": "FIDC",
-          "name": "1 CLASSE DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CLIENTES BRF III DE RESP LIMITADA",
-          "cnpj": "69.078.122/0001-05",
-          "registration": "28042",
-          "processNumber": "SRE/3083/2026",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 1179960000,
-          "date": "2026-09-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
           "id": "e3076d0855bf9e12",
           "market": "FIDC",
           "name": "JHSF CAPITAL RECEBIVEIS IMOBILIARIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESP LTDA",
@@ -7860,6 +7844,22 @@
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "042cfb976195547f",
+          "market": "FIDC",
+          "name": "1 CLASSE DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CLIENTES BRF III DE RESP LIMITADA",
+          "cnpj": "69.078.122/0001-05",
+          "registration": "28042",
+          "processNumber": "SRE/3083/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 1179960000,
+          "date": "2026-09-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -9233,7 +9233,7 @@
           "date": "2026-09-17",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -9714,7 +9714,7 @@
         },
         {
           "market": "FII",
-          "count": 141,
+          "count": 142,
           "volume": 71170323026.59001
         }
       ]
@@ -18915,6 +18915,109 @@
       ]
     },
     {
+      "key": "CNPJ:00360305000104",
+      "name": "CAIXA ECONOMICA FEDERAL",
+      "cnpj": "00.360.305/0001-04",
+      "stats12m": {
+        "offers": 1,
+        "volume": 1000000000,
+        "offersWithVolume": 1,
+        "averageTicket": 1000000000
+      },
+      "byMonth": [
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 1030930000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 1000000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "75131b3b939eeeda",
+          "market": "FIDC",
+          "name": "CLOUDWALK LEO FIDC SEGMENTO MEIOS DE PAGAMENTO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.145.248/0001-47",
+          "registration": "27960",
+          "processNumber": "SRE/3008/2026",
+          "leader": "CAIXA ECONOMICA FEDERAL",
+          "leaderCnpj": "00.360.305/0001-04",
+          "volume": 1000000000,
+          "date": "2026-09-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b35f73c495eadef3",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - ACR IV",
+          "cnpj": "51.983.832/0001-06",
+          "registration": "3483",
+          "processNumber": "SRE/2493/2023",
+          "leader": "CAIXA ECONOMICA FEDERAL",
+          "leaderCnpj": "00.360.305/0001-04",
+          "volume": 1030930000,
+          "date": "2023-11-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "df4fd086e09a4c01",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - BANCOS EMISSORES DE CARTÃO DE CRÉDITO - STONE III",
+          "cnpj": "35.868.129/0001-09",
+          "registration": "",
+          "processNumber": "",
+          "leader": "CAIXA ECONOMICA FEDERAL",
+          "leaderCnpj": "00.360.305/0001-04",
+          "volume": 2500000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-09-11",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 3,
+          "volume": 4530930000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 3,
+          "volume": 602123140
+        }
+      ]
+    },
+    {
       "key": "CNPJ:24933830000130",
       "name": "BB-BI",
       "cnpj": "24.933.830/0001-30",
@@ -23364,109 +23467,6 @@
           "market": "FII",
           "count": 0,
           "volume": 0
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:00360305000104",
-      "name": "CAIXA ECONOMICA FEDERAL",
-      "cnpj": "00.360.305/0001-04",
-      "stats12m": {
-        "offers": 1,
-        "volume": 0,
-        "offersWithVolume": 0,
-        "averageTicket": null
-      },
-      "byMonth": [
-        {
-          "month": "2023-11",
-          "count": 1,
-          "volume": 1030930000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 0
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "75131b3b939eeeda",
-          "market": "FIDC",
-          "name": "CLOUDWALK LEO FIDC SEGMENTO MEIOS DE PAGAMENTO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.145.248/0001-47",
-          "registration": "27960",
-          "processNumber": "SRE/3008/2026",
-          "leader": "CAIXA ECONOMICA FEDERAL",
-          "leaderCnpj": "00.360.305/0001-04",
-          "volume": 0,
-          "date": "2026-09-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "publications": []
-        },
-        {
-          "id": "b35f73c495eadef3",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - ACR IV",
-          "cnpj": "51.983.832/0001-06",
-          "registration": "3483",
-          "processNumber": "SRE/2493/2023",
-          "leader": "CAIXA ECONOMICA FEDERAL",
-          "leaderCnpj": "00.360.305/0001-04",
-          "volume": 1030930000,
-          "date": "2023-11-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "df4fd086e09a4c01",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - BANCOS EMISSORES DE CARTÃO DE CRÉDITO - STONE III",
-          "cnpj": "35.868.129/0001-09",
-          "registration": "",
-          "processNumber": "",
-          "leader": "CAIXA ECONOMICA FEDERAL",
-          "leaderCnpj": "00.360.305/0001-04",
-          "volume": 2500000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-09-11",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 3,
-          "volume": 3530930000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 3,
-          "volume": 602123140
         }
       ]
     },

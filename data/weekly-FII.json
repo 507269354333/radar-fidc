@@ -1,7 +1,175 @@
 {
-  "generatedAt": "2026-09-25T15:50:06.346Z",
+  "generatedAt": "2026-09-28T18:36:40.213Z",
   "market": "FII",
   "current": {
+    "period": {
+      "start": "2026-09-21",
+      "end": "2026-09-27"
+    },
+    "offers": 6,
+    "offersWithVolume": 5,
+    "volume": 1011152197.68,
+    "averageTicket": 202230439.53599998,
+    "leaders": 4,
+    "topLeaders": [
+      {
+        "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "cnpj": "36.266.751/0001-00",
+        "count": 2,
+        "volume": 515000000
+      },
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 2,
+        "volume": 451152197.53
+      },
+      {
+        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "62.285.390/0001-40",
+        "count": 1,
+        "volume": 45000000.15
+      },
+      {
+        "name": "XP INVESTIMENTOS CCTVM S.A.",
+        "cnpj": "02.332.886/0001-04",
+        "count": 1,
+        "volume": 0
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "5f545683c72b650a",
+        "market": "FII",
+        "name": "PAC-MAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.948.341/0001-27",
+        "registration": "27937",
+        "processNumber": "SRE/3076/2026",
+        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "volume": 500000000,
+        "date": "2026-09-23",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "458df344c2954dc5",
+        "market": "FII",
+        "name": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "34.691.520/0001-00",
+        "registration": "28068",
+        "processNumber": "SRE/3110/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "volume": 300604235.95,
+        "date": "2026-09-24",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "0a53effa606db27e",
+        "market": "FII",
+        "name": "CAPITÂNIA OFFICE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "cnpj": "48.916.699/0001-60",
+        "registration": "28055",
+        "processNumber": "SRE/3093/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "volume": 150547961.58,
+        "date": "2026-09-23",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "d6c1632e9e77ac07",
+        "market": "FII",
+        "name": "G5 ALLOCATION FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "cnpj": "32.140.405/0001-11",
+        "registration": "28048",
+        "processNumber": "SRE/3088/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "volume": 45000000.15,
+        "date": "2026-09-23",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "952256c8ef368e35",
+        "market": "FII",
+        "name": "TERRA NOVA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.131.160/0001-76",
+        "registration": "27942",
+        "processNumber": "SRE/3075/2026",
+        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "volume": 15000000,
+        "date": "2026-09-23",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 5
+      },
+      {
+        "name": "Público geral",
+        "count": 1
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 6
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 5
+      },
+      {
+        "name": "Aguardando Bookbuilding",
+        "count": 1
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FII",
+        "count": 6
+      }
+    ],
+    "professionalShare": 0.8333333333333334,
+    "top3Concentration": 0.8333333333333334,
+    "busiestDays": [
+      {
+        "date": "2026-09-23",
+        "count": 4
+      },
+      {
+        "date": "2026-09-24",
+        "count": 1
+      },
+      {
+        "date": "2026-09-25",
+        "count": 1
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Renda urbana",
+        "count": 1
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-09-14",
       "end": "2026-09-20"
@@ -228,217 +396,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-09-07",
-      "end": "2026-09-13"
-    },
-    "offers": 6,
-    "offersWithVolume": 6,
-    "volume": 3597708182.81,
-    "averageTicket": 599618030.4683334,
-    "leaders": 4,
-    "topLeaders": [
-      {
-        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "cnpj": "18.945.670/0001-46",
-        "count": 2,
-        "volume": 1262708162.85
-      },
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 2,
-        "volume": 750000019.96
-      },
-      {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 1,
-        "volume": 1460000000
-      },
-      {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 1,
-        "volume": 125000000
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "4d894538cb0fdbf9",
-        "market": "FII",
-        "name": "TRX LOGISTICO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.988.297/0001-16",
-        "registration": "27843",
-        "processNumber": "SRE/2914/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 1460000000,
-        "date": "2026-09-10",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "54bddc15c84ad6a8",
-        "market": "FII",
-        "name": "BTSP III FUNDO DE INVESTIMENTO IMOBILIARIO FII RESPONSABILIDADE LIMITADA",
-        "cnpj": "66.965.056/0001-99",
-        "registration": "27685",
-        "processNumber": "SRE/2774/2026",
-        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "volume": 1113503162.85,
-        "date": "2026-09-08",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "7dd8df53f38d1b33",
-        "market": "FII",
-        "name": "ITAÚ CRÉDITO IMOBILIÁRIO CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "64.542.109/0001-33",
-        "registration": "27774",
-        "processNumber": "SRE/2838/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "volume": 500000019.96,
-        "date": "2026-09-11",
-        "rite": "Automático",
-        "audience": "Qualificado",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "b2fe2060764ebc13",
-        "market": "FII",
-        "name": "CONTE BIANCAMANO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "37.950.819/0001-20",
-        "registration": "27842",
-        "processNumber": "SRE/2896/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "volume": 250000000,
-        "date": "2026-09-10",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "b9c92fec4b284673",
-        "market": "FII",
-        "name": "BTS SERENA FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
-        "cnpj": "63.105.082/0001-59",
-        "registration": "27732",
-        "processNumber": "SRE/2805/2026",
-        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "volume": 149205000,
-        "date": "2026-09-10",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "0e43c0f232ba2347",
-        "market": "FII",
-        "name": "RESIDENCIAL INTERIOR DE SÃO PAULO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.551.703/0001-41",
-        "registration": "27858",
-        "processNumber": "SRE/2911/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "volume": 125000000,
-        "date": "2026-09-10",
-        "rite": "Automático",
-        "audience": "Qualificado",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 4
-      },
-      {
-        "name": "Qualificado",
-        "count": 2
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 6
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 5
-      },
-      {
-        "name": "Oferta Encerrada",
-        "count": 1
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FII",
-        "count": 6
-      }
-    ],
-    "professionalShare": 0.6666666666666666,
-    "top3Concentration": 0.8333333333333334,
-    "busiestDays": [
-      {
-        "date": "2026-09-10",
-        "count": 4
-      },
-      {
-        "date": "2026-09-08",
-        "count": 1
-      },
-      {
-        "date": "2026-09-11",
-        "count": 1
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Imobiliário logístico",
-        "count": 1
-      }
-    ]
-  },
   "changes": {
-    "offersPct": 66.66666666666666,
-    "volumePct": -22.01737566028248
+    "offersPct": -40,
+    "volumePct": -63.95933881069864
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 9.5,
-      "volume": 3885940690.7825,
-      "leaders": 6.75,
-      "professionalShare": 0.7662141779788839,
-      "top3Concentration": 0.7105957767722474
+      "offers": 11.5,
+      "volume": 4245839516.4325,
+      "leaders": 8,
+      "professionalShare": 0.7662141779788838,
+      "top3Concentration": 0.6105957767722474
     },
     "currentVsPrior4Average": {
-      "offersPct": 5.263157894736842,
-      "volumePct": -27.80159348044379
+      "offersPct": -47.82608695652174,
+      "volumePct": -76.1848700647639
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-07-27",
-          "end": "2026-08-02"
-        },
-        "offers": 0,
-        "volume": 0,
-        "leaders": 0
-      },
       {
         "period": {
           "start": "2026-08-03",
@@ -501,33 +477,42 @@
         "offers": 10,
         "volume": 2805587257.04,
         "leaders": 7
+      },
+      {
+        "period": {
+          "start": "2026-09-21",
+          "end": "2026-09-27"
+        },
+        "offers": 6,
+        "volume": 1011152197.68,
+        "leaders": 4
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 10 ofertas FII, 66,7% acima da semana anterior.",
-    "Volume informado de R$ 2.805.587.257 em 10 ofertas com valor positivo; ticket médio de R$ 280.558.726.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 27,8% abaixo e a quantidade de ofertas 5,3% acima.",
-    "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 60,0% das ofertas da semana.",
-    "100,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
-    "Sinais de tema pela denominação dos veículos: Shopping/Varejo (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
+    "Atividade semanal de 6 ofertas FII, 40,0% abaixo da semana anterior.",
+    "Volume informado de R$ 1.011.152.198 em 5 ofertas com valor positivo; ticket médio de R$ 202.230.440.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 76,2% abaixo e a quantidade de ofertas 47,8% abaixo.",
+    "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 83,3% das ofertas da semana.",
+    "83,3% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Sinais de tema pela denominação dos veículos: Renda urbana (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-25T08:00:49.808742"
+      "updatedAt": "2026-09-28T08:01:36.000350"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-25T15:50:06.306Z"
+      "updatedAt": "2026-09-28T18:36:33.257Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "25/09/2026 09:31"
+      "updatedAt": "28/09/2026 09:34"
     }
   },
   "macro": {
@@ -536,19 +521,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-27",
-          "value": 13.9
-        },
         {
           "date": "2026-08-28",
           "value": 13.9
@@ -623,6 +604,10 @@
         },
         {
           "date": "2026-09-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-25",
           "value": 13.65
         }
       ]
@@ -918,32 +903,32 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "25/09/2026",
+      "date": "28/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "24/09/2026",
+      "date": "25/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "24/09/2026",
+      "date": "25/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "24/09/2026",
-      "value": 5.1795,
+      "date": "25/09/2026",
+      "value": 5.1991,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.56,
+      "value": 0.72,
       "label": "IPCA projetado",
       "unit": "%"
     },
@@ -999,10 +984,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4447,
+      "count": 4450,
       "latestMonth": "2026-09",
-      "offersInMonth": 95,
-      "volumeInMonth": 18891742708.36
+      "offersInMonth": 98,
+      "volumeInMonth": 19941742708.36
     },
     {
       "market": "FIAGRO",
@@ -1013,9 +998,9 @@
     },
     {
       "market": "FII",
-      "count": 1499,
+      "count": 1500,
       "latestMonth": "2026-09",
-      "offersInMonth": 34,
+      "offersInMonth": 35,
       "volumeInMonth": 10922134592.47
     }
   ],

@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-09-25T15:50:06.389Z",
+  "generatedAt": "2026-09-28T18:36:40.260Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-25T08:00:49.808742"
+    "updatedAt": "2026-09-28T08:01:36.000350"
   },
   "coordinators": [
     {
@@ -12,7 +12,7 @@
       "name": "XP INVESTIMENTOS CCTVM S.A.",
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
-        "offers": 34,
+        "offers": 35,
         "volume": 22525265612.28,
         "offersWithVolume": 34,
         "averageTicket": 662507812.1258823
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-09",
-          "count": 2,
+          "count": 3,
           "volume": 2265957699.66
         }
       ],
       "recentOffers": [
+        {
+          "id": "2e0b0b8e98ee090b",
+          "market": "FII",
+          "name": "D108 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.281.384/0001-00",
+          "registration": "28085",
+          "processNumber": "SRE/3123/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 0,
+          "date": "2026-09-25",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "0e833585550d360f",
           "market": "FII",
@@ -573,22 +589,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "43806c1c35ee2d8c",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO WINGS RENDA IMOBILIÁRIA MASTER - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.683.216/0001-56",
-          "registration": "23375",
-          "processNumber": "SRE/3847/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 462500000,
-          "date": "2025-11-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -604,7 +604,7 @@
         },
         {
           "market": "FII",
-          "count": 141,
+          "count": 142,
           "volume": 71170323026.59001
         }
       ]
@@ -2738,7 +2738,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 53,
+          "count": 55,
           "volume": 16822170059
         },
         {
@@ -6160,8 +6160,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1041,
-          "volume": 56521070860.47996
+          "count": 1042,
+          "volume": 56571070860.47996
         },
         {
           "market": "FIAGRO",
@@ -18519,7 +18519,7 @@
         {
           "market": "FIDC",
           "count": 3,
-          "volume": 3530930000
+          "volume": 4530930000
         },
         {
           "market": "FIAGRO",
