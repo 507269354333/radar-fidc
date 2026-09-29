@@ -1,7 +1,7 @@
 {
   "source": "Banco Central do Brasil — SGS",
   "sourceUrl": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-  "updatedAt": "2026-09-28T18:36:33.257Z",
+  "updatedAt": "2026-09-29T16:53:54.398Z",
   "partial": false,
   "available": 4,
   "series": {
@@ -10,19 +10,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-25",
+        "date": "2026-09-28",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-28",
-          "value": 13.9
-        },
         {
           "date": "2026-08-31",
           "value": 13.9
@@ -98,6 +94,10 @@
         {
           "date": "2026-09-25",
           "value": 13.65
+        },
+        {
+          "date": "2026-09-28",
+          "value": 13.65
         }
       ]
     },
@@ -106,19 +106,15 @@
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
       "latest": {
-        "date": "2026-07-01",
-        "value": 3.31
+        "date": "2026-08-01",
+        "value": 3.35
       },
       "previous": {
-        "date": "2026-06-01",
-        "value": 3.18
+        "date": "2026-07-01",
+        "value": 3.32
       },
-      "change": 0.1299999999999999,
+      "change": 0.03000000000000025,
       "history": [
-        {
-          "date": "2024-12-01",
-          "value": 2.21
-        },
         {
           "date": "2025-01-01",
           "value": 2.43
@@ -193,7 +189,11 @@
         },
         {
           "date": "2026-07-01",
-          "value": 3.31
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
         }
       ]
     },
@@ -202,19 +202,15 @@
       "label": "Saldo da carteira de crédito PJ",
       "unit": "R$ milhões",
       "latest": {
-        "date": "2026-07-01",
-        "value": 2731513
+        "date": "2026-08-01",
+        "value": 2727499
       },
       "previous": {
-        "date": "2026-06-01",
-        "value": 2750625
+        "date": "2026-07-01",
+        "value": 2729162
       },
-      "change": -19112,
+      "change": -1663,
       "history": [
-        {
-          "date": "2024-12-01",
-          "value": 2499177
-        },
         {
           "date": "2025-01-01",
           "value": 2451957
@@ -285,11 +281,15 @@
         },
         {
           "date": "2026-06-01",
-          "value": 2750625
+          "value": 2750634
         },
         {
           "date": "2026-07-01",
-          "value": 2731513
+          "value": 2729162
+        },
+        {
+          "date": "2026-08-01",
+          "value": 2727499
         }
       ]
     },
@@ -298,19 +298,15 @@
       "label": "Spread PJ não rotativo",
       "unit": "p.p.",
       "latest": {
+        "date": "2026-08-01",
+        "value": 4.1
+      },
+      "previous": {
         "date": "2026-07-01",
         "value": 4.8
       },
-      "previous": {
-        "date": "2026-06-01",
-        "value": 4.3
-      },
-      "change": 0.5,
+      "change": -0.7000000000000002,
       "history": [
-        {
-          "date": "2024-12-01",
-          "value": 4.1
-        },
         {
           "date": "2025-01-01",
           "value": 5.3
@@ -386,6 +382,10 @@
         {
           "date": "2026-07-01",
           "value": 4.8
+        },
+        {
+          "date": "2026-08-01",
+          "value": 4.1
         }
       ]
     }

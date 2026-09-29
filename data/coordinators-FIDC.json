@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-09-28T18:36:40.257Z",
+  "generatedAt": "2026-09-29T16:53:59.732Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-28T08:01:36.000350"
+    "updatedAt": "2026-09-29T08:01:06.990454"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 163,
-        "volume": 7857292100.780002,
-        "offersWithVolume": 163,
-        "averageTicket": 48204246.01705523
+        "offers": 165,
+        "volume": 7917292100.780002,
+        "offersWithVolume": 165,
+        "averageTicket": 47983588.489575766
       },
       "byMonth": [
         {
@@ -105,11 +105,43 @@
         },
         {
           "month": "2026-09",
-          "count": 17,
-          "volume": 550500001.3299999
+          "count": 19,
+          "volume": 610500001.3299999
         }
       ],
       "recentOffers": [
+        {
+          "id": "43ee86b7b5d19ba0",
+          "market": "FIDC",
+          "name": "GPR FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "35.982.683/0001-04",
+          "registration": "28072",
+          "processNumber": "SRE/3127/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 10000000,
+          "date": "2026-09-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c140dc16d8c5fd6a",
+          "market": "FIDC",
+          "name": "NEW TRADE PRIME FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.180.734/0001-33",
+          "registration": "28090",
+          "processNumber": "SRE/3132/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 50000000,
+          "date": "2026-09-28",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "c58879f63aee2d98",
           "market": "FIDC",
@@ -557,45 +589,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "b3eba082923ecfdc",
-          "market": "FIDC",
-          "name": "GPR FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "35.982.683/0001-04",
-          "registration": "26497",
-          "processNumber": "SRE/1681/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 1800000,
-          "date": "2026-05-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c0dbba7a8c4c3b4f",
-          "market": "FIDC",
-          "name": "BARAC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "62.540.865/0001-06",
-          "registration": "26460",
-          "processNumber": "SRE/1640/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 20000000.01,
-          "date": "2026-05-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1042,
-          "volume": 56571070860.47996
+          "count": 1044,
+          "volume": 56631070860.47996
         },
         {
           "market": "FIAGRO",
@@ -1818,10 +1818,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 43,
-        "volume": 2898850513.67,
-        "offersWithVolume": 43,
-        "averageTicket": 67415128.22488372
+        "offers": 44,
+        "volume": 2918850513.67,
+        "offersWithVolume": 44,
+        "averageTicket": 66337511.67431819
       },
       "byMonth": [
         {
@@ -1911,11 +1911,27 @@
         },
         {
           "month": "2026-09",
-          "count": 10,
-          "volume": 974662000
+          "count": 11,
+          "volume": 994662000
         }
       ],
       "recentOffers": [
+        {
+          "id": "0cd4977cd06582c4",
+          "market": "FIDC",
+          "name": "ST CHAMELEON FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.224.911/0001-73",
+          "registration": "28087",
+          "processNumber": "SRE/3126/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 20000000,
+          "date": "2026-09-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "494530ff9f7c875b",
           "market": "FIDC",
@@ -2379,29 +2395,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "4a70fa88978f93e1",
-          "market": "FIDC",
-          "name": "MAIS TODOS PF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.088.190/0001-20",
-          "registration": "24688",
-          "processNumber": "SRE/0430/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 10000000,
-          "date": "2026-02-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 187,
-          "volume": 15422122056.010002
+          "count": 188,
+          "volume": 15442122056.010002
         },
         {
           "market": "FIAGRO",
@@ -2410,8 +2410,8 @@
         },
         {
           "market": "FII",
-          "count": 43,
-          "volume": 6677424090.5
+          "count": 44,
+          "volume": 6833674090.5
         }
       ]
     },
@@ -3181,7 +3181,7 @@
           "date": "2026-09-21",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -3614,8 +3614,8 @@
         },
         {
           "market": "FII",
-          "count": 18,
-          "volume": 10927659211.42
+          "count": 19,
+          "volume": 14118811320.5
         }
       ]
     },
@@ -3624,10 +3624,10 @@
       "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
       "cnpj": "03.751.794/0001-13",
       "stats12m": {
-        "offers": 22,
-        "volume": 420530000,
-        "offersWithVolume": 22,
-        "averageTicket": 19115000
+        "offers": 23,
+        "volume": 430530000,
+        "offersWithVolume": 23,
+        "averageTicket": 18718695.652173914
       },
       "byMonth": [
         {
@@ -3717,11 +3717,27 @@
         },
         {
           "month": "2026-09",
-          "count": 5,
-          "volume": 60420000
+          "count": 6,
+          "volume": 70420000
         }
       ],
       "recentOffers": [
+        {
+          "id": "ecf70977d2d5748a",
+          "market": "FIDC",
+          "name": "CUSTOM CREDIT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.097.712/0001-53",
+          "registration": "28092",
+          "processNumber": "SRE/3131/2026",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 10000000,
+          "date": "2026-09-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "9c18ed16d4077dee",
           "market": "FIDC",
@@ -4185,29 +4201,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "0c4e9153b1d650d8",
-          "market": "FIDC",
-          "name": "NTZ ALPHA FUNDO DE INVESTIMENTO EM COTAS DE FIDC DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.714.044/0001-26",
-          "registration": "19834",
-          "processNumber": "SRE/0738/2025",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 15000000,
-          "date": "2025-03-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 81,
-          "volume": 2217824193.7600007
+          "count": 82,
+          "volume": 2227824193.7600007
         },
         {
           "market": "FIAGRO",
@@ -8465,6 +8465,608 @@
       ]
     },
     {
+      "key": "CNPJ:02332886000104",
+      "name": "XP INVESTIMENTOS CCTVM S.A.",
+      "cnpj": "02.332.886/0001-04",
+      "stats12m": {
+        "offers": 12,
+        "volume": 5374731001.41,
+        "offersWithVolume": 11,
+        "averageTicket": 488611909.2190909
+      },
+      "byMonth": [
+        {
+          "month": "2023-03",
+          "count": 1,
+          "volume": 400000000
+        },
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 125000000
+        },
+        {
+          "month": "2023-06",
+          "count": 1,
+          "volume": 74810000
+        },
+        {
+          "month": "2023-12",
+          "count": 2,
+          "volume": 610000000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 112800000
+        },
+        {
+          "month": "2024-09",
+          "count": 1,
+          "volume": 437500000
+        },
+        {
+          "month": "2024-10",
+          "count": 2,
+          "volume": 185000000
+        },
+        {
+          "month": "2025-02",
+          "count": 3,
+          "volume": 2180000000
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 350000000
+        },
+        {
+          "month": "2025-05",
+          "count": 1,
+          "volume": 272000000
+        },
+        {
+          "month": "2025-06",
+          "count": 2,
+          "volume": 223000000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 500000000
+        },
+        {
+          "month": "2025-12",
+          "count": 4,
+          "volume": 2803031001.41
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 71700000
+        },
+        {
+          "month": "2026-05",
+          "count": 2,
+          "volume": 550000000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 0
+        },
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 1650000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "ab190874c1d439ac",
+          "market": "FIDC",
+          "name": "JIVE DISTRESSED & SPECIAL SITUATIONS V FEEDER (PROFISSIONAL) FIC DE FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.908.387/0001-12",
+          "registration": "28103",
+          "processNumber": "SRE/3141/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 343750000,
+          "date": "2026-09-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "9cb7c36e1786c57f",
+          "market": "FIDC",
+          "name": "TARUMÃ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCIAMENTO DE VEÍCULOS DE RESP LIMITADA",
+          "cnpj": "67.736.126/0001-08",
+          "registration": "27635",
+          "processNumber": "SRE/2709/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 900000000,
+          "date": "2026-09-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b9935004a4db73b6",
+          "market": "FIDC",
+          "name": "JIVE DISTRESSED & SPECIAL SITUATIONS V FEEDER (QUALIFICADO) FIC DE FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.907.915/0001-19",
+          "registration": "27823",
+          "processNumber": "SRE/2883/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 406250000,
+          "date": "2026-09-08",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "cfe52c962e5633fd",
+          "market": "FIDC",
+          "name": "ERSTER ERFOLG DÍVIDA ATIVA FUNDO DE INVESTIMENTO EM COTAS DE FIDC",
+          "cnpj": "68.670.302/0001-00",
+          "registration": "27661",
+          "processNumber": "SRE/2764/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 0,
+          "date": "2026-08-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "9ab21de3968bd063",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIROS OMNI VEICULOS XI DE RESP LIMTADA",
+          "cnpj": "66.801.915/0001-04",
+          "registration": "26880",
+          "processNumber": "SRE/2019/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 300000000,
+          "date": "2026-06-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d23b092d6cad468e",
+          "market": "FIDC",
+          "name": "ARVIN CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESP LIMITADA",
+          "cnpj": "64.756.643/0001-42",
+          "registration": "25660",
+          "processNumber": "SRE/0936/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 100000000,
+          "date": "2026-05-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4091a2a0834e182f",
+          "market": "FIDC",
+          "name": "AUGME XPCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS I DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.573.323/0001-82",
+          "registration": "26160",
+          "processNumber": "SRE/1376/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 450000000,
+          "date": "2026-05-04",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "18dc7d1b3fe9cf78",
+          "market": "FIDC",
+          "name": "BULL CONSIGNADO PRIVADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.604.780/0001-24",
+          "registration": "26197",
+          "processNumber": "SRE/1403/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 71700000,
+          "date": "2026-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0ee93fb88b026304",
+          "market": "FIDC",
+          "name": "ER 2030 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.267.293/0001-62",
+          "registration": "23819",
+          "processNumber": "SRE/4260/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 1069703001.41,
+          "date": "2025-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "85a97b6b6daf3e7e",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SPECIAL 2 DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.024.849/0001-88",
+          "registration": "23942",
+          "processNumber": "SRE/4314/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 150000000,
+          "date": "2025-12-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "47b75e87d8b309e9",
+          "market": "FIDC",
+          "name": "JIVEMAUÁ BOSSANOVA CRÉDITO SECURITIZADO II (VAREJO) FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.912.733/0001-12",
+          "registration": "23678",
+          "processNumber": "SRE/4104/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 333328000,
+          "date": "2025-12-12",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "570ebc13d16d30c2",
+          "market": "FIDC",
+          "name": "PINE INSS II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.321.684/0001-43",
+          "registration": "22987",
+          "processNumber": "SRE/3469/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 1250000000,
+          "date": "2025-12-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a1058a1a4852c05c",
+          "market": "FIDC",
+          "name": "ITAU CREDITO ESTRUTURADO ADVISORY ALPES III FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.885.788/0001-55",
+          "registration": "21736",
+          "processNumber": "SRE/2430/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 250000000,
+          "date": "2025-08-19",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "079731a6e9f56a3e",
+          "market": "FIDC",
+          "name": "ARTESANAL CDI + FIDC III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.017.163/0001-34",
+          "registration": "21673",
+          "processNumber": "SRE/2369/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 250000000,
+          "date": "2025-08-01",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "69dc2b643a5f1a38",
+          "market": "FIDC",
+          "name": "JIVEMAUÁ BOSSANOVA CRÉDITO SECURITIZADO (VAREJO) FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RL",
+          "cnpj": "60.261.869/0001-11",
+          "registration": "CVM/SRE/RFD/2025/003",
+          "processNumber": "RJ-2025-1137",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 200700000,
+          "date": "2025-06-18",
+          "rite": "Ordinário",
+          "audience": "",
+          "status": "Concedido",
+          "publications": []
+        },
+        {
+          "id": "0c75836a161a29bd",
+          "market": "FIDC",
+          "name": "JIVEMAUÁ BOSSANOVA CRÉDITO SECURITIZADO (VAREJO) FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RL",
+          "cnpj": "60.261.869/0001-11",
+          "registration": "CVM/SRE/RFD/2025/004",
+          "processNumber": "RJ-2025-1137",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 22300000,
+          "date": "2025-06-18",
+          "rite": "Ordinário",
+          "audience": "",
+          "status": "Concedido",
+          "publications": []
+        },
+        {
+          "id": "223e4fc1793ce90d",
+          "market": "FIDC",
+          "name": "IFOOD PAGO CREDITO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIRO RESP. LTDA.",
+          "cnpj": "59.323.530/0001-13",
+          "registration": "20420",
+          "processNumber": "SRE/1233/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 272000000,
+          "date": "2025-05-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "de345a3de5b3c0fc",
+          "market": "FIDC",
+          "name": "OCCAM PORTFOLIO CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.560.195/0001-77",
+          "registration": "CVM/SRE/RFD/2025/002",
+          "processNumber": "RJ-2025-638",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 350000000,
+          "date": "2025-04-17",
+          "rite": "Ordinário",
+          "audience": "",
+          "status": "Concedido",
+          "publications": []
+        },
+        {
+          "id": "3ecb94428bd8fe52",
+          "market": "FIDC",
+          "name": "ITAÚNA LBZ PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.482.333/0001-47",
+          "registration": "19668",
+          "processNumber": "SRE/0623/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 40000000,
+          "date": "2025-02-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e46d516574f6e7a8",
+          "market": "FIDC",
+          "name": "SOLIS PORTFOLIO CRÉDITO CDI+ FIC FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.525.584/0001-07",
+          "registration": "CVM/SRE/RFD/2025/001",
+          "processNumber": "RJ-2024-3775",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 240000000,
+          "date": "2025-02-27",
+          "rite": "Ordinário",
+          "audience": "",
+          "status": "Concedido",
+          "publications": []
+        },
+        {
+          "id": "0000a28be9a79ec6",
+          "market": "FIDC",
+          "name": "ER - ENERGIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.356.753/0001-87",
+          "registration": "19640",
+          "processNumber": "SRE/0573/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 1900000000,
+          "date": "2025-02-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "67da46e5a7f5a13f",
+          "market": "FIDC",
+          "name": "ITAÚNA PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.377.642/0001-21",
+          "registration": "17928",
+          "processNumber": "SRE/3310/2024",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 35000000,
+          "date": "2024-10-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0f5c71cdfecf4661",
+          "market": "FIDC",
+          "name": "CREDIT FORT FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPO",
+          "cnpj": "57.382.221/0001-99",
+          "registration": "17622",
+          "processNumber": "SRE/3045/2024",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 150000000,
+          "date": "2024-10-01",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e5eddf45dd68016e",
+          "market": "FIDC",
+          "name": "ROOT CAPITAL FIGUEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.271.402/0001-48",
+          "registration": "17566",
+          "processNumber": "SRE/2985/2024",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 437500000,
+          "date": "2024-09-27",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "62faff64b4b16c92",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO VIII FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESP LIMITADA",
+          "cnpj": "55.394.893/0001-99",
+          "registration": "16456",
+          "processNumber": "SRE/1993/2024",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 112800000,
+          "date": "2024-07-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b80ae485a4103d7e",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ISTARI CONSIGNADOS",
+          "cnpj": "53.036.495/0001-75",
+          "registration": "4019",
+          "processNumber": "SRE/2968/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 310000000,
+          "date": "2023-12-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2bfc949fa12615a1",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SOMACRED CONSIGNADO PÚBLICO II",
+          "cnpj": "51.956.448/0001-14",
+          "registration": "3516",
+          "processNumber": "SRE/2520/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 300000000,
+          "date": "2023-12-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "228a7123d43c72b8",
+          "market": "FIDC",
+          "name": "STRUTTURA AGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO",
+          "cnpj": "50.519.168/0001-86",
+          "registration": "1548",
+          "processNumber": "SRE/0801/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 74810000,
+          "date": "2023-06-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "aebea6f2c2c5facd",
+          "market": "FIDC",
+          "name": "BEMOL CREDITO PESSOAL - FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "45.445.355/0001-22",
+          "registration": "1500",
+          "processNumber": "SRE/0760/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 125000000,
+          "date": "2023-04-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4d08e0fb6f76f52d",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDZ",
+          "cnpj": "24.761.946/0001-39",
+          "registration": "1131",
+          "processNumber": "SRE/0431/2023",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 400000000,
+          "date": "2023-03-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 81,
+          "volume": 24831140133.030003
+        },
+        {
+          "market": "FIAGRO",
+          "count": 10,
+          "volume": 3268348584.29
+        },
+        {
+          "market": "FII",
+          "count": 142,
+          "volume": 71170323026.59001
+        }
+      ]
+    },
+    {
       "key": "CNPJ:36864992000142",
       "name": "APEX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "36.864.992/0001-42",
@@ -9114,608 +9716,6 @@
           "market": "FII",
           "count": 10,
           "volume": 767835517.84
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:02332886000104",
-      "name": "XP INVESTIMENTOS CCTVM S.A.",
-      "cnpj": "02.332.886/0001-04",
-      "stats12m": {
-        "offers": 11,
-        "volume": 5030981001.41,
-        "offersWithVolume": 10,
-        "averageTicket": 503098100.141
-      },
-      "byMonth": [
-        {
-          "month": "2023-03",
-          "count": 1,
-          "volume": 400000000
-        },
-        {
-          "month": "2023-04",
-          "count": 1,
-          "volume": 125000000
-        },
-        {
-          "month": "2023-06",
-          "count": 1,
-          "volume": 74810000
-        },
-        {
-          "month": "2023-12",
-          "count": 2,
-          "volume": 610000000
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 112800000
-        },
-        {
-          "month": "2024-09",
-          "count": 1,
-          "volume": 437500000
-        },
-        {
-          "month": "2024-10",
-          "count": 2,
-          "volume": 185000000
-        },
-        {
-          "month": "2025-02",
-          "count": 3,
-          "volume": 2180000000
-        },
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 350000000
-        },
-        {
-          "month": "2025-05",
-          "count": 1,
-          "volume": 272000000
-        },
-        {
-          "month": "2025-06",
-          "count": 2,
-          "volume": 223000000
-        },
-        {
-          "month": "2025-08",
-          "count": 2,
-          "volume": 500000000
-        },
-        {
-          "month": "2025-12",
-          "count": 4,
-          "volume": 2803031001.41
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 71700000
-        },
-        {
-          "month": "2026-05",
-          "count": 2,
-          "volume": 550000000
-        },
-        {
-          "month": "2026-06",
-          "count": 1,
-          "volume": 300000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 0
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 1306250000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "9cb7c36e1786c57f",
-          "market": "FIDC",
-          "name": "TARUMÃ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCIAMENTO DE VEÍCULOS DE RESP LIMITADA",
-          "cnpj": "67.736.126/0001-08",
-          "registration": "27635",
-          "processNumber": "SRE/2709/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 900000000,
-          "date": "2026-09-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b9935004a4db73b6",
-          "market": "FIDC",
-          "name": "JIVE DISTRESSED & SPECIAL SITUATIONS V FEEDER (QUALIFICADO) FIC DE FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.907.915/0001-19",
-          "registration": "27823",
-          "processNumber": "SRE/2883/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 406250000,
-          "date": "2026-09-08",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "cfe52c962e5633fd",
-          "market": "FIDC",
-          "name": "ERSTER ERFOLG DÍVIDA ATIVA FUNDO DE INVESTIMENTO EM COTAS DE FIDC",
-          "cnpj": "68.670.302/0001-00",
-          "registration": "27661",
-          "processNumber": "SRE/2764/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 0,
-          "date": "2026-08-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "publications": []
-        },
-        {
-          "id": "9ab21de3968bd063",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIROS OMNI VEICULOS XI DE RESP LIMTADA",
-          "cnpj": "66.801.915/0001-04",
-          "registration": "26880",
-          "processNumber": "SRE/2019/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 300000000,
-          "date": "2026-06-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d23b092d6cad468e",
-          "market": "FIDC",
-          "name": "ARVIN CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESP LIMITADA",
-          "cnpj": "64.756.643/0001-42",
-          "registration": "25660",
-          "processNumber": "SRE/0936/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 100000000,
-          "date": "2026-05-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4091a2a0834e182f",
-          "market": "FIDC",
-          "name": "AUGME XPCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS I DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.573.323/0001-82",
-          "registration": "26160",
-          "processNumber": "SRE/1376/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 450000000,
-          "date": "2026-05-04",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "18dc7d1b3fe9cf78",
-          "market": "FIDC",
-          "name": "BULL CONSIGNADO PRIVADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.604.780/0001-24",
-          "registration": "26197",
-          "processNumber": "SRE/1403/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 71700000,
-          "date": "2026-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0ee93fb88b026304",
-          "market": "FIDC",
-          "name": "ER 2030 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.267.293/0001-62",
-          "registration": "23819",
-          "processNumber": "SRE/4260/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 1069703001.41,
-          "date": "2025-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "85a97b6b6daf3e7e",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SPECIAL 2 DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.024.849/0001-88",
-          "registration": "23942",
-          "processNumber": "SRE/4314/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 150000000,
-          "date": "2025-12-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "47b75e87d8b309e9",
-          "market": "FIDC",
-          "name": "JIVEMAUÁ BOSSANOVA CRÉDITO SECURITIZADO II (VAREJO) FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.912.733/0001-12",
-          "registration": "23678",
-          "processNumber": "SRE/4104/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 333328000,
-          "date": "2025-12-12",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "570ebc13d16d30c2",
-          "market": "FIDC",
-          "name": "PINE INSS II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.321.684/0001-43",
-          "registration": "22987",
-          "processNumber": "SRE/3469/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 1250000000,
-          "date": "2025-12-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a1058a1a4852c05c",
-          "market": "FIDC",
-          "name": "ITAU CREDITO ESTRUTURADO ADVISORY ALPES III FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.885.788/0001-55",
-          "registration": "21736",
-          "processNumber": "SRE/2430/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 250000000,
-          "date": "2025-08-19",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "079731a6e9f56a3e",
-          "market": "FIDC",
-          "name": "ARTESANAL CDI + FIDC III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.017.163/0001-34",
-          "registration": "21673",
-          "processNumber": "SRE/2369/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 250000000,
-          "date": "2025-08-01",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "69dc2b643a5f1a38",
-          "market": "FIDC",
-          "name": "JIVEMAUÁ BOSSANOVA CRÉDITO SECURITIZADO (VAREJO) FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RL",
-          "cnpj": "60.261.869/0001-11",
-          "registration": "CVM/SRE/RFD/2025/003",
-          "processNumber": "RJ-2025-1137",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 200700000,
-          "date": "2025-06-18",
-          "rite": "Ordinário",
-          "audience": "",
-          "status": "Concedido",
-          "publications": []
-        },
-        {
-          "id": "0c75836a161a29bd",
-          "market": "FIDC",
-          "name": "JIVEMAUÁ BOSSANOVA CRÉDITO SECURITIZADO (VAREJO) FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RL",
-          "cnpj": "60.261.869/0001-11",
-          "registration": "CVM/SRE/RFD/2025/004",
-          "processNumber": "RJ-2025-1137",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 22300000,
-          "date": "2025-06-18",
-          "rite": "Ordinário",
-          "audience": "",
-          "status": "Concedido",
-          "publications": []
-        },
-        {
-          "id": "223e4fc1793ce90d",
-          "market": "FIDC",
-          "name": "IFOOD PAGO CREDITO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIRO RESP. LTDA.",
-          "cnpj": "59.323.530/0001-13",
-          "registration": "20420",
-          "processNumber": "SRE/1233/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 272000000,
-          "date": "2025-05-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "de345a3de5b3c0fc",
-          "market": "FIDC",
-          "name": "OCCAM PORTFOLIO CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.560.195/0001-77",
-          "registration": "CVM/SRE/RFD/2025/002",
-          "processNumber": "RJ-2025-638",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 350000000,
-          "date": "2025-04-17",
-          "rite": "Ordinário",
-          "audience": "",
-          "status": "Concedido",
-          "publications": []
-        },
-        {
-          "id": "3ecb94428bd8fe52",
-          "market": "FIDC",
-          "name": "ITAÚNA LBZ PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.482.333/0001-47",
-          "registration": "19668",
-          "processNumber": "SRE/0623/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 40000000,
-          "date": "2025-02-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e46d516574f6e7a8",
-          "market": "FIDC",
-          "name": "SOLIS PORTFOLIO CRÉDITO CDI+ FIC FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.525.584/0001-07",
-          "registration": "CVM/SRE/RFD/2025/001",
-          "processNumber": "RJ-2024-3775",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 240000000,
-          "date": "2025-02-27",
-          "rite": "Ordinário",
-          "audience": "",
-          "status": "Concedido",
-          "publications": []
-        },
-        {
-          "id": "0000a28be9a79ec6",
-          "market": "FIDC",
-          "name": "ER - ENERGIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.356.753/0001-87",
-          "registration": "19640",
-          "processNumber": "SRE/0573/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 1900000000,
-          "date": "2025-02-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "67da46e5a7f5a13f",
-          "market": "FIDC",
-          "name": "ITAÚNA PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.377.642/0001-21",
-          "registration": "17928",
-          "processNumber": "SRE/3310/2024",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 35000000,
-          "date": "2024-10-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0f5c71cdfecf4661",
-          "market": "FIDC",
-          "name": "CREDIT FORT FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPO",
-          "cnpj": "57.382.221/0001-99",
-          "registration": "17622",
-          "processNumber": "SRE/3045/2024",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 150000000,
-          "date": "2024-10-01",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e5eddf45dd68016e",
-          "market": "FIDC",
-          "name": "ROOT CAPITAL FIGUEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.271.402/0001-48",
-          "registration": "17566",
-          "processNumber": "SRE/2985/2024",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 437500000,
-          "date": "2024-09-27",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "62faff64b4b16c92",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO VIII FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESP LIMITADA",
-          "cnpj": "55.394.893/0001-99",
-          "registration": "16456",
-          "processNumber": "SRE/1993/2024",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 112800000,
-          "date": "2024-07-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b80ae485a4103d7e",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ISTARI CONSIGNADOS",
-          "cnpj": "53.036.495/0001-75",
-          "registration": "4019",
-          "processNumber": "SRE/2968/2023",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 310000000,
-          "date": "2023-12-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2bfc949fa12615a1",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SOMACRED CONSIGNADO PÚBLICO II",
-          "cnpj": "51.956.448/0001-14",
-          "registration": "3516",
-          "processNumber": "SRE/2520/2023",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 300000000,
-          "date": "2023-12-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "228a7123d43c72b8",
-          "market": "FIDC",
-          "name": "STRUTTURA AGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO",
-          "cnpj": "50.519.168/0001-86",
-          "registration": "1548",
-          "processNumber": "SRE/0801/2023",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 74810000,
-          "date": "2023-06-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "aebea6f2c2c5facd",
-          "market": "FIDC",
-          "name": "BEMOL CREDITO PESSOAL - FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "45.445.355/0001-22",
-          "registration": "1500",
-          "processNumber": "SRE/0760/2023",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 125000000,
-          "date": "2023-04-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4d08e0fb6f76f52d",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDZ",
-          "cnpj": "24.761.946/0001-39",
-          "registration": "1131",
-          "processNumber": "SRE/0431/2023",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 400000000,
-          "date": "2023-03-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e20364b694db4ad3",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CREDITAS AUTO VIII",
-          "cnpj": "40.677.194/0001-89",
-          "registration": "CVM/SRE/RFD/2021/005",
-          "processNumber": "RJ-2021-4746",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 209247000,
-          "date": "2021-12-22",
-          "rite": "ICVM 400",
-          "audience": "",
-          "status": "Concedido",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 80,
-          "volume": 24487390133.030003
-        },
-        {
-          "market": "FIAGRO",
-          "count": 10,
-          "volume": 3268348584.29
-        },
-        {
-          "market": "FII",
-          "count": 142,
-          "volume": 71170323026.59001
         }
       ]
     },
@@ -11347,6 +11347,254 @@
       ]
     },
     {
+      "key": "CNPJ:48967968000118",
+      "name": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "48.967.968/0001-18",
+      "stats12m": {
+        "offers": 8,
+        "volume": 1215499603.6100001,
+        "offersWithVolume": 8,
+        "averageTicket": 151937450.45125002
+      },
+      "byMonth": [
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 5999999.96
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 47500000
+        },
+        {
+          "month": "2025-08",
+          "count": 1,
+          "volume": 1000
+        },
+        {
+          "month": "2025-10",
+          "count": 1,
+          "volume": 47500000
+        },
+        {
+          "month": "2025-12",
+          "count": 3,
+          "volume": 333000000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 230000000.01
+        },
+        {
+          "month": "2026-08",
+          "count": 2,
+          "volume": 554999603.6
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 50000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "b77cad2b3ae3e4a4",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS REV FINANCEIRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.985.864/0001-20",
+          "registration": "28051",
+          "processNumber": "SRE/3128/2026",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 50000000,
+          "date": "2026-09-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "54b662d1f45fd3d4",
+          "market": "FIDC",
+          "name": "LARCA V FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CONSIGNADO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.327.006/0001-13",
+          "registration": "27702",
+          "processNumber": "SRE/2788/2026",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 500000000,
+          "date": "2026-08-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "35aa59a1e4b343ba",
+          "market": "FIDC",
+          "name": "SALVADOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO CONSIGNADO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.705.336/0001-07",
+          "registration": "27662",
+          "processNumber": "SRE/2735/2026",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 54999603.6,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "950a7bc0efa5ee9e",
+          "market": "FIDC",
+          "name": "SALVADOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO CONSIGNADO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.705.336/0001-07",
+          "registration": "26270",
+          "processNumber": "SRE/1484/2026",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 230000000.01,
+          "date": "2026-05-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "69be6c3d206074d7",
+          "market": "FIDC",
+          "name": "ZIPPI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.994.887/0001-84",
+          "registration": "24034",
+          "processNumber": "SRE/4417/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 220000000,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4e17ba7b0a69985a",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS REV FINANCEIRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.985.864/0001-20",
+          "registration": "23965",
+          "processNumber": "SRE/4385/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 40000000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6add6aadfcd3d741",
+          "market": "FIDC",
+          "name": "PB77 ACADEMIAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "62.075.485/0001-30",
+          "registration": "23804",
+          "processNumber": "SRE/4210/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 73000000,
+          "date": "2025-12-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "db56493f29764e0c",
+          "market": "FIDC",
+          "name": "SIMPALA ÁRTICO FEDERAL FIDC FINANCEIRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.010.893/0001-88",
+          "registration": "22975",
+          "processNumber": "SRE/3470/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 47500000,
+          "date": "2025-10-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b79ab9410a162999",
+          "market": "FIDC",
+          "name": "GALLERIA HOME EQUITY FIDC",
+          "cnpj": "37.294.759/0001-34",
+          "registration": "21722",
+          "processNumber": "SRE/2413/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 1000,
+          "date": "2025-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "693ce82ac65f9882",
+          "market": "FIDC",
+          "name": "SIMPALA ÁRTICO FEDERAL FIDC FINANCEIRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.010.893/0001-88",
+          "registration": "20303",
+          "processNumber": "SRE/1123/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 47500000,
+          "date": "2025-04-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "37d7b53a9805ddc4",
+          "market": "FIDC",
+          "name": "GALLERIA HOME EQUITY FIDC",
+          "cnpj": "37.294.759/0001-34",
+          "registration": "19916",
+          "processNumber": "SRE/0809/2025",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 5999999.96,
+          "date": "2025-03-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 11,
+          "volume": 1269000603.5700002
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 45000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
       "key": "CNPJ:36113876000191",
       "name": "OLIVEIRA TRUST DTVM S.A.",
       "cnpj": "36.113.876/0001-91",
@@ -11542,7 +11790,7 @@
           "date": "2026-03-31",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -12537,233 +12785,6 @@
           "market": "FII",
           "count": 30,
           "volume": 6975725913.02
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:48967968000118",
-      "name": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "48.967.968/0001-18",
-      "stats12m": {
-        "offers": 7,
-        "volume": 1165499603.6100001,
-        "offersWithVolume": 7,
-        "averageTicket": 166499943.37285715
-      },
-      "byMonth": [
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 5999999.96
-        },
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 47500000
-        },
-        {
-          "month": "2025-08",
-          "count": 1,
-          "volume": 1000
-        },
-        {
-          "month": "2025-10",
-          "count": 1,
-          "volume": 47500000
-        },
-        {
-          "month": "2025-12",
-          "count": 3,
-          "volume": 333000000
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 230000000.01
-        },
-        {
-          "month": "2026-08",
-          "count": 2,
-          "volume": 554999603.6
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "54b662d1f45fd3d4",
-          "market": "FIDC",
-          "name": "LARCA V FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CONSIGNADO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.327.006/0001-13",
-          "registration": "27702",
-          "processNumber": "SRE/2788/2026",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 500000000,
-          "date": "2026-08-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "35aa59a1e4b343ba",
-          "market": "FIDC",
-          "name": "SALVADOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO CONSIGNADO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.705.336/0001-07",
-          "registration": "27662",
-          "processNumber": "SRE/2735/2026",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 54999603.6,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "950a7bc0efa5ee9e",
-          "market": "FIDC",
-          "name": "SALVADOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO CONSIGNADO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.705.336/0001-07",
-          "registration": "26270",
-          "processNumber": "SRE/1484/2026",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 230000000.01,
-          "date": "2026-05-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "69be6c3d206074d7",
-          "market": "FIDC",
-          "name": "ZIPPI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "52.994.887/0001-84",
-          "registration": "24034",
-          "processNumber": "SRE/4417/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 220000000,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4e17ba7b0a69985a",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS REV FINANCEIRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.985.864/0001-20",
-          "registration": "23965",
-          "processNumber": "SRE/4385/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 40000000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6add6aadfcd3d741",
-          "market": "FIDC",
-          "name": "PB77 ACADEMIAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "62.075.485/0001-30",
-          "registration": "23804",
-          "processNumber": "SRE/4210/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 73000000,
-          "date": "2025-12-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "db56493f29764e0c",
-          "market": "FIDC",
-          "name": "SIMPALA ÁRTICO FEDERAL FIDC FINANCEIRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.010.893/0001-88",
-          "registration": "22975",
-          "processNumber": "SRE/3470/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 47500000,
-          "date": "2025-10-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b79ab9410a162999",
-          "market": "FIDC",
-          "name": "GALLERIA HOME EQUITY FIDC",
-          "cnpj": "37.294.759/0001-34",
-          "registration": "21722",
-          "processNumber": "SRE/2413/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 1000,
-          "date": "2025-08-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "693ce82ac65f9882",
-          "market": "FIDC",
-          "name": "SIMPALA ÁRTICO FEDERAL FIDC FINANCEIRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.010.893/0001-88",
-          "registration": "20303",
-          "processNumber": "SRE/1123/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 47500000,
-          "date": "2025-04-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "37d7b53a9805ddc4",
-          "market": "FIDC",
-          "name": "GALLERIA HOME EQUITY FIDC",
-          "cnpj": "37.294.759/0001-34",
-          "registration": "19916",
-          "processNumber": "SRE/0809/2025",
-          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "48.967.968/0001-18",
-          "volume": 5999999.96,
-          "date": "2025-03-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 10,
-          "volume": 1219000603.5700002
-        },
-        {
-          "market": "FIAGRO",
-          "count": 1,
-          "volume": 45000000
-        },
-        {
-          "market": "FII",
-          "count": 0,
-          "volume": 0
         }
       ]
     },

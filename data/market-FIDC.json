@@ -1,43 +1,43 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-09-28T08:01:36.000350",
+  "sourceUpdatedAt": "2026-09-29T08:01:06.990454",
   "market": "FIDC",
-  "count": 4450,
+  "count": 4456,
   "analytics": {
     "latestMonth": "2026-09",
-    "offersInMonth": 98,
-    "volumeInMonth": 19941742708.36,
-    "offersWithVolumeInMonth": 92,
-    "leadersInMonth": 29,
+    "offersInMonth": 104,
+    "volumeInMonth": 20425492708.36,
+    "offersWithVolumeInMonth": 98,
+    "leadersInMonth": 30,
     "byRite": [
       {
         "name": "Automático",
-        "count": 98
+        "count": 104
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 91
+        "count": 96
       },
       {
         "name": "Qualificado",
-        "count": 7
+        "count": 8
       }
     ],
     "topLeaders": [
       {
         "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "cnpj": "62.285.390/0001-40",
-        "count": 17,
-        "volume": 550500001.3299999
+        "count": 19,
+        "volume": 610500001.3299999
       },
       {
         "name": "BANCO DAYCOVAL S.A.",
         "cnpj": "62.232.889/0001-90",
-        "count": 10,
-        "volume": 974662000
+        "count": 11,
+        "volume": 994662000
       },
       {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -58,16 +58,16 @@
         "volume": 2579960000
       },
       {
+        "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "cnpj": "03.751.794/0001-13",
+        "count": 6,
+        "volume": 70420000
+      },
+      {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
         "count": 5,
         "volume": 914750838.8399999
-      },
-      {
-        "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-        "cnpj": "03.751.794/0001-13",
-        "count": 5,
-        "volume": 60420000
       },
       {
         "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -82,10 +82,10 @@
         "volume": 125000000
       },
       {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
+        "name": "XP INVESTIMENTOS CCTVM S.A.",
+        "cnpj": "02.332.886/0001-04",
         "count": 3,
-        "volume": 33300000
+        "volume": 1650000000
       }
     ],
     "byMonth": [
@@ -193,22 +193,22 @@
       },
       {
         "month": "2026-09",
-        "count": 98,
-        "volume": 19941742708.36,
-        "withVolume": 92
+        "count": 104,
+        "volume": 20425492708.36,
+        "withVolume": 98
       }
     ],
     "trailing12": {
-      "offers": 694,
-      "volume": 72437745436.38002,
-      "offersWithVolume": 687,
+      "offers": 700,
+      "volume": 72921495436.38002,
+      "offersWithVolume": 693,
       "leaders": 59,
       "topLeaders": [
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
-          "count": 163,
-          "volume": 7857292100.780002
+          "count": 165,
+          "volume": 7917292100.780002
         },
         {
           "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -225,8 +225,8 @@
         {
           "name": "BANCO DAYCOVAL S.A.",
           "cnpj": "62.232.889/0001-90",
-          "count": 43,
-          "volume": 2898850513.67
+          "count": 44,
+          "volume": 2918850513.67
         },
         {
           "name": "PLANNER CORRETORA DE VALORES S.A.",
@@ -243,8 +243,8 @@
         {
           "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
           "cnpj": "03.751.794/0001-13",
-          "count": 22,
-          "volume": 420530000
+          "count": 23,
+          "volume": 430530000
         },
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -289,10 +289,10 @@
           "volume": 11004960000
         },
         {
-          "name": "MAF DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "cnpj": "36.864.992/0001-42",
+          "name": "XP INVESTIMENTOS CCTVM S.A.",
+          "cnpj": "02.332.886/0001-04",
           "count": 12,
-          "volume": 474524200.29
+          "volume": 5374731001.41
         }
       ]
     },
@@ -332,6 +332,150 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "ecf70977d2d5748a",
+        "market": "FIDC",
+        "name": "CUSTOM CREDIT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+        "cnpj": "64.097.712/0001-53",
+        "registration": "28092",
+        "processNumber": "SRE/3131/2026",
+        "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "leaderCnpj": "03.751.794/0001-13",
+        "volume": 10000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-09-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "b77cad2b3ae3e4a4",
+        "market": "FIDC",
+        "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS REV FINANCEIRO RESPONSABILIDADE LIMITADA",
+        "cnpj": "63.985.864/0001-20",
+        "registration": "28051",
+        "processNumber": "SRE/3128/2026",
+        "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "leaderCnpj": "48.967.968/0001-18",
+        "volume": 50000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-09-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "43ee86b7b5d19ba0",
+        "market": "FIDC",
+        "name": "GPR FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+        "cnpj": "35.982.683/0001-04",
+        "registration": "28072",
+        "processNumber": "SRE/3127/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "62.285.390/0001-40",
+        "volume": 10000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-09-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "ab190874c1d439ac",
+        "market": "FIDC",
+        "name": "JIVE DISTRESSED & SPECIAL SITUATIONS V FEEDER (PROFISSIONAL) FIC DE FIDC RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.908.387/0001-12",
+        "registration": "28103",
+        "processNumber": "SRE/3141/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "leaderCnpj": "02.332.886/0001-04",
+        "volume": 343750000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-09-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "c140dc16d8c5fd6a",
+        "market": "FIDC",
+        "name": "NEW TRADE PRIME FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.180.734/0001-33",
+        "registration": "28090",
+        "processNumber": "SRE/3132/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "62.285.390/0001-40",
+        "volume": 50000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Qualificado",
+        "status": "Registro Concedido",
+        "date": "2026-09-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "0cd4977cd06582c4",
+        "market": "FIDC",
+        "name": "ST CHAMELEON FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "67.224.911/0001-73",
+        "registration": "28087",
+        "processNumber": "SRE/3126/2026",
+        "leader": "BANCO DAYCOVAL S.A.",
+        "leaderCnpj": "62.232.889/0001-90",
+        "volume": 20000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-09-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "75131b3b939eeeda",
         "market": "FIDC",
@@ -547,153 +691,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "89917b265c6ced92",
-        "market": "FIDC",
-        "name": "LUPAR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-        "cnpj": "65.015.003/0001-44",
-        "registration": "28061",
-        "processNumber": "SRE/3101/2026",
-        "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-        "leaderCnpj": "39.669.186/0001-01",
-        "volume": 20000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-24",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "c25310925917e31d",
-        "market": "FIDC",
-        "name": "SOLAR VIALOC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-        "cnpj": "39.680.495/0001-82",
-        "registration": "28060",
-        "processNumber": "SRE/3100/2026",
-        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "leaderCnpj": "62.285.390/0001-40",
-        "volume": 4000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-24",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "a5a204da38fc3431",
-        "market": "FIDC",
-        "name": "TERA PERFORMANCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL LP",
-        "cnpj": "40.155.056/0001-30",
-        "registration": "28062",
-        "processNumber": "SRE/3102/2026",
-        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "leaderCnpj": "62.285.390/0001-40",
-        "volume": 15000000.09,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-24",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "5f4871fca5cadbc8",
-        "market": "FIDC",
-        "name": "TUESDAY GALT I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.077.851/0001-76",
-        "registration": "28047",
-        "processNumber": "SRE/3096/2026",
-        "leader": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "leaderCnpj": "24.361.690/0001-72",
-        "volume": 20000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-24",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "e3076d0855bf9e12",
-        "market": "FIDC",
-        "name": "JHSF CAPITAL RECEBIVEIS IMOBILIARIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESP LTDA",
-        "cnpj": "69.163.316/0001-09",
-        "registration": "28045",
-        "processNumber": "SRE/3086/2026",
-        "leader": "BANCO BRADESCO BBI S.A.",
-        "leaderCnpj": "06.271.464/0001-19",
-        "volume": 700000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-23",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "83a5b8cdce105e77",
-        "market": "FIDC",
-        "name": "PUMA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-        "cnpj": "13.805.152/0001-03",
-        "registration": "28037",
-        "processNumber": "SRE/3077/2026",
-        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "leaderCnpj": "62.285.390/0001-40",
-        "volume": 50000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-23",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIDC identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-09-28T18:36:40.193Z"
+  "updatedAt": "2026-09-29T16:53:59.685Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:36:40.211Z",
+  "generatedAt": "2026-09-29T16:53:59.698Z",
   "market": "FIAGRO",
   "current": {
     "period": {
@@ -302,17 +302,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-28T08:01:36.000350"
+      "updatedAt": "2026-09-29T08:01:06.990454"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-28T18:36:33.257Z"
+      "updatedAt": "2026-09-29T16:53:54.398Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "28/09/2026 09:34"
+      "updatedAt": "29/09/2026 09:30"
     }
   },
   "macro": {
@@ -321,19 +321,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-25",
+        "date": "2026-09-28",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-28",
-          "value": 13.9
-        },
         {
           "date": "2026-08-31",
           "value": 13.9
@@ -409,6 +405,10 @@
         {
           "date": "2026-09-25",
           "value": 13.65
+        },
+        {
+          "date": "2026-09-28",
+          "value": 13.65
         }
       ]
     },
@@ -417,19 +417,15 @@
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
       "latest": {
-        "date": "2026-07-01",
-        "value": 3.31
+        "date": "2026-08-01",
+        "value": 3.35
       },
       "previous": {
-        "date": "2026-06-01",
-        "value": 3.18
+        "date": "2026-07-01",
+        "value": 3.32
       },
-      "change": 0.1299999999999999,
+      "change": 0.03000000000000025,
       "history": [
-        {
-          "date": "2024-12-01",
-          "value": 2.21
-        },
         {
           "date": "2025-01-01",
           "value": 2.43
@@ -504,7 +500,11 @@
         },
         {
           "date": "2026-07-01",
-          "value": 3.31
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
         }
       ]
     },
@@ -513,19 +513,15 @@
       "label": "Saldo da carteira de crédito PJ",
       "unit": "R$ milhões",
       "latest": {
-        "date": "2026-07-01",
-        "value": 2731513
+        "date": "2026-08-01",
+        "value": 2727499
       },
       "previous": {
-        "date": "2026-06-01",
-        "value": 2750625
+        "date": "2026-07-01",
+        "value": 2729162
       },
-      "change": -19112,
+      "change": -1663,
       "history": [
-        {
-          "date": "2024-12-01",
-          "value": 2499177
-        },
         {
           "date": "2025-01-01",
           "value": 2451957
@@ -596,11 +592,15 @@
         },
         {
           "date": "2026-06-01",
-          "value": 2750625
+          "value": 2750634
         },
         {
           "date": "2026-07-01",
-          "value": 2731513
+          "value": 2729162
+        },
+        {
+          "date": "2026-08-01",
+          "value": 2727499
         }
       ]
     },
@@ -609,19 +609,15 @@
       "label": "Spread PJ não rotativo",
       "unit": "p.p.",
       "latest": {
+        "date": "2026-08-01",
+        "value": 4.1
+      },
+      "previous": {
         "date": "2026-07-01",
         "value": 4.8
       },
-      "previous": {
-        "date": "2026-06-01",
-        "value": 4.3
-      },
-      "change": 0.5,
+      "change": -0.7000000000000002,
       "history": [
-        {
-          "date": "2024-12-01",
-          "value": 4.1
-        },
         {
           "date": "2025-01-01",
           "value": 5.3
@@ -697,32 +693,36 @@
         {
           "date": "2026-07-01",
           "value": 4.8
+        },
+        {
+          "date": "2026-08-01",
+          "value": 4.1
         }
       ]
     }
   },
   "anbima": {
     "selicEstimate": {
-      "date": "28/09/2026",
+      "date": "29/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "25/09/2026",
+      "date": "28/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "25/09/2026",
+      "date": "28/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "25/09/2026",
-      "value": 5.1991,
+      "date": "28/09/2026",
+      "value": 5.2132,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -784,10 +784,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4450,
+      "count": 4456,
       "latestMonth": "2026-09",
-      "offersInMonth": 98,
-      "volumeInMonth": 19941742708.36
+      "offersInMonth": 104,
+      "volumeInMonth": 20425492708.36
     },
     {
       "market": "FIAGRO",
@@ -798,10 +798,10 @@
     },
     {
       "market": "FII",
-      "count": 1500,
+      "count": 1502,
       "latestMonth": "2026-09",
-      "offersInMonth": 35,
-      "volumeInMonth": 10922134592.47
+      "offersInMonth": 37,
+      "volumeInMonth": 14269536701.55
     }
   ],
   "intelligence": {
@@ -828,7 +828,7 @@
           },
           {
             "label": "IRFC",
-            "value": 44.57352941176471,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -878,12 +878,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 67.47622549019607,
+            "value": 68.41151960784313,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 44.57352941176471,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -918,7 +918,7 @@
           },
           {
             "label": "IRFC",
-            "value": 44.57352941176471,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -962,8 +962,8 @@
           "IROP": 49.479166666666664,
           "IRBD": 60.41666666666666,
           "IRCC": 4.410424589453961,
-          "IRFC": 44.57352941176471,
-          "IRPM": 48.00747549019608
+          "IRFC": 47.69117647058823,
+          "IRPM": 48.94276960784313
         },
         "bands": {
           "offer": "intermediário",
@@ -980,8 +980,8 @@
           "IROP": 77.29166666666667,
           "IRBD": 79.16666666666667,
           "IRCC": 26.12319393137262,
-          "IRFC": 44.57352941176471,
-          "IRPM": 67.47622549019607
+          "IRFC": 47.69117647058823,
+          "IRPM": 68.41151960784313
         },
         "bands": {
           "offer": "alto",
@@ -998,8 +998,8 @@
           "IROP": 70.83333333333334,
           "IRBD": 70.83333333333334,
           "IRCC": 16.16447381956457,
-          "IRFC": 44.57352941176471,
-          "IRPM": 62.95539215686275
+          "IRFC": 47.69117647058823,
+          "IRPM": 63.890686274509804
         },
         "bands": {
           "offer": "alto",
