@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-29T16:53:59.705Z",
+  "generatedAt": "2026-09-30T16:49:52.945Z",
   "market": "ALL",
   "current": {
     "period": {
       "start": "2026-09-21",
       "end": "2026-09-27"
     },
-    "offers": 28,
+    "offers": 27,
     "offersWithVolume": 24,
     "volume": 4761851754.76,
     "averageTicket": 198410489.78166667,
-    "leaders": 14,
+    "leaders": 13,
     "topLeaders": [
       {
         "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -203,16 +203,12 @@
       {
         "name": "Qualificado",
         "count": 2
-      },
-      {
-        "name": "Público geral",
-        "count": 1
       }
     ],
     "byRite": [
       {
         "name": "Automático",
-        "count": 28
+        "count": 27
       }
     ],
     "byStatus": [
@@ -222,7 +218,7 @@
       },
       {
         "name": "Aguardando Bookbuilding",
-        "count": 4
+        "count": 3
       },
       {
         "name": "Oferta Encerrada",
@@ -236,11 +232,11 @@
       },
       {
         "name": "FII",
-        "count": 6
+        "count": 5
       }
     ],
-    "professionalShare": 0.8928571428571429,
-    "top3Concentration": 0.4642857142857143,
+    "professionalShare": 0.9259259259259259,
+    "top3Concentration": 0.48148148148148145,
     "busiestDays": [
       {
         "date": "2026-09-24",
@@ -251,8 +247,8 @@
         "count": 9
       },
       {
-        "date": "2026-09-25",
-        "count": 5
+        "date": "2026-09-21",
+        "count": 4
       }
     ],
     "themeSignals": [
@@ -548,7 +544,7 @@
     ]
   },
   "changes": {
-    "offersPct": -45.09803921568628,
+    "offersPct": -47.05882352941176,
     "volumePct": -38.35837893322212
   },
   "benchmarks": {
@@ -560,7 +556,7 @@
       "top3Concentration": 0.34847781217750257
     },
     "currentVsPrior4Average": {
-      "offersPct": -31.28834355828221,
+      "offersPct": -33.74233128834356,
       "volumePct": -93.34447166751812
     }
   },
@@ -634,18 +630,18 @@
           "start": "2026-09-21",
           "end": "2026-09-27"
         },
-        "offers": 28,
+        "offers": 27,
         "volume": 4761851754.76,
-        "leaders": 14
+        "leaders": 13
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 28 ofertas ALL, 45,1% abaixo da semana anterior.",
+    "Atividade semanal de 27 ofertas ALL, 47,1% abaixo da semana anterior.",
     "Volume informado de R$ 4.761.851.755 em 24 ofertas com valor positivo; ticket médio de R$ 198.410.490.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 93,3% abaixo e a quantidade de ofertas 31,3% abaixo.",
-    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 46,4% das ofertas da semana.",
-    "89,3% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 93,3% abaixo e a quantidade de ofertas 33,7% abaixo.",
+    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 48,1% das ofertas da semana.",
+    "92,6% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Consignado (2), Meios de pagamento (1), Renda urbana (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -653,17 +649,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-09-29T08:01:06.990454"
+      "updatedAt": "2026-09-30T08:00:45.255984"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-09-29T16:53:54.398Z"
+      "updatedAt": "2026-09-30T16:49:46.976Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "29/09/2026 09:30"
+      "updatedAt": "30/09/2026 09:32"
     }
   },
   "macro": {
@@ -672,19 +668,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-28",
+        "date": "2026-09-29",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-25",
+        "date": "2026-09-28",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-08-31",
-          "value": 13.9
-        },
         {
           "date": "2026-09-01",
           "value": 13.9
@@ -759,6 +751,10 @@
         },
         {
           "date": "2026-09-28",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-29",
           "value": 13.65
         }
       ]
@@ -1054,26 +1050,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "29/09/2026",
+      "date": "30/09/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "28/09/2026",
+      "date": "29/09/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "28/09/2026",
+      "date": "29/09/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "28/09/2026",
-      "value": 5.2132,
+      "date": "29/09/2026",
+      "value": 5.2204,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1085,7 +1081,7 @@
     },
     "igpmProjection": {
       "date": null,
-      "value": 1.58,
+      "value": 1.35,
       "label": "IGP-M projetado",
       "unit": "%"
     }
@@ -1135,10 +1131,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4456,
+      "count": 4467,
       "latestMonth": "2026-09",
-      "offersInMonth": 104,
-      "volumeInMonth": 20425492708.36
+      "offersInMonth": 115,
+      "volumeInMonth": 20579642708.690002
     },
     {
       "market": "FIAGRO",
@@ -1149,10 +1145,10 @@
     },
     {
       "market": "FII",
-      "count": 1502,
+      "count": 1503,
       "latestMonth": "2026-09",
-      "offersInMonth": 37,
-      "volumeInMonth": 14269536701.55
+      "offersInMonth": 38,
+      "volumeInMonth": 14854536649.079998
     }
   ],
   "intelligence": {
@@ -1179,7 +1175,7 @@
           },
           {
             "label": "IRFC",
-            "value": 47.69117647058823,
+            "value": 46.70168067226891,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1229,12 +1225,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 68.41151960784313,
+            "value": 68.11467086834733,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 47.69117647058823,
+            "value": 46.70168067226891,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1269,7 +1265,7 @@
           },
           {
             "label": "IRFC",
-            "value": 47.69117647058823,
+            "value": 46.70168067226891,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1313,8 +1309,8 @@
           "IROP": 49.479166666666664,
           "IRBD": 60.41666666666666,
           "IRCC": 4.410424589453961,
-          "IRFC": 47.69117647058823,
-          "IRPM": 48.94276960784313
+          "IRFC": 46.70168067226891,
+          "IRPM": 48.64592086834733
         },
         "bands": {
           "offer": "intermediário",
@@ -1331,8 +1327,8 @@
           "IROP": 77.29166666666667,
           "IRBD": 79.16666666666667,
           "IRCC": 26.12319393137262,
-          "IRFC": 47.69117647058823,
-          "IRPM": 68.41151960784313
+          "IRFC": 46.70168067226891,
+          "IRPM": 68.11467086834733
         },
         "bands": {
           "offer": "alto",
@@ -1349,8 +1345,8 @@
           "IROP": 70.83333333333334,
           "IRBD": 70.83333333333334,
           "IRCC": 16.16447381956457,
-          "IRFC": 47.69117647058823,
-          "IRPM": 63.890686274509804
+          "IRFC": 46.70168067226891,
+          "IRPM": 63.593837535014
         },
         "bands": {
           "offer": "alto",

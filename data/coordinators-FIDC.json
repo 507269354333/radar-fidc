@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-09-29T16:53:59.732Z",
+  "generatedAt": "2026-09-30T16:49:52.980Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-29T08:01:06.990454"
+    "updatedAt": "2026-09-30T08:00:45.255984"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 165,
-        "volume": 7917292100.780002,
-        "offersWithVolume": 165,
-        "averageTicket": 47983588.489575766
+        "offers": 166,
+        "volume": 7959292101.110002,
+        "offersWithVolume": 166,
+        "averageTicket": 47947542.77777109
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-09",
-          "count": 19,
-          "volume": 610500001.3299999
+          "count": 20,
+          "volume": 652500001.66
         }
       ],
       "recentOffers": [
+        {
+          "id": "1b8c6975423d64a7",
+          "market": "FIDC",
+          "name": "CUPERTINO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "39.769.235/0001-88",
+          "registration": "28122",
+          "processNumber": "SRE/3156/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 42000000.33,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "43ee86b7b5d19ba0",
           "market": "FIDC",
@@ -573,29 +589,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "94b246ec03b45a5e",
-          "market": "FIDC",
-          "name": "CVPAR MIDDLE MARKET FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.886.906/0001-63",
-          "registration": "26512",
-          "processNumber": "SRE/1689/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 108040000,
-          "date": "2026-05-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1044,
-          "volume": 56631070860.47996
+          "count": 1045,
+          "volume": 56673070860.80996
         },
         {
           "market": "FIAGRO",
@@ -837,7 +837,7 @@
           "date": "2026-09-02",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1216,10 +1216,10 @@
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 46,
-        "volume": 2328099998.68,
-        "offersWithVolume": 46,
-        "averageTicket": 50610869.53652173
+        "offers": 49,
+        "volume": 2363099998.68,
+        "offersWithVolume": 49,
+        "averageTicket": 48226530.585306115
       },
       "byMonth": [
         {
@@ -1309,11 +1309,59 @@
         },
         {
           "month": "2026-09",
-          "count": 4,
-          "volume": 158000000
+          "count": 7,
+          "volume": 193000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "08fa9edb4ad7052e",
+          "market": "FIDC",
+          "name": "HCS VELA LASER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.880.344/0001-88",
+          "registration": "28126",
+          "processNumber": "SRE/3157/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 20000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "01e1549f85e8dbb8",
+          "market": "FIDC",
+          "name": "ROYA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.909.547/0001-48",
+          "registration": "28133",
+          "processNumber": "SRE/3163/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 10000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "e4278fe70facb81a",
+          "market": "FIDC",
+          "name": "ROYA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.909.547/0001-48",
+          "registration": "28134",
+          "processNumber": "SRE/3164/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 5000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "b0f438978a2fe0ff",
           "market": "FIDC",
@@ -1745,61 +1793,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "024f505ac3af331a",
-          "market": "FIDC",
-          "name": "NEO CRÉDITO SPECIAL SITUATIONS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "61.374.410/0001-97",
-          "registration": "24544",
-          "processNumber": "SRE/0295/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 13000000,
-          "date": "2026-02-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "48f452b8eea982b4",
-          "market": "FIDC",
-          "name": "NEO CRÉDITO SPECIAL SITUATIONS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "61.374.410/0001-97",
-          "registration": "24548",
-          "processNumber": "SRE/0298/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 10000000,
-          "date": "2026-02-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1ccae74682fa73be",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS BRAVE SHIELD RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.167.223/0001-20",
-          "registration": "24188",
-          "processNumber": "SRE/4562/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 42000000,
-          "date": "2025-12-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 147,
-          "volume": 10471073198.679996
+          "count": 150,
+          "volume": 10506073198.679995
         },
         {
           "market": "FIAGRO",
@@ -1808,8 +1808,8 @@
         },
         {
           "market": "FII",
-          "count": 82,
-          "volume": 6626116774.479998
+          "count": 83,
+          "volume": 6836116722.009998
         }
       ]
     },
@@ -8469,7 +8469,7 @@
       "name": "XP INVESTIMENTOS CCTVM S.A.",
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
-        "offers": 12,
+        "offers": 13,
         "volume": 5374731001.41,
         "offersWithVolume": 11,
         "averageTicket": 488611909.2190909
@@ -8562,11 +8562,27 @@
         },
         {
           "month": "2026-09",
-          "count": 3,
+          "count": 4,
           "volume": 1650000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "2b749b191d37e5dc",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SOLVERA VAREJO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.320.254/0001-03",
+          "registration": "28082",
+          "processNumber": "SRE/3142/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 0,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "ab190874c1d439ac",
           "market": "FIDC",
@@ -9030,28 +9046,12 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "4d08e0fb6f76f52d",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDZ",
-          "cnpj": "24.761.946/0001-39",
-          "registration": "1131",
-          "processNumber": "SRE/0431/2023",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 400000000,
-          "date": "2023-03-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 81,
+          "count": 82,
           "volume": 24831140133.030003
         },
         {
@@ -9062,7 +9062,467 @@
         {
           "market": "FII",
           "count": 142,
-          "volume": 71170323026.59001
+          "volume": 71545323026.59001
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:28650236000192",
+      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+      "cnpj": "28.650.236/0001-92",
+      "stats12m": {
+        "offers": 13,
+        "volume": 503000243.25,
+        "offersWithVolume": 13,
+        "averageTicket": 38692326.40384615
+      },
+      "byMonth": [
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 240000000
+        },
+        {
+          "month": "2025-01",
+          "count": 2,
+          "volume": 120000000
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2025-05",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2025-06",
+          "count": 2,
+          "volume": 155000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 110000000
+        },
+        {
+          "month": "2025-10",
+          "count": 1,
+          "volume": 80000000
+        },
+        {
+          "month": "2025-12",
+          "count": 5,
+          "volume": 220000000
+        },
+        {
+          "month": "2026-01",
+          "count": 1,
+          "volume": 20000243.25
+        },
+        {
+          "month": "2026-02",
+          "count": 4,
+          "volume": 148000000
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 35000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "3405d6ef09df8ee0",
+          "market": "FIDC",
+          "name": "SÃO MIGUEL II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.373.031/0001-94",
+          "registration": "28130",
+          "processNumber": "SRE/3161/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 33000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "117a5c975498d737",
+          "market": "FIDC",
+          "name": "SÃO MIGUEL II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.373.031/0001-94",
+          "registration": "28131",
+          "processNumber": "SRE/3162/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 2000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c35ce602c0ac33f1",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RT RENTAL - RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.026.948/0001-61",
+          "registration": "24832",
+          "processNumber": "SRE/0548/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 80000000,
+          "date": "2026-02-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7e0a8105bab93cc4",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RT RENTAL - RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.026.948/0001-61",
+          "registration": "24835",
+          "processNumber": "SRE/0549/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 20000000,
+          "date": "2026-02-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "800791503872dead",
+          "market": "FIDC",
+          "name": "ATLÂNTICO MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.918.704/0001-03",
+          "registration": "24735",
+          "processNumber": "SRE/0473/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 24000000,
+          "date": "2026-02-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7f0931b1d64c1586",
+          "market": "FIDC",
+          "name": "CLASSE ÚNICA DO ATLÂNTICO FEEDER FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITO",
+          "cnpj": "62.918.989/0001-74",
+          "registration": "24734",
+          "processNumber": "SRE/0472/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 24000000,
+          "date": "2026-02-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "943845214c10452e",
+          "market": "FIDC",
+          "name": "FUTEBOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.960.463/0001-27",
+          "registration": "24520",
+          "processNumber": "SRE/0269/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 20000243.25,
+          "date": "2026-01-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ced570d6e28f1d46",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS ALTIS CAPITAL - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.022.139/0001-19",
+          "registration": "24091",
+          "processNumber": "SRE/4460/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 50000000,
+          "date": "2025-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "349bde80a3083a3c",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS TARGET TRADING - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.077.421/0001-01",
+          "registration": "24044",
+          "processNumber": "SRE/4420/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 50000000,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "de2a090947c8964d",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TARGET TRADING - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.077.421/0001-01",
+          "registration": "24046",
+          "processNumber": "SRE/4421/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 10000000,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3c1da48ca251adb1",
+          "market": "FIDC",
+          "name": "GALAPAGOS SPECIAL OPPORTUNITIES RG FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADA",
+          "cnpj": "59.148.481/0001-20",
+          "registration": "23989",
+          "processNumber": "SRE/4363/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 20000000,
+          "date": "2025-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "73e79cab41a417e8",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS ATLETICO MINEIRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.570.081/0001-85",
+          "registration": "23694",
+          "processNumber": "SRE/4117/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 90000000,
+          "date": "2025-12-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d61ceaf34851407b",
+          "market": "FIDC",
+          "name": "FNX FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPOSABILIDADE LIMITADA",
+          "cnpj": "62.145.323/0001-20",
+          "registration": "22933",
+          "processNumber": "SRE/3422/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 80000000,
+          "date": "2025-10-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8613ad52e4745c0c",
+          "market": "FIDC",
+          "name": "GALAPAGOS SPECIAL OPPORTUNITIES INFRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "60.696.539/0001-59",
+          "registration": "21786",
+          "processNumber": "SRE/2460/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 10000000,
+          "date": "2025-08-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3fb4247452382f15",
+          "market": "FIDC",
+          "name": "WELLGROW FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.927.592/0001-86",
+          "registration": "21701",
+          "processNumber": "SRE/2381/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2025-08-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "69b1fbd7c3c3773d",
+          "market": "FIDC",
+          "name": "GALAPAGOS WM FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "37.037.144/0001-22",
+          "registration": "21459",
+          "processNumber": "SRE/2187/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7b3fb2035214a1c0",
+          "market": "FIDC",
+          "name": "SANTIAGO HOME EQUITY FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "32.969.565/0001-78",
+          "registration": "21158",
+          "processNumber": "SRE/1912/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 55000000,
+          "date": "2025-06-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "fa3b7117385a1ad2",
+          "market": "FIDC",
+          "name": "SANTA CATARINA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.270.134/0001-17",
+          "registration": "21115",
+          "processNumber": "SRE/1889/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2025-06-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f6c06c61936832e9",
+          "market": "FIDC",
+          "name": "GALAPAGOS SPECIAL OPPORTUNITIES INFRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "60.696.539/0001-59",
+          "registration": "20452",
+          "processNumber": "SRE/1262/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 300000000,
+          "date": "2025-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a1d5ff6ceb89716f",
+          "market": "FIDC",
+          "name": "GALAPAGOS SANTA HELENA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.900.616/0001-61",
+          "registration": "19835",
+          "processNumber": "SRE/0739/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 150000000,
+          "date": "2025-03-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b8f5ba71dc8cc771",
+          "market": "FIDC",
+          "name": "GALAPAGOS SPECIAL OPPORTUNITIES RG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "59.148.481/0001-20",
+          "registration": "19305",
+          "processNumber": "SRE/0255/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 80000000,
+          "date": "2025-01-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8a3f6247fdf03207",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DTBR RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.880.077/0001-83",
+          "registration": "19197",
+          "processNumber": "SRE/0156/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 40000000,
+          "date": "2025-01-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4a030724fdfd0abc",
+          "market": "FIDC",
+          "name": "SPFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "57.777.919/0001-03",
+          "registration": "17967",
+          "processNumber": "SRE/3321/2024",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 240000000,
+          "date": "2024-10-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 23,
+          "volume": 1678000243.25
+        },
+        {
+          "market": "FIAGRO",
+          "count": 7,
+          "volume": 320000186.17999995
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 1105738496.75
         }
       ]
     },
@@ -10318,429 +10778,6 @@
           "market": "FII",
           "count": 3,
           "volume": 326378000
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:28650236000192",
-      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-      "cnpj": "28.650.236/0001-92",
-      "stats12m": {
-        "offers": 11,
-        "volume": 468000243.25,
-        "offersWithVolume": 11,
-        "averageTicket": 42545476.65909091
-      },
-      "byMonth": [
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 240000000
-        },
-        {
-          "month": "2025-01",
-          "count": 2,
-          "volume": 120000000
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 150000000
-        },
-        {
-          "month": "2025-05",
-          "count": 1,
-          "volume": 300000000
-        },
-        {
-          "month": "2025-06",
-          "count": 2,
-          "volume": 155000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2025-08",
-          "count": 2,
-          "volume": 110000000
-        },
-        {
-          "month": "2025-10",
-          "count": 1,
-          "volume": 80000000
-        },
-        {
-          "month": "2025-12",
-          "count": 5,
-          "volume": 220000000
-        },
-        {
-          "month": "2026-01",
-          "count": 1,
-          "volume": 20000243.25
-        },
-        {
-          "month": "2026-02",
-          "count": 4,
-          "volume": 148000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "c35ce602c0ac33f1",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RT RENTAL - RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.026.948/0001-61",
-          "registration": "24832",
-          "processNumber": "SRE/0548/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 80000000,
-          "date": "2026-02-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7e0a8105bab93cc4",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RT RENTAL - RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.026.948/0001-61",
-          "registration": "24835",
-          "processNumber": "SRE/0549/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 20000000,
-          "date": "2026-02-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "800791503872dead",
-          "market": "FIDC",
-          "name": "ATLÂNTICO MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.918.704/0001-03",
-          "registration": "24735",
-          "processNumber": "SRE/0473/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 24000000,
-          "date": "2026-02-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7f0931b1d64c1586",
-          "market": "FIDC",
-          "name": "CLASSE ÚNICA DO ATLÂNTICO FEEDER FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITO",
-          "cnpj": "62.918.989/0001-74",
-          "registration": "24734",
-          "processNumber": "SRE/0472/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 24000000,
-          "date": "2026-02-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "943845214c10452e",
-          "market": "FIDC",
-          "name": "FUTEBOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.960.463/0001-27",
-          "registration": "24520",
-          "processNumber": "SRE/0269/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 20000243.25,
-          "date": "2026-01-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ced570d6e28f1d46",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS ALTIS CAPITAL - RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.022.139/0001-19",
-          "registration": "24091",
-          "processNumber": "SRE/4460/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 50000000,
-          "date": "2025-12-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "349bde80a3083a3c",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS TARGET TRADING - RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.077.421/0001-01",
-          "registration": "24044",
-          "processNumber": "SRE/4420/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 50000000,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "de2a090947c8964d",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TARGET TRADING - RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.077.421/0001-01",
-          "registration": "24046",
-          "processNumber": "SRE/4421/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 10000000,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3c1da48ca251adb1",
-          "market": "FIDC",
-          "name": "GALAPAGOS SPECIAL OPPORTUNITIES RG FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADA",
-          "cnpj": "59.148.481/0001-20",
-          "registration": "23989",
-          "processNumber": "SRE/4363/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 20000000,
-          "date": "2025-12-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "73e79cab41a417e8",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS ATLETICO MINEIRO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.570.081/0001-85",
-          "registration": "23694",
-          "processNumber": "SRE/4117/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 90000000,
-          "date": "2025-12-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d61ceaf34851407b",
-          "market": "FIDC",
-          "name": "FNX FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPOSABILIDADE LIMITADA",
-          "cnpj": "62.145.323/0001-20",
-          "registration": "22933",
-          "processNumber": "SRE/3422/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 80000000,
-          "date": "2025-10-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8613ad52e4745c0c",
-          "market": "FIDC",
-          "name": "GALAPAGOS SPECIAL OPPORTUNITIES INFRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "60.696.539/0001-59",
-          "registration": "21786",
-          "processNumber": "SRE/2460/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 10000000,
-          "date": "2025-08-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3fb4247452382f15",
-          "market": "FIDC",
-          "name": "WELLGROW FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.927.592/0001-86",
-          "registration": "21701",
-          "processNumber": "SRE/2381/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2025-08-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "69b1fbd7c3c3773d",
-          "market": "FIDC",
-          "name": "GALAPAGOS WM FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "37.037.144/0001-22",
-          "registration": "21459",
-          "processNumber": "SRE/2187/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2025-07-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7b3fb2035214a1c0",
-          "market": "FIDC",
-          "name": "SANTIAGO HOME EQUITY FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "32.969.565/0001-78",
-          "registration": "21158",
-          "processNumber": "SRE/1912/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 55000000,
-          "date": "2025-06-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "fa3b7117385a1ad2",
-          "market": "FIDC",
-          "name": "SANTA CATARINA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.270.134/0001-17",
-          "registration": "21115",
-          "processNumber": "SRE/1889/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2025-06-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f6c06c61936832e9",
-          "market": "FIDC",
-          "name": "GALAPAGOS SPECIAL OPPORTUNITIES INFRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "60.696.539/0001-59",
-          "registration": "20452",
-          "processNumber": "SRE/1262/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 300000000,
-          "date": "2025-05-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a1d5ff6ceb89716f",
-          "market": "FIDC",
-          "name": "GALAPAGOS SANTA HELENA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.900.616/0001-61",
-          "registration": "19835",
-          "processNumber": "SRE/0739/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 150000000,
-          "date": "2025-03-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b8f5ba71dc8cc771",
-          "market": "FIDC",
-          "name": "GALAPAGOS SPECIAL OPPORTUNITIES RG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "59.148.481/0001-20",
-          "registration": "19305",
-          "processNumber": "SRE/0255/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 80000000,
-          "date": "2025-01-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8a3f6247fdf03207",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DTBR RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.880.077/0001-83",
-          "registration": "19197",
-          "processNumber": "SRE/0156/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 40000000,
-          "date": "2025-01-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4a030724fdfd0abc",
-          "market": "FIDC",
-          "name": "SPFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "57.777.919/0001-03",
-          "registration": "17967",
-          "processNumber": "SRE/3321/2024",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 240000000,
-          "date": "2024-10-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 21,
-          "volume": 1643000243.25
-        },
-        {
-          "market": "FIAGRO",
-          "count": 7,
-          "volume": 320000186.17999995
-        },
-        {
-          "market": "FII",
-          "count": 19,
-          "volume": 1105738496.75
         }
       ]
     },
@@ -13410,6 +13447,186 @@
       ]
     },
     {
+      "key": "CNPJ:41592532000142",
+      "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "cnpj": "41.592.532/0001-42",
+      "stats12m": {
+        "offers": 6,
+        "volume": 26150000,
+        "offersWithVolume": 6,
+        "averageTicket": 4358333.333333333
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 5000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-09",
+          "count": 5,
+          "volume": 16150000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "cf95efa8c880dac1",
+          "market": "FIDC",
+          "name": "G-QUATTRO FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.541/0001-90",
+          "registration": "28112",
+          "processNumber": "SRE/3148/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 1500000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1fbb6577fd5fc1d4",
+          "market": "FIDC",
+          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.237.118/0001-34",
+          "registration": "28110",
+          "processNumber": "SRE/3149/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 6000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ca72eed9156ac13e",
+          "market": "FIDC",
+          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.237.118/0001-34",
+          "registration": "28120",
+          "processNumber": "SRE/3153/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 2650000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ebf9c777ba398e06",
+          "market": "FIDC",
+          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.580/0001-98",
+          "registration": "28038",
+          "processNumber": "SRE/3106/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 4500000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1a38df3b7ae6f5e9",
+          "market": "FIDC",
+          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.580/0001-98",
+          "registration": "28053",
+          "processNumber": "SRE/3105/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 1500000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c03fd825dfa196fb",
+          "market": "FIDC",
+          "name": "BRIDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.784.717/0001-05",
+          "registration": "27667",
+          "processNumber": "SRE/2744/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "368dd16a77e7ae17",
+          "market": "FIDC",
+          "name": "LEDOROTAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE ILIMITADA",
+          "cnpj": "61.516.625/0001-03",
+          "registration": "21278",
+          "processNumber": "SRE/2010/2025",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10000000,
+          "date": "2025-07-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b59ab9c88bcedf0e",
+          "market": "FIDC",
+          "name": "INSOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.626.024/0001-42",
+          "registration": "16341",
+          "processNumber": "SRE/1912/2024",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 5000000,
+          "date": "2024-06-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 8,
+          "volume": 41150000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 7,
+          "volume": 194964822.18
+        }
+      ]
+    },
+    {
       "key": "CNPJ:33817677000176",
       "name": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "33.817.677/0001-76",
@@ -13480,7 +13697,7 @@
           "date": "2026-08-31",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -16954,138 +17171,6 @@
       ]
     },
     {
-      "key": "CNPJ:41592532000142",
-      "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "cnpj": "41.592.532/0001-42",
-      "stats12m": {
-        "offers": 3,
-        "volume": 16000000,
-        "offersWithVolume": 3,
-        "averageTicket": 5333333.333333333
-      },
-      "byMonth": [
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 5000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 6000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "ebf9c777ba398e06",
-          "market": "FIDC",
-          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.166.580/0001-98",
-          "registration": "28038",
-          "processNumber": "SRE/3106/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 4500000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "1a38df3b7ae6f5e9",
-          "market": "FIDC",
-          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.166.580/0001-98",
-          "registration": "28053",
-          "processNumber": "SRE/3105/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 1500000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c03fd825dfa196fb",
-          "market": "FIDC",
-          "name": "BRIDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.784.717/0001-05",
-          "registration": "27667",
-          "processNumber": "SRE/2744/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10000000,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "368dd16a77e7ae17",
-          "market": "FIDC",
-          "name": "LEDOROTAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE ILIMITADA",
-          "cnpj": "61.516.625/0001-03",
-          "registration": "21278",
-          "processNumber": "SRE/2010/2025",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10000000,
-          "date": "2025-07-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b59ab9c88bcedf0e",
-          "market": "FIDC",
-          "name": "INSOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.626.024/0001-42",
-          "registration": "16341",
-          "processNumber": "SRE/1912/2024",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 5000000,
-          "date": "2024-06-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 5,
-          "volume": 31000000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 7,
-          "volume": 194964822.18
-        }
-      ]
-    },
-    {
       "key": "CNPJ:12461756000117",
       "name": "PÁTRIA INVESTIMENTOS LTDA.",
       "cnpj": "12.461.756/0001-17",
@@ -18636,6 +18721,101 @@
           "market": "FII",
           "count": 0,
           "volume": 0
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:05816451000115",
+      "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
+      "cnpj": "05.816.451/0001-15",
+      "stats12m": {
+        "offers": 2,
+        "volume": 62000000.4,
+        "offersWithVolume": 2,
+        "averageTicket": 31000000.2
+      },
+      "byMonth": [
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 30000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 30000000.4
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 32000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8dd0827d0a84392b",
+          "market": "FIDC",
+          "name": "MEU PRECATÓRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.126.861/0001-01",
+          "registration": "28125",
+          "processNumber": "SRE/3158/2026",
+          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
+          "leaderCnpj": "05.816.451/0001-15",
+          "volume": 32000000,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "9c1f926a3b4cee1b",
+          "market": "FIDC",
+          "name": "PBL CREDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.670.371/0001-75",
+          "registration": "24573",
+          "processNumber": "SRE/0318/2026",
+          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
+          "leaderCnpj": "05.816.451/0001-15",
+          "volume": 30000000.4,
+          "date": "2026-02-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "abb3ad712ee2aec2",
+          "market": "FIDC",
+          "name": "PBL CREDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.670.371/0001-75",
+          "registration": "21479",
+          "processNumber": "SRE/2196/2025",
+          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
+          "leaderCnpj": "05.816.451/0001-15",
+          "volume": 30000000,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 3,
+          "volume": 92000000.4
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 50000000
         }
       ]
     },
@@ -21136,80 +21316,6 @@
           "market": "FII",
           "count": 0,
           "volume": 0
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:05816451000115",
-      "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
-      "cnpj": "05.816.451/0001-15",
-      "stats12m": {
-        "offers": 1,
-        "volume": 30000000.4,
-        "offersWithVolume": 1,
-        "averageTicket": 30000000.4
-      },
-      "byMonth": [
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 30000000
-        },
-        {
-          "month": "2026-02",
-          "count": 1,
-          "volume": 30000000.4
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "9c1f926a3b4cee1b",
-          "market": "FIDC",
-          "name": "PBL CREDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.670.371/0001-75",
-          "registration": "24573",
-          "processNumber": "SRE/0318/2026",
-          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
-          "leaderCnpj": "05.816.451/0001-15",
-          "volume": 30000000.4,
-          "date": "2026-02-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "abb3ad712ee2aec2",
-          "market": "FIDC",
-          "name": "PBL CREDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.670.371/0001-75",
-          "registration": "21479",
-          "processNumber": "SRE/2196/2025",
-          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
-          "leaderCnpj": "05.816.451/0001-15",
-          "volume": 30000000,
-          "date": "2025-07-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 2,
-          "volume": 60000000.4
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 50000000
         }
       ]
     },
