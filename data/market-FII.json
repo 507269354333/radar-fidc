@@ -1,13 +1,13 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-09-30T08:00:45.255984",
+  "sourceUpdatedAt": "2026-10-01T08:00:48.806199",
   "market": "FII",
   "count": 1503,
   "analytics": {
     "latestMonth": "2026-09",
     "offersInMonth": 38,
-    "volumeInMonth": 14854536649.079998,
+    "volumeInMonth": 15719536701.55,
     "offersWithVolumeInMonth": 38,
     "leadersInMonth": 16,
     "byRite": [
@@ -19,11 +19,11 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 30
+        "count": 29
       },
       {
         "name": "Público geral",
-        "count": 4
+        "count": 5
       },
       {
         "name": "Qualificado",
@@ -46,20 +46,14 @@
       {
         "name": "XP INVESTIMENTOS CCTVM S.A.",
         "cnpj": "02.332.886/0001-04",
-        "count": 3,
-        "volume": 2640957699.66
+        "count": 4,
+        "volume": 3715957699.66
       },
       {
         "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
         "cnpj": "36.266.751/0001-00",
         "count": 3,
         "volume": 665000000
-      },
-      {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
-        "count": 3,
-        "volume": 546872832.32
       },
       {
         "name": "BANCO DAYCOVAL S.A.",
@@ -78,6 +72,12 @@
         "cnpj": "13.486.793/0001-42",
         "count": 2,
         "volume": 1200000000
+      },
+      {
+        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "cnpj": "22.610.500/0001-88",
+        "count": 2,
+        "volume": 336872884.79
       },
       {
         "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -198,21 +198,21 @@
       {
         "month": "2026-09",
         "count": 38,
-        "volume": 14854536649.079998,
+        "volume": 15719536701.55,
         "withVolume": 38
       }
     ],
     "trailing12": {
       "offers": 209,
-      "volume": 69847875355.68999,
+      "volume": 70712875408.15999,
       "offersWithVolume": 209,
       "leaders": 36,
       "topLeaders": [
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
           "cnpj": "02.332.886/0001-04",
-          "count": 35,
-          "volume": 22900265612.28
+          "count": 36,
+          "volume": 23975265612.28
         },
         {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -245,16 +245,16 @@
           "volume": 4034804458.9700003
         },
         {
-          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "cnpj": "22.610.500/0001-88",
-          "count": 10,
-          "volume": 1399098779.08
-        },
-        {
           "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
           "cnpj": "28.650.236/0001-92",
           "count": 10,
           "volume": 667199897.95
+        },
+        {
+          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "cnpj": "22.610.500/0001-88",
+          "count": 9,
+          "volume": 1189098831.55
         },
         {
           "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
@@ -308,20 +308,20 @@
     },
     "latestOffers": [
       {
-        "id": "977ab2ae56e51924",
+        "id": "a4af5caa9a99f698",
         "market": "FII",
-        "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "63.034.061/0001-90",
-        "registration": "28129",
-        "processNumber": "SRE/3160/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "leaderCnpj": "22.610.500/0001-88",
-        "volume": 209999947.53,
+        "name": "SPX PORTFÓLIO ALFA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "cnpj": "69.197.328/0001-46",
+        "registration": "28093",
+        "processNumber": "SRE/3195/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "leaderCnpj": "02.332.886/0001-04",
+        "volume": 1075000000,
         "volumeComponents": 1,
         "rite": "Automático",
-        "audience": "Profissional",
+        "audience": "Público geral",
         "status": "Registro Concedido",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "dateBasis": "registro",
         "securities": [
           "Cotas de FII"
@@ -670,5 +670,5 @@
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-09-30T16:49:52.919Z"
+  "updatedAt": "2026-10-01T17:23:05.287Z"
 }

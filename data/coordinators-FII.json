@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-09-30T16:49:52.983Z",
+  "generatedAt": "2026-10-01T17:23:05.351Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-09-30T08:00:45.255984"
+    "updatedAt": "2026-10-01T08:00:48.806199"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "XP INVESTIMENTOS CCTVM S.A.",
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
-        "offers": 35,
-        "volume": 22900265612.28,
-        "offersWithVolume": 35,
-        "averageTicket": 654293303.208
+        "offers": 36,
+        "volume": 23975265612.28,
+        "offersWithVolume": 36,
+        "averageTicket": 665979600.3411111
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-09",
-          "count": 3,
-          "volume": 2640957699.66
+          "count": 4,
+          "volume": 3715957699.66
         }
       ],
       "recentOffers": [
+        {
+          "id": "a4af5caa9a99f698",
+          "market": "FII",
+          "name": "SPX PORTFÓLIO ALFA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "69.197.328/0001-46",
+          "registration": "28093",
+          "processNumber": "SRE/3195/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 1075000000,
+          "date": "2026-09-30",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "2e0b0b8e98ee090b",
           "market": "FII",
@@ -203,7 +219,7 @@
           "date": "2026-08-03",
           "rite": "Automático",
           "audience": "Qualificado",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -573,22 +589,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "0949c90fd2d1befb",
-          "market": "FII",
-          "name": "LCP PREFIXADO II MASTER FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "63.954.054/0001-06",
-          "registration": "23720",
-          "processNumber": "SRE/4138/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 1000000000,
-          "date": "2025-12-09",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -604,8 +604,8 @@
         },
         {
           "market": "FII",
-          "count": 142,
-          "volume": 71545323026.59001
+          "count": 143,
+          "volume": 72620323026.59001
         }
       ]
     },
@@ -1519,7 +1519,7 @@
           "date": "2026-04-06",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -3356,8 +3356,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 188,
-          "volume": 15442122056.010002
+          "count": 189,
+          "volume": 15502122056.010002
         },
         {
           "market": "FIAGRO",
@@ -3372,14 +3372,426 @@
       ]
     },
     {
+      "key": "CNPJ:28650236000192",
+      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+      "cnpj": "28.650.236/0001-92",
+      "stats12m": {
+        "offers": 10,
+        "volume": 667199897.95,
+        "offersWithVolume": 10,
+        "averageTicket": 66719989.795
+      },
+      "byMonth": [
+        {
+          "month": "2023-03",
+          "count": 1,
+          "volume": 4624598.8
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 17000000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 55000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 52000000
+        },
+        {
+          "month": "2025-03",
+          "count": 2,
+          "volume": 162500000
+        },
+        {
+          "month": "2025-12",
+          "count": 3,
+          "volume": 121199897.95
+        },
+        {
+          "month": "2026-02",
+          "count": 4,
+          "volume": 320000000
+        },
+        {
+          "month": "2026-05",
+          "count": 2,
+          "volume": 190000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 36000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "295cf3ce88ff0d8c",
+          "market": "FII",
+          "name": "TERRAS PAULISTAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.320.393/0001-30",
+          "registration": "27678",
+          "processNumber": "SRE/2749/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 36000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ec26143c6070aea7",
+          "market": "FII",
+          "name": "RESERVE FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.197.624/0001-59",
+          "registration": "26271",
+          "processNumber": "SRE/1465/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 150000000,
+          "date": "2026-05-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "54605822f7e271ca",
+          "market": "FII",
+          "name": "RESERVE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.197.624/0001-59",
+          "registration": "26272",
+          "processNumber": "SRE/1466/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 40000000,
+          "date": "2026-05-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4d7c68dccfb2cec1",
+          "market": "FII",
+          "name": "HOTEL GATE 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.112.490/0001-63",
+          "registration": "24829",
+          "processNumber": "SRE/0545/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 140000000,
+          "date": "2026-02-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "742b7551ad889a54",
+          "market": "FII",
+          "name": "HOTEL GATE 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.112.490/0001-63",
+          "registration": "24831",
+          "processNumber": "SRE/0546/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2026-02-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1853ef9b2a32995b",
+          "market": "FII",
+          "name": "SANTIAGO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.060.467/0001-72",
+          "registration": "24682",
+          "processNumber": "SRE/0426/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 60000000,
+          "date": "2026-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "fb08b2418dbfb66d",
+          "market": "FII",
+          "name": "SANTIAGO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.060.467/0001-72",
+          "registration": "24683",
+          "processNumber": "SRE/0427/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 20000000,
+          "date": "2026-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "373ce92154ec1c96",
+          "market": "FII",
+          "name": "HARAS LA ESTANCIA FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.976.969/0001-12",
+          "registration": "24005",
+          "processNumber": "SRE/4383/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 59999897.95,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ed67f7e60ca904aa",
+          "market": "FII",
+          "name": "HARAS LA ESTÂNCIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.976.969/0001-12",
+          "registration": "24006",
+          "processNumber": "SRE/4384/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 60000000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "c368556359128da0",
+          "market": "FII",
+          "name": "AXIA ENERGIA SOLUÇÕES IMOBILIÁRIAS FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.145.710/0001-67",
+          "registration": "23773",
+          "processNumber": "SRE/4188/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 1200000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1530ea1b6b494386",
+          "market": "FII",
+          "name": "SPX DESENVOLVIMENTO DE GALPÕES LOGÍSTICOS FEEDER GALAPAGOS FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.718.930/0001-28",
+          "registration": "19849",
+          "processNumber": "SRE/0747/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 62500000,
+          "date": "2025-03-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "65aacaecf4d358b1",
+          "market": "FII",
+          "name": "GALÁPAGOS CRÉDITO ESTRUTURADO PRAZO DETERMINADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
+          "cnpj": "59.669.570/0001-11",
+          "registration": "19803",
+          "processNumber": "SRE/0723/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2025-03-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "71de96ed0b9edbd7",
+          "market": "FII",
+          "name": "GALAPAGOS FEEDER DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITA",
+          "cnpj": "58.523.711/0001-20",
+          "registration": "19154",
+          "processNumber": "SRE/0179/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 52000000,
+          "date": "2025-01-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "da8ec85ac39487d6",
+          "market": "FII",
+          "name": "GALAPAGOS DESENVOLVIMENTO LOGISTICO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "56.061.587/0001-01",
+          "registration": "16790",
+          "processNumber": "SRE/2304/2024",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 55000000,
+          "date": "2024-08-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a75aed7f8e6715bd",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO ROOFTOP III RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.793.516/0001-22",
+          "registration": "16568",
+          "processNumber": "SRE/2106/2024",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2024-07-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e71f56dafadf6599",
+          "market": "FII",
+          "name": "BRC-II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "43.862.625/0001-75",
+          "registration": "4246",
+          "processNumber": "SRE/0045/2024",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 17000000,
+          "date": "2024-01-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a7f8f4db07d8de3a",
+          "market": "FII",
+          "name": "GALAPAGOS FUNDO DE FUNDOS - FII FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "35.652.154/0001-42",
+          "registration": "1233",
+          "processNumber": "SRE/0540/2023",
+          "leader": "BS2 DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 4624598.8,
+          "date": "2023-03-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "473dc5ab3f91ab95",
+          "market": "FII",
+          "name": "BS2 ALLINVESTMENTS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "41.218.404/0001-33",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 36114000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-10-26",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a6349be6add8f08c",
+          "market": "FII",
+          "name": "GALAPAGOS SPECIAL OPORTUNITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "46.285.299/0001-79",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 11300000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-12-29",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 21,
+          "volume": 1643000243.25
+        },
+        {
+          "market": "FIAGRO",
+          "count": 7,
+          "volume": 320000186.17999995
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 1105738496.75
+        }
+      ]
+    },
+    {
       "key": "CNPJ:22610500000188",
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 10,
-        "volume": 1399098779.08,
-        "offersWithVolume": 10,
-        "averageTicket": 139909877.908
+        "offers": 9,
+        "volume": 1189098831.55,
+        "offersWithVolume": 9,
+        "averageTicket": 132122092.39444444
       },
       "byMonth": [
         {
@@ -3469,27 +3881,11 @@
         },
         {
           "month": "2026-09",
-          "count": 3,
-          "volume": 546872832.32
+          "count": 2,
+          "volume": 336872884.79
         }
       ],
       "recentOffers": [
-        {
-          "id": "977ab2ae56e51924",
-          "market": "FII",
-          "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.034.061/0001-90",
-          "registration": "28129",
-          "processNumber": "SRE/3160/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 209999947.53,
-          "date": "2026-09-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
         {
           "id": "c601088793564c30",
           "market": "FII",
@@ -3953,13 +4349,29 @@
           "audience": "Qualificado",
           "status": "Oferta Encerrada",
           "publications": []
+        },
+        {
+          "id": "e4b45db3c03713fb",
+          "market": "FII",
+          "name": "EDIFICARE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.250.318/0001-50",
+          "registration": "15158",
+          "processNumber": "SRE/0855/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 50000000,
+          "date": "2024-03-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 150,
-          "volume": 10506073198.679995
+          "count": 148,
+          "volume": 10491073198.679996
         },
         {
           "market": "FIAGRO",
@@ -3968,420 +4380,8 @@
         },
         {
           "market": "FII",
-          "count": 83,
-          "volume": 6836116722.009998
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:28650236000192",
-      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-      "cnpj": "28.650.236/0001-92",
-      "stats12m": {
-        "offers": 10,
-        "volume": 667199897.95,
-        "offersWithVolume": 10,
-        "averageTicket": 66719989.795
-      },
-      "byMonth": [
-        {
-          "month": "2023-03",
-          "count": 1,
-          "volume": 4624598.8
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 17000000
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 55000000
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 52000000
-        },
-        {
-          "month": "2025-03",
-          "count": 2,
-          "volume": 162500000
-        },
-        {
-          "month": "2025-12",
-          "count": 3,
-          "volume": 121199897.95
-        },
-        {
-          "month": "2026-02",
-          "count": 4,
-          "volume": 320000000
-        },
-        {
-          "month": "2026-05",
-          "count": 2,
-          "volume": 190000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 36000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "295cf3ce88ff0d8c",
-          "market": "FII",
-          "name": "TERRAS PAULISTAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.320.393/0001-30",
-          "registration": "27678",
-          "processNumber": "SRE/2749/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 36000000,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ec26143c6070aea7",
-          "market": "FII",
-          "name": "RESERVE FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.197.624/0001-59",
-          "registration": "26271",
-          "processNumber": "SRE/1465/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 150000000,
-          "date": "2026-05-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "54605822f7e271ca",
-          "market": "FII",
-          "name": "RESERVE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.197.624/0001-59",
-          "registration": "26272",
-          "processNumber": "SRE/1466/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 40000000,
-          "date": "2026-05-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "4d7c68dccfb2cec1",
-          "market": "FII",
-          "name": "HOTEL GATE 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.112.490/0001-63",
-          "registration": "24829",
-          "processNumber": "SRE/0545/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 140000000,
-          "date": "2026-02-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "742b7551ad889a54",
-          "market": "FII",
-          "name": "HOTEL GATE 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.112.490/0001-63",
-          "registration": "24831",
-          "processNumber": "SRE/0546/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2026-02-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1853ef9b2a32995b",
-          "market": "FII",
-          "name": "SANTIAGO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.060.467/0001-72",
-          "registration": "24682",
-          "processNumber": "SRE/0426/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 60000000,
-          "date": "2026-02-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "fb08b2418dbfb66d",
-          "market": "FII",
-          "name": "SANTIAGO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.060.467/0001-72",
-          "registration": "24683",
-          "processNumber": "SRE/0427/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 20000000,
-          "date": "2026-02-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "373ce92154ec1c96",
-          "market": "FII",
-          "name": "HARAS LA ESTANCIA FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.976.969/0001-12",
-          "registration": "24005",
-          "processNumber": "SRE/4383/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 59999897.95,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ed67f7e60ca904aa",
-          "market": "FII",
-          "name": "HARAS LA ESTÂNCIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.976.969/0001-12",
-          "registration": "24006",
-          "processNumber": "SRE/4384/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 60000000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c368556359128da0",
-          "market": "FII",
-          "name": "AXIA ENERGIA SOLUÇÕES IMOBILIÁRIAS FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.145.710/0001-67",
-          "registration": "23773",
-          "processNumber": "SRE/4188/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 1200000,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1530ea1b6b494386",
-          "market": "FII",
-          "name": "SPX DESENVOLVIMENTO DE GALPÕES LOGÍSTICOS FEEDER GALAPAGOS FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.718.930/0001-28",
-          "registration": "19849",
-          "processNumber": "SRE/0747/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 62500000,
-          "date": "2025-03-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "65aacaecf4d358b1",
-          "market": "FII",
-          "name": "GALÁPAGOS CRÉDITO ESTRUTURADO PRAZO DETERMINADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
-          "cnpj": "59.669.570/0001-11",
-          "registration": "19803",
-          "processNumber": "SRE/0723/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2025-03-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "71de96ed0b9edbd7",
-          "market": "FII",
-          "name": "GALAPAGOS FEEDER DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITA",
-          "cnpj": "58.523.711/0001-20",
-          "registration": "19154",
-          "processNumber": "SRE/0179/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 52000000,
-          "date": "2025-01-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "da8ec85ac39487d6",
-          "market": "FII",
-          "name": "GALAPAGOS DESENVOLVIMENTO LOGISTICO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "56.061.587/0001-01",
-          "registration": "16790",
-          "processNumber": "SRE/2304/2024",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 55000000,
-          "date": "2024-08-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a75aed7f8e6715bd",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO ROOFTOP III RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.793.516/0001-22",
-          "registration": "16568",
-          "processNumber": "SRE/2106/2024",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2024-07-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e71f56dafadf6599",
-          "market": "FII",
-          "name": "BRC-II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "43.862.625/0001-75",
-          "registration": "4246",
-          "processNumber": "SRE/0045/2024",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 17000000,
-          "date": "2024-01-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a7f8f4db07d8de3a",
-          "market": "FII",
-          "name": "GALAPAGOS FUNDO DE FUNDOS - FII FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "35.652.154/0001-42",
-          "registration": "1233",
-          "processNumber": "SRE/0540/2023",
-          "leader": "BS2 DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 4624598.8,
-          "date": "2023-03-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "473dc5ab3f91ab95",
-          "market": "FII",
-          "name": "BS2 ALLINVESTMENTS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "41.218.404/0001-33",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 36114000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-10-26",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a6349be6add8f08c",
-          "market": "FII",
-          "name": "GALAPAGOS SPECIAL OPORTUNITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "46.285.299/0001-79",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 11300000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-12-29",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 23,
-          "volume": 1678000243.25
-        },
-        {
-          "market": "FIAGRO",
-          "count": 7,
-          "volume": 320000186.17999995
-        },
-        {
-          "market": "FII",
-          "count": 19,
-          "volume": 1105738496.75
+          "count": 82,
+          "volume": 6626116774.479998
         }
       ]
     },
@@ -11614,7 +11614,7 @@
         {
           "market": "FIDC",
           "count": 30,
-          "volume": 24057669000
+          "volume": 26157669000
         },
         {
           "market": "FIAGRO",
@@ -14541,8 +14541,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 41,
-          "volume": 379700045.95
+          "count": 42,
+          "volume": 385700045.95
         },
         {
           "market": "FIAGRO",
