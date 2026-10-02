@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-01T17:23:05.351Z",
+  "generatedAt": "2026-10-02T16:38:53.775Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-01T08:00:48.806199"
+    "updatedAt": "2026-10-02T08:00:47.543804"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "XP INVESTIMENTOS CCTVM S.A.",
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
-        "offers": 36,
-        "volume": 23975265612.28,
-        "offersWithVolume": 36,
-        "averageTicket": 665979600.3411111
+        "offers": 32,
+        "volume": 21959640612.28,
+        "offersWithVolume": 32,
+        "averageTicket": 686238769.13375
       },
       "byMonth": [
         {
@@ -105,43 +105,11 @@
         },
         {
           "month": "2026-09",
-          "count": 4,
-          "volume": 3715957699.66
+          "count": 2,
+          "volume": 2265957699.66
         }
       ],
       "recentOffers": [
-        {
-          "id": "a4af5caa9a99f698",
-          "market": "FII",
-          "name": "SPX PORTFÓLIO ALFA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "69.197.328/0001-46",
-          "registration": "28093",
-          "processNumber": "SRE/3195/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 1075000000,
-          "date": "2026-09-30",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "2e0b0b8e98ee090b",
-          "market": "FII",
-          "name": "D108 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.281.384/0001-00",
-          "registration": "28085",
-          "processNumber": "SRE/3123/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 375000000,
-          "date": "2026-09-29",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Registro Concedido",
-          "publications": []
-        },
         {
           "id": "0e833585550d360f",
           "market": "FII",
@@ -589,23 +557,55 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
+        },
+        {
+          "id": "0949c90fd2d1befb",
+          "market": "FII",
+          "name": "LCP PREFIXADO II MASTER FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "63.954.054/0001-06",
+          "registration": "23720",
+          "processNumber": "SRE/4138/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 1000000000,
+          "date": "2025-12-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "43806c1c35ee2d8c",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO WINGS RENDA IMOBILIÁRIA MASTER - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.683.216/0001-56",
+          "registration": "23375",
+          "processNumber": "SRE/3847/2025",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 462500000,
+          "date": "2025-11-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 82,
-          "volume": 24831140133.030003
+          "count": 80,
+          "volume": 24487390133.030003
         },
         {
           "market": "FIAGRO",
-          "count": 10,
-          "volume": 3268348584.29
+          "count": 13,
+          "volume": 12172348584.29
         },
         {
           "market": "FII",
-          "count": 143,
-          "volume": 72620323026.59001
+          "count": 141,
+          "volume": 71170323026.59001
         }
       ]
     },
@@ -614,10 +614,10 @@
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 20,
-        "volume": 4788434490.0199995,
-        "offersWithVolume": 20,
-        "averageTicket": 239421724.501
+        "offers": 22,
+        "volume": 5309022690.02,
+        "offersWithVolume": 22,
+        "averageTicket": 241319213.1827273
       },
       "byMonth": [
         {
@@ -707,11 +707,43 @@
         },
         {
           "month": "2026-09",
-          "count": 6,
-          "volume": 1521152206.53
+          "count": 8,
+          "volume": 2041740406.5300002
         }
       ],
       "recentOffers": [
+        {
+          "id": "c1bfc3358f8131e3",
+          "market": "FII",
+          "name": "CAPITANIA CREDITO HIGH GRADE FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.205.494/0001-47",
+          "registration": "28161",
+          "processNumber": "SRE/3191/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 50000000,
+          "date": "2026-09-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4e77d1aee3669758",
+          "market": "FII",
+          "name": "VALORA CDI RENDA IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.269.110/0001-50",
+          "registration": "28162",
+          "processNumber": "SRE/3194/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 470588200,
+          "date": "2026-09-30",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "458df344c2954dc5",
           "market": "FII",
@@ -1159,45 +1191,13 @@
           "audience": "Qualificado",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "f5b89d8765836f13",
-          "market": "FII",
-          "name": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "18.979.895/0001-13",
-          "registration": "20400",
-          "processNumber": "SRE/1212/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 255549061.25,
-          "date": "2025-05-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "187961f9c54479df",
-          "market": "FII",
-          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.192.125/0001-00",
-          "registration": "20384",
-          "processNumber": "SRE/1203/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 35000000,
-          "date": "2025-04-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 152,
-          "volume": 27961248543.73
+          "count": 153,
+          "volume": 28061248543.73
         },
         {
           "market": "FIAGRO",
@@ -1206,8 +1206,8 @@
         },
         {
           "market": "FII",
-          "count": 174,
-          "volume": 24300120288.29
+          "count": 176,
+          "volume": 24820708488.290005
         }
       ]
     },
@@ -1216,17 +1216,12 @@
       "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "13.486.793/0001-42",
       "stats12m": {
-        "offers": 18,
-        "volume": 6252644698.420001,
-        "offersWithVolume": 18,
-        "averageTicket": 347369149.91222227
+        "offers": 19,
+        "volume": 6342022698.420001,
+        "offersWithVolume": 19,
+        "averageTicket": 333790668.3378948
       },
       "byMonth": [
-        {
-          "month": "2023-11",
-          "count": 1,
-          "volume": 750000698.56
-        },
         {
           "month": "2023-12",
           "count": 3,
@@ -1311,9 +1306,30 @@
           "month": "2026-09",
           "count": 2,
           "volume": 1200000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 89378000
         }
       ],
       "recentOffers": [
+        {
+          "id": "8281053c650aa0d6",
+          "market": "FII",
+          "name": "JIVEMAUÁ RECUPERAÇÃO DE CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA",
+          "cnpj": "68.949.992/0001-31",
+          "registration": "28167",
+          "processNumber": "SRE/3214/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 89378000,
+          "date": "2026-10-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "ad86c1b6f115acae",
           "market": "FII",
@@ -1423,7 +1439,7 @@
           "date": "2026-08-21",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1777,22 +1793,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "d7637419a03eb490",
-          "market": "FII",
-          "name": "PROLOGIS BRAZIL LOGISTICS VENTURE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "31.962.875/0001-06",
-          "registration": "16687",
-          "processNumber": "SRE/2215/2024",
-          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.486.793/0001-42",
-          "volume": 781542.7,
-          "date": "2024-07-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -1808,8 +1808,8 @@
         },
         {
           "market": "FII",
-          "count": 145,
-          "volume": 27735636596.590004
+          "count": 146,
+          "volume": 27825014596.590004
         }
       ]
     },
@@ -1818,10 +1818,10 @@
       "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "16.695.922/0001-09",
       "stats12m": {
-        "offers": 14,
-        "volume": 520000002.22,
-        "offersWithVolume": 14,
-        "averageTicket": 37142857.30142857
+        "offers": 13,
+        "volume": 369840002.23,
+        "offersWithVolume": 13,
+        "averageTicket": 28449230.940769233
       },
       "byMonth": [
         {
@@ -1901,11 +1901,27 @@
         },
         {
           "month": "2026-09",
-          "count": 2,
-          "volume": 2000001.42
+          "count": 3,
+          "volume": 3840001.4299999997
         }
       ],
       "recentOffers": [
+        {
+          "id": "350f9699cb30d90b",
+          "market": "FII",
+          "name": "COTA REAL 7 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.019.792/0001-26",
+          "registration": "28136",
+          "processNumber": "SRE/3165/2026",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 1840000.01,
+          "date": "2026-09-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "cce7acfd18e782aa",
           "market": "FII",
@@ -2368,8 +2384,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 137,
-          "volume": 2021174933.6999998
+          "count": 138,
+          "volume": 2042174933.6999998
         },
         {
           "market": "FIAGRO",
@@ -2378,8 +2394,8 @@
         },
         {
           "market": "FII",
-          "count": 27,
-          "volume": 1626460461.16
+          "count": 28,
+          "volume": 1628300461.17
         }
       ]
     },
@@ -2388,10 +2404,10 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 13,
-        "volume": 10526119320.5,
-        "offersWithVolume": 13,
-        "averageTicket": 809701486.1923077
+        "offers": 12,
+        "volume": 7334967211.42,
+        "offersWithVolume": 12,
+        "averageTicket": 611247267.6183333
       },
       "byMonth": [
         {
@@ -2441,27 +2457,11 @@
         },
         {
           "month": "2026-09",
-          "count": 5,
-          "volume": 5007372129.04
+          "count": 4,
+          "volume": 1816220019.96
         }
       ],
       "recentOffers": [
-        {
-          "id": "2d3c782dd3d513ed",
-          "market": "FII",
-          "name": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "16.706.958/0001-32",
-          "registration": "28105",
-          "processNumber": "SRE/3139/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 3191152109.08,
-          "date": "2026-09-28",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Registro Concedido",
-          "publications": []
-        },
         {
           "id": "7dd8df53f38d1b33",
           "market": "FII",
@@ -2754,7 +2754,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 55,
+          "count": 53,
           "volume": 16822170059
         },
         {
@@ -2764,8 +2764,610 @@
         },
         {
           "market": "FII",
-          "count": 19,
-          "volume": 14118811320.5
+          "count": 18,
+          "volume": 10927659211.42
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:22610500000188",
+      "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "cnpj": "22.610.500/0001-88",
+      "stats12m": {
+        "offers": 11,
+        "volume": 1400598779.08,
+        "offersWithVolume": 11,
+        "averageTicket": 127327161.73454545
+      },
+      "byMonth": [
+        {
+          "month": "2024-05",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 20000000
+        },
+        {
+          "month": "2024-07",
+          "count": 2,
+          "volume": 106249989.6
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 30100000
+        },
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 64698492.1
+        },
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 110078298.96
+        },
+        {
+          "month": "2025-01",
+          "count": 6,
+          "volume": 40000000
+        },
+        {
+          "month": "2025-02",
+          "count": 3,
+          "volume": 220000006.14000002
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2025-06",
+          "count": 2,
+          "volume": 229500000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2025-11",
+          "count": 2,
+          "volume": 405000000
+        },
+        {
+          "month": "2026-02",
+          "count": 2,
+          "volume": 32225946.76
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 195000000
+        },
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 546872832.32
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 1500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "4940209d8d2e1bea",
+          "market": "FII",
+          "name": "HLOG GALEAO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.634.365/0001-01",
+          "registration": "28168",
+          "processNumber": "SRE/3201/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 1500000,
+          "date": "2026-10-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "977ab2ae56e51924",
+          "market": "FII",
+          "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.034.061/0001-90",
+          "registration": "28129",
+          "processNumber": "SRE/3160/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 209999947.53,
+          "date": "2026-09-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c601088793564c30",
+          "market": "FII",
+          "name": "HIRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.806.554/0001-09",
+          "registration": "27950",
+          "processNumber": "SRE/2996/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 301872949.67,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5ab15d394f244985",
+          "market": "FII",
+          "name": "DC BRAZIL 1 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.247.681/0001-81",
+          "registration": "27748",
+          "processNumber": "SRE/2812/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 34999935.12,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "de0c389b54ab0f08",
+          "market": "FII",
+          "name": "BRASPARK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.758.917/0001-20",
+          "registration": "27798",
+          "processNumber": "SRE/2863/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 195000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8bef35400d0b512f",
+          "market": "FII",
+          "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.034.061/0001-90",
+          "registration": "26876",
+          "processNumber": "SRE/2017/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 120000000,
+          "date": "2026-06-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "c3be10711ae0470c",
+          "market": "FII",
+          "name": "EDIFICARE II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.287.969/0001-01",
+          "registration": "26245",
+          "processNumber": "SRE/1454/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 100000000,
+          "date": "2026-05-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ae5964978062d7a6",
+          "market": "FII",
+          "name": "DC BRAZIL 1 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.247.681/0001-81",
+          "registration": "24722",
+          "processNumber": "SRE/0457/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 2000000,
+          "date": "2026-02-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "13e4bbf334a9f824",
+          "market": "FII",
+          "name": "IMMOBINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "50.686.473/0001-62",
+          "registration": "24695",
+          "processNumber": "SRE/0441/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 30225946.76,
+          "date": "2026-02-12",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6a07809ae20ec470",
+          "market": "FII",
+          "name": "TAG OCEANUS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.669.674/0001-59",
+          "registration": "23377",
+          "processNumber": "SRE/3821/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 290000000,
+          "date": "2025-11-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0582c36c6216b783",
+          "market": "FII",
+          "name": "HCO SAO PAULO I FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.680.695/0001-10",
+          "registration": "23349",
+          "processNumber": "SRE/3788/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 115000000,
+          "date": "2025-11-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "dea77b3c00af77bd",
+          "market": "FII",
+          "name": "RAIZZ DESENVOLVIMENTO III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.667.274/0001-23",
+          "registration": "21488",
+          "processNumber": "SRE/2208/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 300000000,
+          "date": "2025-07-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "96c2391013ad418a",
+          "market": "FII",
+          "name": "HCO OPPS AERO II FEEDER FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.458.298/0001-72",
+          "registration": "21642",
+          "processNumber": "SRE/2383/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 153000000,
+          "date": "2025-06-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "18e3dbc7e084ed6e",
+          "market": "FII",
+          "name": "HCO OPPS AERO II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.458.257/0001-86",
+          "registration": "21252",
+          "processNumber": "SRE/1990/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 76500000,
+          "date": "2025-06-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e78a89250d3f7658",
+          "market": "FII",
+          "name": "LMNX - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.548.730/0001-01",
+          "registration": "19731",
+          "processNumber": "SRE/0662/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 150000000,
+          "date": "2025-03-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a375f71d1ae6b281",
+          "market": "FII",
+          "name": "CAPITÂNIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "52.371.756/0001-40",
+          "registration": "19620",
+          "processNumber": "SRE/0549/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 130000004.3,
+          "date": "2025-02-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "aff91262391c982a",
+          "market": "FII",
+          "name": "JARDIM PAULISTANO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "55.302.190/0001-93",
+          "registration": "19427",
+          "processNumber": "SRE/0379/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 40000000,
+          "date": "2025-02-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "58495deaaabef332",
+          "market": "FII",
+          "name": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS",
+          "cnpj": "39.753.295/0001-02",
+          "registration": "19361",
+          "processNumber": "SRE/0329/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 50000001.84,
+          "date": "2025-02-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "25a10f56fcb66a7b",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 1 RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.561.054/0001-06",
+          "registration": "19022",
+          "processNumber": "SRE/0021/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 10000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8b2baead93e23532",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 2 RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.561.237/0001-21",
+          "registration": "19030",
+          "processNumber": "SRE/0022/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 6000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7d7bab6bd17c9c14",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 3 RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.561.306/0001-05",
+          "registration": "19031",
+          "processNumber": "SRE/0023/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 6000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "53bea2722a13124e",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO SYN 4 RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.561.581/0001-10",
+          "registration": "19032",
+          "processNumber": "SRE/0024/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 6000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2a25210f0e4a42bf",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 5 RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.564.382/0001-66",
+          "registration": "19033",
+          "processNumber": "SRE/0025/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 6000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "35e50c63627d25dc",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO SYN 6 RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.564.425/0001-03",
+          "registration": "19034",
+          "processNumber": "SRE/0026/2025",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 6000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1568012f3d65ee67",
+          "market": "FII",
+          "name": "BLUEMACAW LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "34.081.637/0001-71",
+          "registration": "18202",
+          "processNumber": "SRE/3518/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 110078298.96,
+          "date": "2024-11-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6860c5e6f4ad2ffc",
+          "market": "FII",
+          "name": "CPV ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.174.907/0001-04",
+          "registration": "18021",
+          "processNumber": "SRE/3387/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 64698492.1,
+          "date": "2024-10-30",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Revogada",
+          "publications": []
+        },
+        {
+          "id": "ea02f0ff3938a487",
+          "market": "FII",
+          "name": "CROWTECH FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.661.358/0001-57",
+          "registration": "17003",
+          "processNumber": "SRE/2493/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 30100000,
+          "date": "2024-08-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6b4eb0446b334733",
+          "market": "FII",
+          "name": "REGRA BTS VAREJO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.505.336/0001-35",
+          "registration": "16756",
+          "processNumber": "SRE/2258/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 75000000,
+          "date": "2024-07-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "95f921fc911d1326",
+          "market": "FII",
+          "name": "LCP REAL ESTATE DEVELOPMENT FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.089.373/0001-72",
+          "registration": "16717",
+          "processNumber": "SRE/2223/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 31249989.6,
+          "date": "2024-07-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0e477d2a8d6c37a1",
+          "market": "FII",
+          "name": "HIGH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "41.778.415/0001-78",
+          "registration": "15975",
+          "processNumber": "SRE/1580/2024",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 20000000,
+          "date": "2024-06-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 150,
+          "volume": 10520073198.679995
+        },
+        {
+          "market": "FIAGRO",
+          "count": 18,
+          "volume": 789849275
+        },
+        {
+          "market": "FII",
+          "count": 84,
+          "volume": 6837616722.009998
         }
       ]
     },
@@ -2774,10 +3376,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 13,
-        "volume": 4034804458.9700003,
-        "offersWithVolume": 13,
-        "averageTicket": 310369573.76692307
+        "offers": 10,
+        "volume": 3875787458.9700003,
+        "offersWithVolume": 10,
+        "averageTicket": 387578745.897
       },
       "byMonth": [
         {
@@ -2867,27 +3469,11 @@
         },
         {
           "month": "2026-09",
-          "count": 3,
-          "volume": 202518426.57
+          "count": 2,
+          "volume": 46268426.57
         }
       ],
       "recentOffers": [
-        {
-          "id": "fc6c2d8b7068c794",
-          "market": "FII",
-          "name": "AZ QUEST PANORAMA INVESTIMENTOS IMOBILIARIOS FII DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.281.311/0001-00",
-          "registration": "28089",
-          "processNumber": "SRE/3129/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 156250000,
-          "date": "2026-09-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
         {
           "id": "66842355f3e9c92e",
           "market": "FII",
@@ -3351,13 +3937,29 @@
           "audience": "Qualificado",
           "status": "Oferta Encerrada",
           "publications": []
+        },
+        {
+          "id": "a49d7352a8517c38",
+          "market": "FII",
+          "name": "EB JHSF CAPITAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESIDENCIAL ALTO PADRÃO RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.089.708/0001-90",
+          "registration": "15784",
+          "processNumber": "SRE/1404/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 187500000,
+          "date": "2024-05-20",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 189,
-          "volume": 15502122056.010002
+          "count": 187,
+          "volume": 15422122056.010002
         },
         {
           "market": "FIAGRO",
@@ -3366,8 +3968,8 @@
         },
         {
           "market": "FII",
-          "count": 44,
-          "volume": 6833674090.5
+          "count": 43,
+          "volume": 6677424090.5
         }
       ]
     },
@@ -3768,8 +4370,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 21,
-          "volume": 1643000243.25
+          "count": 24,
+          "volume": 1928000243.25
         },
         {
           "market": "FIAGRO",
@@ -3780,608 +4382,6 @@
           "market": "FII",
           "count": 19,
           "volume": 1105738496.75
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:22610500000188",
-      "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "cnpj": "22.610.500/0001-88",
-      "stats12m": {
-        "offers": 9,
-        "volume": 1189098831.55,
-        "offersWithVolume": 9,
-        "averageTicket": 132122092.39444444
-      },
-      "byMonth": [
-        {
-          "month": "2024-03",
-          "count": 2,
-          "volume": 100000000
-        },
-        {
-          "month": "2024-05",
-          "count": 1,
-          "volume": 50000000
-        },
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 20000000
-        },
-        {
-          "month": "2024-07",
-          "count": 2,
-          "volume": 106249989.6
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 30100000
-        },
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 64698492.1
-        },
-        {
-          "month": "2024-11",
-          "count": 1,
-          "volume": 110078298.96
-        },
-        {
-          "month": "2025-01",
-          "count": 6,
-          "volume": 40000000
-        },
-        {
-          "month": "2025-02",
-          "count": 3,
-          "volume": 220000006.14000002
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 150000000
-        },
-        {
-          "month": "2025-06",
-          "count": 2,
-          "volume": 229500000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 300000000
-        },
-        {
-          "month": "2025-11",
-          "count": 2,
-          "volume": 405000000
-        },
-        {
-          "month": "2026-02",
-          "count": 2,
-          "volume": 32225946.76
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2026-06",
-          "count": 1,
-          "volume": 120000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 195000000
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 336872884.79
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "c601088793564c30",
-          "market": "FII",
-          "name": "HIRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.806.554/0001-09",
-          "registration": "27950",
-          "processNumber": "SRE/2996/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 301872949.67,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "5ab15d394f244985",
-          "market": "FII",
-          "name": "DC BRAZIL 1 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.247.681/0001-81",
-          "registration": "27748",
-          "processNumber": "SRE/2812/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 34999935.12,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "de0c389b54ab0f08",
-          "market": "FII",
-          "name": "BRASPARK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.758.917/0001-20",
-          "registration": "27798",
-          "processNumber": "SRE/2863/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 195000000,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8bef35400d0b512f",
-          "market": "FII",
-          "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.034.061/0001-90",
-          "registration": "26876",
-          "processNumber": "SRE/2017/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 120000000,
-          "date": "2026-06-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c3be10711ae0470c",
-          "market": "FII",
-          "name": "EDIFICARE II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.287.969/0001-01",
-          "registration": "26245",
-          "processNumber": "SRE/1454/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 100000000,
-          "date": "2026-05-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ae5964978062d7a6",
-          "market": "FII",
-          "name": "DC BRAZIL 1 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.247.681/0001-81",
-          "registration": "24722",
-          "processNumber": "SRE/0457/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 2000000,
-          "date": "2026-02-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "13e4bbf334a9f824",
-          "market": "FII",
-          "name": "IMMOBINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "50.686.473/0001-62",
-          "registration": "24695",
-          "processNumber": "SRE/0441/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 30225946.76,
-          "date": "2026-02-12",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6a07809ae20ec470",
-          "market": "FII",
-          "name": "TAG OCEANUS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "44.669.674/0001-59",
-          "registration": "23377",
-          "processNumber": "SRE/3821/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 290000000,
-          "date": "2025-11-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0582c36c6216b783",
-          "market": "FII",
-          "name": "HCO SAO PAULO I FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.680.695/0001-10",
-          "registration": "23349",
-          "processNumber": "SRE/3788/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 115000000,
-          "date": "2025-11-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "dea77b3c00af77bd",
-          "market": "FII",
-          "name": "RAIZZ DESENVOLVIMENTO III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.667.274/0001-23",
-          "registration": "21488",
-          "processNumber": "SRE/2208/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 300000000,
-          "date": "2025-07-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "96c2391013ad418a",
-          "market": "FII",
-          "name": "HCO OPPS AERO II FEEDER FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.458.298/0001-72",
-          "registration": "21642",
-          "processNumber": "SRE/2383/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 153000000,
-          "date": "2025-06-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "18e3dbc7e084ed6e",
-          "market": "FII",
-          "name": "HCO OPPS AERO II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.458.257/0001-86",
-          "registration": "21252",
-          "processNumber": "SRE/1990/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 76500000,
-          "date": "2025-06-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e78a89250d3f7658",
-          "market": "FII",
-          "name": "LMNX - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.548.730/0001-01",
-          "registration": "19731",
-          "processNumber": "SRE/0662/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 150000000,
-          "date": "2025-03-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a375f71d1ae6b281",
-          "market": "FII",
-          "name": "CAPITÂNIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "52.371.756/0001-40",
-          "registration": "19620",
-          "processNumber": "SRE/0549/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 130000004.3,
-          "date": "2025-02-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "aff91262391c982a",
-          "market": "FII",
-          "name": "JARDIM PAULISTANO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "55.302.190/0001-93",
-          "registration": "19427",
-          "processNumber": "SRE/0379/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 40000000,
-          "date": "2025-02-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "58495deaaabef332",
-          "market": "FII",
-          "name": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS",
-          "cnpj": "39.753.295/0001-02",
-          "registration": "19361",
-          "processNumber": "SRE/0329/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 50000001.84,
-          "date": "2025-02-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "25a10f56fcb66a7b",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 1 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.561.054/0001-06",
-          "registration": "19022",
-          "processNumber": "SRE/0021/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 10000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8b2baead93e23532",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 2 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.561.237/0001-21",
-          "registration": "19030",
-          "processNumber": "SRE/0022/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7d7bab6bd17c9c14",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 3 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.561.306/0001-05",
-          "registration": "19031",
-          "processNumber": "SRE/0023/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "53bea2722a13124e",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO SYN 4 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.561.581/0001-10",
-          "registration": "19032",
-          "processNumber": "SRE/0024/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2a25210f0e4a42bf",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 5 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.564.382/0001-66",
-          "registration": "19033",
-          "processNumber": "SRE/0025/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "35e50c63627d25dc",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO SYN 6 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.564.425/0001-03",
-          "registration": "19034",
-          "processNumber": "SRE/0026/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1568012f3d65ee67",
-          "market": "FII",
-          "name": "BLUEMACAW LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.081.637/0001-71",
-          "registration": "18202",
-          "processNumber": "SRE/3518/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 110078298.96,
-          "date": "2024-11-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6860c5e6f4ad2ffc",
-          "market": "FII",
-          "name": "CPV ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.174.907/0001-04",
-          "registration": "18021",
-          "processNumber": "SRE/3387/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 64698492.1,
-          "date": "2024-10-30",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Revogada",
-          "publications": []
-        },
-        {
-          "id": "ea02f0ff3938a487",
-          "market": "FII",
-          "name": "CROWTECH FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.661.358/0001-57",
-          "registration": "17003",
-          "processNumber": "SRE/2493/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 30100000,
-          "date": "2024-08-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6b4eb0446b334733",
-          "market": "FII",
-          "name": "REGRA BTS VAREJO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.505.336/0001-35",
-          "registration": "16756",
-          "processNumber": "SRE/2258/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 75000000,
-          "date": "2024-07-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "95f921fc911d1326",
-          "market": "FII",
-          "name": "LCP REAL ESTATE DEVELOPMENT FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.089.373/0001-72",
-          "registration": "16717",
-          "processNumber": "SRE/2223/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 31249989.6,
-          "date": "2024-07-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0e477d2a8d6c37a1",
-          "market": "FII",
-          "name": "HIGH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "41.778.415/0001-78",
-          "registration": "15975",
-          "processNumber": "SRE/1580/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 20000000,
-          "date": "2024-06-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3e364a1fd3de5910",
-          "market": "FII",
-          "name": "ROHT FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "50.275.622/0001-09",
-          "registration": "15929",
-          "processNumber": "SRE/1533/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 50000000,
-          "date": "2024-05-31",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e4b45db3c03713fb",
-          "market": "FII",
-          "name": "EDIFICARE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.250.318/0001-50",
-          "registration": "15158",
-          "processNumber": "SRE/0855/2024",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 50000000,
-          "date": "2024-03-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 148,
-          "volume": 10491073198.679996
-        },
-        {
-          "market": "FIAGRO",
-          "count": 18,
-          "volume": 789849275
-        },
-        {
-          "market": "FII",
-          "count": 82,
-          "volume": 6626116774.479998
         }
       ]
     },
@@ -6176,8 +6176,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1045,
-          "volume": 56673070860.80996
+          "count": 1044,
+          "volume": 56981070860.47996
         },
         {
           "market": "FIAGRO",
@@ -8598,993 +8598,13 @@
         },
         {
           "market": "FIAGRO",
-          "count": 4,
-          "volume": 192500000
+          "count": 5,
+          "volume": 222500943
         },
         {
           "market": "FII",
           "count": 36,
           "volume": 3447211750.81
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:36113876000191",
-      "name": "OLIVEIRA TRUST DTVM S.A.",
-      "cnpj": "36.113.876/0001-91",
-      "stats12m": {
-        "offers": 4,
-        "volume": 390410156.8,
-        "offersWithVolume": 4,
-        "averageTicket": 97602539.2
-      },
-      "byMonth": [
-        {
-          "month": "2025-10",
-          "count": 1,
-          "volume": 20999156.8
-        },
-        {
-          "month": "2025-12",
-          "count": 2,
-          "volume": 156911000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 212500000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "62a0f85af54f0f93",
-          "market": "FII",
-          "name": "BRESCO BTS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.831.674/0001-09",
-          "registration": "27628",
-          "processNumber": "SRE/2700/2026",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 212500000,
-          "date": "2026-08-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "7bd977ed15704529",
-          "market": "FII",
-          "name": "METROPOLITANO BETIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.529.006/0001-08",
-          "registration": "24124",
-          "processNumber": "SRE/4494/2025",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 56911000,
-          "date": "2025-12-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "33db14073a8b97ac",
-          "market": "FII",
-          "name": "RIZA PONTE DA LIBERDADE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.012.870/0001-63",
-          "registration": "23991",
-          "processNumber": "SRE/4366/2025",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 100000000,
-          "date": "2025-12-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "5525220c3f88830a",
-          "market": "FII",
-          "name": "METROPOLITANO BETIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.529.006/0001-08",
-          "registration": "23009",
-          "processNumber": "SRE/3495/2025",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 20999156.8,
-          "date": "2025-10-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3b75c473f1840bfb",
-          "market": "FII",
-          "name": "ALIANZA MULTIOFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "22.862.226/0001-34",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 12656581.11,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c078c2f442fd80cd",
-          "market": "FII",
-          "name": "ANTARES FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
-          "cnpj": "20.748.515/0001-81",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 500000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-08-01",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "3b14d61289bbfbd8",
-          "market": "FII",
-          "name": "BARO - FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "40.189.582/0001-10",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 85000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "33669ea3a281fb5e",
-          "market": "FII",
-          "name": "BRESCO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "20.748.515/0001-81",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 378101787.32,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-10-31",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "4f4f90349085a451",
-          "market": "FII",
-          "name": "BRESCO COINVESTIMENTO I FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "35.755.232/0001-34",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 145600000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-03-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "3687e496c795fe8b",
-          "market": "FII",
-          "name": "BRESCO GROWTH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "32.000.013/0001-57",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 768185085.73,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-12-17",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "8a473a24ec43c09e",
-          "market": "FII",
-          "name": "CTBH FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "19.442.626/0001-86",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "d62441e954afcbe0",
-          "market": "FII",
-          "name": "ESTRUTURA II - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "14.365.190/0001-55",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 5000009.35,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-02-16",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-11-13",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-18",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-29",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-08-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c26106e7bff7a774",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO BARIGUI RENDIMENTOS IMOBILIÁRIOS I FII",
-          "cnpj": "29.267.567/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 223419100,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-05-14",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-11-27",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "f380842633b585cc",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO POLO ESTOQUE II - FII",
-          "cnpj": "18.497.672/0001-10",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 1418926.88,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-31",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "3f2c7f7899818eba",
-          "market": "FII",
-          "name": "GOLDX FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "15.624.288/0001-42",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 57038385.85,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-06-28",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "719d92c4f1d40e0c",
-          "market": "FII",
-          "name": "HAMAL - FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "21.156.164/0001-82",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 903561657.58,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-05-28",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-02-18",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-06-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-09-24",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-11-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "517fe52ae5cfcd36",
-          "market": "FII",
-          "name": "IZAR FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "22.646.161/0001-90",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 472842629.7,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-12-01",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-01-05",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-07-05",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2025-02-10",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "6e5c79bc56d6aaaf",
-          "market": "FII",
-          "name": "METROPOLITANO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "30.846.692/0001-54",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 122800000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-05-16",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-29",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-12-17",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "bf742cb175e6b1fd",
-          "market": "FII",
-          "name": "MULTIOFFICES 1 - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "22.862.226/0001-34",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 165000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-12-20",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "d7396927b829a029",
-          "market": "FII",
-          "name": "MULTIOFFICES 2 - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "31.508.219/0001-20",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 195971000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-12-20",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "ee07d462b17fbb30",
-          "market": "FII",
-          "name": "NE Logistic Fundo de Investimento Imobiliário",
-          "cnpj": "30.495.165/0001-42",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 517777000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-07-16",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-07-03",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-05-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "9b7b528144ba5af9",
-          "market": "FII",
-          "name": "NIHAL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
-          "cnpj": "23.179.381/0001-13",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 300000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-03-21",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "fac64100d8793248",
-          "market": "FII",
-          "name": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "44.625.612/0001-45",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 30177970.95,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-02-09",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "691123dbfe8081a2",
-          "market": "FII",
-          "name": "REAL MINAS FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "11.233.841/0001-65",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 40000000.41,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-31",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "ed422aab5ed6b7ee",
-          "market": "FII",
-          "name": "SAPUCAÍ RIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "19.131.224/0001-60",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 450034339.09,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-06-06",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-05-05",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-08-16",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-01-29",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-02-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "44e08e07545d62cb",
-          "market": "FII",
-          "name": "STARX FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "11.044.355/0001-07",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 29500016.3,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-07-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-10-01",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-07-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "d2e25b4031d9b0cc",
-          "market": "FII",
-          "name": "TAURUS PATRIMONIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "11.701.400/0001-40",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 2377187.55,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-12-06",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "5e360b2ca61942e0",
-          "market": "FII",
-          "name": "WEZEN - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "21.642.282/0001-09",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 110000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-04-04",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "07513a6e92d43d52",
-          "market": "FII",
-          "name": "XP EXETER II DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "42.463.823/0001-01",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 9000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-03-15",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 83,
-          "volume": 31621343441.309994
-        },
-        {
-          "market": "FIAGRO",
-          "count": 2,
-          "volume": 75000000
-        },
-        {
-          "market": "FII",
-          "count": 29,
-          "volume": 5915871834.62
         }
       ]
     },
@@ -10815,14 +9835,1411 @@
       ]
     },
     {
+      "key": "CNPJ:36113876000191",
+      "name": "OLIVEIRA TRUST DTVM S.A.",
+      "cnpj": "36.113.876/0001-91",
+      "stats12m": {
+        "offers": 3,
+        "volume": 369411000,
+        "offersWithVolume": 3,
+        "averageTicket": 123137000
+      },
+      "byMonth": [
+        {
+          "month": "2025-10",
+          "count": 1,
+          "volume": 20999156.8
+        },
+        {
+          "month": "2025-12",
+          "count": 2,
+          "volume": 156911000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 212500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "62a0f85af54f0f93",
+          "market": "FII",
+          "name": "BRESCO BTS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.831.674/0001-09",
+          "registration": "27628",
+          "processNumber": "SRE/2700/2026",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 212500000,
+          "date": "2026-08-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "7bd977ed15704529",
+          "market": "FII",
+          "name": "METROPOLITANO BETIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.529.006/0001-08",
+          "registration": "24124",
+          "processNumber": "SRE/4494/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 56911000,
+          "date": "2025-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "33db14073a8b97ac",
+          "market": "FII",
+          "name": "RIZA PONTE DA LIBERDADE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.012.870/0001-63",
+          "registration": "23991",
+          "processNumber": "SRE/4366/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 100000000,
+          "date": "2025-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5525220c3f88830a",
+          "market": "FII",
+          "name": "METROPOLITANO BETIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.529.006/0001-08",
+          "registration": "23009",
+          "processNumber": "SRE/3495/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 20999156.8,
+          "date": "2025-10-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3b75c473f1840bfb",
+          "market": "FII",
+          "name": "ALIANZA MULTIOFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "22.862.226/0001-34",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 12656581.11,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c078c2f442fd80cd",
+          "market": "FII",
+          "name": "ANTARES FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+          "cnpj": "20.748.515/0001-81",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 500000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-08-01",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "3b14d61289bbfbd8",
+          "market": "FII",
+          "name": "BARO - FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "40.189.582/0001-10",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 85000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "33669ea3a281fb5e",
+          "market": "FII",
+          "name": "BRESCO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "20.748.515/0001-81",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 378101787.32,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-10-31",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "4f4f90349085a451",
+          "market": "FII",
+          "name": "BRESCO COINVESTIMENTO I FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "35.755.232/0001-34",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 145600000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-03-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "3687e496c795fe8b",
+          "market": "FII",
+          "name": "BRESCO GROWTH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "32.000.013/0001-57",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 768185085.73,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-12-17",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "8a473a24ec43c09e",
+          "market": "FII",
+          "name": "CTBH FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "19.442.626/0001-86",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "d62441e954afcbe0",
+          "market": "FII",
+          "name": "ESTRUTURA II - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "14.365.190/0001-55",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 5000009.35,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-02-16",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-11-13",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-18",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-29",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-08-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c26106e7bff7a774",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO BARIGUI RENDIMENTOS IMOBILIÁRIOS I FII",
+          "cnpj": "29.267.567/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 223419100,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-05-14",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-11-27",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "f380842633b585cc",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO POLO ESTOQUE II - FII",
+          "cnpj": "18.497.672/0001-10",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 1418926.88,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-31",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "3f2c7f7899818eba",
+          "market": "FII",
+          "name": "GOLDX FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "15.624.288/0001-42",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 57038385.85,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-06-28",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "719d92c4f1d40e0c",
+          "market": "FII",
+          "name": "HAMAL - FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "21.156.164/0001-82",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 903561657.58,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-05-28",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-02-18",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-06-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-09-24",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-11-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "517fe52ae5cfcd36",
+          "market": "FII",
+          "name": "IZAR FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "22.646.161/0001-90",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 472842629.7,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-12-01",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-01-05",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-07-05",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2025-02-10",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "6e5c79bc56d6aaaf",
+          "market": "FII",
+          "name": "METROPOLITANO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "30.846.692/0001-54",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 122800000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-05-16",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-29",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-12-17",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "bf742cb175e6b1fd",
+          "market": "FII",
+          "name": "MULTIOFFICES 1 - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "22.862.226/0001-34",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 165000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-12-20",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "d7396927b829a029",
+          "market": "FII",
+          "name": "MULTIOFFICES 2 - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "31.508.219/0001-20",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 195971000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-12-20",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "ee07d462b17fbb30",
+          "market": "FII",
+          "name": "NE Logistic Fundo de Investimento Imobiliário",
+          "cnpj": "30.495.165/0001-42",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 517777000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-07-16",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-07-03",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-05-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "9b7b528144ba5af9",
+          "market": "FII",
+          "name": "NIHAL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+          "cnpj": "23.179.381/0001-13",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 300000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-03-21",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "fac64100d8793248",
+          "market": "FII",
+          "name": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "44.625.612/0001-45",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 30177970.95,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-02-09",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "691123dbfe8081a2",
+          "market": "FII",
+          "name": "REAL MINAS FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "11.233.841/0001-65",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 40000000.41,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-31",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "ed422aab5ed6b7ee",
+          "market": "FII",
+          "name": "SAPUCAÍ RIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "19.131.224/0001-60",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 450034339.09,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-06-06",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-05-05",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-08-16",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-01-29",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-02-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "44e08e07545d62cb",
+          "market": "FII",
+          "name": "STARX FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "11.044.355/0001-07",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 29500016.3,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-07-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-10-01",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-07-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "d2e25b4031d9b0cc",
+          "market": "FII",
+          "name": "TAURUS PATRIMONIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "11.701.400/0001-40",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 2377187.55,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-12-06",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "5e360b2ca61942e0",
+          "market": "FII",
+          "name": "WEZEN - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "21.642.282/0001-09",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 110000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-04-04",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "07513a6e92d43d52",
+          "market": "FII",
+          "name": "XP EXETER II DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "42.463.823/0001-01",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 9000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-03-15",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 83,
+          "volume": 31621343441.309994
+        },
+        {
+          "market": "FIAGRO",
+          "count": 2,
+          "volume": 75000000
+        },
+        {
+          "market": "FII",
+          "count": 29,
+          "volume": 5915871834.62
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:39669186000101",
+      "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "cnpj": "39.669.186/0001-01",
+      "stats12m": {
+        "offers": 3,
+        "volume": 344986987.53,
+        "offersWithVolume": 3,
+        "averageTicket": 114995662.50999999
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 1000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 51999300
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 292987687.53
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "2b2118aaff51d100",
+          "market": "FII",
+          "name": "BRIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.863.429/0001-83",
+          "registration": "27965",
+          "processNumber": "SRE/3011/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 153000000,
+          "date": "2026-09-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7e3edf37046e77fd",
+          "market": "FII",
+          "name": "CASCAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.577.138/0001-91",
+          "registration": "27933",
+          "processNumber": "SRE/2991/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 139987687.53,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9912e381fea657b8",
+          "market": "FII",
+          "name": "POXIM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "45.254.732/0001-46",
+          "registration": "24043",
+          "processNumber": "SRE/4434/2025",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 51999300,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bb7b7c31e8942ea0",
+          "market": "FII",
+          "name": "BRIO RENDA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.435.378/0001-00",
+          "registration": "16048",
+          "processNumber": "SRE/1648/2024",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 1000000,
+          "date": "2024-06-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 235,
+          "volume": 6903205114.030002
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 4,
+          "volume": 345986987.53
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:06271464000119",
+      "name": "BANCO BRADESCO BBI S.A.",
+      "cnpj": "06.271.464/0001-19",
+      "stats12m": {
+        "offers": 2,
+        "volume": 1248229809.4,
+        "offersWithVolume": 2,
+        "averageTicket": 624114904.7
+      },
+      "byMonth": [
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 242762800
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 1005467009.4
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "f3c718b32a313861",
+          "market": "FII",
+          "name": "TIVIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "14.410.722/0001-29",
+          "registration": "27747",
+          "processNumber": "SRE/2816/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 1005467009.4,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "70f7e34a31e41be7",
+          "market": "FII",
+          "name": "SPX RENDA IMOBILIÁRIA III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.298.955/0001-85",
+          "registration": "26159",
+          "processNumber": "SRE/1371/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 242762800,
+          "date": "2026-05-04",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "713464b843c79347",
+          "market": "FII",
+          "name": "IMMOB I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "28.893.734/0001-66",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 161721000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-05-02",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "28890430ae72a8a8",
+          "market": "FII",
+          "name": "IMMOB II FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "32.655.589/0001-52",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 264957000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-31",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "07821c5383aa02c9",
+          "market": "FII",
+          "name": "IMMOB III - GALPÕES E LAJES CORPORATIVAS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "34.691.925/0001-48",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 383961000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-08-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "78fb312f3e31fbd1",
+          "market": "FII",
+          "name": "IMMOB III FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "34.691.925/0001-48",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 24856000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-09-15",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "7127011160d6d4fd",
+          "market": "FII",
+          "name": "IMMOB IV - BRAGANÇA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "34.693.040/0001-88",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 14609000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-07",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c33569900eba6990",
+          "market": "FII",
+          "name": "IMMOB V DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "38.376.805/0001-07",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 15184000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-07",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "b259ce778d354c3d",
+          "market": "FII",
+          "name": "PROPP I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "47.154.849/0001-83",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 164495000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-04-10",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "4253c3233d8ee1c1",
+          "market": "FII",
+          "name": "RENOVA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "28.893.734/0001-66",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 167112000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-04-17",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 30,
+          "volume": 26157669000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 193055000
+        },
+        {
+          "market": "FII",
+          "count": 10,
+          "volume": 2445124809.4
+        }
+      ]
+    },
+    {
       "key": "CNPJ:44077014000189",
       "name": "BR-CAPITAL DTVM S.A.",
       "cnpj": "44.077.014/0001-89",
       "stats12m": {
-        "offers": 3,
-        "volume": 450800000,
-        "offersWithVolume": 3,
-        "averageTicket": 150266666.66666666
+        "offers": 2,
+        "volume": 410800000,
+        "offersWithVolume": 2,
+        "averageTicket": 205400000
       },
       "byMonth": [
         {
@@ -11208,423 +11625,6 @@
           "market": "FII",
           "count": 14,
           "volume": 1312725516.8200002
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:39669186000101",
-      "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "cnpj": "39.669.186/0001-01",
-      "stats12m": {
-        "offers": 3,
-        "volume": 344986987.53,
-        "offersWithVolume": 3,
-        "averageTicket": 114995662.50999999
-      },
-      "byMonth": [
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 1000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 51999300
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 292987687.53
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "2b2118aaff51d100",
-          "market": "FII",
-          "name": "BRIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.863.429/0001-83",
-          "registration": "27965",
-          "processNumber": "SRE/3011/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 153000000,
-          "date": "2026-09-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7e3edf37046e77fd",
-          "market": "FII",
-          "name": "CASCAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.577.138/0001-91",
-          "registration": "27933",
-          "processNumber": "SRE/2991/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 139987687.53,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9912e381fea657b8",
-          "market": "FII",
-          "name": "POXIM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "45.254.732/0001-46",
-          "registration": "24043",
-          "processNumber": "SRE/4434/2025",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 51999300,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bb7b7c31e8942ea0",
-          "market": "FII",
-          "name": "BRIO RENDA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.435.378/0001-00",
-          "registration": "16048",
-          "processNumber": "SRE/1648/2024",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 1000000,
-          "date": "2024-06-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 233,
-          "volume": 6816205114.030002
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 4,
-          "volume": 345986987.53
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:06271464000119",
-      "name": "BANCO BRADESCO BBI S.A.",
-      "cnpj": "06.271.464/0001-19",
-      "stats12m": {
-        "offers": 2,
-        "volume": 1248229809.4,
-        "offersWithVolume": 2,
-        "averageTicket": 624114904.7
-      },
-      "byMonth": [
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 242762800
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 1005467009.4
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "f3c718b32a313861",
-          "market": "FII",
-          "name": "TIVIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "14.410.722/0001-29",
-          "registration": "27747",
-          "processNumber": "SRE/2816/2026",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 1005467009.4,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "70f7e34a31e41be7",
-          "market": "FII",
-          "name": "SPX RENDA IMOBILIÁRIA III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.298.955/0001-85",
-          "registration": "26159",
-          "processNumber": "SRE/1371/2026",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 242762800,
-          "date": "2026-05-04",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "713464b843c79347",
-          "market": "FII",
-          "name": "IMMOB I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "28.893.734/0001-66",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 161721000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-05-02",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "28890430ae72a8a8",
-          "market": "FII",
-          "name": "IMMOB II FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "32.655.589/0001-52",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 264957000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-31",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "07821c5383aa02c9",
-          "market": "FII",
-          "name": "IMMOB III - GALPÕES E LAJES CORPORATIVAS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.691.925/0001-48",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 383961000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-08-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "78fb312f3e31fbd1",
-          "market": "FII",
-          "name": "IMMOB III FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "34.691.925/0001-48",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 24856000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-09-15",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "7127011160d6d4fd",
-          "market": "FII",
-          "name": "IMMOB IV - BRAGANÇA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.693.040/0001-88",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 14609000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-07",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c33569900eba6990",
-          "market": "FII",
-          "name": "IMMOB V DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "38.376.805/0001-07",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 15184000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-07",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "b259ce778d354c3d",
-          "market": "FII",
-          "name": "PROPP I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "47.154.849/0001-83",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 164495000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-04-10",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "4253c3233d8ee1c1",
-          "market": "FII",
-          "name": "RENOVA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "28.893.734/0001-66",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 167112000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-04-17",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 30,
-          "volume": 26157669000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 1,
-          "volume": 193055000
-        },
-        {
-          "market": "FII",
-          "count": 10,
-          "volume": 2445124809.4
         }
       ]
     },
@@ -13783,8 +13783,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 3,
-          "volume": 92000000.4
+          "count": 2,
+          "volume": 60000000.4
         },
         {
           "market": "FIAGRO",
@@ -14330,7 +14330,7 @@
         {
           "market": "FIDC",
           "count": 82,
-          "volume": 2227824193.7600007
+          "volume": 2232824193.7599998
         },
         {
           "market": "FIAGRO",
@@ -14541,8 +14541,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 42,
-          "volume": 385700045.95
+          "count": 41,
+          "volume": 379700045.95
         },
         {
           "market": "FIAGRO",
@@ -14739,8 +14739,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 27,
-          "volume": 259672101.54999998
+          "count": 28,
+          "volume": 289672101.55
         },
         {
           "market": "FIAGRO",
@@ -21017,8 +21017,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 23,
-          "volume": 1205961288.27
+          "count": 24,
+          "volume": 1235961288.27
         },
         {
           "market": "FIAGRO",
@@ -23527,8 +23527,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 8,
-          "volume": 41150000
+          "count": 5,
+          "volume": 31000000
         },
         {
           "market": "FIAGRO",

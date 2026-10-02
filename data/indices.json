@@ -88,9 +88,9 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 8.597408039122614,
-        "countHHI": 4.103688620878689,
-        "volumeHHI": 13.09112745736654,
+        "score": 8.24991429507923,
+        "countHHI": 3.6651234567901225,
+        "volumeHHI": 12.834705133368338,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -109,22 +109,22 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 8.597408039122614,
+          "score": 8.24991429507923,
           "band": "faixa baixa",
-          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 9/100, faixa baixa."
+          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 8/100, faixa baixa."
         }
       },
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 68.36397058823529,
+        "score": 64.81907894736842,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 75,
+            "score": 73.6842105263158,
             "weight": 0.3
           },
           {
@@ -136,16 +136,16 @@
             "weight": 0.3
           },
           {
-            "key": "credito3m",
-            "label": "Crescimento 3m do saldo PJ",
-            "value": 0.7143242223300428,
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
             "date": "2026-08-01",
-            "score": 14.705882352941178,
+            "score": 2.5,
             "weight": 0.2
           }
         ],
         "asOf": "2026-09-30",
-        "interpretation": "favoráveis",
+        "interpretation": "neutras/medianas",
         "education": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
@@ -164,15 +164,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 68.36397058823529,
-          "band": "faixa alta",
-          "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+          "score": 64.81907894736842,
+          "band": "faixa intermediária",
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 82.05085784313724,
+        "score": 80.98739035087718,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -192,39 +192,39 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 82.05085784313724,
+          "score": 80.98739035087718,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 82/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
         }
       },
       "projection": {
         "year": 2026,
         "actualThrough": "2026-09",
-        "officialActualVolume": 54618887367.78998,
-        "adjustedActualVolume": 40118887367.78997,
-        "actualOffers": 492,
+        "officialActualVolume": 54545487367.459984,
+        "adjustedActualVolume": 40045487367.45998,
+        "actualOffers": 487,
         "remainingMonths": 3,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 45247072952.714966,
-            "offers": 565,
+            "volume": 45173672952.38498,
+            "offers": 560,
             "monthlyVolumeAssumption": 1709395194.975,
             "monthlyOfferAssumption": 24.25
           },
           {
             "label": "Base",
-            "volume": 48162769121.60997,
-            "offers": 597,
+            "volume": 48089369121.279976,
+            "offers": 592,
             "monthlyVolumeAssumption": 2681293917.94,
             "monthlyOfferAssumption": 35
           },
           {
             "label": "Expansão",
-            "volume": 60753866179.98747,
-            "offers": 784,
+            "volume": 60680466179.65748,
+            "offers": 775,
             "monthlyVolumeAssumption": 6878326270.7325,
-            "monthlyOfferAssumption": 97.25
+            "monthlyOfferAssumption": 96
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -234,8 +234,8 @@
     "FIAGRO": {
       "month": "2026-09",
       "dataQuality": {
-        "medianPositiveVolume": 64376232.72,
-        "threshold": 6437623272,
+        "medianPositiveVolume": 70000000,
+        "threshold": 7000000000,
         "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
         "outliers": [],
         "outlierCount": 0
@@ -243,225 +243,10 @@
       "offerPressure": {
         "code": "IROP",
         "name": "Índice Radar de Oferta Primária",
-        "score": 74.16666666666666,
-        "components": {
-          "volume": 54.166666666666664,
-          "quantity": 87.5,
-          "breadth": 87.5
-        },
-        "interpretation": "forte",
-        "education": {
-          "code": "IROP",
-          "name": "Índice Radar de Oferta Primária",
-          "type": "Índice composto de intensidade do mercado primário",
-          "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
-          "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
-          "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
-          "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
-          "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
-          "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
-          "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
-          "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
-          "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
-          "limits": [
-            "Mede oferta registrada, não captação efetiva.",
-            "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
-            "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
-          ],
-          "score": 74.16666666666666,
-          "band": "faixa alta",
-          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 74/100, faixa alta."
-        }
-      },
-      "breadth": {
-        "code": "IRBD",
-        "name": "Índice Radar de Breadth",
-        "score": 87.5,
-        "interpretation": "ampla",
-        "education": {
-          "code": "IRBD",
-          "name": "Índice Radar de Breadth",
-          "type": "Índice de amplitude de participação",
-          "question": "A atividade está disseminada ou depende de poucos participantes?",
-          "whatItMeasures": "Mede a amplitude do mercado observando quantos emissores e coordenadores distintos participam da competência em relação aos últimos 12 meses.",
-          "technicalBasis": "Média dos percentis da quantidade de emissores distintos e coordenadores distintos na janela histórica.",
-          "empiricalBasis": "Participantes identificados nos registros oficiais da CVM em 12 competências mensais.",
-          "quantitativeBasis": "50% percentil de emissores distintos + 50% percentil de coordenadores distintos.",
-          "qualitativeLayer": "A leitura ampla/mediana/estreita descreve a disseminação da atividade; a conclusão econômica depende de ser lida junto com IROP e IRCC.",
-          "whyItMatters": "Um mercado pode crescer porque muitos participantes estão ativos ou porque poucos agentes concentram grandes operações. O IRBD separa essas situações.",
-          "highMeans": "Atividade mais espalhada entre emissores e coordenadores.",
-          "lowMeans": "Atividade mais estreita, com menor diversidade de participantes.",
-          "limits": [
-            "Não mede concentração de volume sozinho; isso é função do IRCC.",
-            "Participante distinto não significa estratégia, qualidade ou porte distintos."
-          ],
-          "score": 87.5,
-          "band": "faixa alta",
-          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 88/100, faixa alta."
-        }
-      },
-      "concentration": {
-        "code": "IRCC",
-        "name": "Índice Radar de Concentração",
-        "score": 15.39805829884953,
-        "countHHI": 4.333333333333337,
-        "volumeHHI": 26.462783264365726,
-        "interpretation": "baixa",
-        "education": {
-          "code": "IRCC",
-          "name": "Índice Radar de Concentração",
-          "type": "Índice estrutural de concentração",
-          "question": "Quanto da atividade está concentrada em poucos coordenadores?",
-          "whatItMeasures": "Mede concentração dos coordenadores por quantidade de ofertas e por volume analítico registrado.",
-          "technicalBasis": "Índice Herfindahl-Hirschman (HHI) normalizado para escala 0–100, calculado separadamente por quantidade e volume e depois combinado.",
-          "empiricalBasis": "Distribuição observada dos coordenadores na competência corrente da base oficial CVM.",
-          "quantitativeBasis": "50% HHI normalizado por quantidade + 50% HHI normalizado por volume analítico.",
-          "qualitativeLayer": "Baixo significa mercado mais distribuído; alto significa maior dependência de poucos coordenadores. A interpretação não presume poder de mercado ou conduta competitiva.",
-          "whyItMatters": "Mostra se a expansão do pipeline é compartilhada pelo mercado ou dominada por poucos participantes.",
-          "highMeans": "Maior concentração da atividade em poucos coordenadores.",
-          "lowMeans": "Maior dispersão da atividade entre coordenadores.",
-          "limits": [
-            "Concentração não é sinônimo de problema concorrencial.",
-            "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
-          ],
-          "score": 15.39805829884953,
-          "band": "faixa baixa",
-          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 15/100, faixa baixa."
-        }
-      },
-      "funding": {
-        "code": "IRFC",
-        "name": "Índice Radar de Condições de Funding",
-        "score": 68.36397058823529,
-        "components": [
-          {
-            "key": "selic",
-            "label": "Selic",
-            "value": 13.65,
-            "date": "2026-09-30",
-            "score": 75,
-            "weight": 0.3
-          },
-          {
-            "key": "spreadPJ",
-            "label": "Spread PJ",
-            "value": 4.1,
-            "date": "2026-08-01",
-            "score": 97.5,
-            "weight": 0.3
-          },
-          {
-            "key": "credito3m",
-            "label": "Crescimento 3m do saldo PJ",
-            "value": 0.7143242223300428,
-            "date": "2026-08-01",
-            "score": 14.705882352941178,
-            "weight": 0.2
-          }
-        ],
-        "asOf": "2026-09-30",
-        "interpretation": "favoráveis",
-        "education": {
-          "code": "IRFC",
-          "name": "Índice Radar de Condições de Funding",
-          "type": "Índice composto de ambiente financeiro",
-          "question": "O ambiente de crédito e juros ajuda ou restringe a absorção de novas ofertas?",
-          "whatItMeasures": "Resume o ambiente de funding usando juros, spread de crédito PJ, inadimplência PJ e crescimento do saldo de crédito PJ.",
-          "technicalBasis": "Cada variável é transformada em posição percentílica dentro do histórico disponível do BCB; Selic, spread e inadimplência têm direção invertida porque níveis mais altos são tratados como condições menos favoráveis. Componentes indisponíveis são reponderados.",
-          "empiricalBasis": "Séries oficiais BCB/SGS disponíveis ao Radar, preservando frequência e datas de cada série.",
-          "quantitativeBasis": "30% Selic + 30% spread PJ + 20% inadimplência PJ + 20% crescimento trimestral do saldo PJ, com reponderação quando necessário.",
-          "qualitativeLayer": "Favorável/neutro/restritivo é uma leitura do ambiente de funding, não uma previsão de demanda por cotas nem de sucesso de distribuição.",
-          "whyItMatters": "Um pipeline forte pode encontrar pouca capacidade de absorção quando custo de capital, spreads ou qualidade do crédito pioram.",
-          "highMeans": "Condições relativas de funding mais favoráveis dentro da amostra observada.",
-          "lowMeans": "Condições relativas mais restritivas.",
-          "limits": [
-            "As séries têm frequências distintas e datas de atualização diferentes.",
-            "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
-            "É um indicador de regime, não uma taxa de funding de uma operação específica."
-          ],
-          "score": 68.36397058823529,
-          "band": "faixa alta",
-          "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
-        }
-      },
-      "pulse": {
-        "code": "IRPM",
-        "name": "Índice Radar de Pulso de Mercado",
-        "score": 72.42585784313724,
-        "interpretation": "expansivo",
-        "education": {
-          "code": "IRPM",
-          "name": "Índice Radar de Pulso de Mercado",
-          "type": "Índice-síntese de atividade e funding",
-          "question": "Qual é o pulso conjunto do mercado primário e das condições de funding?",
-          "whatItMeasures": "Combina a intensidade das ofertas com o ambiente financeiro para produzir uma leitura sintética do momento.",
-          "technicalBasis": "Composto linear que mantém maior peso no comportamento observado do mercado primário e usa funding como condição de transmissão.",
-          "empiricalBasis": "Combina IROP, construído com dados CVM, e IRFC, construído com séries BCB/SGS.",
-          "quantitativeBasis": "70% IROP + 30% IRFC.",
-          "qualitativeLayer": "Expansivo/equilibrado/contido é a síntese editorial do score. A Tese Radar continua exigindo evidências adicionais e critérios de invalidação.",
-          "whyItMatters": "Evita interpretar muitas ofertas como expansão plena quando o funding continua restritivo — ou o contrário.",
-          "highMeans": "Atividade primária e condições financeiras combinadas apontam para pulso mais expansivo.",
-          "lowMeans": "O conjunto aponta para pulso mais contido.",
-          "limits": [
-            "É um composto proprietário e depende das premissas de peso declaradas.",
-            "Não substitui análise de cada vertical ou operação.",
-            "Ainda está construindo histórico de validação fora da amostra."
-          ],
-          "score": 72.42585784313724,
-          "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 72/100, faixa alta."
-        }
-      },
-      "projection": {
-        "year": 2026,
-        "actualThrough": "2026-09",
-        "officialActualVolume": 254512699757.29,
-        "adjustedActualVolume": 4512699757.29,
-        "actualOffers": 40,
-        "remainingMonths": 3,
-        "scenarios": [
-          {
-            "label": "Conservador",
-            "volume": 5013325804.53,
-            "offers": 48,
-            "monthlyVolumeAssumption": 166875349.07999998,
-            "monthlyOfferAssumption": 2.75
-          },
-          {
-            "label": "Base",
-            "volume": 5726196757.440001,
-            "offers": 52,
-            "monthlyVolumeAssumption": 404499000.05,
-            "monthlyOfferAssumption": 4
-          },
-          {
-            "label": "Expansão",
-            "volume": 6371012257.29,
-            "offers": 58,
-            "monthlyVolumeAssumption": 619437500,
-            "monthlyOfferAssumption": 6
-          }
-        ],
-        "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
-      },
-      "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
-    },
-    "FII": {
-      "month": "2026-09",
-      "dataQuality": {
-        "medianPositiveVolume": 135692960,
-        "threshold": 13569296000,
-        "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
-        "outliers": [],
-        "outlierCount": 0
-      },
-      "offerPressure": {
-        "code": "IROP",
-        "name": "Índice Radar de Oferta Primária",
-        "score": 91.875,
+        "score": 93.33333333333333,
         "components": {
           "volume": 95.83333333333334,
-          "quantity": 87.5,
+          "quantity": 91.66666666666666,
           "breadth": 91.66666666666667
         },
         "interpretation": "forte",
@@ -483,9 +268,9 @@
             "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
             "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
           ],
-          "score": 91.875,
+          "score": 93.33333333333333,
           "band": "faixa alta",
-          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 92/100, faixa alta."
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 93/100, faixa alta."
         }
       },
       "breadth": {
@@ -518,10 +303,10 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 7.848827198485077,
-        "countHHI": 2.4930747922437644,
-        "volumeHHI": 13.20457960472639,
-        "interpretation": "baixa",
+        "score": 46.815977111076,
+        "countHHI": 3.9729501267962855,
+        "volumeHHI": 89.65900409535571,
+        "interpretation": "moderada",
         "education": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
@@ -539,22 +324,22 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 7.848827198485077,
-          "band": "faixa baixa",
-          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 8/100, faixa baixa."
+          "score": 46.815977111076,
+          "band": "faixa intermediária",
+          "currentReading": "A concentração é moderada: há alguma dispersão, mas participantes relevantes ainda pesam na estrutura do mês. Score 47/100, faixa intermediária."
         }
       },
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 68.36397058823529,
+        "score": 64.81907894736842,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 75,
+            "score": 73.6842105263158,
             "weight": 0.3
           },
           {
@@ -566,16 +351,16 @@
             "weight": 0.3
           },
           {
-            "key": "credito3m",
-            "label": "Crescimento 3m do saldo PJ",
-            "value": 0.7143242223300428,
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
             "date": "2026-08-01",
-            "score": 14.705882352941178,
+            "score": 2.5,
             "weight": 0.2
           }
         ],
         "asOf": "2026-09-30",
-        "interpretation": "favoráveis",
+        "interpretation": "neutras/medianas",
         "education": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
@@ -594,15 +379,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 68.36397058823529,
-          "band": "faixa alta",
-          "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+          "score": 64.81907894736842,
+          "band": "faixa intermediária",
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 84.82169117647058,
+        "score": 84.77905701754386,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -622,7 +407,7 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 84.82169117647058,
+          "score": 84.77905701754386,
           "band": "faixa alta",
           "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 85/100, faixa alta."
         }
@@ -630,28 +415,243 @@
       "projection": {
         "year": 2026,
         "actualThrough": "2026-09",
-        "officialActualVolume": 53936500613.240005,
-        "adjustedActualVolume": 53936500613.240005,
+        "officialActualVolume": 263416699757.29,
+        "adjustedActualVolume": 13416699757.29,
+        "actualOffers": 43,
+        "remainingMonths": 3,
+        "scenarios": [
+          {
+            "label": "Conservador",
+            "volume": 13917325804.53,
+            "offers": 51,
+            "monthlyVolumeAssumption": 166875349.07999998,
+            "monthlyOfferAssumption": 2.75
+          },
+          {
+            "label": "Base",
+            "volume": 14870594519.865002,
+            "offers": 55,
+            "monthlyVolumeAssumption": 484631587.525,
+            "monthlyOfferAssumption": 4
+          },
+          {
+            "label": "Expansão",
+            "volume": 15691638897.735,
+            "offers": 61,
+            "monthlyVolumeAssumption": 758313046.815,
+            "monthlyOfferAssumption": 6
+          }
+        ],
+        "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
+      },
+      "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
+    },
+    "FII": {
+      "month": "2026-09",
+      "dataQuality": {
+        "medianPositiveVolume": 130000000,
+        "threshold": 13000000000,
+        "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
+        "outliers": [],
+        "outlierCount": 0
+      },
+      "offerPressure": {
+        "code": "IROP",
+        "name": "Índice Radar de Oferta Primária",
+        "score": 88.54166666666667,
+        "components": {
+          "volume": 87.5,
+          "quantity": 87.5,
+          "breadth": 91.66666666666667
+        },
+        "interpretation": "forte",
+        "education": {
+          "code": "IROP",
+          "name": "Índice Radar de Oferta Primária",
+          "type": "Índice composto de intensidade do mercado primário",
+          "question": "Quão forte está o pipeline de novas ofertas em relação à própria história recente?",
+          "whatItMeasures": "Combina volume registrado ajustado, quantidade de ofertas e amplitude de emissores/coordenadores para medir a intensidade relativa do mercado primário.",
+          "technicalBasis": "Percentis móveis por componente, agregados por pesos explícitos. Outliers de volume acima de 100x a mediana positiva da janela são preservados no dado oficial e isolados somente da camada analítica.",
+          "empiricalBasis": "Registros oficiais da CVM organizados em 12 competências mensais encerradas no mês de referência.",
+          "quantitativeBasis": "40% percentil do volume analítico ajustado + 35% percentil da quantidade de ofertas + 25% breadth.",
+          "qualitativeLayer": "A interpretação forte/intermediária/fraca é posterior ao cálculo e não altera o score. O Radar cruza o resultado com funding, concentração, documentos e contexto regulatório antes de formular uma tese.",
+          "whyItMatters": "Ajuda a distinguir meses de pipeline realmente intenso de meses apenas ruidosos e permite comparar FIDC, FIAGRO e FII respeitando a história de cada vertical.",
+          "highMeans": "Maior pressão relativa de oferta e atividade primária mais intensa.",
+          "lowMeans": "Pipeline relativamente contido frente à janela histórica.",
+          "limits": [
+            "Mede oferta registrada, não captação efetiva.",
+            "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
+            "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
+          ],
+          "score": 88.54166666666667,
+          "band": "faixa alta",
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 89/100, faixa alta."
+        }
+      },
+      "breadth": {
+        "code": "IRBD",
+        "name": "Índice Radar de Breadth",
+        "score": 91.66666666666667,
+        "interpretation": "ampla",
+        "education": {
+          "code": "IRBD",
+          "name": "Índice Radar de Breadth",
+          "type": "Índice de amplitude de participação",
+          "question": "A atividade está disseminada ou depende de poucos participantes?",
+          "whatItMeasures": "Mede a amplitude do mercado observando quantos emissores e coordenadores distintos participam da competência em relação aos últimos 12 meses.",
+          "technicalBasis": "Média dos percentis da quantidade de emissores distintos e coordenadores distintos na janela histórica.",
+          "empiricalBasis": "Participantes identificados nos registros oficiais da CVM em 12 competências mensais.",
+          "quantitativeBasis": "50% percentil de emissores distintos + 50% percentil de coordenadores distintos.",
+          "qualitativeLayer": "A leitura ampla/mediana/estreita descreve a disseminação da atividade; a conclusão econômica depende de ser lida junto com IROP e IRCC.",
+          "whyItMatters": "Um mercado pode crescer porque muitos participantes estão ativos ou porque poucos agentes concentram grandes operações. O IRBD separa essas situações.",
+          "highMeans": "Atividade mais espalhada entre emissores e coordenadores.",
+          "lowMeans": "Atividade mais estreita, com menor diversidade de participantes.",
+          "limits": [
+            "Não mede concentração de volume sozinho; isso é função do IRCC.",
+            "Participante distinto não significa estratégia, qualidade ou porte distintos."
+          ],
+          "score": 91.66666666666667,
+          "band": "faixa alta",
+          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 92/100, faixa alta."
+        }
+      },
+      "concentration": {
+        "code": "IRCC",
+        "name": "Índice Radar de Concentração",
+        "score": 5.261706126283146,
+        "countHHI": 3.3795013850415474,
+        "volumeHHI": 7.143910867524745,
+        "interpretation": "baixa",
+        "education": {
+          "code": "IRCC",
+          "name": "Índice Radar de Concentração",
+          "type": "Índice estrutural de concentração",
+          "question": "Quanto da atividade está concentrada em poucos coordenadores?",
+          "whatItMeasures": "Mede concentração dos coordenadores por quantidade de ofertas e por volume analítico registrado.",
+          "technicalBasis": "Índice Herfindahl-Hirschman (HHI) normalizado para escala 0–100, calculado separadamente por quantidade e volume e depois combinado.",
+          "empiricalBasis": "Distribuição observada dos coordenadores na competência corrente da base oficial CVM.",
+          "quantitativeBasis": "50% HHI normalizado por quantidade + 50% HHI normalizado por volume analítico.",
+          "qualitativeLayer": "Baixo significa mercado mais distribuído; alto significa maior dependência de poucos coordenadores. A interpretação não presume poder de mercado ou conduta competitiva.",
+          "whyItMatters": "Mostra se a expansão do pipeline é compartilhada pelo mercado ou dominada por poucos participantes.",
+          "highMeans": "Maior concentração da atividade em poucos coordenadores.",
+          "lowMeans": "Maior dispersão da atividade entre coordenadores.",
+          "limits": [
+            "Concentração não é sinônimo de problema concorrencial.",
+            "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
+          ],
+          "score": 5.261706126283146,
+          "band": "faixa baixa",
+          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 5/100, faixa baixa."
+        }
+      },
+      "funding": {
+        "code": "IRFC",
+        "name": "Índice Radar de Condições de Funding",
+        "score": 64.81907894736842,
+        "components": [
+          {
+            "key": "selic",
+            "label": "Selic",
+            "value": 13.65,
+            "date": "2026-09-30",
+            "score": 73.6842105263158,
+            "weight": 0.3
+          },
+          {
+            "key": "spreadPJ",
+            "label": "Spread PJ",
+            "value": 4.1,
+            "date": "2026-08-01",
+            "score": 97.5,
+            "weight": 0.3
+          },
+          {
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
+            "date": "2026-08-01",
+            "score": 2.5,
+            "weight": 0.2
+          }
+        ],
+        "asOf": "2026-09-30",
+        "interpretation": "neutras/medianas",
+        "education": {
+          "code": "IRFC",
+          "name": "Índice Radar de Condições de Funding",
+          "type": "Índice composto de ambiente financeiro",
+          "question": "O ambiente de crédito e juros ajuda ou restringe a absorção de novas ofertas?",
+          "whatItMeasures": "Resume o ambiente de funding usando juros, spread de crédito PJ, inadimplência PJ e crescimento do saldo de crédito PJ.",
+          "technicalBasis": "Cada variável é transformada em posição percentílica dentro do histórico disponível do BCB; Selic, spread e inadimplência têm direção invertida porque níveis mais altos são tratados como condições menos favoráveis. Componentes indisponíveis são reponderados.",
+          "empiricalBasis": "Séries oficiais BCB/SGS disponíveis ao Radar, preservando frequência e datas de cada série.",
+          "quantitativeBasis": "30% Selic + 30% spread PJ + 20% inadimplência PJ + 20% crescimento trimestral do saldo PJ, com reponderação quando necessário.",
+          "qualitativeLayer": "Favorável/neutro/restritivo é uma leitura do ambiente de funding, não uma previsão de demanda por cotas nem de sucesso de distribuição.",
+          "whyItMatters": "Um pipeline forte pode encontrar pouca capacidade de absorção quando custo de capital, spreads ou qualidade do crédito pioram.",
+          "highMeans": "Condições relativas de funding mais favoráveis dentro da amostra observada.",
+          "lowMeans": "Condições relativas mais restritivas.",
+          "limits": [
+            "As séries têm frequências distintas e datas de atualização diferentes.",
+            "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
+            "É um indicador de regime, não uma taxa de funding de uma operação específica."
+          ],
+          "score": 64.81907894736842,
+          "band": "faixa intermediária",
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
+        }
+      },
+      "pulse": {
+        "code": "IRPM",
+        "name": "Índice Radar de Pulso de Mercado",
+        "score": 81.42489035087719,
+        "interpretation": "expansivo",
+        "education": {
+          "code": "IRPM",
+          "name": "Índice Radar de Pulso de Mercado",
+          "type": "Índice-síntese de atividade e funding",
+          "question": "Qual é o pulso conjunto do mercado primário e das condições de funding?",
+          "whatItMeasures": "Combina a intensidade das ofertas com o ambiente financeiro para produzir uma leitura sintética do momento.",
+          "technicalBasis": "Composto linear que mantém maior peso no comportamento observado do mercado primário e usa funding como condição de transmissão.",
+          "empiricalBasis": "Combina IROP, construído com dados CVM, e IRFC, construído com séries BCB/SGS.",
+          "quantitativeBasis": "70% IROP + 30% IRFC.",
+          "qualitativeLayer": "Expansivo/equilibrado/contido é a síntese editorial do score. A Tese Radar continua exigindo evidências adicionais e critérios de invalidação.",
+          "whyItMatters": "Evita interpretar muitas ofertas como expansão plena quando o funding continua restritivo — ou o contrário.",
+          "highMeans": "Atividade primária e condições financeiras combinadas apontam para pulso mais expansivo.",
+          "lowMeans": "O conjunto aponta para pulso mais contido.",
+          "limits": [
+            "É um composto proprietário e depende das premissas de peso declaradas.",
+            "Não substitui análise de cada vertical ou operação.",
+            "Ainda está construindo histórico de validação fora da amostra."
+          ],
+          "score": 81.42489035087719,
+          "band": "faixa alta",
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
+        }
+      },
+      "projection": {
+        "year": 2026,
+        "actualThrough": "2026-09",
+        "officialActualVolume": 49871526651.700005,
+        "adjustedActualVolume": 49871526651.700005,
         "actualOffers": 154,
         "remainingMonths": 3,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 59072108107.05501,
+            "volume": 55007134145.51501,
             "offers": 177,
             "monthlyVolumeAssumption": 1711869164.605,
             "monthlyOfferAssumption": 7.75
           },
           {
             "label": "Base",
-            "volume": 66580964609.75001,
+            "volume": 62515990648.21001,
             "offers": 195,
             "monthlyVolumeAssumption": 4214821332.17,
             "monthlyOfferAssumption": 13.5
           },
           {
             "label": "Expansão",
-            "volume": 80680902451.37,
+            "volume": 76615928489.83,
             "offers": 234,
             "monthlyVolumeAssumption": 8914800612.71,
             "monthlyOfferAssumption": 26.75
@@ -688,11 +688,11 @@
       "offerPressure": {
         "code": "IROP",
         "name": "Índice Radar de Oferta Primária - 3 mercados",
-        "score": 84.65277777777777,
+        "score": 89.93055555555556,
         "components": {
-          "volume": 81.94444444444444,
-          "quantity": 84.72222222222221,
-          "breadth": 88.8888888888889
+          "volume": 93.05555555555556,
+          "quantity": 86.1111111111111,
+          "breadth": 90.27777777777779
         },
         "interpretation": "forte",
         "education": {
@@ -713,15 +713,15 @@
             "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
             "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
           ],
-          "score": 84.65277777777777,
+          "score": 89.93055555555556,
           "band": "faixa alta",
-          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 85/100, faixa alta."
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 90/100, faixa alta."
         }
       },
       "breadth": {
         "code": "IRBD",
         "name": "Índice Radar de Breadth - 3 mercados",
-        "score": 88.8888888888889,
+        "score": 90.27777777777779,
         "interpretation": "ampla",
         "education": {
           "code": "IRBD",
@@ -740,15 +740,15 @@
             "Não mede concentração de volume sozinho; isso é função do IRCC.",
             "Participante distinto não significa estratégia, qualidade ou porte distintos."
           ],
-          "score": 88.8888888888889,
+          "score": 90.27777777777779,
           "band": "faixa alta",
-          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 89/100, faixa alta."
+          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 90/100, faixa alta."
         }
       },
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração - 3 mercados",
-        "score": 10.614764512152407,
+        "score": 20.109199177479457,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -767,22 +767,22 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 10.614764512152407,
+          "score": 20.109199177479457,
           "band": "faixa baixa",
-          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 11/100, faixa baixa."
+          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 20/100, faixa baixa."
         }
       },
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 68.36397058823529,
+        "score": 64.81907894736842,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 75,
+            "score": 73.6842105263158,
             "weight": 0.3
           },
           {
@@ -794,16 +794,16 @@
             "weight": 0.3
           },
           {
-            "key": "credito3m",
-            "label": "Crescimento 3m do saldo PJ",
-            "value": 0.7143242223300428,
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
             "date": "2026-08-01",
-            "score": 14.705882352941178,
+            "score": 2.5,
             "weight": 0.2
           }
         ],
         "asOf": "2026-09-30",
-        "interpretation": "favoráveis",
+        "interpretation": "neutras/medianas",
         "education": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
@@ -822,15 +822,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 68.36397058823529,
-          "band": "faixa alta",
-          "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+          "score": 64.81907894736842,
+          "band": "faixa intermediária",
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-        "score": 79.76613562091502,
+        "score": 82.39711257309942,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -850,39 +850,39 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 79.76613562091502,
+          "score": 82.39711257309942,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 80/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 82/100, faixa alta."
         }
       },
       "projection": {
         "year": 2026,
         "actualThrough": "2026-09",
-        "officialActualVolume": 363068087738.31995,
-        "adjustedActualVolume": 98568087738.31998,
-        "actualOffers": 686,
+        "officialActualVolume": 367833713776.45,
+        "adjustedActualVolume": 103333713776.44998,
+        "actualOffers": 684,
         "remainingMonths": 3,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 109332506864.29997,
-            "offers": 790,
+            "volume": 114098132902.43,
+            "offers": 788,
             "monthlyVolumeAssumption": 3588139708.66,
             "monthlyOfferAssumption": 34.75
           },
           {
             "label": "Base",
-            "volume": 120469930488.79999,
-            "offers": 844,
-            "monthlyVolumeAssumption": 7300614250.16,
+            "volume": 125475954289.35498,
+            "offers": 842,
+            "monthlyVolumeAssumption": 7380746837.635,
             "monthlyOfferAssumption": 52.5
           },
           {
             "label": "Expansão",
-            "volume": 147805780888.64746,
-            "offers": 1076,
-            "monthlyVolumeAssumption": 16412564383.4425,
-            "monthlyOfferAssumption": 130
+            "volume": 152988033567.22247,
+            "offers": 1070,
+            "monthlyVolumeAssumption": 16551439930.2575,
+            "monthlyOfferAssumption": 128.75
           }
         ],
         "method": "Soma dos cenários analíticos de FIDC, FIAGRO e FII; cada vertical aplica sua própria regra de outlier antes da agregação."
@@ -1014,5 +1014,5 @@
     "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
     "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
   },
-  "generatedAt": "2026-10-01T17:23:05.330Z"
+  "generatedAt": "2026-10-02T16:38:53.755Z"
 }

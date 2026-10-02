@@ -1,48 +1,54 @@
 {
   "month": "2026-09",
   "market": "ALL",
-  "generatedAt": "2026-10-01T17:23:05.437Z",
+  "generatedAt": "2026-10-02T16:38:53.869Z",
   "title": "Carta Mensal Radar - 2026-09",
   "aggregate": {
     "current": {
       "month": "2026-09",
-      "offers": 161,
-      "offersWithVolume": 154,
-      "registeredVolume": 38842279410.34,
-      "analyticalVolume": 29842279410.339996,
+      "offers": 159,
+      "offersWithVolume": 155,
+      "registeredVolume": 43607905448.47,
+      "analyticalVolume": 34607905448.47,
       "averageTicket": null,
-      "issuers": 151,
-      "leaders": 36,
+      "issuers": 148,
+      "leaders": 37,
       "topLeaders": [
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
-          "count": 22,
-          "volume": 927500001.81
+          "count": 20,
+          "volume": 835500001.48
         },
         {
           "name": "BANCO DAYCOVAL S.A.",
           "cnpj": "62.232.889/0001-90",
-          "count": 17,
-          "volume": 1342180426.57
-        },
-        {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
           "count": 14,
-          "volume": 9759772129.04
+          "volume": 1105930426.57
         },
         {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
+          "count": 13,
+          "volume": 2956491245.37
+        },
+        {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
           "count": 11,
-          "volume": 2435903045.37
+          "volume": 6568620019.96
         },
         {
           "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
           "cnpj": "39.669.186/0001-01",
+          "count": 11,
+          "volume": 1098987687.53
+        },
+        {
+          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "cnpj": "22.610.500/0001-88",
           "count": 10,
-          "volume": 1091987687.53
+          "volume": 724372832.32
         },
         {
           "name": "BANCO BRADESCO BBI S.A.",
@@ -53,20 +59,14 @@
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
           "cnpj": "02.332.886/0001-04",
-          "count": 8,
-          "volume": 5365957699.66
+          "count": 7,
+          "volume": 12476207699.66
         },
         {
-          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "cnpj": "22.610.500/0001-88",
-          "count": 8,
-          "volume": 519372884.79
-        },
-        {
-          "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "cnpj": "03.751.794/0001-13",
+          "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "cnpj": "16.695.922/0001-09",
           "count": 6,
-          "volume": 70420000
+          "volume": 30640001.53
         },
         {
           "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -76,6 +76,24 @@
         }
       ],
       "topOffers": [
+        {
+          "name": "XP CDI CRA FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.200.019/0001-88",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "count": 1,
+          "volume": 5300000000,
+          "records": [
+            {
+              "id": "8a9441681c734645",
+              "registration": "28160",
+              "processNumber": "SRE/3190/2026",
+              "volume": 5300000000,
+              "date": "2026-09-23",
+              "status": "Oferta Encerrada",
+              "publications": []
+            }
+          ]
+        },
         {
           "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SANTANDER AUTO LOANS II SEGMENTO FINANCEIRO - RL",
           "cnpj": "67.148.005/0001-37",
@@ -113,24 +131,6 @@
           ]
         },
         {
-          "name": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "16.706.958/0001-32",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "count": 1,
-          "volume": 3191152109.08,
-          "records": [
-            {
-              "id": "2d3c782dd3d513ed",
-              "registration": "28105",
-              "processNumber": "SRE/3139/2026",
-              "volume": 3191152109.08,
-              "date": "2026-09-28",
-              "status": "Registro Concedido",
-              "publications": []
-            }
-          ]
-        },
-        {
           "name": "Fundo de Investimento em Direitos Creditórios Agibank III Responsabilidade Limitada",
           "cnpj": "68.965.321/0001-64",
           "leader": "BANCO BRADESCO BBI S.A.",
@@ -143,7 +143,43 @@
               "processNumber": "SRE/2972/2026",
               "volume": 2100000000,
               "date": "2026-09-30",
-              "status": "Registro Concedido",
+              "status": "Oferta Encerrada",
+              "publications": []
+            }
+          ]
+        },
+        {
+          "name": "XP CDI 94 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.198.825/0001-69",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "count": 1,
+          "volume": 1802000000,
+          "records": [
+            {
+              "id": "d7d9ed348ad28251",
+              "registration": "28157",
+              "processNumber": "SRE/3185/2026",
+              "volume": 1802000000,
+              "date": "2026-09-23",
+              "status": "Oferta Encerrada",
+              "publications": []
+            }
+          ]
+        },
+        {
+          "name": "XP CDI 95 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.199.119/0001-31",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "count": 1,
+          "volume": 1802000000,
+          "records": [
+            {
+              "id": "86379c16094aa600",
+              "registration": "28158",
+              "processNumber": "SRE/3188/2026",
+              "volume": 1802000000,
+              "date": "2026-09-23",
+              "status": "Oferta Encerrada",
               "publications": []
             }
           ]
@@ -203,24 +239,6 @@
           ]
         },
         {
-          "name": "SPX PORTFÓLIO ALFA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "69.197.328/0001-46",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "count": 1,
-          "volume": 1075000000,
-          "records": [
-            {
-              "id": "a4af5caa9a99f698",
-              "registration": "28093",
-              "processNumber": "SRE/3195/2026",
-              "volume": 1075000000,
-              "date": "2026-09-30",
-              "status": "Registro Concedido",
-              "publications": []
-            }
-          ]
-        },
-        {
           "name": "TIVIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
           "cnpj": "14.410.722/0001-29",
           "leader": "BANCO BRADESCO BBI S.A.",
@@ -273,24 +291,6 @@
               "publications": []
             }
           ]
-        },
-        {
-          "name": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
-          "cnpj": "28.757.546/0001-00",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "count": 1,
-          "volume": 805957699.66,
-          "records": [
-            {
-              "id": "0e833585550d360f",
-              "registration": "27901",
-              "processNumber": "SRE/2947/2026",
-              "volume": 805957699.66,
-              "date": "2026-09-14",
-              "status": "Registro Concedido",
-              "publications": []
-            }
-          ]
         }
       ],
       "outliers": [
@@ -319,11 +319,11 @@
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 142
+          "count": 141
         },
         {
           "name": "Qualificado",
-          "count": 14
+          "count": 13
         },
         {
           "name": "Público geral",
@@ -333,7 +333,7 @@
       "byRite": [
         {
           "name": "Automático",
-          "count": 161
+          "count": 159
         }
       ]
     },
@@ -664,9 +664,9 @@
       "previousAvailableMonth": "2026-08"
     },
     "changes": {
-      "offersPct": 177.58620689655174,
-      "officialVolumePct": -85.14985529998751,
-      "analyticalVolumePct": 158.11497992399555
+      "offersPct": 174.13793103448276,
+      "officialVolumePct": -83.3278655165162,
+      "analyticalVolumePct": 199.3343335880789
     },
     "indices": {
       "month": "2026-09",
@@ -695,11 +695,11 @@
       "offerPressure": {
         "code": "IROP",
         "name": "Índice Radar de Oferta Primária - 3 mercados",
-        "score": 84.65277777777777,
+        "score": 89.93055555555556,
         "components": {
-          "volume": 81.94444444444444,
-          "quantity": 84.72222222222221,
-          "breadth": 88.8888888888889
+          "volume": 93.05555555555556,
+          "quantity": 86.1111111111111,
+          "breadth": 90.27777777777779
         },
         "interpretation": "forte",
         "education": {
@@ -720,15 +720,15 @@
             "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
             "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
           ],
-          "score": 84.65277777777777,
+          "score": 89.93055555555556,
           "band": "faixa alta",
-          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 85/100, faixa alta."
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 90/100, faixa alta."
         }
       },
       "breadth": {
         "code": "IRBD",
         "name": "Índice Radar de Breadth - 3 mercados",
-        "score": 88.8888888888889,
+        "score": 90.27777777777779,
         "interpretation": "ampla",
         "education": {
           "code": "IRBD",
@@ -747,15 +747,15 @@
             "Não mede concentração de volume sozinho; isso é função do IRCC.",
             "Participante distinto não significa estratégia, qualidade ou porte distintos."
           ],
-          "score": 88.8888888888889,
+          "score": 90.27777777777779,
           "band": "faixa alta",
-          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 89/100, faixa alta."
+          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 90/100, faixa alta."
         }
       },
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração - 3 mercados",
-        "score": 10.614764512152407,
+        "score": 20.109199177479457,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -774,22 +774,22 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 10.614764512152407,
+          "score": 20.109199177479457,
           "band": "faixa baixa",
-          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 11/100, faixa baixa."
+          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 20/100, faixa baixa."
         }
       },
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 68.36397058823529,
+        "score": 64.81907894736842,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 75,
+            "score": 73.6842105263158,
             "weight": 0.3
           },
           {
@@ -801,16 +801,16 @@
             "weight": 0.3
           },
           {
-            "key": "credito3m",
-            "label": "Crescimento 3m do saldo PJ",
-            "value": 0.7143242223300428,
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
             "date": "2026-08-01",
-            "score": 14.705882352941178,
+            "score": 2.5,
             "weight": 0.2
           }
         ],
         "asOf": "2026-09-30",
-        "interpretation": "favoráveis",
+        "interpretation": "neutras/medianas",
         "education": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
@@ -829,15 +829,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 68.36397058823529,
-          "band": "faixa alta",
-          "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+          "score": 64.81907894736842,
+          "band": "faixa intermediária",
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-        "score": 79.76613562091502,
+        "score": 82.39711257309942,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -857,39 +857,39 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 79.76613562091502,
+          "score": 82.39711257309942,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 80/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 82/100, faixa alta."
         }
       },
       "projection": {
         "year": 2026,
         "actualThrough": "2026-09",
-        "officialActualVolume": 363068087738.31995,
-        "adjustedActualVolume": 98568087738.31998,
-        "actualOffers": 686,
+        "officialActualVolume": 367833713776.45,
+        "adjustedActualVolume": 103333713776.44998,
+        "actualOffers": 684,
         "remainingMonths": 3,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 109332506864.29997,
-            "offers": 790,
+            "volume": 114098132902.43,
+            "offers": 788,
             "monthlyVolumeAssumption": 3588139708.66,
             "monthlyOfferAssumption": 34.75
           },
           {
             "label": "Base",
-            "volume": 120469930488.79999,
-            "offers": 844,
-            "monthlyVolumeAssumption": 7300614250.16,
+            "volume": 125475954289.35498,
+            "offers": 842,
+            "monthlyVolumeAssumption": 7380746837.635,
             "monthlyOfferAssumption": 52.5
           },
           {
             "label": "Expansão",
-            "volume": 147805780888.64746,
-            "offers": 1076,
-            "monthlyVolumeAssumption": 16412564383.4425,
-            "monthlyOfferAssumption": 130
+            "volume": 152988033567.22247,
+            "offers": 1070,
+            "monthlyVolumeAssumption": 16551439930.2575,
+            "monthlyOfferAssumption": 128.75
           }
         ],
         "method": "Soma dos cenários analíticos de FIDC, FIAGRO e FII; cada vertical aplica sua própria regra de outlier antes da agregação."
@@ -901,37 +901,31 @@
     "FIDC": {
       "current": {
         "month": "2026-09",
-        "offers": 113,
-        "offersWithVolume": 107,
-        "registeredVolume": 22695642708.69,
-        "analyticalVolume": 13695642708.689999,
-        "averageTicket": 130434692.46371427,
-        "issuers": 106,
-        "leaders": 31,
+        "offers": 108,
+        "offersWithVolume": 105,
+        "registeredVolume": 22622242708.36,
+        "analyticalVolume": 13622242708.359999,
+        "averageTicket": 132254783.57631066,
+        "issuers": 100,
+        "leaders": 33,
         "topLeaders": [
           {
             "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
             "cnpj": "62.285.390/0001-40",
-            "count": 20,
-            "volume": 652500001.66
+            "count": 18,
+            "volume": 560500001.3299999
           },
           {
             "name": "BANCO DAYCOVAL S.A.",
             "cnpj": "62.232.889/0001-90",
-            "count": 12,
-            "volume": 1054662000
-          },
-          {
-            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "cnpj": "04.845.753/0001-59",
-            "count": 8,
-            "volume": 4521400000
+            "count": 10,
+            "volume": 974662000
           },
           {
             "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
             "cnpj": "39.669.186/0001-01",
-            "count": 8,
-            "volume": 799000000
+            "count": 9,
+            "volume": 806000000
           },
           {
             "name": "BANCO BRADESCO BBI S.A.",
@@ -940,10 +934,16 @@
             "volume": 4679960000
           },
           {
-            "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-            "cnpj": "03.751.794/0001-13",
+            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "cnpj": "04.845.753/0001-59",
             "count": 6,
-            "volume": 70420000
+            "volume": 4521400000
+          },
+          {
+            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "cnpj": "22.610.500/0001-88",
+            "count": 6,
+            "volume": 173000000
           },
           {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -952,22 +952,22 @@
             "volume": 914750838.8399999
           },
           {
-            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "cnpj": "22.610.500/0001-88",
+            "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "cnpj": "24.361.690/0001-72",
             "count": 5,
-            "volume": 178000000
+            "volume": 137500000
           },
           {
-            "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "cnpj": "41.592.532/0001-42",
+            "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+            "cnpj": "03.751.794/0001-13",
             "count": 5,
-            "volume": 16150000
+            "volume": 60420000
           },
           {
-            "name": "XP INVESTIMENTOS CCTVM S.A.",
-            "cnpj": "02.332.886/0001-04",
-            "count": 4,
-            "volume": 1650000000
+            "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+            "cnpj": "13.486.793/0001-42",
+            "count": 3,
+            "volume": 33300000
           }
         ],
         "topOffers": [
@@ -1020,7 +1020,7 @@
                 "processNumber": "SRE/2972/2026",
                 "volume": 2100000000,
                 "date": "2026-09-30",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -1212,17 +1212,17 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 103
+            "count": 100
           },
           {
             "name": "Qualificado",
-            "count": 10
+            "count": 8
           }
         ],
         "byRite": [
           {
             "name": "Automático",
-            "count": 113
+            "count": 108
           }
         ]
       },
@@ -1562,9 +1562,9 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 253.125,
-        "officialVolumePct": 813.3037763041048,
-        "analyticalVolumePct": 451.1314381050343
+        "offersPct": 237.5,
+        "officialVolumePct": 810.3500596659574,
+        "analyticalVolumePct": 448.1777214668867
       },
       "indices": {
         "month": "2026-09",
@@ -1653,9 +1653,9 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 8.597408039122614,
-          "countHHI": 4.103688620878689,
-          "volumeHHI": 13.09112745736654,
+          "score": 8.24991429507923,
+          "countHHI": 3.6651234567901225,
+          "volumeHHI": 12.834705133368338,
           "interpretation": "baixa",
           "education": {
             "code": "IRCC",
@@ -1674,22 +1674,22 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 8.597408039122614,
+            "score": 8.24991429507923,
             "band": "faixa baixa",
-            "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 9/100, faixa baixa."
+            "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 8/100, faixa baixa."
           }
         },
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 68.36397058823529,
+          "score": 64.81907894736842,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 75,
+              "score": 73.6842105263158,
               "weight": 0.3
             },
             {
@@ -1701,16 +1701,16 @@
               "weight": 0.3
             },
             {
-              "key": "credito3m",
-              "label": "Crescimento 3m do saldo PJ",
-              "value": 0.7143242223300428,
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
               "date": "2026-08-01",
-              "score": 14.705882352941178,
+              "score": 2.5,
               "weight": 0.2
             }
           ],
           "asOf": "2026-09-30",
-          "interpretation": "favoráveis",
+          "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
             "name": "Índice Radar de Condições de Funding",
@@ -1729,15 +1729,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 68.36397058823529,
-            "band": "faixa alta",
-            "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+            "score": 64.81907894736842,
+            "band": "faixa intermediária",
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 82.05085784313724,
+          "score": 80.98739035087718,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1757,39 +1757,39 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 82.05085784313724,
+            "score": 80.98739035087718,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 82/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
           }
         },
         "projection": {
           "year": 2026,
           "actualThrough": "2026-09",
-          "officialActualVolume": 54618887367.78998,
-          "adjustedActualVolume": 40118887367.78997,
-          "actualOffers": 492,
+          "officialActualVolume": 54545487367.459984,
+          "adjustedActualVolume": 40045487367.45998,
+          "actualOffers": 487,
           "remainingMonths": 3,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 45247072952.714966,
-              "offers": 565,
+              "volume": 45173672952.38498,
+              "offers": 560,
               "monthlyVolumeAssumption": 1709395194.975,
               "monthlyOfferAssumption": 24.25
             },
             {
               "label": "Base",
-              "volume": 48162769121.60997,
-              "offers": 597,
+              "volume": 48089369121.279976,
+              "offers": 592,
               "monthlyVolumeAssumption": 2681293917.94,
               "monthlyOfferAssumption": 35
             },
             {
               "label": "Expansão",
-              "volume": 60753866179.98747,
-              "offers": 784,
+              "volume": 60680466179.65748,
+              "offers": 775,
               "monthlyVolumeAssumption": 6878326270.7325,
-              "monthlyOfferAssumption": 97.25
+              "monthlyOfferAssumption": 96
             }
           ],
           "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -1797,11 +1797,11 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIDC ficou 253,1% acima da última competência disponível (2026-08).",
-        "O volume analítico ajustado ficou 451,1% acima da última competência disponível. O volume oficial continua reportado separadamente.",
+        "A quantidade de ofertas FIDC ficou 237,5% acima da última competência disponível (2026-08).",
+        "O volume analítico ajustado ficou 448,2% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 2 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
-        "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 20 ofertas.",
-        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 82/100 (expansivo)."
+        "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 18 ofertas.",
+        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 81/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -1825,14 +1825,20 @@
     "FIAGRO": {
       "current": {
         "month": "2026-09",
-        "offers": 10,
-        "offersWithVolume": 9,
-        "registeredVolume": 427100000.1,
-        "analyticalVolume": 427100000.1,
-        "averageTicket": 47455555.56666667,
-        "issuers": 8,
-        "leaders": 7,
+        "offers": 13,
+        "offersWithVolume": 12,
+        "registeredVolume": 9331100000.1,
+        "analyticalVolume": 9331100000.1,
+        "averageTicket": 777591666.6750001,
+        "issuers": 11,
+        "leaders": 8,
         "topLeaders": [
+          {
+            "name": "XP INVESTIMENTOS CCTVM S.A.",
+            "cnpj": "02.332.886/0001-04",
+            "count": 3,
+            "volume": 8904000000
+          },
           {
             "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
             "cnpj": "28.650.236/0001-92",
@@ -1877,6 +1883,60 @@
           }
         ],
         "topOffers": [
+          {
+            "name": "XP CDI CRA FIAGRO RESPONSABILIDADE LIMITADA",
+            "cnpj": "69.200.019/0001-88",
+            "leader": "XP INVESTIMENTOS CCTVM S.A.",
+            "count": 1,
+            "volume": 5300000000,
+            "records": [
+              {
+                "id": "8a9441681c734645",
+                "registration": "28160",
+                "processNumber": "SRE/3190/2026",
+                "volume": 5300000000,
+                "date": "2026-09-23",
+                "status": "Oferta Encerrada",
+                "publications": []
+              }
+            ]
+          },
+          {
+            "name": "XP CDI 94 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
+            "cnpj": "69.198.825/0001-69",
+            "leader": "XP INVESTIMENTOS CCTVM S.A.",
+            "count": 1,
+            "volume": 1802000000,
+            "records": [
+              {
+                "id": "d7d9ed348ad28251",
+                "registration": "28157",
+                "processNumber": "SRE/3185/2026",
+                "volume": 1802000000,
+                "date": "2026-09-23",
+                "status": "Oferta Encerrada",
+                "publications": []
+              }
+            ]
+          },
+          {
+            "name": "XP CDI 95 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
+            "cnpj": "69.199.119/0001-31",
+            "leader": "XP INVESTIMENTOS CCTVM S.A.",
+            "count": 1,
+            "volume": 1802000000,
+            "records": [
+              {
+                "id": "86379c16094aa600",
+                "registration": "28158",
+                "processNumber": "SRE/3188/2026",
+                "volume": 1802000000,
+                "date": "2026-09-23",
+                "status": "Oferta Encerrada",
+                "publications": []
+              }
+            ]
+          },
           {
             "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
             "cnpj": "62.134.120/0001-39",
@@ -2046,12 +2106,16 @@
           {
             "name": "Profissional",
             "count": 10
+          },
+          {
+            "name": "Público geral",
+            "count": 3
           }
         ],
         "byRite": [
           {
             "name": "Automático",
-            "count": 10
+            "count": 13
           }
         ]
       },
@@ -2236,15 +2300,15 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 66.66666666666666,
-        "officialVolumePct": -99.82956410347067,
-        "analyticalVolumePct": -27.94601432307043
+        "offersPct": 116.66666666666667,
+        "officialVolumePct": -96.27638868239404,
+        "analyticalVolumePct": 1474.2049768199072
       },
       "indices": {
         "month": "2026-09",
         "dataQuality": {
-          "medianPositiveVolume": 64376232.72,
-          "threshold": 6437623272,
+          "medianPositiveVolume": 70000000,
+          "threshold": 7000000000,
           "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
           "outliers": [],
           "outlierCount": 0
@@ -2252,11 +2316,11 @@
         "offerPressure": {
           "code": "IROP",
           "name": "Índice Radar de Oferta Primária",
-          "score": 74.16666666666666,
+          "score": 93.33333333333333,
           "components": {
-            "volume": 54.166666666666664,
-            "quantity": 87.5,
-            "breadth": 87.5
+            "volume": 95.83333333333334,
+            "quantity": 91.66666666666666,
+            "breadth": 91.66666666666667
           },
           "interpretation": "forte",
           "education": {
@@ -2277,15 +2341,15 @@
               "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
               "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
             ],
-            "score": 74.16666666666666,
+            "score": 93.33333333333333,
             "band": "faixa alta",
-            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 74/100, faixa alta."
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 93/100, faixa alta."
           }
         },
         "breadth": {
           "code": "IRBD",
           "name": "Índice Radar de Breadth",
-          "score": 87.5,
+          "score": 91.66666666666667,
           "interpretation": "ampla",
           "education": {
             "code": "IRBD",
@@ -2304,18 +2368,18 @@
               "Não mede concentração de volume sozinho; isso é função do IRCC.",
               "Participante distinto não significa estratégia, qualidade ou porte distintos."
             ],
-            "score": 87.5,
+            "score": 91.66666666666667,
             "band": "faixa alta",
-            "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 88/100, faixa alta."
+            "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 92/100, faixa alta."
           }
         },
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 15.39805829884953,
-          "countHHI": 4.333333333333337,
-          "volumeHHI": 26.462783264365726,
-          "interpretation": "baixa",
+          "score": 46.815977111076,
+          "countHHI": 3.9729501267962855,
+          "volumeHHI": 89.65900409535571,
+          "interpretation": "moderada",
           "education": {
             "code": "IRCC",
             "name": "Índice Radar de Concentração",
@@ -2333,22 +2397,22 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 15.39805829884953,
-            "band": "faixa baixa",
-            "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 15/100, faixa baixa."
+            "score": 46.815977111076,
+            "band": "faixa intermediária",
+            "currentReading": "A concentração é moderada: há alguma dispersão, mas participantes relevantes ainda pesam na estrutura do mês. Score 47/100, faixa intermediária."
           }
         },
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 68.36397058823529,
+          "score": 64.81907894736842,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 75,
+              "score": 73.6842105263158,
               "weight": 0.3
             },
             {
@@ -2360,16 +2424,16 @@
               "weight": 0.3
             },
             {
-              "key": "credito3m",
-              "label": "Crescimento 3m do saldo PJ",
-              "value": 0.7143242223300428,
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
               "date": "2026-08-01",
-              "score": 14.705882352941178,
+              "score": 2.5,
               "weight": 0.2
             }
           ],
           "asOf": "2026-09-30",
-          "interpretation": "favoráveis",
+          "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
             "name": "Índice Radar de Condições de Funding",
@@ -2388,15 +2452,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 68.36397058823529,
-            "band": "faixa alta",
-            "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+            "score": 64.81907894736842,
+            "band": "faixa intermediária",
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 72.42585784313724,
+          "score": 84.77905701754386,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -2416,38 +2480,38 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 72.42585784313724,
+            "score": 84.77905701754386,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 72/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 85/100, faixa alta."
           }
         },
         "projection": {
           "year": 2026,
           "actualThrough": "2026-09",
-          "officialActualVolume": 254512699757.29,
-          "adjustedActualVolume": 4512699757.29,
-          "actualOffers": 40,
+          "officialActualVolume": 263416699757.29,
+          "adjustedActualVolume": 13416699757.29,
+          "actualOffers": 43,
           "remainingMonths": 3,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 5013325804.53,
-              "offers": 48,
+              "volume": 13917325804.53,
+              "offers": 51,
               "monthlyVolumeAssumption": 166875349.07999998,
               "monthlyOfferAssumption": 2.75
             },
             {
               "label": "Base",
-              "volume": 5726196757.440001,
-              "offers": 52,
-              "monthlyVolumeAssumption": 404499000.05,
+              "volume": 14870594519.865002,
+              "offers": 55,
+              "monthlyVolumeAssumption": 484631587.525,
               "monthlyOfferAssumption": 4
             },
             {
               "label": "Expansão",
-              "volume": 6371012257.29,
-              "offers": 58,
-              "monthlyVolumeAssumption": 619437500,
+              "volume": 15691638897.735,
+              "offers": 61,
+              "monthlyVolumeAssumption": 758313046.815,
               "monthlyOfferAssumption": 6
             }
           ],
@@ -2456,10 +2520,10 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIAGRO ficou 66,7% acima da última competência disponível (2026-08).",
-        "O volume analítico ajustado ficou 27,9% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
-        "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM liderou o mês por quantidade, com 3 ofertas.",
-        "O IROP encerrou em 74/100 (forte); o IRPM ficou em 72/100 (expansivo)."
+        "A quantidade de ofertas FIAGRO ficou 116,7% acima da última competência disponível (2026-08).",
+        "O volume analítico ajustado ficou 1474,2% acima da última competência disponível. O volume oficial continua reportado separadamente.",
+        "XP INVESTIMENTOS CCTVM S.A. liderou o mês por quantidade, com 3 ofertas.",
+        "O IROP encerrou em 93/100 (forte); o IRPM ficou em 85/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -2485,29 +2549,23 @@
         "month": "2026-09",
         "offers": 38,
         "offersWithVolume": 38,
-        "registeredVolume": 15719536701.55,
-        "analyticalVolume": 15719536701.55,
-        "averageTicket": 413672018.46184206,
+        "registeredVolume": 11654562740.01,
+        "analyticalVolume": 11654562740.01,
+        "averageTicket": 306699019.47394735,
         "issuers": 37,
         "leaders": 16,
         "topLeaders": [
           {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
             "cnpj": "59.281.253/0001-23",
-            "count": 6,
-            "volume": 1521152206.53
+            "count": 8,
+            "volume": 2041740406.5300002
           },
           {
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
             "cnpj": "04.845.753/0001-59",
-            "count": 5,
-            "volume": 5007372129.04
-          },
-          {
-            "name": "XP INVESTIMENTOS CCTVM S.A.",
-            "cnpj": "02.332.886/0001-04",
             "count": 4,
-            "volume": 3715957699.66
+            "volume": 1816220019.96
           },
           {
             "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -2516,10 +2574,22 @@
             "volume": 665000000
           },
           {
-            "name": "BANCO DAYCOVAL S.A.",
-            "cnpj": "62.232.889/0001-90",
+            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "cnpj": "22.610.500/0001-88",
             "count": 3,
-            "volume": 202518426.57
+            "volume": 546872832.32
+          },
+          {
+            "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "cnpj": "16.695.922/0001-09",
+            "count": 3,
+            "volume": 3840001.4299999997
+          },
+          {
+            "name": "XP INVESTIMENTOS CCTVM S.A.",
+            "cnpj": "02.332.886/0001-04",
+            "count": 2,
+            "volume": 2265957699.66
           },
           {
             "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -2532,12 +2602,6 @@
             "cnpj": "13.486.793/0001-42",
             "count": 2,
             "volume": 1200000000
-          },
-          {
-            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "cnpj": "22.610.500/0001-88",
-            "count": 2,
-            "volume": 336872884.79
           },
           {
             "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -2553,24 +2617,6 @@
           }
         ],
         "topOffers": [
-          {
-            "name": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-            "cnpj": "16.706.958/0001-32",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "count": 1,
-            "volume": 3191152109.08,
-            "records": [
-              {
-                "id": "2d3c782dd3d513ed",
-                "registration": "28105",
-                "processNumber": "SRE/3139/2026",
-                "volume": 3191152109.08,
-                "date": "2026-09-28",
-                "status": "Registro Concedido",
-                "publications": []
-              }
-            ]
-          },
           {
             "name": "TRX LOGISTICO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
             "cnpj": "67.988.297/0001-16",
@@ -2602,24 +2648,6 @@
                 "processNumber": "SRE/2774/2026",
                 "volume": 1113503162.85,
                 "date": "2026-09-08",
-                "status": "Registro Concedido",
-                "publications": []
-              }
-            ]
-          },
-          {
-            "name": "SPX PORTFÓLIO ALFA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-            "cnpj": "69.197.328/0001-46",
-            "leader": "XP INVESTIMENTOS CCTVM S.A.",
-            "count": 1,
-            "volume": 1075000000,
-            "records": [
-              {
-                "id": "a4af5caa9a99f698",
-                "registration": "28093",
-                "processNumber": "SRE/3195/2026",
-                "volume": 1075000000,
-                "date": "2026-09-30",
                 "status": "Registro Concedido",
                 "publications": []
               }
@@ -2752,6 +2780,24 @@
             ]
           },
           {
+            "name": "VALORA CDI RENDA IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+            "cnpj": "69.269.110/0001-50",
+            "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+            "count": 1,
+            "volume": 470588200,
+            "records": [
+              {
+                "id": "4e77d1aee3669758",
+                "registration": "28162",
+                "processNumber": "SRE/3194/2026",
+                "volume": 470588200,
+                "date": "2026-09-30",
+                "status": "Registro Concedido",
+                "publications": []
+              }
+            ]
+          },
+          {
             "name": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
             "cnpj": "42.754.362/0001-18",
             "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -2768,6 +2814,24 @@
                 "publications": []
               }
             ]
+          },
+          {
+            "name": "PATRIA DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+            "cnpj": "68.618.790/0001-07",
+            "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+            "count": 1,
+            "volume": 400000000,
+            "records": [
+              {
+                "id": "995402106a0ce256",
+                "registration": "27890",
+                "processNumber": "SRE/2966/2026",
+                "volume": 400000000,
+                "date": "2026-09-15",
+                "status": "Registro Concedido",
+                "publications": []
+              }
+            ]
           }
         ],
         "outliers": [],
@@ -2775,15 +2839,15 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 29
-          },
-          {
-            "name": "Público geral",
-            "count": 5
+            "count": 31
           },
           {
             "name": "Qualificado",
-            "count": 4
+            "count": 5
+          },
+          {
+            "name": "Público geral",
+            "count": 2
           }
         ],
         "byRite": [
@@ -3076,7 +3140,7 @@
                 "processNumber": "SRE/2685/2026",
                 "volume": 100400000,
                 "date": "2026-08-21",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -3111,14 +3175,14 @@
       },
       "changes": {
         "offersPct": 90,
-        "officialVolumePct": 85.28738773014399,
-        "analyticalVolumePct": 85.28738773014399
+        "officialVolumePct": 37.373227101571885,
+        "analyticalVolumePct": 37.373227101571885
       },
       "indices": {
         "month": "2026-09",
         "dataQuality": {
-          "medianPositiveVolume": 135692960,
-          "threshold": 13569296000,
+          "medianPositiveVolume": 130000000,
+          "threshold": 13000000000,
           "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
           "outliers": [],
           "outlierCount": 0
@@ -3126,9 +3190,9 @@
         "offerPressure": {
           "code": "IROP",
           "name": "Índice Radar de Oferta Primária",
-          "score": 91.875,
+          "score": 88.54166666666667,
           "components": {
-            "volume": 95.83333333333334,
+            "volume": 87.5,
             "quantity": 87.5,
             "breadth": 91.66666666666667
           },
@@ -3151,9 +3215,9 @@
               "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
               "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
             ],
-            "score": 91.875,
+            "score": 88.54166666666667,
             "band": "faixa alta",
-            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 92/100, faixa alta."
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 89/100, faixa alta."
           }
         },
         "breadth": {
@@ -3186,9 +3250,9 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 7.848827198485077,
-          "countHHI": 2.4930747922437644,
-          "volumeHHI": 13.20457960472639,
+          "score": 5.261706126283146,
+          "countHHI": 3.3795013850415474,
+          "volumeHHI": 7.143910867524745,
           "interpretation": "baixa",
           "education": {
             "code": "IRCC",
@@ -3207,22 +3271,22 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 7.848827198485077,
+            "score": 5.261706126283146,
             "band": "faixa baixa",
-            "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 8/100, faixa baixa."
+            "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 5/100, faixa baixa."
           }
         },
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 68.36397058823529,
+          "score": 64.81907894736842,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 75,
+              "score": 73.6842105263158,
               "weight": 0.3
             },
             {
@@ -3234,16 +3298,16 @@
               "weight": 0.3
             },
             {
-              "key": "credito3m",
-              "label": "Crescimento 3m do saldo PJ",
-              "value": 0.7143242223300428,
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
               "date": "2026-08-01",
-              "score": 14.705882352941178,
+              "score": 2.5,
               "weight": 0.2
             }
           ],
           "asOf": "2026-09-30",
-          "interpretation": "favoráveis",
+          "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
             "name": "Índice Radar de Condições de Funding",
@@ -3262,15 +3326,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 68.36397058823529,
-            "band": "faixa alta",
-            "currentReading": "As condições de funding estão relativamente favoráveis dentro da amostra observada. Score 68/100, faixa alta."
+            "score": 64.81907894736842,
+            "band": "faixa intermediária",
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 84.82169117647058,
+          "score": 81.42489035087719,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -3290,36 +3354,36 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 84.82169117647058,
+            "score": 81.42489035087719,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 85/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
           }
         },
         "projection": {
           "year": 2026,
           "actualThrough": "2026-09",
-          "officialActualVolume": 53936500613.240005,
-          "adjustedActualVolume": 53936500613.240005,
+          "officialActualVolume": 49871526651.700005,
+          "adjustedActualVolume": 49871526651.700005,
           "actualOffers": 154,
           "remainingMonths": 3,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 59072108107.05501,
+              "volume": 55007134145.51501,
               "offers": 177,
               "monthlyVolumeAssumption": 1711869164.605,
               "monthlyOfferAssumption": 7.75
             },
             {
               "label": "Base",
-              "volume": 66580964609.75001,
+              "volume": 62515990648.21001,
               "offers": 195,
               "monthlyVolumeAssumption": 4214821332.17,
               "monthlyOfferAssumption": 13.5
             },
             {
               "label": "Expansão",
-              "volume": 80680902451.37,
+              "volume": 76615928489.83,
               "offers": 234,
               "monthlyVolumeAssumption": 8914800612.71,
               "monthlyOfferAssumption": 26.75
@@ -3331,9 +3395,9 @@
       },
       "editorial": [
         "A quantidade de ofertas FII ficou 90,0% acima da última competência disponível (2026-08).",
-        "O volume analítico ajustado ficou 85,3% acima da última competência disponível. O volume oficial continua reportado separadamente.",
-        "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM liderou o mês por quantidade, com 6 ofertas.",
-        "O IROP encerrou em 92/100 (forte); o IRPM ficou em 85/100 (expansivo)."
+        "O volume analítico ajustado ficou 37,4% acima da última competência disponível. O volume oficial continua reportado separadamente.",
+        "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM liderou o mês por quantidade, com 8 ofertas.",
+        "O IROP encerrou em 89/100 (forte); o IRPM ficou em 81/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -3361,19 +3425,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-02",
-          "value": 13.9
-        },
         {
           "date": "2026-09-03",
           "value": 13.9
@@ -3449,6 +3509,10 @@
         {
           "date": "2026-09-30",
           "value": 13.65
+        },
+        {
+          "date": "2026-10-01",
+          "value": 13.65
         }
       ]
     },
@@ -3456,107 +3520,107 @@
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 3.35
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 3.32
+      },
+      "change": 0.03000000000000025,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2.43
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2.52
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2.49
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2.72
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2.79
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2.85
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2.77
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2.82
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2.75
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2.7
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2.87
+        },
+        {
+          "date": "2026-02-01",
+          "value": 3.07
+        },
+        {
+          "date": "2026-03-01",
+          "value": 3.06
+        },
+        {
+          "date": "2026-04-01",
+          "value": 3.15
+        },
+        {
+          "date": "2026-05-01",
+          "value": 3.25
+        },
+        {
+          "date": "2026-06-01",
+          "value": 3.18
+        },
+        {
+          "date": "2026-07-01",
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
+        }
+      ]
     },
     "estoquePJ": {
       "id": 20540,
       "label": "Saldo da carteira de crédito PJ",
       "unit": "R$ milhões",
-      "latest": {
-        "date": "2026-08-01",
-        "value": 2727499
-      },
-      "previous": {
-        "date": "2026-07-01",
-        "value": 2729162
-      },
-      "change": -1663,
-      "history": [
-        {
-          "date": "2025-01-01",
-          "value": 2451957
-        },
-        {
-          "date": "2025-02-01",
-          "value": 2477151
-        },
-        {
-          "date": "2025-03-01",
-          "value": 2498262
-        },
-        {
-          "date": "2025-04-01",
-          "value": 2512426
-        },
-        {
-          "date": "2025-05-01",
-          "value": 2532708
-        },
-        {
-          "date": "2025-06-01",
-          "value": 2547693
-        },
-        {
-          "date": "2025-07-01",
-          "value": 2544400
-        },
-        {
-          "date": "2025-08-01",
-          "value": 2546265
-        },
-        {
-          "date": "2025-09-01",
-          "value": 2589817
-        },
-        {
-          "date": "2025-10-01",
-          "value": 2597630
-        },
-        {
-          "date": "2025-11-01",
-          "value": 2616902
-        },
-        {
-          "date": "2025-12-01",
-          "value": 2701735
-        },
-        {
-          "date": "2026-01-01",
-          "value": 2654220
-        },
-        {
-          "date": "2026-02-01",
-          "value": 2656484
-        },
-        {
-          "date": "2026-03-01",
-          "value": 2687535
-        },
-        {
-          "date": "2026-04-01",
-          "value": 2685397
-        },
-        {
-          "date": "2026-05-01",
-          "value": 2708154
-        },
-        {
-          "date": "2026-06-01",
-          "value": 2750634
-        },
-        {
-          "date": "2026-07-01",
-          "value": 2729162
-        },
-        {
-          "date": "2026-08-01",
-          "value": 2727499
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "timeout após 8000 ms"
     },
     "spreadPJ": {
       "id": 27632,
@@ -3657,26 +3721,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "01/10/2026",
+      "date": "02/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "30/09/2026",
+      "date": "01/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "30/09/2026",
+      "date": "01/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "30/09/2026",
-      "value": 5.1809,
+      "date": "01/10/2026",
+      "value": 5.2079,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -3736,7 +3800,7 @@
     }
   ],
   "houseView": {
-    "headline": "FII liderou o volume analítico do mês; o Radar isolou 2 outlier(s) oficial(is) para preservar a leitura.",
+    "headline": "FIDC liderou o volume analítico do mês; o Radar isolou 2 outlier(s) oficial(is) para preservar a leitura.",
     "principles": [
       "Volume registrado mede tamanho de oferta, não captação efetiva.",
       "Outliers estatísticos permanecem no dado oficial e são isolados apenas na camada analítica, com regra pública.",
@@ -3747,7 +3811,7 @@
   "methodology": "Carta mensal construída sobre ofertas oficiais da CVM consolidadas por número de oferta/processo, indicadores macro do BCB/SGS e quadro público da ANBIMA. Quando a competência imediatamente anterior não tem registros datados, a comparação usa a última competência disponível e explicita o intervalo. Índices Radar usam metodologia proprietária pública, reproduzível e robusta a outliers.",
   "intelligence": {
     "brief": {
-      "headline": "FII lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
+      "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
       "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
       "watch": [
         "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
@@ -3763,22 +3827,22 @@
         "evidence": [
           {
             "label": "IROP agregado",
-            "value": 84.65277777777777,
+            "value": 89.93055555555556,
             "source": "Metodologia Radar / CVM"
           },
           {
             "label": "IRFC",
-            "value": 68.36397058823529,
+            "value": 64.81907894736842,
             "source": "Metodologia Radar / BCB"
           },
           {
             "label": "IRBD",
-            "value": 88.8888888888889,
+            "value": 90.27777777777779,
             "source": "Metodologia Radar / CVM"
           },
           {
             "label": "IRCC",
-            "value": 10.614764512152407,
+            "value": 20.109199177479457,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -3803,27 +3867,27 @@
       },
       {
         "id": "leading-vertical",
-        "title": "FII lidera a pressão relativa de oferta",
-        "statement": "Na competência 2026-09, FII apresenta o maior IROP entre as três verticais. Isso mede intensidade relativa do pipeline na própria história do segmento; não significa maior retorno, melhor qualidade ou captação garantida.",
+        "title": "FIAGRO lidera a pressão relativa de oferta",
+        "statement": "Na competência 2026-09, FIAGRO apresenta o maior IROP entre as três verticais. Isso mede intensidade relativa do pipeline na própria história do segmento; não significa maior retorno, melhor qualidade ou captação garantida.",
         "evidence": [
           {
-            "label": "IROP FII",
-            "value": 91.875,
+            "label": "IROP FIAGRO",
+            "value": 93.33333333333333,
             "source": "Metodologia Radar / CVM"
           },
           {
-            "label": "IRBD FII",
+            "label": "IRBD FIAGRO",
             "value": 91.66666666666667,
             "source": "Metodologia Radar / CVM"
           },
           {
-            "label": "IRPM FII",
-            "value": 84.82169117647058,
+            "label": "IRPM FIAGRO",
+            "value": 84.77905701754386,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 68.36397058823529,
+            "value": 64.81907894736842,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -3835,7 +3899,7 @@
           "funding menos restritivo pode melhorar capacidade de absorção"
         ],
         "confirms": [
-          "IROP de FII permanece acima das demais verticais",
+          "IROP de FIAGRO permanece acima das demais verticais",
           "breadth acompanha o aumento de oferta",
           "novas competências mantêm atividade sem depender de poucos coordenadores"
         ],
@@ -3853,22 +3917,22 @@
         "evidence": [
           {
             "label": "IROP FII",
-            "value": 91.875,
+            "value": 88.54166666666667,
             "source": "Metodologia Radar / CVM"
           },
           {
             "label": "IRFC",
-            "value": 68.36397058823529,
+            "value": 64.81907894736842,
             "source": "Metodologia Radar / BCB"
           },
           {
             "label": "IRCC FII",
-            "value": 7.848827198485077,
+            "value": 5.261706126283146,
             "source": "Metodologia Radar / CVM"
           },
           {
             "label": "Cenário base anual",
-            "value": 66580964609.75001,
+            "value": 62515990648.21001,
             "source": "Cenário Radar"
           }
         ],
@@ -3901,13 +3965,13 @@
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
-          "IRCC": 8.597408039122614,
-          "IRFC": 68.36397058823529,
-          "IRPM": 82.05085784313724
+          "IRCC": 8.24991429507923,
+          "IRFC": 64.81907894736842,
+          "IRPM": 80.98739035087718
         },
         "bands": {
           "offer": "alto",
-          "funding": "alto",
+          "funding": "intermediário",
           "pulse": "alto",
           "concentration": "baixo"
         }
@@ -3917,17 +3981,17 @@
         "headline": "Oferta forte com funding mais construtivo",
         "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
         "scores": {
-          "IROP": 74.16666666666666,
-          "IRBD": 87.5,
-          "IRCC": 15.39805829884953,
-          "IRFC": 68.36397058823529,
-          "IRPM": 72.42585784313724
+          "IROP": 93.33333333333333,
+          "IRBD": 91.66666666666667,
+          "IRCC": 46.815977111076,
+          "IRFC": 64.81907894736842,
+          "IRPM": 84.77905701754386
         },
         "bands": {
           "offer": "alto",
-          "funding": "alto",
+          "funding": "intermediário",
           "pulse": "alto",
-          "concentration": "baixo"
+          "concentration": "intermediário"
         }
       },
       {
@@ -3935,15 +3999,15 @@
         "headline": "Oferta forte com funding mais construtivo",
         "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
         "scores": {
-          "IROP": 91.875,
+          "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
-          "IRCC": 7.848827198485077,
-          "IRFC": 68.36397058823529,
-          "IRPM": 84.82169117647058
+          "IRCC": 5.261706126283146,
+          "IRFC": 64.81907894736842,
+          "IRPM": 81.42489035087719
         },
         "bands": {
           "offer": "alto",
-          "funding": "alto",
+          "funding": "intermediário",
           "pulse": "alto",
           "concentration": "baixo"
         }
@@ -3954,24 +4018,24 @@
         "market": "FIDC",
         "current": {
           "IROP": 87.91666666666666,
-          "IRPM": 82.05085784313724,
-          "IRFC": 68.36397058823529
+          "IRPM": 80.98739035087718,
+          "IRFC": 64.81907894736842
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 45247072952.714966,
-            "offers": 565
+            "volume": 45173672952.38498,
+            "offers": 560
           },
           {
             "label": "Base",
-            "volume": 48162769121.60997,
-            "offers": 597
+            "volume": 48089369121.279976,
+            "offers": 592
           },
           {
             "label": "Expansão",
-            "volume": 60753866179.98747,
-            "offers": 784
+            "volume": 60680466179.65748,
+            "offers": 775
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -3979,25 +4043,25 @@
       {
         "market": "FIAGRO",
         "current": {
-          "IROP": 74.16666666666666,
-          "IRPM": 72.42585784313724,
-          "IRFC": 68.36397058823529
+          "IROP": 93.33333333333333,
+          "IRPM": 84.77905701754386,
+          "IRFC": 64.81907894736842
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 5013325804.53,
-            "offers": 48
+            "volume": 13917325804.53,
+            "offers": 51
           },
           {
             "label": "Base",
-            "volume": 5726196757.440001,
-            "offers": 52
+            "volume": 14870594519.865002,
+            "offers": 55
           },
           {
             "label": "Expansão",
-            "volume": 6371012257.29,
-            "offers": 58
+            "volume": 15691638897.735,
+            "offers": 61
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -4005,24 +4069,24 @@
       {
         "market": "FII",
         "current": {
-          "IROP": 91.875,
-          "IRPM": 84.82169117647058,
-          "IRFC": 68.36397058823529
+          "IROP": 88.54166666666667,
+          "IRPM": 81.42489035087719,
+          "IRFC": 64.81907894736842
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 59072108107.05501,
+            "volume": 55007134145.51501,
             "offers": 177
           },
           {
             "label": "Base",
-            "volume": 66580964609.75001,
+            "volume": 62515990648.21001,
             "offers": 195
           },
           {
             "label": "Expansão",
-            "volume": 80680902451.37,
+            "volume": 76615928489.83,
             "offers": 234
           }
         ],

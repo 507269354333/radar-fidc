@@ -1,78 +1,36 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-01T08:00:48.806199",
+  "sourceUpdatedAt": "2026-10-02T08:00:47.543804",
   "market": "FIAGRO",
-  "count": 169,
+  "count": 173,
   "analytics": {
-    "latestMonth": "2026-09",
-    "offersInMonth": 10,
-    "volumeInMonth": 427100000.1,
-    "offersWithVolumeInMonth": 9,
-    "leadersInMonth": 7,
+    "latestMonth": "2026-10",
+    "offersInMonth": 1,
+    "volumeInMonth": 30000943,
+    "offersWithVolumeInMonth": 1,
+    "leadersInMonth": 1,
     "byRite": [
       {
         "name": "Automático",
-        "count": 10
+        "count": 1
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 10
+        "count": 1
       }
     ],
     "topLeaders": [
       {
-        "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-        "cnpj": "28.650.236/0001-92",
-        "count": 3,
-        "volume": 100000000
-      },
-      {
-        "name": "BANCO DAYCOVAL S.A.",
-        "cnpj": "62.232.889/0001-90",
-        "count": 2,
-        "volume": 85000000
-      },
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
+        "name": "PLANNER CORRETORA DE VALORES S.A.",
+        "cnpj": "00.806.535/0001-54",
         "count": 1,
-        "volume": 231000000
-      },
-      {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
-        "count": 1,
-        "volume": 4500000
-      },
-      {
-        "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "cnpj": "16.695.922/0001-09",
-        "count": 1,
-        "volume": 4000000.1
-      },
-      {
-        "name": "YARDS ASSET GESTORA DE RECURSOS LTDA.",
-        "cnpj": "37.537.640/0001-45",
-        "count": 1,
-        "volume": 2600000
-      },
-      {
-        "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-        "cnpj": "46.482.072/0001-13",
-        "count": 1,
-        "volume": 0
+        "volume": 30000943
       }
     ],
     "byMonth": [
-      {
-        "month": "2024-12",
-        "count": 5,
-        "volume": 530000000,
-        "withVolume": 5
-      },
       {
         "month": "2025-01",
         "count": 7,
@@ -171,22 +129,28 @@
       },
       {
         "month": "2026-09",
-        "count": 10,
-        "volume": 427100000.1,
-        "withVolume": 9
+        "count": 13,
+        "volume": 9331100000.1,
+        "withVolume": 12
+      },
+      {
+        "month": "2026-10",
+        "count": 1,
+        "volume": 30000943,
+        "withVolume": 1
       }
     ],
     "trailing12": {
       "offers": 57,
-      "volume": 255709451944.55,
+      "volume": 264381452887.55,
       "offersWithVolume": 56,
       "leaders": 20,
       "topLeaders": [
         {
-          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "cnpj": "22.610.500/0001-88",
-          "count": 8,
-          "volume": 279250000
+          "name": "XP INVESTIMENTOS CCTVM S.A.",
+          "cnpj": "02.332.886/0001-04",
+          "count": 7,
+          "volume": 10101500010.2
         },
         {
           "name": "BANCO DAYCOVAL S.A.",
@@ -213,10 +177,10 @@
           "volume": 594498000
         },
         {
-          "name": "XP INVESTIMENTOS CCTVM S.A.",
-          "cnpj": "02.332.886/0001-04",
-          "count": 4,
-          "volume": 1197500010.2
+          "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "cnpj": "22.610.500/0001-88",
+          "count": 5,
+          "volume": 129250000
         },
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -227,14 +191,20 @@
         {
           "name": "BANCO VOTORANTIM S.A.",
           "cnpj": "59.588.111/0001-03",
-          "count": 4,
-          "volume": 372652000
+          "count": 3,
+          "volume": 260652000
         },
         {
           "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
           "cnpj": "46.482.072/0001-13",
           "count": 2,
           "volume": 250000000000
+        },
+        {
+          "name": "PLANNER CORRETORA DE VALORES S.A.",
+          "cnpj": "00.806.535/0001-54",
+          "count": 2,
+          "volume": 130000943
         },
         {
           "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
@@ -247,12 +217,6 @@
           "cnpj": "55.440.852/0001-91",
           "count": 1,
           "volume": 124500000
-        },
-        {
-          "name": "PLANNER CORRETORA DE VALORES S.A.",
-          "cnpj": "00.806.535/0001-54",
-          "count": 1,
-          "volume": 100000000
         },
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -276,7 +240,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 64376232.72,
+      "medianPositiveVolume": 67500232.72,
       "outlierCount": 1,
       "outliers": [
         {
@@ -289,6 +253,102 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "3788c7b2ef28c2cc",
+        "market": "FIAGRO",
+        "name": "FORTUNE CARBON REMOVAL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO",
+        "cnpj": "63.550.475/0001-71",
+        "registration": "28164",
+        "processNumber": "SRE/3198/2026",
+        "leader": "PLANNER CORRETORA DE VALORES S.A.",
+        "leaderCnpj": "00.806.535/0001-54",
+        "volume": 30000943,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-01",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "d7d9ed348ad28251",
+        "market": "FIAGRO",
+        "name": "XP CDI 94 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.198.825/0001-69",
+        "registration": "28157",
+        "processNumber": "SRE/3185/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "leaderCnpj": "02.332.886/0001-04",
+        "volume": 1802000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Oferta Encerrada",
+        "date": "2026-09-23",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "86379c16094aa600",
+        "market": "FIAGRO",
+        "name": "XP CDI 95 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.199.119/0001-31",
+        "registration": "28158",
+        "processNumber": "SRE/3188/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "leaderCnpj": "02.332.886/0001-04",
+        "volume": 1802000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Oferta Encerrada",
+        "date": "2026-09-23",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "8a9441681c734645",
+        "market": "FIAGRO",
+        "name": "XP CDI CRA FIAGRO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.200.019/0001-88",
+        "registration": "28160",
+        "processNumber": "SRE/3190/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "leaderCnpj": "02.332.886/0001-04",
+        "volume": 5300000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Oferta Encerrada",
+        "date": "2026-09-23",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "16cc9a3be2f3f435",
         "market": "FIAGRO",
@@ -552,105 +612,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "f28399b31bc4c68a",
-        "market": "FIAGRO",
-        "name": "FIAGRO BTG PACTUAL I RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.703.584/0001-03",
-        "registration": "27706",
-        "processNumber": "SRE/2779/2026",
-        "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-        "leaderCnpj": "46.482.072/0001-13",
-        "volume": 250000000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-08-28",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "130aff39146f3a74",
-        "market": "FIAGRO",
-        "name": "CULTTIVO CREDITO AGRICOLA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
-        "cnpj": "44.302.001/0001-66",
-        "registration": "27668",
-        "processNumber": "SRE/2736/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "leaderCnpj": "22.610.500/0001-88",
-        "volume": 3750000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-08-27",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "e46f45db956dcfa5",
-        "market": "FIAGRO",
-        "name": "MOBIUS LM FIAGRO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "57.182.805/0001-10",
-        "registration": "27663",
-        "processNumber": "SRE/2737/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "leaderCnpj": "62.232.889/0001-90",
-        "volume": 420000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-08-27",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "fc68a647b40f6291",
-        "market": "FIAGRO",
-        "name": "BIO CANTO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.555.204/0001-22",
-        "registration": "27654",
-        "processNumber": "SRE/2723/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "leaderCnpj": "04.845.753/0001-59",
-        "volume": 34000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-08-26",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-01T17:23:05.286Z"
+  "updatedAt": "2026-10-02T16:38:53.709Z"
 }
