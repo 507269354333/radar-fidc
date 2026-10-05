@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-02T16:38:53.775Z",
+  "generatedAt": "2026-10-05T19:38:07.323Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-02T08:00:47.543804"
+    "updatedAt": "2026-10-05T08:02:15.813546"
   },
   "coordinators": [
     {
@@ -1196,8 +1196,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 153,
-          "volume": 28061248543.73
+          "count": 154,
+          "volume": 28361248543.73
         },
         {
           "market": "FIAGRO",
@@ -2759,8 +2759,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 10,
-          "volume": 1329498000
+          "count": 11,
+          "volume": 1859498000
         },
         {
           "market": "FII",
@@ -3356,13 +3356,13 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 150,
-          "volume": 10520073198.679995
+          "count": 153,
+          "volume": 10690073198.679995
         },
         {
           "market": "FIAGRO",
-          "count": 18,
-          "volume": 789849275
+          "count": 19,
+          "volume": 809849275
         },
         {
           "market": "FII",
@@ -6176,8 +6176,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1044,
-          "volume": 56981070860.47996
+          "count": 1045,
+          "volume": 57031070860.47996
         },
         {
           "market": "FIAGRO",
@@ -7740,6 +7740,141 @@
           "market": "FII",
           "count": 28,
           "volume": 5728807931.02
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:36266751000100",
+      "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "36.266.751/0001-00",
+      "stats12m": {
+        "offers": 4,
+        "volume": 736000000,
+        "offersWithVolume": 4,
+        "averageTicket": 184000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 665000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 71000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "c0318d1661319c7b",
+          "market": "FII",
+          "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.445.142/0001-69",
+          "registration": "28199",
+          "processNumber": "SRE/3230/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 71000000,
+          "date": "2026-10-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5f545683c72b650a",
+          "market": "FII",
+          "name": "PAC-MAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.948.341/0001-27",
+          "registration": "27937",
+          "processNumber": "SRE/3076/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 500000000,
+          "date": "2026-09-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "952256c8ef368e35",
+          "market": "FII",
+          "name": "TERRA NOVA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.131.160/0001-76",
+          "registration": "27942",
+          "processNumber": "SRE/3075/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 15000000,
+          "date": "2026-09-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "05150959b1eb7c0a",
+          "market": "FII",
+          "name": "SC DRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.950.709/0001-91",
+          "registration": "27817",
+          "processNumber": "SRE/2960/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 150000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3fd68d734492727b",
+          "market": "FII",
+          "name": "WHG FINVEST SP REALTY FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "43.741.150/0001-69",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 91400000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-04-28",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 17,
+          "volume": 2609012200
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 5,
+          "volume": 827400000
         }
       ]
     },
@@ -9721,120 +9856,6 @@
       ]
     },
     {
-      "key": "CNPJ:36266751000100",
-      "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "36.266.751/0001-00",
-      "stats12m": {
-        "offers": 3,
-        "volume": 665000000,
-        "offersWithVolume": 3,
-        "averageTicket": 221666666.66666666
-      },
-      "byMonth": [
-        {
-          "month": "2026-09",
-          "count": 3,
-          "volume": 665000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "5f545683c72b650a",
-          "market": "FII",
-          "name": "PAC-MAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.948.341/0001-27",
-          "registration": "27937",
-          "processNumber": "SRE/3076/2026",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 500000000,
-          "date": "2026-09-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "952256c8ef368e35",
-          "market": "FII",
-          "name": "TERRA NOVA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.131.160/0001-76",
-          "registration": "27942",
-          "processNumber": "SRE/3075/2026",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 15000000,
-          "date": "2026-09-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "05150959b1eb7c0a",
-          "market": "FII",
-          "name": "SC DRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.950.709/0001-91",
-          "registration": "27817",
-          "processNumber": "SRE/2960/2026",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 150000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3fd68d734492727b",
-          "market": "FII",
-          "name": "WHG FINVEST SP REALTY FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "43.741.150/0001-69",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 91400000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-04-28",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 17,
-          "volume": 2609012200
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 4,
-          "volume": 756400000
-        }
-      ]
-    },
-    {
       "key": "CNPJ:36113876000191",
       "name": "OLIVEIRA TRUST DTVM S.A.",
       "cnpj": "36.113.876/0001-91",
@@ -10910,8 +10931,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 235,
-          "volume": 6903205114.030002
+          "count": 238,
+          "volume": 7003205114.030001
         },
         {
           "market": "FIAGRO",
@@ -11216,7 +11237,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 30,
+          "count": 31,
           "volume": 26157669000
         },
         {

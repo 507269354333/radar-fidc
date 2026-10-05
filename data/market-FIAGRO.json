@@ -1,33 +1,45 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-02T08:00:47.543804",
+  "sourceUpdatedAt": "2026-10-05T08:02:15.813546",
   "market": "FIAGRO",
-  "count": 173,
+  "count": 175,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 1,
-    "volumeInMonth": 30000943,
-    "offersWithVolumeInMonth": 1,
-    "leadersInMonth": 1,
+    "offersInMonth": 3,
+    "volumeInMonth": 580000943,
+    "offersWithVolumeInMonth": 3,
+    "leadersInMonth": 3,
     "byRite": [
       {
         "name": "Automático",
-        "count": 1
+        "count": 3
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 1
+        "count": 3
       }
     ],
     "topLeaders": [
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 1,
+        "volume": 530000000
+      },
       {
         "name": "PLANNER CORRETORA DE VALORES S.A.",
         "cnpj": "00.806.535/0001-54",
         "count": 1,
         "volume": 30000943
+      },
+      {
+        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "cnpj": "22.610.500/0001-88",
+        "count": 1,
+        "volume": 20000000
       }
     ],
     "byMonth": [
@@ -135,15 +147,15 @@
       },
       {
         "month": "2026-10",
-        "count": 1,
-        "volume": 30000943,
-        "withVolume": 1
+        "count": 3,
+        "volume": 580000943,
+        "withVolume": 3
       }
     ],
     "trailing12": {
-      "offers": 57,
-      "volume": 264381452887.55,
-      "offersWithVolume": 56,
+      "offers": 59,
+      "volume": 264931452887.55,
+      "offersWithVolume": 58,
       "leaders": 20,
       "topLeaders": [
         {
@@ -159,6 +171,12 @@
           "volume": 812312400
         },
         {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 6,
+          "volume": 1124498000
+        },
+        {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
           "count": 6,
@@ -171,16 +189,10 @@
           "volume": 220000186.17999998
         },
         {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
-          "count": 5,
-          "volume": 594498000
-        },
-        {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "cnpj": "22.610.500/0001-88",
-          "count": 5,
-          "volume": 129250000
+          "count": 6,
+          "volume": 149250000
         },
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -253,6 +265,54 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "ebf586d8f3437c71",
+        "market": "FIAGRO",
+        "name": "AGROLOGICA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "64.957.407/0001-94",
+        "registration": "28202",
+        "processNumber": "SRE/3231/2026",
+        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "leaderCnpj": "22.610.500/0001-88",
+        "volume": 20000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-02",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "0ef75625b92d6237",
+        "market": "FIAGRO",
+        "name": "RZK AGRÍCOLA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESP LIMITADA",
+        "cnpj": "68.759.170/0001-98",
+        "registration": "28200",
+        "processNumber": "SRE/3234/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 530000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-02",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "3788c7b2ef28c2cc",
         "market": "FIAGRO",
@@ -564,57 +624,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "93e11c7760e9d6f6",
-        "market": "FIAGRO",
-        "name": "ECOAGRO BRAVE FUNDO DE INVESTIMENTO NAS CADEAIS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.728.243/0001-84",
-        "registration": "27726",
-        "processNumber": "SRE/2795/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "leaderCnpj": "62.232.889/0001-90",
-        "volume": 45000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-01",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "4f7d7c51d3dd920f",
-        "market": "FIAGRO",
-        "name": "TOAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "64.288.683/0001-07",
-        "registration": "27721",
-        "processNumber": "SRE/2792/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "leaderCnpj": "62.232.889/0001-90",
-        "volume": 35000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-08-31",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-02T16:38:53.709Z"
+  "updatedAt": "2026-10-05T19:38:07.260Z"
 }

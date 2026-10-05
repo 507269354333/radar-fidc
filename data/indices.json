@@ -117,30 +117,22 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 64.81907894736842,
+        "score": 49.21568627450981,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 73.6842105263158,
+            "score": 72.22222222222223,
             "weight": 0.3
           },
           {
-            "key": "spreadPJ",
-            "label": "Spread PJ",
-            "value": 4.1,
+            "key": "credito3m",
+            "label": "Crescimento 3m do saldo PJ",
+            "value": 0.7143242223300428,
             "date": "2026-08-01",
-            "score": 97.5,
-            "weight": 0.3
-          },
-          {
-            "key": "inadPJ",
-            "label": "Inadimplência PJ",
-            "value": 3.35,
-            "date": "2026-08-01",
-            "score": 2.5,
+            "score": 14.705882352941178,
             "weight": 0.2
           }
         ],
@@ -164,15 +156,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 64.81907894736842,
+          "score": 49.21568627450981,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 49/100, faixa intermediária."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 80.98739035087718,
+        "score": 76.3063725490196,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -192,9 +184,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 80.98739035087718,
+          "score": 76.3063725490196,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 76/100, faixa alta."
         }
       },
       "projection": {
@@ -332,30 +324,22 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 64.81907894736842,
+        "score": 49.21568627450981,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 73.6842105263158,
+            "score": 72.22222222222223,
             "weight": 0.3
           },
           {
-            "key": "spreadPJ",
-            "label": "Spread PJ",
-            "value": 4.1,
+            "key": "credito3m",
+            "label": "Crescimento 3m do saldo PJ",
+            "value": 0.7143242223300428,
             "date": "2026-08-01",
-            "score": 97.5,
-            "weight": 0.3
-          },
-          {
-            "key": "inadPJ",
-            "label": "Inadimplência PJ",
-            "value": 3.35,
-            "date": "2026-08-01",
-            "score": 2.5,
+            "score": 14.705882352941178,
             "weight": 0.2
           }
         ],
@@ -379,15 +363,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 64.81907894736842,
+          "score": 49.21568627450981,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 49/100, faixa intermediária."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 84.77905701754386,
+        "score": 80.09803921568627,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -407,9 +391,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 84.77905701754386,
+          "score": 80.09803921568627,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 85/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 80/100, faixa alta."
         }
       },
       "projection": {
@@ -547,30 +531,22 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 64.81907894736842,
+        "score": 49.21568627450981,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 73.6842105263158,
+            "score": 72.22222222222223,
             "weight": 0.3
           },
           {
-            "key": "spreadPJ",
-            "label": "Spread PJ",
-            "value": 4.1,
+            "key": "credito3m",
+            "label": "Crescimento 3m do saldo PJ",
+            "value": 0.7143242223300428,
             "date": "2026-08-01",
-            "score": 97.5,
-            "weight": 0.3
-          },
-          {
-            "key": "inadPJ",
-            "label": "Inadimplência PJ",
-            "value": 3.35,
-            "date": "2026-08-01",
-            "score": 2.5,
+            "score": 14.705882352941178,
             "weight": 0.2
           }
         ],
@@ -594,15 +570,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 64.81907894736842,
+          "score": 49.21568627450981,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 49/100, faixa intermediária."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 81.42489035087719,
+        "score": 76.74387254901961,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -622,9 +598,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 81.42489035087719,
+          "score": 76.74387254901961,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
         }
       },
       "projection": {
@@ -775,30 +751,22 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 64.81907894736842,
+        "score": 49.21568627450981,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 73.6842105263158,
+            "score": 72.22222222222223,
             "weight": 0.3
           },
           {
-            "key": "spreadPJ",
-            "label": "Spread PJ",
-            "value": 4.1,
+            "key": "credito3m",
+            "label": "Crescimento 3m do saldo PJ",
+            "value": 0.7143242223300428,
             "date": "2026-08-01",
-            "score": 97.5,
-            "weight": 0.3
-          },
-          {
-            "key": "inadPJ",
-            "label": "Inadimplência PJ",
-            "value": 3.35,
-            "date": "2026-08-01",
-            "score": 2.5,
+            "score": 14.705882352941178,
             "weight": 0.2
           }
         ],
@@ -822,15 +790,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 64.81907894736842,
+          "score": 49.21568627450981,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 65/100, faixa intermediária próximo da transição para a faixa alta."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 49/100, faixa intermediária."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-        "score": 82.39711257309942,
+        "score": 77.71609477124183,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -850,9 +818,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 82.39711257309942,
+          "score": 77.71609477124183,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 82/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
         }
       },
       "projection": {
@@ -1014,5 +982,5 @@
     "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
     "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
   },
-  "generatedAt": "2026-10-02T16:38:53.755Z"
+  "generatedAt": "2026-10-05T19:38:07.301Z"
 }

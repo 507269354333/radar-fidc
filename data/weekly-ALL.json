@@ -1,7 +1,268 @@
 {
-  "generatedAt": "2026-10-02T16:38:53.736Z",
+  "generatedAt": "2026-10-05T19:38:07.285Z",
   "market": "ALL",
   "current": {
+    "period": {
+      "start": "2026-09-28",
+      "end": "2026-10-04"
+    },
+    "offers": 41,
+    "offersWithVolume": 40,
+    "volume": 5696307090.54,
+    "averageTicket": 142407677.2635,
+    "leaders": 17,
+    "topLeaders": [
+      {
+        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "cnpj": "22.610.500/0001-88",
+        "count": 9,
+        "volume": 450499947.53
+      },
+      {
+        "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "cnpj": "39.669.186/0001-01",
+        "count": 5,
+        "volume": 187000000
+      },
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 4,
+        "volume": 920588200
+      },
+      {
+        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "62.285.390/0001-40",
+        "count": 3,
+        "volume": 460000000
+      },
+      {
+        "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+        "cnpj": "28.650.236/0001-92",
+        "count": 3,
+        "volume": 285000000
+      },
+      {
+        "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpj": "24.361.690/0001-72",
+        "count": 3,
+        "volume": 25000000
+      },
+      {
+        "name": "BANCO BRADESCO BBI S.A.",
+        "cnpj": "06.271.464/0001-19",
+        "count": 2,
+        "volume": 2100000000
+      },
+      {
+        "name": "PÁTRIA INVESTIMENTOS LTDA.",
+        "cnpj": "12.461.756/0001-17",
+        "count": 2,
+        "volume": 400000000
+      },
+      {
+        "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpj": "16.695.922/0001-09",
+        "count": 2,
+        "volume": 22840000.01
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 1,
+        "volume": 530000000
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "59a841f4ebe436cd",
+        "market": "FIDC",
+        "name": "Fundo de Investimento em Direitos Creditórios Agibank III Responsabilidade Limitada",
+        "cnpj": "68.965.321/0001-64",
+        "registration": "27915",
+        "processNumber": "SRE/2972/2026",
+        "leader": "BANCO BRADESCO BBI S.A.",
+        "volume": 2100000000,
+        "date": "2026-09-30",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Oferta Encerrada",
+        "publications": []
+      },
+      {
+        "id": "0ef75625b92d6237",
+        "market": "FIAGRO",
+        "name": "RZK AGRÍCOLA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESP LIMITADA",
+        "cnpj": "68.759.170/0001-98",
+        "registration": "28200",
+        "processNumber": "SRE/3234/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "volume": 530000000,
+        "date": "2026-10-02",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "4e77d1aee3669758",
+        "market": "FII",
+        "name": "VALORA CDI RENDA IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.269.110/0001-50",
+        "registration": "28162",
+        "processNumber": "SRE/3194/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "volume": 470588200,
+        "date": "2026-09-30",
+        "rite": "Automático",
+        "audience": "Qualificado",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "171f7819c3351ff7",
+        "market": "FIDC",
+        "name": "IOX REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+        "cnpj": "52.298.532/0001-50",
+        "registration": "28171",
+        "processNumber": "SRE/3206/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "volume": 400000000,
+        "date": "2026-10-01",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "4576409442b42688",
+        "market": "FIDC",
+        "name": "ARTESANAL CDI+ FIC EM COTAS DE FI EM DIREITOS CREDITÓRIOS IV - RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.462.426/0001-09",
+        "registration": "28179",
+        "processNumber": "SRE/3232/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "volume": 300000000,
+        "date": "2026-10-02",
+        "rite": "Automático",
+        "audience": "Qualificado",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "4d22902ece1b9eae",
+        "market": "FIDC",
+        "name": "CLASSE B DO PÁTRIA CRÉDITO DESENVOLVIMENTO AMAZÔNIA FIDC - RESP. LIMITADA",
+        "cnpj": "62.717.254/0001-82",
+        "registration": "28148",
+        "processNumber": "SRE/3178/2026",
+        "leader": "PÁTRIA INVESTIMENTOS LTDA.",
+        "volume": 300000000,
+        "date": "2026-09-30",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "79fd65bd45b6bf38",
+        "market": "FIDC",
+        "name": "SANTA MARIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.209.882/0001-04",
+        "registration": "28170",
+        "processNumber": "SRE/3205/2026",
+        "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+        "volume": 250000000,
+        "date": "2026-10-01",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "977ab2ae56e51924",
+        "market": "FII",
+        "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "63.034.061/0001-90",
+        "registration": "28129",
+        "processNumber": "SRE/3160/2026",
+        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "volume": 209999947.53,
+        "date": "2026-09-29",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 38
+      },
+      {
+        "name": "Qualificado",
+        "count": 3
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 41
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 39
+      },
+      {
+        "name": "Aguardando Bookbuilding",
+        "count": 1
+      },
+      {
+        "name": "Oferta Encerrada",
+        "count": 1
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FIDC",
+        "count": 31
+      },
+      {
+        "name": "FII",
+        "count": 7
+      },
+      {
+        "name": "FIAGRO",
+        "count": 3
+      }
+    ],
+    "professionalShare": 0.926829268292683,
+    "top3Concentration": 0.43902439024390244,
+    "busiestDays": [
+      {
+        "date": "2026-10-02",
+        "count": 13
+      },
+      {
+        "date": "2026-10-01",
+        "count": 11
+      },
+      {
+        "date": "2026-09-30",
+        "count": 10
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Agronegócio",
+        "count": 3
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-09-21",
       "end": "2026-09-27"
@@ -278,307 +539,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-09-14",
-      "end": "2026-09-20"
-    },
-    "offers": 51,
-    "offersWithVolume": 51,
-    "volume": 7875059257.61,
-    "averageTicket": 154412926.6198039,
-    "leaders": 22,
-    "topLeaders": [
-      {
-        "name": "BANCO DAYCOVAL S.A.",
-        "cnpj": "62.232.889/0001-90",
-        "count": 6,
-        "volume": 185930426.57
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 5,
-        "volume": 1233300000
-      },
-      {
-        "name": "BANCO BRADESCO BBI S.A.",
-        "cnpj": "06.271.464/0001-19",
-        "count": 4,
-        "volume": 1879960000
-      },
-      {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
-        "count": 4,
-        "volume": 431372949.67
-      },
-      {
-        "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-        "cnpj": "39.669.186/0001-01",
-        "count": 4,
-        "volume": 366987687.53
-      },
-      {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 3,
-        "volume": 293750000
-      },
-      {
-        "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-        "cnpj": "28.650.236/0001-92",
-        "count": 3,
-        "volume": 100000000
-      },
-      {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 2,
-        "volume": 1705957699.6599998
-      },
-      {
-        "name": "BANCO VOTORANTIM S.A.",
-        "cnpj": "59.588.111/0001-03",
-        "count": 2,
-        "volume": 560000000
-      },
-      {
-        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "62.285.390/0001-40",
-        "count": 2,
-        "volume": 169500000.47
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "042cfb976195547f",
-        "market": "FIDC",
-        "name": "1 CLASSE DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CLIENTES BRF III DE RESP LIMITADA",
-        "cnpj": "69.078.122/0001-05",
-        "registration": "28042",
-        "processNumber": "SRE/3083/2026",
-        "leader": "BANCO BRADESCO BBI S.A.",
-        "volume": 1179960000,
-        "date": "2026-09-18",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "9cb7c36e1786c57f",
-        "market": "FIDC",
-        "name": "TARUMÃ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCIAMENTO DE VEÍCULOS DE RESP LIMITADA",
-        "cnpj": "67.736.126/0001-08",
-        "registration": "27635",
-        "processNumber": "SRE/2709/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 900000000,
-        "date": "2026-09-17",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "0e833585550d360f",
-        "market": "FII",
-        "name": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
-        "cnpj": "28.757.546/0001-00",
-        "registration": "27901",
-        "processNumber": "SRE/2947/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 805957699.66,
-        "date": "2026-09-14",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "ad86c1b6f115acae",
-        "market": "FII",
-        "name": "CTA IV FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.969.695/0001-58",
-        "registration": "27924",
-        "processNumber": "SRE/2977/2026",
-        "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "volume": 800000000,
-        "date": "2026-09-16",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "995402106a0ce256",
-        "market": "FII",
-        "name": "PATRIA DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.618.790/0001-07",
-        "registration": "27890",
-        "processNumber": "SRE/2966/2026",
-        "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "volume": 400000000,
-        "date": "2026-09-15",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "72c432cb49d0d8ef",
-        "market": "FIDC",
-        "name": "SUMUP SMART V FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.778.154/0001-42",
-        "registration": "27679",
-        "processNumber": "SRE/2746/2026",
-        "leader": "BANCO BRADESCO BBI S.A.",
-        "volume": 350000000,
-        "date": "2026-09-16",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "b4eac75ee7454156",
-        "market": "FIDC",
-        "name": "PNEUCASH II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE CLASSE ÚNICA FECHADA RESP LIMITADA",
-        "cnpj": "65.836.995/0001-70",
-        "registration": "27917",
-        "processNumber": "SRE/2967/2026",
-        "leader": "BANCO VOTORANTIM S.A.",
-        "volume": 310000000,
-        "date": "2026-09-18",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "c601088793564c30",
-        "market": "FII",
-        "name": "HIRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "63.806.554/0001-09",
-        "registration": "27950",
-        "processNumber": "SRE/2996/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "volume": 301872949.67,
-        "date": "2026-09-16",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 49
-      },
-      {
-        "name": "Qualificado",
-        "count": 2
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 51
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 41
-      },
-      {
-        "name": "Oferta Encerrada",
-        "count": 10
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FIDC",
-        "count": 35
-      },
-      {
-        "name": "FII",
-        "count": 10
-      },
-      {
-        "name": "FIAGRO",
-        "count": 6
-      }
-    ],
-    "professionalShare": 0.9607843137254902,
-    "top3Concentration": 0.29411764705882354,
-    "busiestDays": [
-      {
-        "date": "2026-09-16",
-        "count": 22
-      },
-      {
-        "date": "2026-09-15",
-        "count": 15
-      },
-      {
-        "date": "2026-09-14",
-        "count": 5
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Agronegócio",
-        "count": 7
-      },
-      {
-        "name": "Meios de pagamento",
-        "count": 3
-      },
-      {
-        "name": "Veículos",
-        "count": 2
-      },
-      {
-        "name": "Infraestrutura",
-        "count": 1
-      },
-      {
-        "name": "Shopping/Varejo",
-        "count": 1
-      }
-    ]
-  },
   "changes": {
-    "offersPct": -47.05882352941176,
-    "volumePct": 71.6285720859696
+    "offersPct": 51.85185185185185,
+    "volumePct": -57.854619938888575
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 40.75,
-      "volume": 71584814005.41249,
-      "leaders": 19.5,
-      "professionalShare": 0.896639576883385,
-      "top3Concentration": 0.34357585139318886
+      "offers": 37.5,
+      "volume": 10297744325.2325,
+      "leaders": 17,
+      "professionalShare": 0.8815932805870886,
+      "top3Concentration": 0.3704277032450407
     },
     "currentVsPrior4Average": {
-      "offersPct": -33.74233128834356,
-      "volumePct": -81.11910753342451
+      "offersPct": 9.333333333333334,
+      "volumePct": -44.68393358162551
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-08-03",
-          "end": "2026-08-09"
-        },
-        "offers": 1,
-        "volume": 45500000,
-        "leaders": 1
-      },
       {
         "period": {
           "start": "2026-08-10",
@@ -641,33 +620,42 @@
         "offers": 27,
         "volume": 13515851754.76,
         "leaders": 14
+      },
+      {
+        "period": {
+          "start": "2026-09-28",
+          "end": "2026-10-04"
+        },
+        "offers": 41,
+        "volume": 5696307090.54,
+        "leaders": 17
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 27 ofertas ALL, 47,1% abaixo da semana anterior.",
-    "Volume informado de R$ 13.515.851.755 em 26 ofertas com valor positivo; ticket médio de R$ 519.840.452.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 81,1% abaixo e a quantidade de ofertas 33,7% abaixo.",
-    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 40,7% das ofertas da semana.",
-    "81,5% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
-    "Sinais de tema pela denominação dos veículos: Agronegócio (3), Consignado (2), Meios de pagamento (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
+    "Atividade semanal de 41 ofertas ALL, 51,9% acima da semana anterior.",
+    "Volume informado de R$ 5.696.307.091 em 40 ofertas com valor positivo; ticket médio de R$ 142.407.677.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 44,7% abaixo e a quantidade de ofertas 9,3% acima.",
+    "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA. liderou por quantidade de registros (9); os três coordenadores mais presentes concentraram 43,9% das ofertas da semana.",
+    "92,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Sinais de tema pela denominação dos veículos: Agronegócio (3). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-02T08:00:47.543804"
+      "updatedAt": "2026-10-05T08:02:15.813546"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-02T16:38:53.677Z"
+      "updatedAt": "2026-10-05T19:38:07.229Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "02/10/2026 09:28"
+      "updatedAt": "05/10/2026 09:40"
     }
   },
   "macro": {
@@ -676,19 +664,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-03",
-          "value": 13.9
-        },
         {
           "date": "2026-09-04",
           "value": 13.9
@@ -764,6 +748,10 @@
         {
           "date": "2026-10-01",
           "value": 13.65
+        },
+        {
+          "date": "2026-10-02",
+          "value": 13.65
         }
       ]
     },
@@ -771,227 +759,141 @@
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": {
-        "date": "2026-08-01",
-        "value": 3.35
-      },
-      "previous": {
-        "date": "2026-07-01",
-        "value": 3.32
-      },
-      "change": 0.03000000000000025,
-      "history": [
-        {
-          "date": "2025-01-01",
-          "value": 2.43
-        },
-        {
-          "date": "2025-02-01",
-          "value": 2.52
-        },
-        {
-          "date": "2025-03-01",
-          "value": 2.49
-        },
-        {
-          "date": "2025-04-01",
-          "value": 2.72
-        },
-        {
-          "date": "2025-05-01",
-          "value": 2.67
-        },
-        {
-          "date": "2025-06-01",
-          "value": 2.67
-        },
-        {
-          "date": "2025-07-01",
-          "value": 2.79
-        },
-        {
-          "date": "2025-08-01",
-          "value": 2.85
-        },
-        {
-          "date": "2025-09-01",
-          "value": 2.77
-        },
-        {
-          "date": "2025-10-01",
-          "value": 2.82
-        },
-        {
-          "date": "2025-11-01",
-          "value": 2.75
-        },
-        {
-          "date": "2025-12-01",
-          "value": 2.7
-        },
-        {
-          "date": "2026-01-01",
-          "value": 2.87
-        },
-        {
-          "date": "2026-02-01",
-          "value": 3.07
-        },
-        {
-          "date": "2026-03-01",
-          "value": 3.06
-        },
-        {
-          "date": "2026-04-01",
-          "value": 3.15
-        },
-        {
-          "date": "2026-05-01",
-          "value": 3.25
-        },
-        {
-          "date": "2026-06-01",
-          "value": 3.18
-        },
-        {
-          "date": "2026-07-01",
-          "value": 3.32
-        },
-        {
-          "date": "2026-08-01",
-          "value": 3.35
-        }
-      ]
-    },
-    "estoquePJ": {
-      "id": 20540,
-      "label": "Saldo da carteira de crédito PJ",
-      "unit": "R$ milhões",
       "latest": null,
       "previous": null,
       "change": null,
       "history": [],
       "error": "timeout após 8000 ms"
     },
+    "estoquePJ": {
+      "id": 20540,
+      "label": "Saldo da carteira de crédito PJ",
+      "unit": "R$ milhões",
+      "latest": {
+        "date": "2026-08-01",
+        "value": 2727499
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 2729162
+      },
+      "change": -1663,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2451957
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2477151
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2498262
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2512426
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2532708
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2547693
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2544400
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2546265
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2589817
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2597630
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2616902
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2701735
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2654220
+        },
+        {
+          "date": "2026-02-01",
+          "value": 2656484
+        },
+        {
+          "date": "2026-03-01",
+          "value": 2687535
+        },
+        {
+          "date": "2026-04-01",
+          "value": 2685397
+        },
+        {
+          "date": "2026-05-01",
+          "value": 2708154
+        },
+        {
+          "date": "2026-06-01",
+          "value": 2750634
+        },
+        {
+          "date": "2026-07-01",
+          "value": 2729162
+        },
+        {
+          "date": "2026-08-01",
+          "value": 2727499
+        }
+      ]
+    },
     "spreadPJ": {
       "id": 27632,
       "label": "Spread PJ não rotativo",
       "unit": "p.p.",
-      "latest": {
-        "date": "2026-08-01",
-        "value": 4.1
-      },
-      "previous": {
-        "date": "2026-07-01",
-        "value": 4.8
-      },
-      "change": -0.7000000000000002,
-      "history": [
-        {
-          "date": "2025-01-01",
-          "value": 5.3
-        },
-        {
-          "date": "2025-02-01",
-          "value": 4.9
-        },
-        {
-          "date": "2025-03-01",
-          "value": 5
-        },
-        {
-          "date": "2025-04-01",
-          "value": 4.6
-        },
-        {
-          "date": "2025-05-01",
-          "value": 4.9
-        },
-        {
-          "date": "2025-06-01",
-          "value": 5.3
-        },
-        {
-          "date": "2025-07-01",
-          "value": 5.5
-        },
-        {
-          "date": "2025-08-01",
-          "value": 5.6
-        },
-        {
-          "date": "2025-09-01",
-          "value": 5.3
-        },
-        {
-          "date": "2025-10-01",
-          "value": 5.4
-        },
-        {
-          "date": "2025-11-01",
-          "value": 4.9
-        },
-        {
-          "date": "2025-12-01",
-          "value": 4.6
-        },
-        {
-          "date": "2026-01-01",
-          "value": 4.9
-        },
-        {
-          "date": "2026-02-01",
-          "value": 5
-        },
-        {
-          "date": "2026-03-01",
-          "value": 4.7
-        },
-        {
-          "date": "2026-04-01",
-          "value": 4.9
-        },
-        {
-          "date": "2026-05-01",
-          "value": 4.5
-        },
-        {
-          "date": "2026-06-01",
-          "value": 4.3
-        },
-        {
-          "date": "2026-07-01",
-          "value": 4.8
-        },
-        {
-          "date": "2026-08-01",
-          "value": 4.1
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "timeout após 8000 ms"
     }
   },
   "anbima": {
     "selicEstimate": {
-      "date": "02/10/2026",
+      "date": "05/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "01/10/2026",
+      "date": "02/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "01/10/2026",
+      "date": "02/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "01/10/2026",
-      "value": 5.2079,
+      "date": "02/10/2026",
+      "value": 5.2238,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1053,30 +955,30 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4468,
+      "count": 4478,
       "latestMonth": "2026-10",
-      "offersInMonth": 8,
-      "volumeInMonth": 911500000
+      "offersInMonth": 18,
+      "volumeInMonth": 1541500000
     },
     {
       "market": "FIAGRO",
-      "count": 173,
+      "count": 175,
       "latestMonth": "2026-10",
-      "offersInMonth": 1,
-      "volumeInMonth": 30000943
+      "offersInMonth": 3,
+      "volumeInMonth": 580000943
     },
     {
       "market": "FII",
-      "count": 1505,
+      "count": 1506,
       "latestMonth": "2026-10",
-      "offersInMonth": 2,
-      "volumeInMonth": 90878000
+      "offersInMonth": 3,
+      "volumeInMonth": 161878000
     }
   ],
   "intelligence": {
     "month": "2026-09",
     "brief": {
-      "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
+      "headline": "Oferta primária forte encontra funding ainda seletivo.",
       "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
       "watch": [
         "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
@@ -1087,8 +989,8 @@
     "theses": [
       {
         "id": "capital-competition",
-        "title": "Oferta e funding precisam ser lidos juntos",
-        "statement": "A força do mercado primário não deve ser interpretada isoladamente. O Radar cruza pipeline, breadth, concentração e funding antes de inferir pressão competitiva.",
+        "title": "Mais ofertas competindo por capital seletivo",
+        "statement": "O pipeline primário está relativamente forte, mas o ambiente de funding não acompanha na mesma intensidade. A leitura Radar é de maior competição por atenção e capital, não de excesso comprovado de recursos.",
         "evidence": [
           {
             "label": "IROP agregado",
@@ -1097,7 +999,7 @@
           },
           {
             "label": "IRFC",
-            "value": 64.81907894736842,
+            "value": 49.21568627450981,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1147,12 +1049,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 84.77905701754386,
+            "value": 80.09803921568627,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 64.81907894736842,
+            "value": 49.21568627450981,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1161,7 +1063,7 @@
           "pipeline mais intenso na vertical",
           "maior número/volume relativo de operações",
           "mais necessidade de comparar estruturas e participantes",
-          "funding menos restritivo pode melhorar capacidade de absorção"
+          "funding restritivo pode aumentar seletividade"
         ],
         "confirms": [
           "IROP de FIAGRO permanece acima das demais verticais",
@@ -1187,7 +1089,7 @@
           },
           {
             "label": "IRFC",
-            "value": 64.81907894736842,
+            "value": 49.21568627450981,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1225,14 +1127,14 @@
     "directions": [
       {
         "market": "FIDC",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.24991429507923,
-          "IRFC": 64.81907894736842,
-          "IRPM": 80.98739035087718
+          "IRFC": 49.21568627450981,
+          "IRPM": 76.3063725490196
         },
         "bands": {
           "offer": "alto",
@@ -1243,14 +1145,14 @@
       },
       {
         "market": "FIAGRO",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 64.81907894736842,
-          "IRPM": 84.77905701754386
+          "IRFC": 49.21568627450981,
+          "IRPM": 80.09803921568627
         },
         "bands": {
           "offer": "alto",
@@ -1261,14 +1163,14 @@
       },
       {
         "market": "FII",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 64.81907894736842,
-          "IRPM": 81.42489035087719
+          "IRFC": 49.21568627450981,
+          "IRPM": 76.74387254901961
         },
         "bands": {
           "offer": "alto",
