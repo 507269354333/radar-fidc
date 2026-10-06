@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T19:38:07.302Z",
+  "generatedAt": "2026-10-06T17:12:21.682Z",
   "macro": {
-    "generatedAt": "2026-10-02T02:22:52.615Z",
+    "generatedAt": "2026-10-06T03:10:37.945Z",
     "items": [
       {
         "key": "selic",
@@ -12,7 +12,7 @@
         "display": "13,65%",
         "change": 0,
         "changePct": 0,
-        "date": "2026-10-01",
+        "date": "2026-10-05",
         "source": "BCB / SGS",
         "status": "ok",
         "deltaDisplay": "+0 p.p."
@@ -50,11 +50,11 @@
         "label": "USD/BRL",
         "fullLabel": "Dólar / Real",
         "category": "Câmbio",
-        "value": 5.2079,
-        "display": "R$ 5,2079",
-        "change": 0.027000000000000135,
-        "changePct": 0.5211449748113273,
-        "date": "2026-10-01",
+        "value": 4.9859,
+        "display": "R$ 4,9859",
+        "change": -0.23789999999999978,
+        "changePct": -4.5541559784065155,
+        "date": "2026-10-05",
         "source": "BCB / PTAX",
         "status": "ok"
       },
@@ -166,24 +166,24 @@
   "overview": {
     "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "sourceUpdatedAt": "2026-10-05T08:02:15.813546",
-    "count": 4478,
+    "sourceUpdatedAt": "2026-10-06T08:01:02.017127",
+    "count": 4485,
     "analytics": {
       "latestMonth": "2026-10",
-      "offersInMonth": 18,
-      "volumeInMonth": 1541500000,
-      "offersWithVolumeInMonth": 17,
-      "leadersInMonth": 9,
+      "offersInMonth": 26,
+      "volumeInMonth": 1926000000,
+      "offersWithVolumeInMonth": 23,
+      "leadersInMonth": 14,
       "byRite": [
         {
           "name": "Automático",
-          "count": 18
+          "count": 26
         }
       ],
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 17
+          "count": 25
         },
         {
           "name": "Qualificado",
@@ -192,16 +192,22 @@
       ],
       "topLeaders": [
         {
+          "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "cnpj": "39.669.186/0001-01",
+          "count": 5,
+          "volume": 230000000
+        },
+        {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "cnpj": "22.610.500/0001-88",
           "count": 4,
           "volume": 204000000
         },
         {
-          "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "cnpj": "39.669.186/0001-01",
-          "count": 4,
-          "volume": 180000000
+          "name": "BANCO BRADESCO BBI S.A.",
+          "cnpj": "06.271.464/0001-19",
+          "count": 3,
+          "volume": 169500000
         },
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -228,22 +234,22 @@
           "volume": 250000000
         },
         {
+          "name": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "cnpj": "58.006.471/0001-97",
+          "count": 1,
+          "volume": 107000000
+        },
+        {
+          "name": "BANCO DAYCOVAL S.A.",
+          "cnpj": "62.232.889/0001-90",
+          "count": 1,
+          "volume": 32000000
+        },
+        {
           "name": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "13.673.855/0001-25",
           "count": 1,
           "volume": 30000000
-        },
-        {
-          "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "cnpj": "03.751.794/0001-13",
-          "count": 1,
-          "volume": 15000000
-        },
-        {
-          "name": "BANCO BRADESCO BBI S.A.",
-          "cnpj": "06.271.464/0001-19",
-          "count": 1,
-          "volume": 0
         }
       ],
       "byMonth": [
@@ -345,21 +351,21 @@
         },
         {
           "month": "2026-09",
-          "count": 108,
+          "count": 107,
           "volume": 22622242708.36,
           "withVolume": 105
         },
         {
           "month": "2026-10",
-          "count": 18,
-          "volume": 1541500000,
-          "withVolume": 17
+          "count": 26,
+          "volume": 1926000000,
+          "withVolume": 23
         }
       ],
       "trailing12": {
-        "offers": 700,
-        "volume": 74020143427.24002,
-        "offersWithVolume": 695,
+        "offers": 707,
+        "volume": 74404643427.24002,
+        "offersWithVolume": 701,
         "leaders": 58,
         "topLeaders": [
           {
@@ -371,8 +377,8 @@
           {
             "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
             "cnpj": "39.669.186/0001-01",
-            "count": 104,
-            "volume": 3260166119.35
+            "count": 105,
+            "volume": 3310166119.35
           },
           {
             "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -383,8 +389,8 @@
           {
             "name": "BANCO DAYCOVAL S.A.",
             "cnpj": "62.232.889/0001-90",
-            "count": 42,
-            "volume": 2738850513.6
+            "count": 43,
+            "volume": 2770850513.6
           },
           {
             "name": "PLANNER CORRETORA DE VALORES S.A.",
@@ -407,8 +413,8 @@
           {
             "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
             "cnpj": "13.486.793/0001-42",
-            "count": 21,
-            "volume": 1072803997.88
+            "count": 22,
+            "volume": 1075803997.88
           },
           {
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -429,16 +435,16 @@
             "volume": 461000000
           },
           {
+            "name": "BANCO BRADESCO BBI S.A.",
+            "cnpj": "06.271.464/0001-19",
+            "count": 15,
+            "volume": 13274460000
+          },
+          {
             "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
             "cnpj": "44.782.130/0001-07",
             "count": 15,
             "volume": 159600000
-          },
-          {
-            "name": "BANCO BRADESCO BBI S.A.",
-            "cnpj": "06.271.464/0001-19",
-            "count": 14,
-            "volume": 13104960000
           },
           {
             "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -490,6 +496,198 @@
         ]
       },
       "latestOffers": [
+        {
+          "id": "98fccdf9e08dc667",
+          "market": "FIDC",
+          "name": "AMP CONSIGNADO PRIVADO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.728.919/0001-30",
+          "registration": "28209",
+          "processNumber": "SRE/3237/2026",
+          "leader": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "48.967.968/0001-18",
+          "volume": 23000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-05",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "b8c495da97d6262b",
+          "market": "FIDC",
+          "name": "CUPERTINO KAYA PRECATÓRIOS FIDC DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.315.519/0001-90",
+          "registration": "28218",
+          "processNumber": "SRE/3242/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 32000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-05",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "6d79db274f4bf48f",
+          "market": "FIDC",
+          "name": "DM ATIVOS JUDICIAIS I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.280.696/0001-53",
+          "registration": "28206",
+          "processNumber": "SRE/3236/2026",
+          "leader": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "58.006.471/0001-97",
+          "volume": 107000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-05",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "89fe56cac9c7352b",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO NITRO AGRO II - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.313.140/0001-77",
+          "registration": "28215",
+          "processNumber": "SRE/3241/2026",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 0,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "date": "2026-10-05",
+          "dateBasis": "requerimento",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "eed720ecce6afb47",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA FLAGSHIP BTO RECEIVABLES",
+          "cnpj": "60.405.221/0001-71",
+          "registration": "27754",
+          "processNumber": "SRE/2835/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 169500000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-05",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "92d52ab2e42879d4",
+          "market": "FIDC",
+          "name": "GRÃO DIRETO ORIGEM I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO RESP LIMITADA",
+          "cnpj": "66.276.933/0001-14",
+          "registration": "28219",
+          "processNumber": "SRE/3243/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 0,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "date": "2026-10-05",
+          "dateBasis": "requerimento",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "4188ce777f600dca",
+          "market": "FIDC",
+          "name": "HZTS PETRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.228.182/0001-23",
+          "registration": "28214",
+          "processNumber": "SRE/3239/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 3000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-05",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "d93eeef3520f72b6",
+          "market": "FIDC",
+          "name": "PLATA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSEGMENTOS",
+          "cnpj": "17.198.574/0001-19",
+          "registration": "28186",
+          "processNumber": "SRE/3238/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 50000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-05",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
         {
           "id": "4576409442b42688",
           "market": "FIDC",
@@ -649,198 +847,6 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "date": "2026-10-02",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "510ad5f0edf2ccc4",
-          "market": "FIDC",
-          "name": "INGRESSE ENCORE MATCHDAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.207.719/0001-02",
-          "registration": "28197",
-          "processNumber": "SRE/3225/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 30000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-02",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "12eb4ed67539bf8f",
-          "market": "FIDC",
-          "name": "MELL.RO & MANCHESTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "64.171.337/0001-44",
-          "registration": "28180",
-          "processNumber": "SRE/3229/2026",
-          "leader": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "24.361.690/0001-72",
-          "volume": 10000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-02",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "1bc80c8359555991",
-          "market": "FIDC",
-          "name": "NATURA PAY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO PESSOAL RESP LIMITADA",
-          "cnpj": "67.665.342/0001-00",
-          "registration": "28184",
-          "processNumber": "SRE/3235/2026",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 0,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "date": "2026-10-02",
-          "dateBasis": "requerimento",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "6d7ddb98bff71c5a",
-          "market": "FIDC",
-          "name": "ALLUGG FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "32.511.204/0001-83",
-          "registration": "28181",
-          "processNumber": "SRE/3215/2026",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 30000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-01",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "51e1381c4a9d9fed",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SOL CONSIG - RESPONSABILIDADE LIMITADA",
-          "cnpj": "47.117.855/0001-60",
-          "registration": "28073",
-          "processNumber": "SRE/3210/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 80000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-01",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "171f7819c3351ff7",
-          "market": "FIDC",
-          "name": "IOX REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "52.298.532/0001-50",
-          "registration": "28171",
-          "processNumber": "SRE/3206/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 400000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-01",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "79fd65bd45b6bf38",
-          "market": "FIDC",
-          "name": "SANTA MARIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.209.882/0001-04",
-          "registration": "28170",
-          "processNumber": "SRE/3205/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 250000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-01",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "ca0e3255e7e9196c",
-          "market": "FIDC",
-          "name": "SOLIS RECEBÍVEIS COMERCIAIS III FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS",
-          "cnpj": "69.283.563/0001-30",
-          "registration": "28175",
-          "processNumber": "SRE/3208/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 100000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-01",
           "dateBasis": "registro",
           "securities": [
             "Cotas de FIDC"
@@ -1055,7 +1061,7 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 49.21568627450981,
+          "score": 53.86764705882352,
           "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
@@ -1075,15 +1081,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 49.21568627450981,
+            "score": 53.86764705882352,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 49/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 54/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-          "score": 77.71609477124183,
+          "score": 79.11168300653594,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1103,9 +1109,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 77.71609477124183,
+            "score": 79.11168300653594,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 79/100, faixa alta."
           }
         }
       }
@@ -1114,7 +1120,7 @@
   "intelligence": {
     "month": "2026-09",
     "brief": {
-      "headline": "Oferta primária forte encontra funding ainda seletivo.",
+      "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
       "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
       "watch": [
         "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
@@ -1123,6 +1129,6 @@
       ]
     },
     "thesesCount": 3,
-    "regulatoryCount": 8
+    "regulatoryCount": 6
   }
 }

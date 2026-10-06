@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T19:38:07.285Z",
+  "generatedAt": "2026-10-06T17:12:21.664Z",
   "market": "ALL",
   "current": {
     "period": {
@@ -545,14 +545,14 @@
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 37.5,
+      "offers": 37.25,
       "volume": 10297744325.2325,
       "leaders": 17,
-      "professionalShare": 0.8815932805870886,
-      "top3Concentration": 0.3704277032450407
+      "professionalShare": 0.8807042336454102,
+      "top3Concentration": 0.3729170346817406
     },
     "currentVsPrior4Average": {
-      "offersPct": 9.333333333333334,
+      "offersPct": 10.06711409395973,
       "volumePct": -44.68393358162551
     }
   },
@@ -590,7 +590,7 @@
           "start": "2026-08-31",
           "end": "2026-09-06"
         },
-        "offers": 38,
+        "offers": 37,
         "volume": 13967187266.46,
         "leaders": 17
       },
@@ -635,7 +635,7 @@
   "observations": [
     "Atividade semanal de 41 ofertas ALL, 51,9% acima da semana anterior.",
     "Volume informado de R$ 5.696.307.091 em 40 ofertas com valor positivo; ticket médio de R$ 142.407.677.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 44,7% abaixo e a quantidade de ofertas 9,3% acima.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 44,7% abaixo e a quantidade de ofertas 10,1% acima.",
     "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA. liderou por quantidade de registros (9); os três coordenadores mais presentes concentraram 43,9% das ofertas da semana.",
     "92,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (3). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -645,17 +645,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-05T08:02:15.813546"
+      "updatedAt": "2026-10-06T08:01:02.017127"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-05T19:38:07.229Z"
+      "updatedAt": "2026-10-06T17:12:13.550Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "05/10/2026 09:40"
+      "updatedAt": "06/10/2026 09:34"
     }
   },
   "macro": {
@@ -664,19 +664,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-02",
+        "date": "2026-10-05",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-04",
-          "value": 13.9
-        },
         {
           "date": "2026-09-08",
           "value": 13.9
@@ -752,6 +748,10 @@
         {
           "date": "2026-10-02",
           "value": 13.65
+        },
+        {
+          "date": "2026-10-05",
+          "value": 13.65
         }
       ]
     },
@@ -759,11 +759,97 @@
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 3.35
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 3.32
+      },
+      "change": 0.03000000000000025,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2.43
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2.52
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2.49
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2.72
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2.79
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2.85
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2.77
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2.82
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2.75
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2.7
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2.87
+        },
+        {
+          "date": "2026-02-01",
+          "value": 3.07
+        },
+        {
+          "date": "2026-03-01",
+          "value": 3.06
+        },
+        {
+          "date": "2026-04-01",
+          "value": 3.15
+        },
+        {
+          "date": "2026-05-01",
+          "value": 3.25
+        },
+        {
+          "date": "2026-06-01",
+          "value": 3.18
+        },
+        {
+          "date": "2026-07-01",
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
+        }
+      ]
     },
     "estoquePJ": {
       "id": 20540,
@@ -865,35 +951,121 @@
       "id": 27632,
       "label": "Spread PJ não rotativo",
       "unit": "p.p.",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 4.1
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 4.8
+      },
+      "change": -0.7000000000000002,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 5.3
+        },
+        {
+          "date": "2025-02-01",
+          "value": 4.9
+        },
+        {
+          "date": "2025-03-01",
+          "value": 5
+        },
+        {
+          "date": "2025-04-01",
+          "value": 4.6
+        },
+        {
+          "date": "2025-05-01",
+          "value": 4.9
+        },
+        {
+          "date": "2025-06-01",
+          "value": 5.3
+        },
+        {
+          "date": "2025-07-01",
+          "value": 5.5
+        },
+        {
+          "date": "2025-08-01",
+          "value": 5.6
+        },
+        {
+          "date": "2025-09-01",
+          "value": 5.3
+        },
+        {
+          "date": "2025-10-01",
+          "value": 5.4
+        },
+        {
+          "date": "2025-11-01",
+          "value": 4.9
+        },
+        {
+          "date": "2025-12-01",
+          "value": 4.6
+        },
+        {
+          "date": "2026-01-01",
+          "value": 4.9
+        },
+        {
+          "date": "2026-02-01",
+          "value": 5
+        },
+        {
+          "date": "2026-03-01",
+          "value": 4.7
+        },
+        {
+          "date": "2026-04-01",
+          "value": 4.9
+        },
+        {
+          "date": "2026-05-01",
+          "value": 4.5
+        },
+        {
+          "date": "2026-06-01",
+          "value": 4.3
+        },
+        {
+          "date": "2026-07-01",
+          "value": 4.8
+        },
+        {
+          "date": "2026-08-01",
+          "value": 4.1
+        }
+      ]
     }
   },
   "anbima": {
     "selicEstimate": {
-      "date": "05/10/2026",
+      "date": "06/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "02/10/2026",
+      "date": "05/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "02/10/2026",
+      "date": "05/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "02/10/2026",
-      "value": 5.2238,
+      "date": "05/10/2026",
+      "value": 4.9859,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -940,25 +1112,15 @@
       "title": "CVM debate tokenização de ativos no Brasil",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
       "source": "CVM"
-    },
-    {
-      "title": "Revertida suspensão de oferta pública de distribuição de cotas do NTZ Empreendimentos FIDC Multicarteira Resp Limitada",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-de-oferta-publica-de-distribuicao-de-cotas-do-ntz-empreendimentos-fidc-multicarteira-resp-limitada",
-      "source": "CVM"
-    },
-    {
-      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-      "source": "CVM"
     }
   ],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4478,
+      "count": 4485,
       "latestMonth": "2026-10",
-      "offersInMonth": 18,
-      "volumeInMonth": 1541500000
+      "offersInMonth": 26,
+      "volumeInMonth": 1926000000
     },
     {
       "market": "FIAGRO",
@@ -978,7 +1140,7 @@
   "intelligence": {
     "month": "2026-09",
     "brief": {
-      "headline": "Oferta primária forte encontra funding ainda seletivo.",
+      "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
       "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
       "watch": [
         "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
@@ -989,8 +1151,8 @@
     "theses": [
       {
         "id": "capital-competition",
-        "title": "Mais ofertas competindo por capital seletivo",
-        "statement": "O pipeline primário está relativamente forte, mas o ambiente de funding não acompanha na mesma intensidade. A leitura Radar é de maior competição por atenção e capital, não de excesso comprovado de recursos.",
+        "title": "Oferta e funding precisam ser lidos juntos",
+        "statement": "A força do mercado primário não deve ser interpretada isoladamente. O Radar cruza pipeline, breadth, concentração e funding antes de inferir pressão competitiva.",
         "evidence": [
           {
             "label": "IROP agregado",
@@ -999,7 +1161,7 @@
           },
           {
             "label": "IRFC",
-            "value": 49.21568627450981,
+            "value": 53.86764705882352,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1009,7 +1171,7 @@
           },
           {
             "label": "IRCC",
-            "value": 20.109199177479457,
+            "value": 20.11093515941689,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1049,12 +1211,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 80.09803921568627,
+            "value": 81.49362745098038,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 49.21568627450981,
+            "value": 53.86764705882352,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1063,7 +1225,7 @@
           "pipeline mais intenso na vertical",
           "maior número/volume relativo de operações",
           "mais necessidade de comparar estruturas e participantes",
-          "funding restritivo pode aumentar seletividade"
+          "funding menos restritivo pode melhorar capacidade de absorção"
         ],
         "confirms": [
           "IROP de FIAGRO permanece acima das demais verticais",
@@ -1089,7 +1251,7 @@
           },
           {
             "label": "IRFC",
-            "value": 49.21568627450981,
+            "value": 53.86764705882352,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1127,14 +1289,14 @@
     "directions": [
       {
         "market": "FIDC",
-        "headline": "Pipeline forte, capital ainda seletivo",
-        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+        "headline": "Oferta forte com funding mais construtivo",
+        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
-          "IRCC": 8.24991429507923,
-          "IRFC": 49.21568627450981,
-          "IRPM": 76.3063725490196
+          "IRCC": 8.255122240891525,
+          "IRFC": 53.86764705882352,
+          "IRPM": 77.70196078431371
         },
         "bands": {
           "offer": "alto",
@@ -1145,14 +1307,14 @@
       },
       {
         "market": "FIAGRO",
-        "headline": "Pipeline forte, capital ainda seletivo",
-        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+        "headline": "Oferta forte com funding mais construtivo",
+        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
         "scores": {
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 49.21568627450981,
-          "IRPM": 80.09803921568627
+          "IRFC": 53.86764705882352,
+          "IRPM": 81.49362745098038
         },
         "bands": {
           "offer": "alto",
@@ -1163,14 +1325,14 @@
       },
       {
         "market": "FII",
-        "headline": "Pipeline forte, capital ainda seletivo",
-        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
+        "headline": "Oferta forte com funding mais construtivo",
+        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
         "scores": {
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 49.21568627450981,
-          "IRPM": 76.74387254901961
+          "IRFC": 53.86764705882352,
+          "IRPM": 78.13946078431371
         },
         "bands": {
           "offer": "alto",
