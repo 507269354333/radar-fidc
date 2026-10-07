@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-10-06T17:12:21.631Z",
+  "generatedAt": "2026-10-07T17:49:43.331Z",
   "brief": {
     "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
     "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
@@ -19,8 +19,8 @@
         "IROP": 87.91666666666666,
         "IRBD": 87.5,
         "IRCC": 8.255122240891525,
-        "IRFC": 53.86764705882352,
-        "IRPM": 77.70196078431371
+        "IRFC": 53.31617647058823,
+        "IRPM": 77.53651960784313
       },
       "bands": {
         "offer": "alto",
@@ -37,8 +37,8 @@
         "IROP": 93.33333333333333,
         "IRBD": 91.66666666666667,
         "IRCC": 46.815977111076,
-        "IRFC": 53.86764705882352,
-        "IRPM": 81.49362745098038
+        "IRFC": 53.31617647058823,
+        "IRPM": 81.32818627450979
       },
       "bands": {
         "offer": "alto",
@@ -55,8 +55,8 @@
         "IROP": 88.54166666666667,
         "IRBD": 91.66666666666667,
         "IRCC": 5.261706126283146,
-        "IRFC": 53.86764705882352,
-        "IRPM": 78.13946078431371
+        "IRFC": 53.31617647058823,
+        "IRPM": 77.97401960784313
       },
       "bands": {
         "offer": "alto",
@@ -79,7 +79,7 @@
         },
         {
           "label": "IRFC",
-          "value": 53.86764705882352,
+          "value": 53.31617647058823,
           "source": "Metodologia Radar / BCB"
         },
         {
@@ -129,12 +129,12 @@
         },
         {
           "label": "IRPM FIAGRO",
-          "value": 81.49362745098038,
+          "value": 81.32818627450979,
           "source": "Metodologia Radar / CVM + BCB"
         },
         {
           "label": "IRFC comum",
-          "value": 53.86764705882352,
+          "value": 53.31617647058823,
           "source": "Metodologia Radar / BCB"
         }
       ],
@@ -169,7 +169,7 @@
         },
         {
           "label": "IRFC",
-          "value": 53.86764705882352,
+          "value": 53.31617647058823,
           "source": "Metodologia Radar / BCB"
         },
         {
@@ -209,8 +209,8 @@
       "market": "FIDC",
       "current": {
         "IROP": 87.91666666666666,
-        "IRPM": 77.70196078431371,
-        "IRFC": 53.86764705882352
+        "IRPM": 77.53651960784313,
+        "IRFC": 53.31617647058823
       },
       "scenarios": [
         {
@@ -235,8 +235,8 @@
       "market": "FIAGRO",
       "current": {
         "IROP": 93.33333333333333,
-        "IRPM": 81.49362745098038,
-        "IRFC": 53.86764705882352
+        "IRPM": 81.32818627450979,
+        "IRFC": 53.31617647058823
       },
       "scenarios": [
         {
@@ -261,8 +261,8 @@
       "market": "FII",
       "current": {
         "IROP": 88.54166666666667,
-        "IRPM": 78.13946078431371,
-        "IRFC": 53.86764705882352
+        "IRPM": 77.97401960784313,
+        "IRFC": 53.31617647058823
       },
       "scenarios": [
         {
@@ -324,14 +324,6 @@
       "theme": "Ofertas & distribuição",
       "what": "O título aponta para regras, orientações ou procedimentos ligados ao registro/distribuição de ofertas.",
       "implication": "Revisar o conteúdo oficial para identificar impactos em documentação, rito, responsabilidades do coordenador e protocolo. O Radar não presume alteração operacional apenas pelo título."
-    },
-    {
-      "title": "CVM debate tokenização de ativos no Brasil",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
-      "source": "CVM",
-      "theme": "Supervisão de mercado",
-      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
     }
   ],
   "regulatoryExecution": {
@@ -759,37 +751,6 @@
           "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
         },
         "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-06",
-        "title": "CVM debate tokenização de ativos no Brasil",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
       }
     ],
     "positioning": {
@@ -856,14 +817,14 @@
         "label": "Estimativa Selic",
         "value": 13.65,
         "unit": "% a.a.",
-        "date": "06/10/2026",
+        "date": "07/10/2026",
         "source": "ANBIMA"
       },
       {
         "label": "DI-B3",
         "value": 13.65,
         "unit": "% a.a.",
-        "date": "05/10/2026",
+        "date": "06/10/2026",
         "source": "ANBIMA"
       },
       {
@@ -875,9 +836,9 @@
       },
       {
         "label": "Dólar venda",
-        "value": 4.9859,
+        "value": 4.9698,
         "unit": "R$/US$",
-        "date": "05/10/2026",
+        "date": "06/10/2026",
         "source": "ANBIMA"
       }
     ],
@@ -886,7 +847,7 @@
         "label": "Selic",
         "value": 13.65,
         "unit": "%",
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "source": "BCB / SGS"
       },
       {
@@ -1031,14 +992,14 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 53.86764705882352,
+          "score": 53.31617647058823,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 70.58823529411765,
+              "score": 68.75,
               "weight": 0.3
             },
             {
@@ -1086,15 +1047,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 53.86764705882352,
+            "score": 53.31617647058823,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 54/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 77.70196078431371,
+          "score": 77.53651960784313,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1114,7 +1075,7 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 77.70196078431371,
+            "score": 77.53651960784313,
             "band": "faixa alta",
             "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
           }
@@ -1254,14 +1215,14 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 53.86764705882352,
+          "score": 53.31617647058823,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 70.58823529411765,
+              "score": 68.75,
               "weight": 0.3
             },
             {
@@ -1309,15 +1270,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 53.86764705882352,
+            "score": 53.31617647058823,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 54/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 81.49362745098038,
+          "score": 81.32818627450979,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1337,7 +1298,7 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 81.49362745098038,
+            "score": 81.32818627450979,
             "band": "faixa alta",
             "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
           }
@@ -1477,14 +1438,14 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 53.86764705882352,
+          "score": 53.31617647058823,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 70.58823529411765,
+              "score": 68.75,
               "weight": 0.3
             },
             {
@@ -1532,15 +1493,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 53.86764705882352,
+            "score": 53.31617647058823,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 54/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 78.13946078431371,
+          "score": 77.97401960784313,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1560,7 +1521,7 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 78.13946078431371,
+            "score": 77.97401960784313,
             "band": "faixa alta",
             "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
           }
@@ -1713,14 +1674,14 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 53.86764705882352,
+          "score": 53.31617647058823,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 70.58823529411765,
+              "score": 68.75,
               "weight": 0.3
             },
             {
@@ -1768,15 +1729,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 53.86764705882352,
+            "score": 53.31617647058823,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 54/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-          "score": 79.11168300653594,
+          "score": 78.94624183006535,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1796,7 +1757,7 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 79.11168300653594,
+            "score": 78.94624183006535,
             "band": "faixa alta",
             "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 79/100, faixa alta."
           }
@@ -1960,23 +1921,23 @@
       "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
       "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
     },
-    "generatedAt": "2026-10-06T17:12:21.631Z"
+    "generatedAt": "2026-10-07T17:49:43.331Z"
   },
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-06T08:01:02.017127"
+      "updatedAt": "2026-10-07T08:00:38.924013"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-06T17:12:13.550Z"
+      "updatedAt": "2026-10-07T17:49:42.563Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "06/10/2026 09:34"
+      "updatedAt": "07/10/2026 09:34"
     }
   },
   "methodology": "Inteligência Radar = dado oficial + índices proprietários + mecanismo econômico + critérios de confirmação/invalidação. A camada regulatória descreve primeiro o conteúdo observado na fonte oficial, separa a interpretação operacional do Radar e organiza aplicabilidade, gap, processo, evidência e monitoramento. Cenários não são promessa de resultado, previsão garantida nem recomendação de investimento."

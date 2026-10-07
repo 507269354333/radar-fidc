@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-06T08:01:02.017127",
+  "sourceUpdatedAt": "2026-10-07T08:00:38.924013",
   "market": "FIAGRO",
-  "count": 175,
+  "count": 176,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 3,
-    "volumeInMonth": 580000943,
-    "offersWithVolumeInMonth": 3,
-    "leadersInMonth": 3,
+    "offersInMonth": 4,
+    "volumeInMonth": 615000943,
+    "offersWithVolumeInMonth": 4,
+    "leadersInMonth": 4,
     "byRite": [
       {
         "name": "Automático",
-        "count": 3
+        "count": 4
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 3
+        "count": 4
       }
     ],
     "topLeaders": [
@@ -28,6 +28,12 @@
         "cnpj": "04.845.753/0001-59",
         "count": 1,
         "volume": 530000000
+      },
+      {
+        "name": "MIVE CAPITAL MARKETS LTDA",
+        "cnpj": "55.440.852/0001-91",
+        "count": 1,
+        "volume": 35000000
       },
       {
         "name": "PLANNER CORRETORA DE VALORES S.A.",
@@ -147,15 +153,15 @@
       },
       {
         "month": "2026-10",
-        "count": 3,
-        "volume": 580000943,
-        "withVolume": 3
+        "count": 4,
+        "volume": 615000943,
+        "withVolume": 4
       }
     ],
     "trailing12": {
-      "offers": 59,
-      "volume": 264931452887.55,
-      "offersWithVolume": 58,
+      "offers": 60,
+      "volume": 264966452887.55,
+      "offersWithVolume": 59,
       "leaders": 20,
       "topLeaders": [
         {
@@ -213,6 +219,12 @@
           "volume": 250000000000
         },
         {
+          "name": "MIVE CAPITAL MARKETS LTDA",
+          "cnpj": "55.440.852/0001-91",
+          "count": 2,
+          "volume": 159500000
+        },
+        {
           "name": "PLANNER CORRETORA DE VALORES S.A.",
           "cnpj": "00.806.535/0001-54",
           "count": 2,
@@ -223,12 +235,6 @@
           "cnpj": "27.652.684/0001-62",
           "count": 1,
           "volume": 130000000
-        },
-        {
-          "name": "KEA CAPITAL MARKETS LTDA",
-          "cnpj": "55.440.852/0001-91",
-          "count": 1,
-          "volume": 124500000
         },
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -252,7 +258,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 67500232.72,
+      "medianPositiveVolume": 65000465.44,
       "outlierCount": 1,
       "outliers": [
         {
@@ -265,6 +271,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "3f9ec942cc072e0d",
+        "market": "FIAGRO",
+        "name": "GREEN PLACE FIAGRO DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+        "cnpj": "67.880.557/0001-35",
+        "registration": "28236",
+        "processNumber": "SRE/3263/2026",
+        "leader": "MIVE CAPITAL MARKETS LTDA",
+        "leaderCnpj": "55.440.852/0001-91",
+        "volume": 35000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-06",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "ebf586d8f3437c71",
         "market": "FIAGRO",
@@ -600,33 +630,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "1c8b1426ef1701e1",
-        "market": "FIAGRO",
-        "name": "KIJANI INOVA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "66.384.456/0001-00",
-        "registration": "27793",
-        "processNumber": "SRE/2848/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "leaderCnpj": "62.232.889/0001-90",
-        "volume": 40000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-04",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-06T17:12:21.637Z"
+  "updatedAt": "2026-10-07T17:49:43.335Z"
 }
