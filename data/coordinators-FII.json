@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-07T17:49:43.372Z",
+  "generatedAt": "2026-10-08T17:53:10.228Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-07T08:00:38.924013"
+    "updatedAt": "2026-10-08T08:00:44.873007"
   },
   "coordinators": [
     {
@@ -614,17 +614,12 @@
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 22,
-        "volume": 5309022690.02,
-        "offersWithVolume": 22,
-        "averageTicket": 241319213.1827273
+        "offers": 23,
+        "volume": 6541415647.82,
+        "offersWithVolume": 23,
+        "averageTicket": 284409375.9921739
       },
       "byMonth": [
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 100000000
-        },
         {
           "month": "2024-11",
           "count": 4,
@@ -709,9 +704,30 @@
           "month": "2026-09",
           "count": 8,
           "volume": 2041740406.5300002
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 1232392957.8
         }
       ],
       "recentOffers": [
+        {
+          "id": "8c9d9f1a4002fa7c",
+          "market": "FII",
+          "name": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "11.839.593/0001-09",
+          "registration": "28252",
+          "processNumber": "SRE/3280/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 1232392957.8,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "c1bfc3358f8131e3",
           "market": "FII",
@@ -1175,22 +1191,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "e4994b34576a4a20",
-          "market": "FII",
-          "name": "BRASIL ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "61.250.889/0001-50",
-          "registration": "21084",
-          "processNumber": "SRE/1838/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 680000000,
-          "date": "2025-06-17",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -1206,8 +1206,8 @@
         },
         {
           "market": "FII",
-          "count": 176,
-          "volume": 24820708488.290005
+          "count": 177,
+          "volume": 26053101446.09
         }
       ]
     },
@@ -2759,7 +2759,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 11,
+          "count": 12,
           "volume": 1859498000
         },
         {
@@ -3356,8 +3356,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 153,
-          "volume": 10690073198.679995
+          "count": 155,
+          "volume": 10702073198.679995
         },
         {
           "market": "FIAGRO",
@@ -5192,8 +5192,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 25,
-          "volume": 6353912292.49
+          "count": 26,
+          "volume": 7313912292.49
         },
         {
           "market": "FIAGRO",
@@ -5208,278 +5208,14 @@
       ]
     },
     {
-      "key": "CNPJ:58160789000128",
-      "name": "BANCO SAFRA S/A",
-      "cnpj": "58.160.789/0001-28",
-      "stats12m": {
-        "offers": 6,
-        "volume": 4745023687.42,
-        "offersWithVolume": 6,
-        "averageTicket": 790837281.2366667
-      },
-      "byMonth": [
-        {
-          "month": "2023-10",
-          "count": 1,
-          "volume": 323661888
-        },
-        {
-          "month": "2024-03",
-          "count": 1,
-          "volume": 517726209
-        },
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 231652590
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 785000000
-        },
-        {
-          "month": "2026-02",
-          "count": 3,
-          "volume": 2460023241.94
-        },
-        {
-          "month": "2026-06",
-          "count": 2,
-          "volume": 1500000445.48
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "8c7233bff50f083f",
-          "market": "FII",
-          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.176.399/0001-98",
-          "registration": "26807",
-          "processNumber": "SRE/1972/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 750000445.48,
-          "date": "2026-06-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f88768feb7d375ea",
-          "market": "FII",
-          "name": "JS CRÉDITO ESTRUTURADO III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.523.141/0001-60",
-          "registration": "26805",
-          "processNumber": "SRE/1973/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 750000000,
-          "date": "2026-06-22",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2b27b9de81114c2d",
-          "market": "FII",
-          "name": "JS CREDITO ESTRUTURADO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.739.777/0001-55",
-          "registration": "24696",
-          "processNumber": "SRE/0436/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 750000000,
-          "date": "2026-02-12",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6681dca7bd23ef86",
-          "market": "FII",
-          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.950.991/0001-20",
-          "registration": "24693",
-          "processNumber": "SRE/0435/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 960023638.62,
-          "date": "2026-02-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "cf8da63c3bcfa0cb",
-          "market": "FII",
-          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.176.399/0001-98",
-          "registration": "24654",
-          "processNumber": "SRE/0397/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 749999603.32,
-          "date": "2026-02-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "88cdf04a4b0358b3",
-          "market": "FII",
-          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.950.991/0001-20",
-          "registration": "23751",
-          "processNumber": "SRE/4178/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 785000000,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f005510bc7c8f29c",
-          "market": "FII",
-          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.501.233/0001-15",
-          "registration": "16322",
-          "processNumber": "SRE/1880/2024",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 231652590,
-          "date": "2024-06-26",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f862adcd29c845b8",
-          "market": "FII",
-          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "42.085.661/0001-07",
-          "registration": "15030",
-          "processNumber": "SRE/0747/2024",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 517726209,
-          "date": "2024-03-19",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3d4af8543817b54a",
-          "market": "FII",
-          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "42.085.661/0001-07",
-          "registration": "3302",
-          "processNumber": "SRE/2359/2023",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 323661888,
-          "date": "2023-10-19",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bc642cc42d3c739e",
-          "market": "FII",
-          "name": "JS REAL ESTATE MULTIGESTÃO - FII",
-          "cnpj": "13.371.132/0001-71",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 770744803.62,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-02-13",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "0260d793b7bd4bdf",
-          "market": "FII",
-          "name": "TISHMAN SPEYER RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.847.042/0001-84",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 120500000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-04-05",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 27,
-          "volume": 2294633623.0499997
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 11,
-          "volume": 6709309178.04
-        }
-      ]
-    },
-    {
       "key": "CNPJ:62285390000140",
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 6,
-        "volume": 700716743.4499999,
-        "offersWithVolume": 6,
-        "averageTicket": 116786123.90833332
+        "offers": 7,
+        "volume": 710716743.4499999,
+        "offersWithVolume": 7,
+        "averageTicket": 101530963.35
       },
       "byMonth": [
         {
@@ -5541,9 +5277,30 @@
           "month": "2026-09",
           "count": 2,
           "volume": 275000000.15
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 10000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "fd4b4948c38fd11b",
+          "market": "FII",
+          "name": "MIRANTE REALTY RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "41.251.371/0001-23",
+          "registration": "28253",
+          "processNumber": "SRE/3279/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 10000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "d6c1632e9e77ac07",
           "market": "FII",
@@ -6142,17 +5899,223 @@
               "url": ""
             }
           ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1046,
+          "volume": 57031570860.47996
         },
         {
-          "id": "64a953d32c27d2d9",
+          "market": "FIAGRO",
+          "count": 8,
+          "volume": 1311046282.63
+        },
+        {
           "market": "FII",
-          "name": "G5 CIDADE NOVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.197.700/0001-30",
+          "count": 46,
+          "volume": 3987251955.04
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:58160789000128",
+      "name": "BANCO SAFRA S/A",
+      "cnpj": "58.160.789/0001-28",
+      "stats12m": {
+        "offers": 6,
+        "volume": 4745023687.42,
+        "offersWithVolume": 6,
+        "averageTicket": 790837281.2366667
+      },
+      "byMonth": [
+        {
+          "month": "2023-10",
+          "count": 1,
+          "volume": 323661888
+        },
+        {
+          "month": "2024-03",
+          "count": 1,
+          "volume": 517726209
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 231652590
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 785000000
+        },
+        {
+          "month": "2026-02",
+          "count": 3,
+          "volume": 2460023241.94
+        },
+        {
+          "month": "2026-06",
+          "count": 2,
+          "volume": 1500000445.48
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8c7233bff50f083f",
+          "market": "FII",
+          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.176.399/0001-98",
+          "registration": "26807",
+          "processNumber": "SRE/1972/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 750000445.48,
+          "date": "2026-06-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f88768feb7d375ea",
+          "market": "FII",
+          "name": "JS CRÉDITO ESTRUTURADO III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.523.141/0001-60",
+          "registration": "26805",
+          "processNumber": "SRE/1973/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 750000000,
+          "date": "2026-06-22",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2b27b9de81114c2d",
+          "market": "FII",
+          "name": "JS CREDITO ESTRUTURADO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.739.777/0001-55",
+          "registration": "24696",
+          "processNumber": "SRE/0436/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 750000000,
+          "date": "2026-02-12",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6681dca7bd23ef86",
+          "market": "FII",
+          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.950.991/0001-20",
+          "registration": "24693",
+          "processNumber": "SRE/0435/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 960023638.62,
+          "date": "2026-02-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cf8da63c3bcfa0cb",
+          "market": "FII",
+          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.176.399/0001-98",
+          "registration": "24654",
+          "processNumber": "SRE/0397/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 749999603.32,
+          "date": "2026-02-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "88cdf04a4b0358b3",
+          "market": "FII",
+          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.950.991/0001-20",
+          "registration": "23751",
+          "processNumber": "SRE/4178/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 785000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f005510bc7c8f29c",
+          "market": "FII",
+          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.501.233/0001-15",
+          "registration": "16322",
+          "processNumber": "SRE/1880/2024",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 231652590,
+          "date": "2024-06-26",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f862adcd29c845b8",
+          "market": "FII",
+          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "42.085.661/0001-07",
+          "registration": "15030",
+          "processNumber": "SRE/0747/2024",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 517726209,
+          "date": "2024-03-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3d4af8543817b54a",
+          "market": "FII",
+          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "42.085.661/0001-07",
+          "registration": "3302",
+          "processNumber": "SRE/2359/2023",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 323661888,
+          "date": "2023-10-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bc642cc42d3c739e",
+          "market": "FII",
+          "name": "JS REAL ESTATE MULTIGESTÃO - FII",
+          "cnpj": "13.371.132/0001-71",
           "registration": "",
           "processNumber": "",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 12800000,
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 770744803.62,
           "date": "",
           "rite": "ICVM 476",
           "audience": "",
@@ -6167,7 +6130,36 @@
             {
               "field": "Data_Comunicado",
               "label": "Data Comunicado",
-              "value": "2021-12-31",
+              "value": "2020-02-13",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "0260d793b7bd4bdf",
+          "market": "FII",
+          "name": "TISHMAN SPEYER RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "34.847.042/0001-84",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 120500000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-04-05",
               "url": ""
             }
           ]
@@ -6176,18 +6168,18 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1045,
-          "volume": 57031070860.47996
+          "count": 27,
+          "volume": 2294633623.0499997
         },
         {
           "market": "FIAGRO",
-          "count": 8,
-          "volume": 1311046282.63
+          "count": 0,
+          "volume": 0
         },
         {
           "market": "FII",
-          "count": 45,
-          "volume": 3977251955.04
+          "count": 11,
+          "volume": 6709309178.04
         }
       ]
     },
@@ -9840,8 +9832,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 25,
-          "volume": 1536049000
+          "count": 26,
+          "volume": 1586049000
         },
         {
           "market": "FIAGRO",
@@ -10931,8 +10923,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 240,
-          "volume": 7068205114.030001
+          "count": 242,
+          "volume": 7083205114.030001
         },
         {
           "market": "FIAGRO",
@@ -14562,8 +14554,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 41,
-          "volume": 379700045.95
+          "count": 42,
+          "volume": 382400045.95
         },
         {
           "market": "FIAGRO",

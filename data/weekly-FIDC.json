@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:49:43.343Z",
+  "generatedAt": "2026-10-08T17:53:10.192Z",
   "market": "FIDC",
   "current": {
     "period": {
@@ -611,17 +611,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-07T08:00:38.924013"
+      "updatedAt": "2026-10-08T08:00:44.873007"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-07T17:49:42.563Z"
+      "updatedAt": "2026-10-08T17:53:10.154Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "07/10/2026 09:34"
+      "updatedAt": "08/10/2026 09:27"
     }
   },
   "macro": {
@@ -630,19 +630,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-09",
-          "value": 13.9
-        },
         {
           "date": "2026-09-10",
           "value": 13.9
@@ -717,6 +713,10 @@
         },
         {
           "date": "2026-10-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-07",
           "value": 13.65
         }
       ]
@@ -1012,26 +1012,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "07/10/2026",
+      "date": "08/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "06/10/2026",
+      "date": "07/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "06/10/2026",
+      "date": "07/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "06/10/2026",
-      "value": 4.9698,
+      "date": "07/10/2026",
+      "value": 4.9935,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1068,34 +1068,29 @@
       "title": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
       "source": "CVM"
-    },
-    {
-      "title": "Área técnica da CVM esclarece orientações para coordenadores de ofertas públicas",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-esclarece-orientacoes-para-coordenadores-de-ofertas-publicas",
-      "source": "CVM"
     }
   ],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4496,
+      "count": 4505,
       "latestMonth": "2026-10",
-      "offersInMonth": 37,
-      "volumeInMonth": 2276500000
+      "offersInMonth": 46,
+      "volumeInMonth": 3366700000
     },
     {
       "market": "FIAGRO",
-      "count": 176,
+      "count": 177,
       "latestMonth": "2026-10",
-      "offersInMonth": 4,
+      "offersInMonth": 5,
       "volumeInMonth": 615000943
     },
     {
       "market": "FII",
-      "count": 1506,
+      "count": 1508,
       "latestMonth": "2026-10",
-      "offersInMonth": 3,
-      "volumeInMonth": 161878000
+      "offersInMonth": 5,
+      "volumeInMonth": 1404270957.8
     }
   ],
   "intelligence": {
@@ -1122,7 +1117,7 @@
           },
           {
             "label": "IRFC",
-            "value": 53.31617647058823,
+            "value": 52.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1172,12 +1167,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 81.32818627450979,
+            "value": 81.14068627450979,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 53.31617647058823,
+            "value": 52.69117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1212,7 +1207,7 @@
           },
           {
             "label": "IRFC",
-            "value": 53.31617647058823,
+            "value": 52.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1256,8 +1251,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.255122240891525,
-          "IRFC": 53.31617647058823,
-          "IRPM": 77.53651960784313
+          "IRFC": 52.69117647058823,
+          "IRPM": 77.34901960784313
         },
         "bands": {
           "offer": "alto",
@@ -1274,8 +1269,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 53.31617647058823,
-          "IRPM": 81.32818627450979
+          "IRFC": 52.69117647058823,
+          "IRPM": 81.14068627450979
         },
         "bands": {
           "offer": "alto",
@@ -1292,8 +1287,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 53.31617647058823,
-          "IRPM": 77.97401960784313
+          "IRFC": 52.69117647058823,
+          "IRPM": 77.78651960784313
         },
         "bands": {
           "offer": "alto",

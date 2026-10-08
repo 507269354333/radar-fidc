@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "market": "FII",
-  "generatedAt": "2026-10-07T17:49:43.409Z",
+  "generatedAt": "2026-10-08T17:53:10.277Z",
   "title": "Carta Mensal Radar - 2026-09",
   "aggregate": {
     "current": {
@@ -738,14 +738,14 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 53.31617647058823,
+        "score": 52.69117647058823,
         "components": [
           {
             "key": "selic",
             "label": "Selic",
             "value": 13.65,
             "date": "2026-09-30",
-            "score": 68.75,
+            "score": 66.66666666666667,
             "weight": 0.3
           },
           {
@@ -793,7 +793,7 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 53.31617647058823,
+          "score": 52.69117647058823,
           "band": "faixa intermediária",
           "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
         }
@@ -801,7 +801,7 @@
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 77.97401960784313,
+        "score": 77.78651960784313,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -821,7 +821,7 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 77.97401960784313,
+          "score": 77.78651960784313,
           "band": "faixa alta",
           "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
         }
@@ -1597,14 +1597,14 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 53.31617647058823,
+          "score": 52.69117647058823,
           "components": [
             {
               "key": "selic",
               "label": "Selic",
               "value": 13.65,
               "date": "2026-09-30",
-              "score": 68.75,
+              "score": 66.66666666666667,
               "weight": 0.3
             },
             {
@@ -1652,7 +1652,7 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 53.31617647058823,
+            "score": 52.69117647058823,
             "band": "faixa intermediária",
             "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
           }
@@ -1660,7 +1660,7 @@
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 77.97401960784313,
+          "score": 77.78651960784313,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1680,7 +1680,7 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 77.97401960784313,
+            "score": 77.78651960784313,
             "band": "faixa alta",
             "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
           }
@@ -1751,19 +1751,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-09",
-          "value": 13.9
-        },
         {
           "date": "2026-09-10",
           "value": 13.9
@@ -1838,6 +1834,10 @@
         },
         {
           "date": "2026-10-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-07",
           "value": 13.65
         }
       ]
@@ -2133,26 +2133,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "07/10/2026",
+      "date": "08/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "06/10/2026",
+      "date": "07/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "06/10/2026",
+      "date": "07/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "06/10/2026",
-      "value": 4.9698,
+      "date": "07/10/2026",
+      "value": 4.9935,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2189,11 +2189,6 @@
       "title": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
       "source": "CVM"
-    },
-    {
-      "title": "Área técnica da CVM esclarece orientações para coordenadores de ofertas públicas",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-esclarece-orientacoes-para-coordenadores-de-ofertas-publicas",
-      "source": "CVM"
     }
   ],
   "houseView": {
@@ -2229,7 +2224,7 @@
           },
           {
             "label": "IRFC",
-            "value": 53.31617647058823,
+            "value": 52.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -2279,12 +2274,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 81.32818627450979,
+            "value": 81.14068627450979,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 53.31617647058823,
+            "value": 52.69117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -2319,7 +2314,7 @@
           },
           {
             "label": "IRFC",
-            "value": 53.31617647058823,
+            "value": 52.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -2363,8 +2358,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.255122240891525,
-          "IRFC": 53.31617647058823,
-          "IRPM": 77.53651960784313
+          "IRFC": 52.69117647058823,
+          "IRPM": 77.34901960784313
         },
         "bands": {
           "offer": "alto",
@@ -2381,8 +2376,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 53.31617647058823,
-          "IRPM": 81.32818627450979
+          "IRFC": 52.69117647058823,
+          "IRPM": 81.14068627450979
         },
         "bands": {
           "offer": "alto",
@@ -2399,8 +2394,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 53.31617647058823,
-          "IRPM": 77.97401960784313
+          "IRFC": 52.69117647058823,
+          "IRPM": 77.78651960784313
         },
         "bands": {
           "offer": "alto",
@@ -2415,8 +2410,8 @@
         "market": "FIDC",
         "current": {
           "IROP": 87.91666666666666,
-          "IRPM": 77.53651960784313,
-          "IRFC": 53.31617647058823
+          "IRPM": 77.34901960784313,
+          "IRFC": 52.69117647058823
         },
         "scenarios": [
           {
@@ -2441,8 +2436,8 @@
         "market": "FIAGRO",
         "current": {
           "IROP": 93.33333333333333,
-          "IRPM": 81.32818627450979,
-          "IRFC": 53.31617647058823
+          "IRPM": 81.14068627450979,
+          "IRFC": 52.69117647058823
         },
         "scenarios": [
           {
@@ -2467,8 +2462,8 @@
         "market": "FII",
         "current": {
           "IROP": 88.54166666666667,
-          "IRPM": 77.97401960784313,
-          "IRFC": 53.31617647058823
+          "IRPM": 77.78651960784313,
+          "IRFC": 52.69117647058823
         },
         "scenarios": [
           {

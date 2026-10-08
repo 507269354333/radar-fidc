@@ -1,32 +1,32 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-07T08:00:38.924013",
+  "sourceUpdatedAt": "2026-10-08T08:00:44.873007",
   "market": "FIAGRO",
-  "count": 176,
+  "count": 177,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 4,
+    "offersInMonth": 5,
     "volumeInMonth": 615000943,
     "offersWithVolumeInMonth": 4,
     "leadersInMonth": 4,
     "byRite": [
       {
         "name": "Automático",
-        "count": 4
+        "count": 5
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 4
+        "count": 5
       }
     ],
     "topLeaders": [
       {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
-        "count": 1,
+        "count": 2,
         "volume": 530000000
       },
       {
@@ -153,13 +153,13 @@
       },
       {
         "month": "2026-10",
-        "count": 4,
+        "count": 5,
         "volume": 615000943,
         "withVolume": 4
       }
     ],
     "trailing12": {
-      "offers": 60,
+      "offers": 61,
       "volume": 264966452887.55,
       "offersWithVolume": 59,
       "leaders": 20,
@@ -171,16 +171,16 @@
           "volume": 10101500010.2
         },
         {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 7,
+          "volume": 1124498000
+        },
+        {
           "name": "BANCO DAYCOVAL S.A.",
           "cnpj": "62.232.889/0001-90",
           "count": 7,
           "volume": 812312400
-        },
-        {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
-          "count": 6,
-          "volume": 1124498000
         },
         {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -271,6 +271,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "6c1433936803d26e",
+        "market": "FIAGRO",
+        "name": "ITAUBA FIAGRO RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.164.780/0001-49",
+        "registration": "28244",
+        "processNumber": "SRE/3271/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 0,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Aguardando Bookbuilding",
+        "date": "2026-10-07",
+        "dateBasis": "requerimento",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "3f9ec942cc072e0d",
         "market": "FIAGRO",
@@ -606,33 +630,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "4c3200af91d57353",
-        "market": "FIAGRO",
-        "name": "FIAGRO BTG PACTUAL II RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.816.734/0001-87",
-        "registration": "27799",
-        "processNumber": "SRE/2866/2026",
-        "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-        "leaderCnpj": "46.482.072/0001-13",
-        "volume": 0,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Aguardando Bookbuilding",
-        "date": "2026-09-04",
-        "dateBasis": "requerimento",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-07T17:49:43.335Z"
+  "updatedAt": "2026-10-08T17:53:10.180Z"
 }

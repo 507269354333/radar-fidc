@@ -1,28 +1,34 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-07T08:00:38.924013",
+  "sourceUpdatedAt": "2026-10-08T08:00:44.873007",
   "market": "FII",
-  "count": 1506,
+  "count": 1508,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 3,
-    "volumeInMonth": 161878000,
-    "offersWithVolumeInMonth": 3,
-    "leadersInMonth": 3,
+    "offersInMonth": 5,
+    "volumeInMonth": 1404270957.8,
+    "offersWithVolumeInMonth": 5,
+    "leadersInMonth": 5,
     "byRite": [
       {
         "name": "Automático",
-        "count": 3
+        "count": 5
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 3
+        "count": 5
       }
     ],
     "topLeaders": [
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 1,
+        "volume": 1232392957.8
+      },
       {
         "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "cnpj": "13.486.793/0001-42",
@@ -34,6 +40,12 @@
         "cnpj": "36.266.751/0001-00",
         "count": 1,
         "volume": 71000000
+      },
+      {
+        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "62.285.390/0001-40",
+        "count": 1,
+        "volume": 10000000
       },
       {
         "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -147,15 +159,15 @@
       },
       {
         "month": "2026-10",
-        "count": 3,
-        "volume": 161878000,
-        "withVolume": 3
+        "count": 5,
+        "volume": 1404270957.8,
+        "withVolume": 5
       }
     ],
     "trailing12": {
-      "offers": 204,
-      "volume": 66028388289.81999,
-      "offersWithVolume": 204,
+      "offers": 206,
+      "volume": 67270781247.619995,
+      "offersWithVolume": 206,
       "leaders": 36,
       "topLeaders": [
         {
@@ -167,8 +179,8 @@
         {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
-          "count": 22,
-          "volume": 5309022690.02
+          "count": 23,
+          "volume": 6541415647.82
         },
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -213,16 +225,16 @@
           "volume": 2121755828.4499998
         },
         {
+          "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "cnpj": "62.285.390/0001-40",
+          "count": 7,
+          "volume": 710716743.4499999
+        },
+        {
           "name": "BANCO SAFRA S/A",
           "cnpj": "58.160.789/0001-28",
           "count": 6,
           "volume": 4745023687.42
-        },
-        {
-          "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "cnpj": "62.285.390/0001-40",
-          "count": 6,
-          "volume": 700716743.4499999
         },
         {
           "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -257,6 +269,54 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "8c9d9f1a4002fa7c",
+        "market": "FII",
+        "name": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "11.839.593/0001-09",
+        "registration": "28252",
+        "processNumber": "SRE/3280/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "leaderCnpj": "59.281.253/0001-23",
+        "volume": 1232392957.8,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-07",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "fd4b4948c38fd11b",
+        "market": "FII",
+        "name": "MIRANTE REALTY RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "cnpj": "41.251.371/0001-23",
+        "registration": "28253",
+        "processNumber": "SRE/3279/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "62.285.390/0001-40",
+        "volume": 10000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-07",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "c0318d1661319c7b",
         "market": "FII",
@@ -568,57 +628,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "66842355f3e9c92e",
-        "market": "FII",
-        "name": "AZ QUEST PANORAMA ILION CAIUBÍ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.281.236/0001-87",
-        "registration": "27919",
-        "processNumber": "SRE/2980/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "leaderCnpj": "62.232.889/0001-90",
-        "volume": 45000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-16",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "7e3edf37046e77fd",
-        "market": "FII",
-        "name": "CASCAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.577.138/0001-91",
-        "registration": "27933",
-        "processNumber": "SRE/2991/2026",
-        "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-        "leaderCnpj": "39.669.186/0001-01",
-        "volume": 139987687.53,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "date": "2026-09-16",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-07T17:49:43.335Z"
+  "updatedAt": "2026-10-08T17:53:10.181Z"
 }

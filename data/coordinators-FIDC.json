@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-10-07T17:49:43.370Z",
+  "generatedAt": "2026-10-08T17:53:10.226Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-07T08:00:38.924013"
+    "updatedAt": "2026-10-08T08:00:44.873007"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 160,
-        "volume": 7991690091.710001,
-        "offersWithVolume": 160,
-        "averageTicket": 49948063.07318751
+        "offers": 161,
+        "volume": 7992190091.710001,
+        "offersWithVolume": 161,
+        "averageTicket": 49640932.24664597
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-10",
-          "count": 2,
-          "volume": 450000000
+          "count": 3,
+          "volume": 450500000
         }
       ],
       "recentOffers": [
+        {
+          "id": "28cca9fdb9fa0a80",
+          "market": "FIDC",
+          "name": "JC INDEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.490.272/0001-13",
+          "registration": "28249",
+          "processNumber": "SRE/3276/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 500000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "8482bb0892bfe61f",
           "market": "FIDC",
@@ -573,29 +589,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "ab36a5945cfd043b",
-          "market": "FIDC",
-          "name": "CONSIGNADOS IX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.086.325/0001-81",
-          "registration": "26496",
-          "processNumber": "SRE/1682/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 8000000.19,
-          "date": "2026-05-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1045,
-          "volume": 57031070860.47996
+          "count": 1046,
+          "volume": 57031570860.47996
         },
         {
           "market": "FIAGRO",
@@ -604,8 +604,8 @@
         },
         {
           "market": "FII",
-          "count": 45,
-          "volume": 3977251955.04
+          "count": 46,
+          "volume": 3987251955.04
         }
       ]
     },
@@ -614,10 +614,10 @@
       "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
       "cnpj": "39.669.186/0001-01",
       "stats12m": {
-        "offers": 106,
-        "volume": 3325166119.35,
-        "offersWithVolume": 106,
-        "averageTicket": 31369491.69198113
+        "offers": 108,
+        "volume": 3340166119.35,
+        "offersWithVolume": 108,
+        "averageTicket": 30927464.068055555
       },
       "byMonth": [
         {
@@ -707,11 +707,43 @@
         },
         {
           "month": "2026-10",
-          "count": 6,
-          "volume": 245000000
+          "count": 8,
+          "volume": 260000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "21bc1b1625e39b21",
+          "market": "FIDC",
+          "name": "NEVADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.014.507/0001-40",
+          "registration": "28241",
+          "processNumber": "SRE/3267/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 4000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ca8a6c027b4d4efd",
+          "market": "FIDC",
+          "name": "NEVADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.014.507/0001-40",
+          "registration": "28242",
+          "processNumber": "SRE/3268/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 11000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "a93d35ccf55d4ac1",
           "market": "FIDC",
@@ -1159,45 +1191,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "3bd6edee4ccf1822",
-          "market": "FIDC",
-          "name": "SCORPIUS HIGH ALPHA FIC FIDC SEGMENTO FINANCEIRO",
-          "cnpj": "52.878.266/0001-35",
-          "registration": "26800",
-          "processNumber": "SRE/1947/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 6000000,
-          "date": "2026-06-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d2072017acd37f3f",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SOL CONSIG - RESPONSABILIDADE LIMITADA",
-          "cnpj": "47.117.855/0001-60",
-          "registration": "26506",
-          "processNumber": "SRE/1714/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 7914800,
-          "date": "2026-05-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 240,
-          "volume": 7068205114.030001
+          "count": 242,
+          "volume": 7083205114.030001
         },
         {
           "market": "FIAGRO",
@@ -1216,10 +1216,10 @@
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 52,
-        "volume": 2547099998.6800003,
-        "offersWithVolume": 52,
-        "averageTicket": 48982692.2823077
+        "offers": 54,
+        "volume": 2559099998.6800003,
+        "offersWithVolume": 54,
+        "averageTicket": 47390740.7162963
       },
       "byMonth": [
         {
@@ -1309,11 +1309,43 @@
         },
         {
           "month": "2026-10",
-          "count": 4,
-          "volume": 204000000
+          "count": 6,
+          "volume": 216000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "fac693ad622b72b2",
+          "market": "FIDC",
+          "name": "LC IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.253.970/0001-70",
+          "registration": "28254",
+          "processNumber": "SRE/3282/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 9000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ef35209c12bf0a62",
+          "market": "FIDC",
+          "name": "LC IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.253.970/0001-70",
+          "registration": "28255",
+          "processNumber": "SRE/3283/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 3000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "8cfcebfcd929b2a0",
           "market": "FIDC",
@@ -1761,45 +1793,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "892bcf23e29e8141",
-          "market": "FIDC",
-          "name": "AQUILA INVEST FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "65.426.950/0001-28",
-          "registration": "26144",
-          "processNumber": "SRE/1350/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 20000000,
-          "date": "2026-04-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "659e4bc2bdbf1b35",
-          "market": "FIDC",
-          "name": "NEO CONSIGNADO PRIVADO PULL I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "65.564.636/0001-01",
-          "registration": "25618",
-          "processNumber": "SRE/0859/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 10000000,
-          "date": "2026-03-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 153,
-          "volume": 10690073198.679995
+          "count": 155,
+          "volume": 10702073198.679995
         },
         {
           "market": "FIAGRO",
@@ -5415,7 +5415,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 11,
+          "count": 12,
           "volume": 1859498000
         },
         {
@@ -6022,8 +6022,8 @@
         },
         {
           "market": "FII",
-          "count": 176,
-          "volume": 24820708488.290005
+          "count": 177,
+          "volume": 26053101446.09
         }
       ]
     },
@@ -6577,10 +6577,10 @@
       "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
       "cnpj": "27.652.684/0001-62",
       "stats12m": {
-        "offers": 16,
-        "volume": 461000000,
-        "offersWithVolume": 16,
-        "averageTicket": 28812500
+        "offers": 17,
+        "volume": 511000000,
+        "offersWithVolume": 17,
+        "averageTicket": 30058823.529411763
       },
       "byMonth": [
         {
@@ -6617,9 +6617,30 @@
           "month": "2026-09",
           "count": 2,
           "volume": 2000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 50000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "d30898965b74da00",
+          "market": "FIDC",
+          "name": "AFINITTY FIC DE FIDC FINANCEIROS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "49.520.420/0001-98",
+          "registration": "28250",
+          "processNumber": "SRE/3281/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 50000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "b50cd3e49f167582",
           "market": "FIDC",
@@ -7088,8 +7109,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 25,
-          "volume": 1536049000
+          "count": 26,
+          "volume": 1586049000
         },
         {
           "market": "FIAGRO",
@@ -7100,6 +7121,608 @@
           "market": "FII",
           "count": 21,
           "volume": 2530042493.4400005
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:44782130000107",
+      "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "cnpj": "44.782.130/0001-07",
+      "stats12m": {
+        "offers": 16,
+        "volume": 162300000,
+        "offersWithVolume": 16,
+        "averageTicket": 10143750
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 3,
+          "volume": 19000000
+        },
+        {
+          "month": "2024-07",
+          "count": 3,
+          "volume": 10700000
+        },
+        {
+          "month": "2024-08",
+          "count": 2,
+          "volume": 40000000
+        },
+        {
+          "month": "2024-10",
+          "count": 6,
+          "volume": 41500000
+        },
+        {
+          "month": "2024-11",
+          "count": 2,
+          "volume": 26000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 6000000
+        },
+        {
+          "month": "2025-03",
+          "count": 2,
+          "volume": 24000000
+        },
+        {
+          "month": "2025-06",
+          "count": 1,
+          "volume": 4000000
+        },
+        {
+          "month": "2025-07",
+          "count": 3,
+          "volume": 23500000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 5400000
+        },
+        {
+          "month": "2025-11",
+          "count": 3,
+          "volume": 42700000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 60000000
+        },
+        {
+          "month": "2026-03",
+          "count": 3,
+          "volume": 15700000
+        },
+        {
+          "month": "2026-04",
+          "count": 1,
+          "volume": 1000000
+        },
+        {
+          "month": "2026-05",
+          "count": 3,
+          "volume": 17700000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 7000000
+        },
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 15500000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 2700000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "855a6c24828bcf5a",
+          "market": "FIDC",
+          "name": "VÉRTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "65.570.364/0001-52",
+          "registration": "28191",
+          "processNumber": "SRE/3265/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 2700000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ea2f1103f30bfdc1",
+          "market": "FIDC",
+          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "37.351.013/0001-15",
+          "registration": "27958",
+          "processNumber": "SRE/3029/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 5000000,
+          "date": "2026-09-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "afa11413047465ff",
+          "market": "FIDC",
+          "name": "HEIVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "58.593.281/0001-13",
+          "registration": "27968",
+          "processNumber": "SRE/3032/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 10000000,
+          "date": "2026-09-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ebcd940c7cedef8d",
+          "market": "FIDC",
+          "name": "IF-AÇOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.073.804/0001-14",
+          "registration": "27830",
+          "processNumber": "SRE/2933/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 500000,
+          "date": "2026-09-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "62fd8e09f68c339f",
+          "market": "FIDC",
+          "name": "PRECAVIDA II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "49.983.868/0001-48",
+          "registration": "26779",
+          "processNumber": "SRE/1949/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 7000000,
+          "date": "2026-06-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "875fb42a179fb6e1",
+          "market": "FIDC",
+          "name": "CENTRAL CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "35.476.474/0001-99",
+          "registration": "26465",
+          "processNumber": "SRE/1684/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 2700000,
+          "date": "2026-05-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "102f94a4e7bb0613",
+          "market": "FIDC",
+          "name": "M SUL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "28.960.803/0001-07",
+          "registration": "26493",
+          "processNumber": "SRE/1683/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 5000000,
+          "date": "2026-05-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f9e9d7468c321fed",
+          "market": "FIDC",
+          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "37.351.013/0001-15",
+          "registration": "26467",
+          "processNumber": "SRE/1666/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 10000000,
+          "date": "2026-05-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4411c3908a68984a",
+          "market": "FIDC",
+          "name": "GW4 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "66.032.389/0001-65",
+          "registration": "26136",
+          "processNumber": "SRE/1345/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 1000000,
+          "date": "2026-04-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "d64c8a418a18b145",
+          "market": "FIDC",
+          "name": "AV1 CONSIG FUNDO DE DIREITO CREDITORIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.463.011/0001-53",
+          "registration": "25591",
+          "processNumber": "SRE/0892/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 3000000,
+          "date": "2026-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3a9d7db4374fb80f",
+          "market": "FIDC",
+          "name": "VÉRTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "65.570.364/0001-52",
+          "registration": "25592",
+          "processNumber": "SRE/0890/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 2700000,
+          "date": "2026-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "81d9f437ed9eb063",
+          "market": "FIDC",
+          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "37.351.013/0001-15",
+          "registration": "24775",
+          "processNumber": "SRE/0632/2026",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 10000000,
+          "date": "2026-03-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a672e4570d555c2d",
+          "market": "FIDC",
+          "name": "PRISMA CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "63.864.746/0001-63",
+          "registration": "24008",
+          "processNumber": "SRE/4462/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 60000000,
+          "date": "2025-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7c16e67b31db8f1a",
+          "market": "FIDC",
+          "name": "ATHENAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "56.886.293/0001-00",
+          "registration": "23331",
+          "processNumber": "SRE/3809/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 30000000,
+          "date": "2025-11-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "c035191301b027d5",
+          "market": "FIDC",
+          "name": "MACRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "60.776.251/0001-94",
+          "registration": "23334",
+          "processNumber": "SRE/3807/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 2700000,
+          "date": "2025-11-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "19df10313d050524",
+          "market": "FIDC",
+          "name": "MAX FINANCEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "43.076.377/0001-37",
+          "registration": "23302",
+          "processNumber": "SRE/3758/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 10000000,
+          "date": "2025-11-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7a6d4c356cbfe5e2",
+          "market": "FIDC",
+          "name": "MACRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "60.776.251/0001-94",
+          "registration": "21691",
+          "processNumber": "SRE/2411/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 2700000,
+          "date": "2025-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a54d9cea87efdc5d",
+          "market": "FIDC",
+          "name": "LANCE REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "45.810.162/0001-23",
+          "registration": "21648",
+          "processNumber": "SRE/2358/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 2700000,
+          "date": "2025-08-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "33f45ee8e828a2c2",
+          "market": "FIDC",
+          "name": "CASH FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "60.306.067/0001-80",
+          "registration": "21579",
+          "processNumber": "SRE/2294/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 4500000,
+          "date": "2025-07-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4e34ca6a5aa12773",
+          "market": "FIDC",
+          "name": "IPIRANGA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "58.363.382/0001-06",
+          "registration": "21312",
+          "processNumber": "SRE/2077/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 14000000,
+          "date": "2025-07-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e9a48b627a77072b",
+          "market": "FIDC",
+          "name": "WFOUR FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "60.209.130/0001-60",
+          "registration": "21293",
+          "processNumber": "SRE/2059/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 5000000,
+          "date": "2025-07-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a2c06a711b5ffe24",
+          "market": "FIDC",
+          "name": "ATHENAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "56.886.293/0001-00",
+          "registration": "21101",
+          "processNumber": "SRE/1849/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 4000000,
+          "date": "2025-06-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "08395e4fefaad996",
+          "market": "FIDC",
+          "name": "HEIVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "58.593.281/0001-13",
+          "registration": "19918",
+          "processNumber": "SRE/0826/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 18000000,
+          "date": "2025-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ef3ab7a8b414a741",
+          "market": "FIDC",
+          "name": "M SUL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "28.960.803/0001-07",
+          "registration": "19666",
+          "processNumber": "SRE/0628/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 6000000,
+          "date": "2025-03-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ddd74a84f5bf08c8",
+          "market": "FIDC",
+          "name": "LANCE REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "45.810.162/0001-23",
+          "registration": "19015",
+          "processNumber": "SRE/0014/2025",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 6000000,
+          "date": "2025-01-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d1dcb39b55e20cd0",
+          "market": "FIDC",
+          "name": "PRECAVIDA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "42.866.998/0001-51",
+          "registration": "18165",
+          "processNumber": "SRE/3493/2024",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 20000000,
+          "date": "2024-11-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d5d511c93b0389e2",
+          "market": "FIDC",
+          "name": "DIANTE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "35.265.104/0001-02",
+          "registration": "18135",
+          "processNumber": "SRE/3467/2024",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 6000000,
+          "date": "2024-11-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5112486e7cf9c9d0",
+          "market": "FIDC",
+          "name": "BRCARD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "41.687.533/0001-70",
+          "registration": "18011",
+          "processNumber": "SRE/3356/2024",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 4000000,
+          "date": "2024-10-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5c5ceea8441152d2",
+          "market": "FIDC",
+          "name": "FXN CAPITAL FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS",
+          "cnpj": "33.701.265/0001-76",
+          "registration": "17930",
+          "processNumber": "SRE/3334/2024",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 10000000,
+          "date": "2024-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ca801b58e1fc2e01",
+          "market": "FIDC",
+          "name": "FXN CAPITAL FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS",
+          "cnpj": "33.701.265/0001-76",
+          "registration": "17932",
+          "processNumber": "SRE/3336/2024",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "44.782.130/0001-07",
+          "volume": 3000000,
+          "date": "2024-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 42,
+          "volume": 382400045.95
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 8500493.61
         }
       ]
     },
@@ -7189,7 +7812,7 @@
           "date": "2026-10-05",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -7763,608 +8386,6 @@
           "market": "FII",
           "count": 10,
           "volume": 2445124809.4
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:44782130000107",
-      "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "cnpj": "44.782.130/0001-07",
-      "stats12m": {
-        "offers": 15,
-        "volume": 159600000,
-        "offersWithVolume": 15,
-        "averageTicket": 10640000
-      },
-      "byMonth": [
-        {
-          "month": "2024-03",
-          "count": 1,
-          "volume": 20000045.95
-        },
-        {
-          "month": "2024-06",
-          "count": 3,
-          "volume": 19000000
-        },
-        {
-          "month": "2024-07",
-          "count": 3,
-          "volume": 10700000
-        },
-        {
-          "month": "2024-08",
-          "count": 2,
-          "volume": 40000000
-        },
-        {
-          "month": "2024-10",
-          "count": 6,
-          "volume": 41500000
-        },
-        {
-          "month": "2024-11",
-          "count": 2,
-          "volume": 26000000
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 6000000
-        },
-        {
-          "month": "2025-03",
-          "count": 2,
-          "volume": 24000000
-        },
-        {
-          "month": "2025-06",
-          "count": 1,
-          "volume": 4000000
-        },
-        {
-          "month": "2025-07",
-          "count": 3,
-          "volume": 23500000
-        },
-        {
-          "month": "2025-08",
-          "count": 2,
-          "volume": 5400000
-        },
-        {
-          "month": "2025-11",
-          "count": 3,
-          "volume": 42700000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 60000000
-        },
-        {
-          "month": "2026-03",
-          "count": 3,
-          "volume": 15700000
-        },
-        {
-          "month": "2026-04",
-          "count": 1,
-          "volume": 1000000
-        },
-        {
-          "month": "2026-05",
-          "count": 3,
-          "volume": 17700000
-        },
-        {
-          "month": "2026-06",
-          "count": 1,
-          "volume": 7000000
-        },
-        {
-          "month": "2026-09",
-          "count": 3,
-          "volume": 15500000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "ea2f1103f30bfdc1",
-          "market": "FIDC",
-          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "37.351.013/0001-15",
-          "registration": "27958",
-          "processNumber": "SRE/3029/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 5000000,
-          "date": "2026-09-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "afa11413047465ff",
-          "market": "FIDC",
-          "name": "HEIVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "58.593.281/0001-13",
-          "registration": "27968",
-          "processNumber": "SRE/3032/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 10000000,
-          "date": "2026-09-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ebcd940c7cedef8d",
-          "market": "FIDC",
-          "name": "IF-AÇOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "52.073.804/0001-14",
-          "registration": "27830",
-          "processNumber": "SRE/2933/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 500000,
-          "date": "2026-09-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "62fd8e09f68c339f",
-          "market": "FIDC",
-          "name": "PRECAVIDA II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "49.983.868/0001-48",
-          "registration": "26779",
-          "processNumber": "SRE/1949/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 7000000,
-          "date": "2026-06-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "875fb42a179fb6e1",
-          "market": "FIDC",
-          "name": "CENTRAL CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "35.476.474/0001-99",
-          "registration": "26465",
-          "processNumber": "SRE/1684/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 2700000,
-          "date": "2026-05-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "102f94a4e7bb0613",
-          "market": "FIDC",
-          "name": "M SUL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "28.960.803/0001-07",
-          "registration": "26493",
-          "processNumber": "SRE/1683/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 5000000,
-          "date": "2026-05-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "f9e9d7468c321fed",
-          "market": "FIDC",
-          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "37.351.013/0001-15",
-          "registration": "26467",
-          "processNumber": "SRE/1666/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 10000000,
-          "date": "2026-05-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "4411c3908a68984a",
-          "market": "FIDC",
-          "name": "GW4 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "66.032.389/0001-65",
-          "registration": "26136",
-          "processNumber": "SRE/1345/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 1000000,
-          "date": "2026-04-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "d64c8a418a18b145",
-          "market": "FIDC",
-          "name": "AV1 CONSIG FUNDO DE DIREITO CREDITORIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.463.011/0001-53",
-          "registration": "25591",
-          "processNumber": "SRE/0892/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 3000000,
-          "date": "2026-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3a9d7db4374fb80f",
-          "market": "FIDC",
-          "name": "VÉRTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "65.570.364/0001-52",
-          "registration": "25592",
-          "processNumber": "SRE/0890/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 2700000,
-          "date": "2026-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "81d9f437ed9eb063",
-          "market": "FIDC",
-          "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "37.351.013/0001-15",
-          "registration": "24775",
-          "processNumber": "SRE/0632/2026",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 10000000,
-          "date": "2026-03-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a672e4570d555c2d",
-          "market": "FIDC",
-          "name": "PRISMA CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "63.864.746/0001-63",
-          "registration": "24008",
-          "processNumber": "SRE/4462/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 60000000,
-          "date": "2025-12-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7c16e67b31db8f1a",
-          "market": "FIDC",
-          "name": "ATHENAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "56.886.293/0001-00",
-          "registration": "23331",
-          "processNumber": "SRE/3809/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 30000000,
-          "date": "2025-11-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c035191301b027d5",
-          "market": "FIDC",
-          "name": "MACRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "60.776.251/0001-94",
-          "registration": "23334",
-          "processNumber": "SRE/3807/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 2700000,
-          "date": "2025-11-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "19df10313d050524",
-          "market": "FIDC",
-          "name": "MAX FINANCEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "43.076.377/0001-37",
-          "registration": "23302",
-          "processNumber": "SRE/3758/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 10000000,
-          "date": "2025-11-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7a6d4c356cbfe5e2",
-          "market": "FIDC",
-          "name": "MACRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "60.776.251/0001-94",
-          "registration": "21691",
-          "processNumber": "SRE/2411/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 2700000,
-          "date": "2025-08-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a54d9cea87efdc5d",
-          "market": "FIDC",
-          "name": "LANCE REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "45.810.162/0001-23",
-          "registration": "21648",
-          "processNumber": "SRE/2358/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 2700000,
-          "date": "2025-08-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "33f45ee8e828a2c2",
-          "market": "FIDC",
-          "name": "CASH FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "60.306.067/0001-80",
-          "registration": "21579",
-          "processNumber": "SRE/2294/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 4500000,
-          "date": "2025-07-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4e34ca6a5aa12773",
-          "market": "FIDC",
-          "name": "IPIRANGA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "58.363.382/0001-06",
-          "registration": "21312",
-          "processNumber": "SRE/2077/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 14000000,
-          "date": "2025-07-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e9a48b627a77072b",
-          "market": "FIDC",
-          "name": "WFOUR FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "60.209.130/0001-60",
-          "registration": "21293",
-          "processNumber": "SRE/2059/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 5000000,
-          "date": "2025-07-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a2c06a711b5ffe24",
-          "market": "FIDC",
-          "name": "ATHENAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "56.886.293/0001-00",
-          "registration": "21101",
-          "processNumber": "SRE/1849/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 4000000,
-          "date": "2025-06-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "08395e4fefaad996",
-          "market": "FIDC",
-          "name": "HEIVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "58.593.281/0001-13",
-          "registration": "19918",
-          "processNumber": "SRE/0826/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 18000000,
-          "date": "2025-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ef3ab7a8b414a741",
-          "market": "FIDC",
-          "name": "M SUL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "28.960.803/0001-07",
-          "registration": "19666",
-          "processNumber": "SRE/0628/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 6000000,
-          "date": "2025-03-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ddd74a84f5bf08c8",
-          "market": "FIDC",
-          "name": "LANCE REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "45.810.162/0001-23",
-          "registration": "19015",
-          "processNumber": "SRE/0014/2025",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d1dcb39b55e20cd0",
-          "market": "FIDC",
-          "name": "PRECAVIDA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "42.866.998/0001-51",
-          "registration": "18165",
-          "processNumber": "SRE/3493/2024",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 20000000,
-          "date": "2024-11-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d5d511c93b0389e2",
-          "market": "FIDC",
-          "name": "DIANTE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "35.265.104/0001-02",
-          "registration": "18135",
-          "processNumber": "SRE/3467/2024",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 6000000,
-          "date": "2024-11-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "5112486e7cf9c9d0",
-          "market": "FIDC",
-          "name": "BRCARD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "41.687.533/0001-70",
-          "registration": "18011",
-          "processNumber": "SRE/3356/2024",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 4000000,
-          "date": "2024-10-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "5c5ceea8441152d2",
-          "market": "FIDC",
-          "name": "FXN CAPITAL FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS",
-          "cnpj": "33.701.265/0001-76",
-          "registration": "17930",
-          "processNumber": "SRE/3334/2024",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 10000000,
-          "date": "2024-10-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ca801b58e1fc2e01",
-          "market": "FIDC",
-          "name": "FXN CAPITAL FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS",
-          "cnpj": "33.701.265/0001-76",
-          "registration": "17932",
-          "processNumber": "SRE/3336/2024",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 3000000,
-          "date": "2024-10-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "fe3794294087c7d8",
-          "market": "FIDC",
-          "name": "ATHENAS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "56.886.293/0001-00",
-          "registration": "17551",
-          "processNumber": "SRE/3017/2024",
-          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "44.782.130/0001-07",
-          "volume": 6500000,
-          "date": "2024-10-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 41,
-          "volume": 379700045.95
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 8500493.61
         }
       ]
     },
@@ -11430,6 +11451,619 @@
       ]
     },
     {
+      "key": "CNPJ:13220493000117",
+      "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+      "cnpj": "13.220.493/0001-17",
+      "stats12m": {
+        "offers": 8,
+        "volume": 3472291000,
+        "offersWithVolume": 8,
+        "averageTicket": 434036375
+      },
+      "byMonth": [
+        {
+          "month": "2023-08",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2023-12",
+          "count": 3,
+          "volume": 616000000
+        },
+        {
+          "month": "2024-03",
+          "count": 1,
+          "volume": 104499673.2
+        },
+        {
+          "month": "2024-05",
+          "count": 1,
+          "volume": 315999057.09
+        },
+        {
+          "month": "2024-06",
+          "count": 2,
+          "volume": 1240942000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 249708883.9
+        },
+        {
+          "month": "2024-11",
+          "count": 2,
+          "volume": 384212000
+        },
+        {
+          "month": "2025-08",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2025-11",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 126000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 285000000
+        },
+        {
+          "month": "2026-03",
+          "count": 2,
+          "volume": 1085000000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 16291000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 800000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 960000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "aa4cf09545146411",
+          "market": "FIDC",
+          "name": "DAYCOVAL D474 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "67.878.476/0001-09",
+          "registration": "28238",
+          "processNumber": "SRE/3272/2026",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 960000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "68845786adea9b66",
+          "market": "FIDC",
+          "name": "GUARDIAN FUTURO VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.922.447/0001-51",
+          "registration": "27962",
+          "processNumber": "SRE/3097/2026",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 800000000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f41ce1b33ad56f96",
+          "market": "FIDC",
+          "name": "JEITTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS GUARDIAN RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.157.943/0001-17",
+          "registration": "26502",
+          "processNumber": "SRE/1730/2026",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 16291000,
+          "date": "2026-06-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4e3b6578a055580a",
+          "market": "FIDC",
+          "name": "GUARDIAN APP CREDITO CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RL",
+          "cnpj": "64.112.934/0001-06",
+          "registration": "25698",
+          "processNumber": "SRE/0943/2026",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 85000000,
+          "date": "2026-03-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7e552386ff77ab13",
+          "market": "FIDC",
+          "name": "GUARDIAN FUTURO VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.012.744/0001-09",
+          "registration": "25590",
+          "processNumber": "SRE/0895/2026",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 1000000000,
+          "date": "2026-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "df6592af4ea157ee",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DOTZ NOVERDE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.395.725/0001-46",
+          "registration": "24618",
+          "processNumber": "SRE/0398/2026",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 285000000,
+          "date": "2026-02-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "48ae7bc82fb62c00",
+          "market": "FIDC",
+          "name": "DAYCOVAL D336 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.615.626/0001-22",
+          "registration": "24178",
+          "processNumber": "SRE/4558/2025",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 126000000,
+          "date": "2025-12-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1c4855e2b3485ea7",
+          "market": "FIDC",
+          "name": "JEITTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS GUARDIAN RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.157.943/0001-17",
+          "registration": "23304",
+          "processNumber": "SRE/3793/2025",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 200000000,
+          "date": "2025-11-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "22b1c29c0abcf292",
+          "market": "FIDC",
+          "name": "JEITTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS GUARDIAN RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.157.943/0001-17",
+          "registration": "21713",
+          "processNumber": "SRE/2409/2025",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 100000000,
+          "date": "2025-08-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7f22df7b66eb2e86",
+          "market": "FIDC",
+          "name": "GUARDIAN FGTS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIROS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.325.887/0001-05",
+          "registration": "18206",
+          "processNumber": "SRE/3528/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 173685000,
+          "date": "2024-11-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "95ae5468b9252067",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO XI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.624.136/0001-90",
+          "registration": "18192",
+          "processNumber": "SRE/3527/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 210527000,
+          "date": "2024-11-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "423449ed61e1065d",
+          "market": "FIDC",
+          "name": "GUARDIAN GDF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.767.969/0001-23",
+          "registration": "16671",
+          "processNumber": "SRE/2203/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 249708883.9,
+          "date": "2024-07-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d6730906c681d38a",
+          "market": "FIDC",
+          "name": "PINHEIROS II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CONSIGNADOS",
+          "cnpj": "51.767.969/0001-23",
+          "registration": "16378",
+          "processNumber": "SRE/1920/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 542300000,
+          "date": "2024-06-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ba58e58aa51c5685",
+          "market": "FIDC",
+          "name": "FIDC GUARDIAN INSS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.211.671/0001-68",
+          "registration": "16246",
+          "processNumber": "SRE/1870/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 698642000,
+          "date": "2024-06-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7b3ddb00b0ca2a94",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "54.065.359/0001-76",
+          "registration": "15909",
+          "processNumber": "SRE/1517/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 315999057.09,
+          "date": "2024-05-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "caa98b42c4434c8d",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "54.065.359/0001-76",
+          "registration": "15168",
+          "processNumber": "SRE/0870/2024",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 104499673.2,
+          "date": "2024-03-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "608975e20ae69ee2",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - DE RESPONSABILIDADE LIM",
+          "cnpj": "53.211.671/0001-68",
+          "registration": "4120",
+          "processNumber": "SRE/3064/2023",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 158000000,
+          "date": "2023-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "06bba5c92ab02ac5",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - DE RESPONSABILIDADE LIM",
+          "cnpj": "53.211.800/0001-18",
+          "registration": "4123",
+          "processNumber": "SRE/3065/2023",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 158000000,
+          "date": "2023-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "005231645716eead",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "52.341.847/0001-33",
+          "registration": "3968",
+          "processNumber": "SRE/2912/2023",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 300000000,
+          "date": "2023-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "91061df3de4435bd",
+          "market": "FIDC",
+          "name": "GUARDIAN MULTI CONSIGNADO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "50.115.378/0001-09",
+          "registration": "2338",
+          "processNumber": "SRE/1482/2023",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 200000000,
+          "date": "2023-08-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "682281b9c0664e6c",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ELECTRA PCH BURITI",
+          "cnpj": "31.030.923/0001-10",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 77000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-07-31",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "202bb19abe6c5dea",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS INVESTMAX II - CONSIGNADO FEDERAL",
+          "cnpj": "40.507.593/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-09-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a4df3b88dcb10b40",
+          "market": "FIDC",
+          "name": "GLOBAL SUPPLIERS - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL",
+          "cnpj": "19.086.092/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 2122308.3,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-07-11",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a5535b66ee42136e",
+          "market": "FIDC",
+          "name": "GUARDIAN CAPITAL CONSIG II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "46.767.226/0001-13",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 264222000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-04-12",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-12-06",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-09-22",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "140f91086c1cc299",
+          "market": "FIDC",
+          "name": "ONE CREDIT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "32.528.217/0001-65",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "16d98760aae64bd6",
+          "market": "FIDC",
+          "name": "PRISMA INFRATELCO VD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "41.195.764/0001-67",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+          "leaderCnpj": "13.220.493/0001-17",
+          "volume": 286915370,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-09-21",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 26,
+          "volume": 7313912292.49
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 30,
+          "volume": 6975725913.02
+        }
+      ]
+    },
+    {
       "key": "CNPJ:48967968000118",
       "name": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
       "cnpj": "48.967.968/0001-18",
@@ -12297,598 +12931,6 @@
           "market": "FII",
           "count": 29,
           "volume": 5915871834.62
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:13220493000117",
-      "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-      "cnpj": "13.220.493/0001-17",
-      "stats12m": {
-        "offers": 7,
-        "volume": 2512291000,
-        "offersWithVolume": 7,
-        "averageTicket": 358898714.28571427
-      },
-      "byMonth": [
-        {
-          "month": "2023-08",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2023-12",
-          "count": 3,
-          "volume": 616000000
-        },
-        {
-          "month": "2024-03",
-          "count": 1,
-          "volume": 104499673.2
-        },
-        {
-          "month": "2024-05",
-          "count": 1,
-          "volume": 315999057.09
-        },
-        {
-          "month": "2024-06",
-          "count": 2,
-          "volume": 1240942000
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 249708883.9
-        },
-        {
-          "month": "2024-11",
-          "count": 2,
-          "volume": 384212000
-        },
-        {
-          "month": "2025-08",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2025-11",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 126000000
-        },
-        {
-          "month": "2026-02",
-          "count": 1,
-          "volume": 285000000
-        },
-        {
-          "month": "2026-03",
-          "count": 2,
-          "volume": 1085000000
-        },
-        {
-          "month": "2026-06",
-          "count": 1,
-          "volume": 16291000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 800000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "68845786adea9b66",
-          "market": "FIDC",
-          "name": "GUARDIAN FUTURO VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.922.447/0001-51",
-          "registration": "27962",
-          "processNumber": "SRE/3097/2026",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 800000000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "f41ce1b33ad56f96",
-          "market": "FIDC",
-          "name": "JEITTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS GUARDIAN RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.157.943/0001-17",
-          "registration": "26502",
-          "processNumber": "SRE/1730/2026",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 16291000,
-          "date": "2026-06-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4e3b6578a055580a",
-          "market": "FIDC",
-          "name": "GUARDIAN APP CREDITO CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RL",
-          "cnpj": "64.112.934/0001-06",
-          "registration": "25698",
-          "processNumber": "SRE/0943/2026",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 85000000,
-          "date": "2026-03-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7e552386ff77ab13",
-          "market": "FIDC",
-          "name": "GUARDIAN FUTURO VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.012.744/0001-09",
-          "registration": "25590",
-          "processNumber": "SRE/0895/2026",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 1000000000,
-          "date": "2026-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "df6592af4ea157ee",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DOTZ NOVERDE - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.395.725/0001-46",
-          "registration": "24618",
-          "processNumber": "SRE/0398/2026",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 285000000,
-          "date": "2026-02-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "48ae7bc82fb62c00",
-          "market": "FIDC",
-          "name": "DAYCOVAL D336 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.615.626/0001-22",
-          "registration": "24178",
-          "processNumber": "SRE/4558/2025",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 126000000,
-          "date": "2025-12-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1c4855e2b3485ea7",
-          "market": "FIDC",
-          "name": "JEITTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS GUARDIAN RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.157.943/0001-17",
-          "registration": "23304",
-          "processNumber": "SRE/3793/2025",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 200000000,
-          "date": "2025-11-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "22b1c29c0abcf292",
-          "market": "FIDC",
-          "name": "JEITTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS GUARDIAN RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.157.943/0001-17",
-          "registration": "21713",
-          "processNumber": "SRE/2409/2025",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 100000000,
-          "date": "2025-08-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7f22df7b66eb2e86",
-          "market": "FIDC",
-          "name": "GUARDIAN FGTS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIROS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.325.887/0001-05",
-          "registration": "18206",
-          "processNumber": "SRE/3528/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 173685000,
-          "date": "2024-11-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "95ae5468b9252067",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO XI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.624.136/0001-90",
-          "registration": "18192",
-          "processNumber": "SRE/3527/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 210527000,
-          "date": "2024-11-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "423449ed61e1065d",
-          "market": "FIDC",
-          "name": "GUARDIAN GDF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "51.767.969/0001-23",
-          "registration": "16671",
-          "processNumber": "SRE/2203/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 249708883.9,
-          "date": "2024-07-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d6730906c681d38a",
-          "market": "FIDC",
-          "name": "PINHEIROS II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CONSIGNADOS",
-          "cnpj": "51.767.969/0001-23",
-          "registration": "16378",
-          "processNumber": "SRE/1920/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 542300000,
-          "date": "2024-06-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ba58e58aa51c5685",
-          "market": "FIDC",
-          "name": "FIDC GUARDIAN INSS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.211.671/0001-68",
-          "registration": "16246",
-          "processNumber": "SRE/1870/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 698642000,
-          "date": "2024-06-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7b3ddb00b0ca2a94",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "54.065.359/0001-76",
-          "registration": "15909",
-          "processNumber": "SRE/1517/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 315999057.09,
-          "date": "2024-05-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "caa98b42c4434c8d",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "54.065.359/0001-76",
-          "registration": "15168",
-          "processNumber": "SRE/0870/2024",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 104499673.2,
-          "date": "2024-03-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "608975e20ae69ee2",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - DE RESPONSABILIDADE LIM",
-          "cnpj": "53.211.671/0001-68",
-          "registration": "4120",
-          "processNumber": "SRE/3064/2023",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 158000000,
-          "date": "2023-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "06bba5c92ab02ac5",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - DE RESPONSABILIDADE LIM",
-          "cnpj": "53.211.800/0001-18",
-          "registration": "4123",
-          "processNumber": "SRE/3065/2023",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 158000000,
-          "date": "2023-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "005231645716eead",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "52.341.847/0001-33",
-          "registration": "3968",
-          "processNumber": "SRE/2912/2023",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 300000000,
-          "date": "2023-12-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "91061df3de4435bd",
-          "market": "FIDC",
-          "name": "GUARDIAN MULTI CONSIGNADO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "50.115.378/0001-09",
-          "registration": "2338",
-          "processNumber": "SRE/1482/2023",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 200000000,
-          "date": "2023-08-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "682281b9c0664e6c",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ELECTRA PCH BURITI",
-          "cnpj": "31.030.923/0001-10",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 77000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-07-31",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "202bb19abe6c5dea",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS INVESTMAX II - CONSIGNADO FEDERAL",
-          "cnpj": "40.507.593/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a4df3b88dcb10b40",
-          "market": "FIDC",
-          "name": "GLOBAL SUPPLIERS - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL",
-          "cnpj": "19.086.092/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 2122308.3,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-07-11",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a5535b66ee42136e",
-          "market": "FIDC",
-          "name": "GUARDIAN CAPITAL CONSIG II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "46.767.226/0001-13",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 264222000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-04-12",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-12-06",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-09-22",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "140f91086c1cc299",
-          "market": "FIDC",
-          "name": "ONE CREDIT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "32.528.217/0001-65",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "16d98760aae64bd6",
-          "market": "FIDC",
-          "name": "PRISMA INFRATELCO VD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "41.195.764/0001-67",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-          "leaderCnpj": "13.220.493/0001-17",
-          "volume": 286915370,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-21",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 25,
-          "volume": 6353912292.49
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 30,
-          "volume": 6975725913.02
         }
       ]
     },
@@ -18088,6 +18130,122 @@
       ]
     },
     {
+      "key": "CNPJ:55108951000170",
+      "name": "EXES SERVICOS FINANCEIROS LTDA",
+      "cnpj": "55.108.951/0001-70",
+      "stats12m": {
+        "offers": 3,
+        "volume": 90500000,
+        "offersWithVolume": 3,
+        "averageTicket": 30166666.666666668
+      },
+      "byMonth": [
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 30500000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 50000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "28b19da103139307",
+          "market": "FIDC",
+          "name": "NEXUN FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMTADA",
+          "cnpj": "66.584.389/0001-78",
+          "registration": "28216",
+          "processNumber": "SRE/3278/2026",
+          "leader": "EXES SERVICOS FINANCEIROS LTDA",
+          "leaderCnpj": "55.108.951/0001-70",
+          "volume": 50000000,
+          "date": "2026-10-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f5e91381c314ae99",
+          "market": "FIDC",
+          "name": "ESTAIADA ÉXES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.319.921/0001-15",
+          "registration": "27641",
+          "processNumber": "SRE/2715/2026",
+          "leader": "EXES SERVICOS FINANCEIROS LTDA",
+          "leaderCnpj": "55.108.951/0001-70",
+          "volume": 10000000,
+          "date": "2026-08-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b3f3714ec465b7cd",
+          "market": "FIDC",
+          "name": "LC2M FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.677.254/0001-69",
+          "registration": "24109",
+          "processNumber": "SRE/4519/2025",
+          "leader": "EXES SERVICOS FINANCEIROS LTDA",
+          "leaderCnpj": "55.108.951/0001-70",
+          "volume": 30500000,
+          "date": "2025-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "513109af9f08b877",
+          "market": "FIDC",
+          "name": "ÉXES SPECIAL OPPORTUNITIES II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LTDA",
+          "cnpj": "60.447.905/0001-36",
+          "registration": "20292",
+          "processNumber": "SRE/1132/2025",
+          "leader": "EXES SERVICOS FINANCEIROS LTDA",
+          "leaderCnpj": "55.108.951/0001-70",
+          "volume": 200000000,
+          "date": "2025-04-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 4,
+          "volume": 290500000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 9000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
       "key": "CNPJ:40434681000110",
       "name": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
       "cnpj": "40.434.681/0001-10",
@@ -19571,101 +19729,6 @@
           "market": "FIAGRO",
           "count": 0,
           "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 0,
-          "volume": 0
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:55108951000170",
-      "name": "EXES SERVICOS FINANCEIROS LTDA",
-      "cnpj": "55.108.951/0001-70",
-      "stats12m": {
-        "offers": 2,
-        "volume": 40500000,
-        "offersWithVolume": 2,
-        "averageTicket": 20250000
-      },
-      "byMonth": [
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 30500000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 10000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "f5e91381c314ae99",
-          "market": "FIDC",
-          "name": "ESTAIADA ÉXES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "52.319.921/0001-15",
-          "registration": "27641",
-          "processNumber": "SRE/2715/2026",
-          "leader": "EXES SERVICOS FINANCEIROS LTDA",
-          "leaderCnpj": "55.108.951/0001-70",
-          "volume": 10000000,
-          "date": "2026-08-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "b3f3714ec465b7cd",
-          "market": "FIDC",
-          "name": "LC2M FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.677.254/0001-69",
-          "registration": "24109",
-          "processNumber": "SRE/4519/2025",
-          "leader": "EXES SERVICOS FINANCEIROS LTDA",
-          "leaderCnpj": "55.108.951/0001-70",
-          "volume": 30500000,
-          "date": "2025-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "513109af9f08b877",
-          "market": "FIDC",
-          "name": "ÉXES SPECIAL OPPORTUNITIES II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LTDA",
-          "cnpj": "60.447.905/0001-36",
-          "registration": "20292",
-          "processNumber": "SRE/1132/2025",
-          "leader": "EXES SERVICOS FINANCEIROS LTDA",
-          "leaderCnpj": "55.108.951/0001-70",
-          "volume": 200000000,
-          "date": "2025-04-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 3,
-          "volume": 240500000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 1,
-          "volume": 9000000
         },
         {
           "market": "FII",
