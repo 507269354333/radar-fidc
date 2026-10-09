@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-08T17:53:10.228Z",
+  "generatedAt": "2026-10-09T17:27:12.926Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-08T08:00:44.873007"
+    "updatedAt": "2026-10-09T08:00:36.533989"
   },
   "coordinators": [
     {
@@ -1197,7 +1197,7 @@
         {
           "market": "FIDC",
           "count": 154,
-          "volume": 28361248543.73
+          "volume": 28361393877.3
         },
         {
           "market": "FIAGRO",
@@ -3958,8 +3958,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 190,
-          "volume": 15524122056.010002
+          "count": 191,
+          "volume": 15624122056.010002
         },
         {
           "market": "FIAGRO",
@@ -4370,8 +4370,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 28,
-          "volume": 2128000243.25
+          "count": 30,
+          "volume": 2198000243.21
         },
         {
           "market": "FIAGRO",
@@ -5904,8 +5904,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1046,
-          "volume": 57031570860.47996
+          "count": 1050,
+          "volume": 57135820860.729965
         },
         {
           "market": "FIAGRO",
@@ -6509,10 +6509,10 @@
       "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
       "cnpj": "18.945.670/0001-46",
       "stats12m": {
-        "offers": 4,
-        "volume": 1278275558.6799998,
-        "offersWithVolume": 4,
-        "averageTicket": 319568889.66999996
+        "offers": 5,
+        "volume": 1278500566.6799998,
+        "offersWithVolume": 5,
+        "averageTicket": 255700113.33599997
       },
       "byMonth": [
         {
@@ -6574,9 +6574,30 @@
           "month": "2026-09",
           "count": 2,
           "volume": 1262708162.85
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 225008
         }
       ],
       "recentOffers": [
+        {
+          "id": "46689bb15095bd30",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO AVM FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "33.354.650/0001-94",
+          "registration": "28185",
+          "processNumber": "SRE/3287/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 225008,
+          "date": "2026-10-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "b9c92fec4b284673",
           "market": "FII",
@@ -6982,8 +7003,8 @@
         },
         {
           "market": "FII",
-          "count": 20,
-          "volume": 3567873498.1699996
+          "count": 21,
+          "volume": 3568098506.1699996
         }
       ]
     },
@@ -11920,8 +11941,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 19,
-          "volume": 2855259314.79
+          "count": 20,
+          "volume": 2865259314.79
         },
         {
           "market": "FIAGRO",
@@ -13770,34 +13791,34 @@
       },
       "byMonth": [
         {
-          "month": "2026-08",
+          "month": "2026-10",
           "count": 1,
           "volume": 50000000
         }
       ],
       "recentOffers": [
         {
-          "id": "f8bedb4527a9abef",
+          "id": "b0f5df98e9883807",
           "market": "FII",
-          "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
           "cnpj": "64.056.494/0001-09",
-          "registration": "27671",
-          "processNumber": "SRE/2743/2026",
+          "registration": "28272",
+          "processNumber": "SRE/3298/2026",
           "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
           "leaderCnpj": "05.816.451/0001-15",
           "volume": 50000000,
-          "date": "2026-08-27",
+          "date": "2026-10-08",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Oferta Encerrada",
+          "status": "Registro Concedido",
           "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 2,
-          "volume": 60000000.4
+          "count": 3,
+          "volume": 120000000.4
         },
         {
           "market": "FIAGRO",
@@ -17481,7 +17502,7 @@
         {
           "market": "FIDC",
           "count": 52,
-          "volume": 16080622370.97
+          "volume": 16230622370.97
         },
         {
           "market": "FIAGRO",

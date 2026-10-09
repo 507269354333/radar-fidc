@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-08T08:00:44.873007",
+  "sourceUpdatedAt": "2026-10-09T08:00:36.533989",
   "market": "FIAGRO",
-  "count": 177,
+  "count": 178,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 5,
-    "volumeInMonth": 615000943,
-    "offersWithVolumeInMonth": 4,
-    "leadersInMonth": 4,
+    "offersInMonth": 6,
+    "volumeInMonth": 635000943,
+    "offersWithVolumeInMonth": 5,
+    "leadersInMonth": 5,
     "byRite": [
       {
         "name": "Automático",
-        "count": 5
+        "count": 6
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 5
+        "count": 6
       }
     ],
     "topLeaders": [
@@ -40,6 +40,12 @@
         "cnpj": "00.806.535/0001-54",
         "count": 1,
         "volume": 30000943
+      },
+      {
+        "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+        "cnpj": "21.610.424/0001-48",
+        "count": 1,
+        "volume": 20000000
       },
       {
         "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -153,15 +159,15 @@
       },
       {
         "month": "2026-10",
-        "count": 5,
-        "volume": 615000943,
-        "withVolume": 4
+        "count": 6,
+        "volume": 635000943,
+        "withVolume": 5
       }
     ],
     "trailing12": {
-      "offers": 61,
-      "volume": 264966452887.55,
-      "offersWithVolume": 59,
+      "offers": 62,
+      "volume": 264986452887.55,
+      "offersWithVolume": 60,
       "leaders": 20,
       "topLeaders": [
         {
@@ -231,6 +237,12 @@
           "volume": 130000943
         },
         {
+          "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "cnpj": "21.610.424/0001-48",
+          "count": 2,
+          "volume": 38000000
+        },
+        {
           "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
           "cnpj": "27.652.684/0001-62",
           "count": 1,
@@ -247,18 +259,12 @@
           "cnpj": "13.673.855/0001-25",
           "count": 1,
           "volume": 30000000
-        },
-        {
-          "name": "BANCO FATOR S/A",
-          "cnpj": "33.644.196/0001-06",
-          "count": 1,
-          "volume": 27000000
         }
       ]
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 65000465.44,
+      "medianPositiveVolume": 64376232.72,
       "outlierCount": 1,
       "outliers": [
         {
@@ -271,6 +277,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "db75efb18084b717",
+        "market": "FIAGRO",
+        "name": "HEDGE CRÉDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "44.668.806/0001-28",
+        "registration": "28261",
+        "processNumber": "SRE/3294/2026",
+        "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+        "leaderCnpj": "21.610.424/0001-48",
+        "volume": 20000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-08",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "6c1433936803d26e",
         "market": "FIAGRO",
@@ -606,33 +636,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "ed902e8babdeb22e",
-        "market": "FIAGRO",
-        "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
-        "cnpj": "62.134.120/0001-39",
-        "registration": "27755",
-        "processNumber": "SRE/2822/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "leaderCnpj": "04.845.753/0001-59",
-        "volume": 231000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-10",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-08T17:53:10.180Z"
+  "updatedAt": "2026-10-09T17:27:12.889Z"
 }

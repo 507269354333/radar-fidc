@@ -1,16 +1,16 @@
 {
   "month": "2026-09",
   "market": "FIDC",
-  "generatedAt": "2026-10-08T17:53:10.256Z",
+  "generatedAt": "2026-10-09T17:27:12.952Z",
   "title": "Carta Mensal Radar - 2026-09",
   "aggregate": {
     "current": {
       "month": "2026-09",
       "offers": 107,
       "offersWithVolume": 105,
-      "registeredVolume": 22622242708.36,
-      "analyticalVolume": 13622242708.359999,
-      "averageTicket": 132254783.57631066,
+      "registeredVolume": 22622388041.93,
+      "analyticalVolume": 13622388041.929998,
+      "averageTicket": 132256194.58184464,
       "issuers": 99,
       "leaders": 33,
       "topLeaders": [
@@ -54,7 +54,7 @@
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
           "count": 5,
-          "volume": 914750838.8399999
+          "volume": 914896172.4100001
         },
         {
           "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -243,13 +243,13 @@
           "cnpj": "41.970.012/0001-26",
           "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "count": 1,
-          "volume": 500000838.84,
+          "volume": 500146172.41,
           "records": [
             {
               "id": "4a18ec1fe2f71b3a",
               "registration": "27856",
               "processNumber": "SRE/2909/2026",
-              "volume": 500000838.84,
+              "volume": 500146172.41,
               "date": "2026-09-10",
               "status": "Registro Concedido",
               "publications": []
@@ -668,8 +668,8 @@
     },
     "changes": {
       "offersPct": 234.375,
-      "officialVolumePct": 810.3500596659574,
-      "analyticalVolumePct": 448.1777214668867
+      "officialVolumePct": 810.3559080880535,
+      "analyticalVolumePct": 448.1835698889829
     },
     "indices": {
       "month": "2026-09",
@@ -758,9 +758,9 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 8.255122240891525,
+        "score": 8.255024854536531,
         "countHHI": 3.6755393484147123,
-        "volumeHHI": 12.834705133368338,
+        "volumeHHI": 12.83451036065835,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -779,7 +779,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 8.255122240891525,
+          "score": 8.255024854536531,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 8/100, faixa baixa."
         }
@@ -787,16 +787,8 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 52.69117647058823,
+        "score": 64.38235294117646,
         "components": [
-          {
-            "key": "selic",
-            "label": "Selic",
-            "value": 13.65,
-            "date": "2026-09-30",
-            "score": 66.66666666666667,
-            "weight": 0.3
-          },
           {
             "key": "spreadPJ",
             "label": "Spread PJ",
@@ -804,14 +796,6 @@
             "date": "2026-08-01",
             "score": 97.5,
             "weight": 0.3
-          },
-          {
-            "key": "inadPJ",
-            "label": "Inadimplência PJ",
-            "value": 3.35,
-            "date": "2026-08-01",
-            "score": 2.5,
-            "weight": 0.2
           },
           {
             "key": "credito3m",
@@ -822,7 +806,7 @@
             "weight": 0.2
           }
         ],
-        "asOf": "2026-09-30",
+        "asOf": "2026-08-01",
         "interpretation": "neutras/medianas",
         "education": {
           "code": "IRFC",
@@ -842,15 +826,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 52.69117647058823,
+          "score": 64.38235294117646,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 64/100, faixa intermediária próximo da transição para a faixa alta."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 77.34901960784313,
+        "score": 80.8563725490196,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -870,36 +854,36 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 77.34901960784313,
+          "score": 80.8563725490196,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
         }
       },
       "projection": {
         "year": 2026,
         "actualThrough": "2026-09",
-        "officialActualVolume": 54545487367.459984,
-        "adjustedActualVolume": 40045487367.45998,
+        "officialActualVolume": 54545632701.02998,
+        "adjustedActualVolume": 40045632701.02997,
         "actualOffers": 486,
         "remainingMonths": 3,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 45173672952.38498,
+            "volume": 45173818285.95497,
             "offers": 559,
             "monthlyVolumeAssumption": 1709395194.975,
             "monthlyOfferAssumption": 24.25
           },
           {
             "label": "Base",
-            "volume": 48089369121.279976,
+            "volume": 48089514454.84997,
             "offers": 591,
             "monthlyVolumeAssumption": 2681293917.94,
             "monthlyOfferAssumption": 35
           },
           {
             "label": "Expansão",
-            "volume": 60680466179.65748,
+            "volume": 60680611513.22747,
             "offers": 773,
             "monthlyVolumeAssumption": 6878326270.7325,
             "monthlyOfferAssumption": 95.75
@@ -916,9 +900,9 @@
         "month": "2026-09",
         "offers": 107,
         "offersWithVolume": 105,
-        "registeredVolume": 22622242708.36,
-        "analyticalVolume": 13622242708.359999,
-        "averageTicket": 132254783.57631066,
+        "registeredVolume": 22622388041.93,
+        "analyticalVolume": 13622388041.929998,
+        "averageTicket": 132256194.58184464,
         "issuers": 99,
         "leaders": 33,
         "topLeaders": [
@@ -962,7 +946,7 @@
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
             "cnpj": "59.281.253/0001-23",
             "count": 5,
-            "volume": 914750838.8399999
+            "volume": 914896172.4100001
           },
           {
             "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -1151,13 +1135,13 @@
             "cnpj": "41.970.012/0001-26",
             "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
             "count": 1,
-            "volume": 500000838.84,
+            "volume": 500146172.41,
             "records": [
               {
                 "id": "4a18ec1fe2f71b3a",
                 "registration": "27856",
                 "processNumber": "SRE/2909/2026",
-                "volume": 500000838.84,
+                "volume": 500146172.41,
                 "date": "2026-09-10",
                 "status": "Registro Concedido",
                 "publications": []
@@ -1576,8 +1560,8 @@
       },
       "changes": {
         "offersPct": 234.375,
-        "officialVolumePct": 810.3500596659574,
-        "analyticalVolumePct": 448.1777214668867
+        "officialVolumePct": 810.3559080880535,
+        "analyticalVolumePct": 448.1835698889829
       },
       "indices": {
         "month": "2026-09",
@@ -1666,9 +1650,9 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 8.255122240891525,
+          "score": 8.255024854536531,
           "countHHI": 3.6755393484147123,
-          "volumeHHI": 12.834705133368338,
+          "volumeHHI": 12.83451036065835,
           "interpretation": "baixa",
           "education": {
             "code": "IRCC",
@@ -1687,7 +1671,7 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 8.255122240891525,
+            "score": 8.255024854536531,
             "band": "faixa baixa",
             "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 8/100, faixa baixa."
           }
@@ -1695,16 +1679,8 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 52.69117647058823,
+          "score": 64.38235294117646,
           "components": [
-            {
-              "key": "selic",
-              "label": "Selic",
-              "value": 13.65,
-              "date": "2026-09-30",
-              "score": 66.66666666666667,
-              "weight": 0.3
-            },
             {
               "key": "spreadPJ",
               "label": "Spread PJ",
@@ -1712,14 +1688,6 @@
               "date": "2026-08-01",
               "score": 97.5,
               "weight": 0.3
-            },
-            {
-              "key": "inadPJ",
-              "label": "Inadimplência PJ",
-              "value": 3.35,
-              "date": "2026-08-01",
-              "score": 2.5,
-              "weight": 0.2
             },
             {
               "key": "credito3m",
@@ -1730,7 +1698,7 @@
               "weight": 0.2
             }
           ],
-          "asOf": "2026-09-30",
+          "asOf": "2026-08-01",
           "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
@@ -1750,15 +1718,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 52.69117647058823,
+            "score": 64.38235294117646,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 53/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 64/100, faixa intermediária próximo da transição para a faixa alta."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 77.34901960784313,
+          "score": 80.8563725490196,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1778,36 +1746,36 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 77.34901960784313,
+            "score": 80.8563725490196,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
           }
         },
         "projection": {
           "year": 2026,
           "actualThrough": "2026-09",
-          "officialActualVolume": 54545487367.459984,
-          "adjustedActualVolume": 40045487367.45998,
+          "officialActualVolume": 54545632701.02998,
+          "adjustedActualVolume": 40045632701.02997,
           "actualOffers": 486,
           "remainingMonths": 3,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 45173672952.38498,
+              "volume": 45173818285.95497,
               "offers": 559,
               "monthlyVolumeAssumption": 1709395194.975,
               "monthlyOfferAssumption": 24.25
             },
             {
               "label": "Base",
-              "volume": 48089369121.279976,
+              "volume": 48089514454.84997,
               "offers": 591,
               "monthlyVolumeAssumption": 2681293917.94,
               "monthlyOfferAssumption": 35
             },
             {
               "label": "Expansão",
-              "volume": 60680466179.65748,
+              "volume": 60680611513.22747,
               "offers": 773,
               "monthlyVolumeAssumption": 6878326270.7325,
               "monthlyOfferAssumption": 95.75
@@ -1822,7 +1790,7 @@
         "O volume analítico ajustado ficou 448,2% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 2 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 18 ofertas.",
-        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 77/100 (expansivo)."
+        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 81/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -1849,193 +1817,21 @@
       "id": 1178,
       "label": "Taxa Selic anualizada",
       "unit": "%",
-      "latest": {
-        "date": "2026-10-07",
-        "value": 13.65
-      },
-      "previous": {
-        "date": "2026-10-06",
-        "value": 13.65
-      },
-      "change": 0,
-      "history": [
-        {
-          "date": "2026-09-10",
-          "value": 13.9
-        },
-        {
-          "date": "2026-09-11",
-          "value": 13.9
-        },
-        {
-          "date": "2026-09-14",
-          "value": 13.9
-        },
-        {
-          "date": "2026-09-15",
-          "value": 13.9
-        },
-        {
-          "date": "2026-09-16",
-          "value": 13.9
-        },
-        {
-          "date": "2026-09-17",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-18",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-21",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-22",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-23",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-24",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-25",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-28",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-29",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-30",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-01",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-02",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-05",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-06",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-07",
-          "value": 13.65
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "timeout após 8000 ms"
     },
     "inadPJ": {
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": {
-        "date": "2026-08-01",
-        "value": 3.35
-      },
-      "previous": {
-        "date": "2026-07-01",
-        "value": 3.32
-      },
-      "change": 0.03000000000000025,
-      "history": [
-        {
-          "date": "2025-01-01",
-          "value": 2.43
-        },
-        {
-          "date": "2025-02-01",
-          "value": 2.52
-        },
-        {
-          "date": "2025-03-01",
-          "value": 2.49
-        },
-        {
-          "date": "2025-04-01",
-          "value": 2.72
-        },
-        {
-          "date": "2025-05-01",
-          "value": 2.67
-        },
-        {
-          "date": "2025-06-01",
-          "value": 2.67
-        },
-        {
-          "date": "2025-07-01",
-          "value": 2.79
-        },
-        {
-          "date": "2025-08-01",
-          "value": 2.85
-        },
-        {
-          "date": "2025-09-01",
-          "value": 2.77
-        },
-        {
-          "date": "2025-10-01",
-          "value": 2.82
-        },
-        {
-          "date": "2025-11-01",
-          "value": 2.75
-        },
-        {
-          "date": "2025-12-01",
-          "value": 2.7
-        },
-        {
-          "date": "2026-01-01",
-          "value": 2.87
-        },
-        {
-          "date": "2026-02-01",
-          "value": 3.07
-        },
-        {
-          "date": "2026-03-01",
-          "value": 3.06
-        },
-        {
-          "date": "2026-04-01",
-          "value": 3.15
-        },
-        {
-          "date": "2026-05-01",
-          "value": 3.25
-        },
-        {
-          "date": "2026-06-01",
-          "value": 3.18
-        },
-        {
-          "date": "2026-07-01",
-          "value": 3.32
-        },
-        {
-          "date": "2026-08-01",
-          "value": 3.35
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "timeout após 8000 ms"
     },
     "estoquePJ": {
       "id": 20540,
@@ -2232,26 +2028,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "08/10/2026",
+      "date": "09/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "07/10/2026",
+      "date": "08/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "07/10/2026",
+      "date": "08/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "07/10/2026",
-      "value": 4.9935,
+      "date": "08/10/2026",
+      "value": 5.0119,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2323,7 +2119,7 @@
           },
           {
             "label": "IRFC",
-            "value": 52.69117647058823,
+            "value": 64.38235294117646,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -2333,7 +2129,7 @@
           },
           {
             "label": "IRCC",
-            "value": 20.11093515941689,
+            "value": 20.11090269729856,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2373,12 +2169,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 81.14068627450979,
+            "value": 84.64803921568627,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 52.69117647058823,
+            "value": 64.38235294117646,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -2413,7 +2209,7 @@
           },
           {
             "label": "IRFC",
-            "value": 52.69117647058823,
+            "value": 64.38235294117646,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -2423,7 +2219,7 @@
           },
           {
             "label": "Cenário base anual",
-            "value": 62515990648.21001,
+            "value": 62465990648.21001,
             "source": "Cenário Radar"
           }
         ],
@@ -2456,9 +2252,9 @@
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
-          "IRCC": 8.255122240891525,
-          "IRFC": 52.69117647058823,
-          "IRPM": 77.34901960784313
+          "IRCC": 8.255024854536531,
+          "IRFC": 64.38235294117646,
+          "IRPM": 80.8563725490196
         },
         "bands": {
           "offer": "alto",
@@ -2475,8 +2271,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 52.69117647058823,
-          "IRPM": 81.14068627450979
+          "IRFC": 64.38235294117646,
+          "IRPM": 84.64803921568627
         },
         "bands": {
           "offer": "alto",
@@ -2493,8 +2289,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 52.69117647058823,
-          "IRPM": 77.78651960784313
+          "IRFC": 64.38235294117646,
+          "IRPM": 81.2938725490196
         },
         "bands": {
           "offer": "alto",
@@ -2509,23 +2305,23 @@
         "market": "FIDC",
         "current": {
           "IROP": 87.91666666666666,
-          "IRPM": 77.34901960784313,
-          "IRFC": 52.69117647058823
+          "IRPM": 80.8563725490196,
+          "IRFC": 64.38235294117646
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 45173672952.38498,
+            "volume": 45173818285.95497,
             "offers": 559
           },
           {
             "label": "Base",
-            "volume": 48089369121.279976,
+            "volume": 48089514454.84997,
             "offers": 591
           },
           {
             "label": "Expansão",
-            "volume": 60680466179.65748,
+            "volume": 60680611513.22747,
             "offers": 773
           }
         ],
@@ -2535,8 +2331,8 @@
         "market": "FIAGRO",
         "current": {
           "IROP": 93.33333333333333,
-          "IRPM": 81.14068627450979,
-          "IRFC": 52.69117647058823
+          "IRPM": 84.64803921568627,
+          "IRFC": 64.38235294117646
         },
         "scenarios": [
           {
@@ -2561,24 +2357,24 @@
         "market": "FII",
         "current": {
           "IROP": 88.54166666666667,
-          "IRPM": 77.78651960784313,
-          "IRFC": 52.69117647058823
+          "IRPM": 81.2938725490196,
+          "IRFC": 64.38235294117646
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 55007134145.51501,
-            "offers": 177
+            "volume": 54957134145.51501,
+            "offers": 176
           },
           {
             "label": "Base",
-            "volume": 62515990648.21001,
-            "offers": 195
+            "volume": 62465990648.21001,
+            "offers": 194
           },
           {
             "label": "Expansão",
-            "volume": 76615928489.83,
-            "offers": 234
+            "volume": 76565928489.83,
+            "offers": 233
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

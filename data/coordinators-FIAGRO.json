@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-08T17:53:10.227Z",
+  "generatedAt": "2026-10-09T17:27:12.925Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-08T08:00:44.873007"
+    "updatedAt": "2026-10-09T08:00:36.533989"
   },
   "coordinators": [
     {
@@ -920,8 +920,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 190,
-          "volume": 15524122056.010002
+          "count": 191,
+          "volume": 15624122056.010002
         },
         {
           "market": "FIAGRO",
@@ -1174,7 +1174,7 @@
         {
           "market": "FIDC",
           "count": 154,
-          "volume": 28361248543.73
+          "volume": 28361393877.3
         },
         {
           "market": "FIAGRO",
@@ -1332,8 +1332,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 28,
-          "volume": 2128000243.25
+          "count": 30,
+          "volume": 2198000243.21
         },
         {
           "market": "FIAGRO",
@@ -1928,8 +1928,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1046,
-          "volume": 57031570860.47996
+          "count": 1050,
+          "volume": 57135820860.729965
         },
         {
           "market": "FIAGRO",
@@ -2124,7 +2124,7 @@
         {
           "market": "FIDC",
           "count": 52,
-          "volume": 16080622370.97
+          "volume": 16230622370.97
         },
         {
           "market": "FIAGRO",
@@ -2441,6 +2441,175 @@
           "market": "FII",
           "count": 36,
           "volume": 3447211750.81
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:21610424000148",
+      "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+      "cnpj": "21.610.424/0001-48",
+      "stats12m": {
+        "offers": 2,
+        "volume": 38000000,
+        "offersWithVolume": 2,
+        "averageTicket": 19000000
+      },
+      "byMonth": [
+        {
+          "month": "2024-04",
+          "count": 2,
+          "volume": 12000000
+        },
+        {
+          "month": "2024-12",
+          "count": 2,
+          "volume": 30000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 18000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 20000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "db75efb18084b717",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "28261",
+          "processNumber": "SRE/3294/2026",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 20000000,
+          "date": "2026-10-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "afeba43efcaecf43",
+          "market": "FIAGRO",
+          "name": "HEDGE CREDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "26875",
+          "processNumber": "SRE/2011/2026",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 18000000,
+          "date": "2026-06-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7b5024d4a868a7ba",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "19290",
+          "processNumber": "SRE/0246/2025",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 10000000,
+          "date": "2025-01-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4da1863d14e8d3c9",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "18923",
+          "processNumber": "SRE/4159/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 20000000,
+          "date": "2024-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2d34f197c60081ff",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "18709",
+          "processNumber": "SRE/3995/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 10000000,
+          "date": "2024-12-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "de46aa1a0f35d8cc",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "15357",
+          "processNumber": "SRE/1031/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 8000000,
+          "date": "2024-04-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8a4a1f2142d2c125",
+          "market": "FIAGRO",
+          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
+          "cnpj": "44.668.806/0001-28",
+          "registration": "15362",
+          "processNumber": "SRE/1033/2024",
+          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+          "leaderCnpj": "21.610.424/0001-48",
+          "volume": 4000000,
+          "date": "2024-04-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 7,
+          "volume": 90000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
         }
       ]
     },
@@ -3001,154 +3170,6 @@
           "market": "FII",
           "count": 20,
           "volume": 1306904530.3899999
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:21610424000148",
-      "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-      "cnpj": "21.610.424/0001-48",
-      "stats12m": {
-        "offers": 1,
-        "volume": 18000000,
-        "offersWithVolume": 1,
-        "averageTicket": 18000000
-      },
-      "byMonth": [
-        {
-          "month": "2024-04",
-          "count": 2,
-          "volume": 12000000
-        },
-        {
-          "month": "2024-12",
-          "count": 2,
-          "volume": 30000000
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-06",
-          "count": 1,
-          "volume": 18000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "afeba43efcaecf43",
-          "market": "FIAGRO",
-          "name": "HEDGE CREDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "44.668.806/0001-28",
-          "registration": "26875",
-          "processNumber": "SRE/2011/2026",
-          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-          "leaderCnpj": "21.610.424/0001-48",
-          "volume": 18000000,
-          "date": "2026-06-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7b5024d4a868a7ba",
-          "market": "FIAGRO",
-          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
-          "cnpj": "44.668.806/0001-28",
-          "registration": "19290",
-          "processNumber": "SRE/0246/2025",
-          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-          "leaderCnpj": "21.610.424/0001-48",
-          "volume": 10000000,
-          "date": "2025-01-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4da1863d14e8d3c9",
-          "market": "FIAGRO",
-          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
-          "cnpj": "44.668.806/0001-28",
-          "registration": "18923",
-          "processNumber": "SRE/4159/2024",
-          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-          "leaderCnpj": "21.610.424/0001-48",
-          "volume": 20000000,
-          "date": "2024-12-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2d34f197c60081ff",
-          "market": "FIAGRO",
-          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
-          "cnpj": "44.668.806/0001-28",
-          "registration": "18709",
-          "processNumber": "SRE/3995/2024",
-          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-          "leaderCnpj": "21.610.424/0001-48",
-          "volume": 10000000,
-          "date": "2024-12-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "de46aa1a0f35d8cc",
-          "market": "FIAGRO",
-          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
-          "cnpj": "44.668.806/0001-28",
-          "registration": "15357",
-          "processNumber": "SRE/1031/2024",
-          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-          "leaderCnpj": "21.610.424/0001-48",
-          "volume": 8000000,
-          "date": "2024-04-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8a4a1f2142d2c125",
-          "market": "FIAGRO",
-          "name": "HEDGE CRÉDITO AGRO FIAGRO-DIREITOS CREDITÓRIOS",
-          "cnpj": "44.668.806/0001-28",
-          "registration": "15362",
-          "processNumber": "SRE/1033/2024",
-          "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-          "leaderCnpj": "21.610.424/0001-48",
-          "volume": 4000000,
-          "date": "2024-04-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FIAGRO",
-          "count": 6,
-          "volume": 70000000
-        },
-        {
-          "market": "FII",
-          "count": 0,
-          "volume": 0
         }
       ]
     },
@@ -4237,8 +4258,8 @@
         },
         {
           "market": "FII",
-          "count": 20,
-          "volume": 3567873498.1699996
+          "count": 21,
+          "volume": 3568098506.1699996
         }
       ]
     },

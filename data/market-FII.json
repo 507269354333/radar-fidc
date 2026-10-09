@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-08T08:00:44.873007",
+  "sourceUpdatedAt": "2026-10-09T08:00:36.533989",
   "market": "FII",
-  "count": 1508,
+  "count": 1509,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 5,
-    "volumeInMonth": 1404270957.8,
-    "offersWithVolumeInMonth": 5,
-    "leadersInMonth": 5,
+    "offersInMonth": 7,
+    "volumeInMonth": 1454495965.8,
+    "offersWithVolumeInMonth": 7,
+    "leadersInMonth": 7,
     "byRite": [
       {
         "name": "Automático",
-        "count": 5
+        "count": 7
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 5
+        "count": 7
       }
     ],
     "topLeaders": [
@@ -42,6 +42,12 @@
         "volume": 71000000
       },
       {
+        "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
+        "cnpj": "05.816.451/0001-15",
+        "count": 1,
+        "volume": 50000000
+      },
+      {
         "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "cnpj": "62.285.390/0001-40",
         "count": 1,
@@ -52,6 +58,12 @@
         "cnpj": "22.610.500/0001-88",
         "count": 1,
         "volume": 1500000
+      },
+      {
+        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "cnpj": "18.945.670/0001-46",
+        "count": 1,
+        "volume": 225008
       }
     ],
     "byMonth": [
@@ -147,9 +159,9 @@
       },
       {
         "month": "2026-08",
-        "count": 20,
-        "volume": 8483867625.379999,
-        "withVolume": 20
+        "count": 19,
+        "volume": 8433867625.379999,
+        "withVolume": 19
       },
       {
         "month": "2026-09",
@@ -159,15 +171,15 @@
       },
       {
         "month": "2026-10",
-        "count": 5,
-        "volume": 1404270957.8,
-        "withVolume": 5
+        "count": 7,
+        "volume": 1454495965.8,
+        "withVolume": 7
       }
     ],
     "trailing12": {
-      "offers": 206,
-      "volume": 67270781247.619995,
-      "offersWithVolume": 206,
+      "offers": 207,
+      "volume": 67271006255.619995,
+      "offersWithVolume": 207,
       "leaders": 36,
       "topLeaders": [
         {
@@ -245,8 +257,8 @@
         {
           "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
           "cnpj": "18.945.670/0001-46",
-          "count": 4,
-          "volume": 1278275558.6799998
+          "count": 5,
+          "volume": 1278500566.6799998
         },
         {
           "name": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -269,6 +281,54 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "46689bb15095bd30",
+        "market": "FII",
+        "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO AVM FII RESPONSABILIDADE LIMITADA",
+        "cnpj": "33.354.650/0001-94",
+        "registration": "28185",
+        "processNumber": "SRE/3287/2026",
+        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "leaderCnpj": "18.945.670/0001-46",
+        "volume": 225008,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-08",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "b0f5df98e9883807",
+        "market": "FII",
+        "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "64.056.494/0001-09",
+        "registration": "28272",
+        "processNumber": "SRE/3298/2026",
+        "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
+        "leaderCnpj": "05.816.451/0001-15",
+        "volume": 50000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-08",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "8c9d9f1a4002fa7c",
         "market": "FII",
@@ -580,57 +640,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "952256c8ef368e35",
-        "market": "FII",
-        "name": "TERRA NOVA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.131.160/0001-76",
-        "registration": "27942",
-        "processNumber": "SRE/3075/2026",
-        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "leaderCnpj": "36.266.751/0001-00",
-        "volume": 15000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-23",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "2b2118aaff51d100",
-        "market": "FII",
-        "name": "BRIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.863.429/0001-83",
-        "registration": "27965",
-        "processNumber": "SRE/3011/2026",
-        "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-        "leaderCnpj": "39.669.186/0001-01",
-        "volume": 153000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "date": "2026-09-18",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-08T17:53:10.181Z"
+  "updatedAt": "2026-10-09T17:27:12.889Z"
 }
