@@ -1,7 +1,120 @@
 {
-  "generatedAt": "2026-10-09T17:27:12.899Z",
+  "generatedAt": "2026-10-12T20:18:13.345Z",
   "market": "FIAGRO",
   "current": {
+    "period": {
+      "start": "2026-10-05",
+      "end": "2026-10-11"
+    },
+    "offers": 3,
+    "offersWithVolume": 2,
+    "volume": 55000000,
+    "averageTicket": 27500000,
+    "leaders": 3,
+    "topLeaders": [
+      {
+        "name": "MIVE CAPITAL MARKETS LTDA",
+        "cnpj": "55.440.852/0001-91",
+        "count": 1,
+        "volume": 35000000
+      },
+      {
+        "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+        "cnpj": "21.610.424/0001-48",
+        "count": 1,
+        "volume": 20000000
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 1,
+        "volume": 0
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "3f9ec942cc072e0d",
+        "market": "FIAGRO",
+        "name": "GREEN PLACE FIAGRO DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+        "cnpj": "67.880.557/0001-35",
+        "registration": "28236",
+        "processNumber": "SRE/3263/2026",
+        "leader": "MIVE CAPITAL MARKETS LTDA",
+        "volume": 35000000,
+        "date": "2026-10-06",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "db75efb18084b717",
+        "market": "FIAGRO",
+        "name": "HEDGE CRÉDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "44.668.806/0001-28",
+        "registration": "28261",
+        "processNumber": "SRE/3294/2026",
+        "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
+        "volume": 20000000,
+        "date": "2026-10-08",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 3
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 3
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 2
+      },
+      {
+        "name": "Aguardando Bookbuilding",
+        "count": 1
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FIAGRO",
+        "count": 3
+      }
+    ],
+    "professionalShare": 1,
+    "top3Concentration": 1,
+    "busiestDays": [
+      {
+        "date": "2026-10-06",
+        "count": 1
+      },
+      {
+        "date": "2026-10-07",
+        "count": 1
+      },
+      {
+        "date": "2026-10-08",
+        "count": 1
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Agronegócio",
+        "count": 3
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-09-28",
       "end": "2026-10-04"
@@ -121,138 +234,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-09-21",
-      "end": "2026-09-27"
-    },
-    "offers": 3,
-    "offersWithVolume": 3,
-    "volume": 8904000000,
-    "averageTicket": 2968000000,
-    "leaders": 1,
-    "topLeaders": [
-      {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 3,
-        "volume": 8904000000
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "8a9441681c734645",
-        "market": "FIAGRO",
-        "name": "XP CDI CRA FIAGRO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.200.019/0001-88",
-        "registration": "28160",
-        "processNumber": "SRE/3190/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 5300000000,
-        "date": "2026-09-23",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "d7d9ed348ad28251",
-        "market": "FIAGRO",
-        "name": "XP CDI 94 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.198.825/0001-69",
-        "registration": "28157",
-        "processNumber": "SRE/3185/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 1802000000,
-        "date": "2026-09-23",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "86379c16094aa600",
-        "market": "FIAGRO",
-        "name": "XP CDI 95 CRA I FIAGRO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.199.119/0001-31",
-        "registration": "28158",
-        "processNumber": "SRE/3188/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 1802000000,
-        "date": "2026-09-23",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Oferta Encerrada",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Público geral",
-        "count": 3
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 3
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Oferta Encerrada",
-        "count": 3
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FIAGRO",
-        "count": 3
-      }
-    ],
-    "professionalShare": 0,
-    "top3Concentration": 1,
-    "busiestDays": [
-      {
-        "date": "2026-09-23",
-        "count": 3
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Agronegócio",
-        "count": 3
-      }
-    ]
-  },
   "changes": {
     "offersPct": 0,
-    "volumePct": -93.48606308400718
+    "volumePct": -90.51725679694283
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 3.5,
-      "volume": 2341525000.025,
-      "leaders": 2,
+      "offers": 3.25,
+      "volume": 2456525235.775,
+      "leaders": 2.25,
       "professionalShare": 0.75,
       "top3Concentration": 0.9583333333333334
     },
     "currentVsPrior4Average": {
-      "offersPct": -14.285714285714285,
-      "volumePct": -75.22977790141863
+      "offersPct": -7.6923076923076925,
+      "volumePct": -97.76106513383127
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-08-10",
-          "end": "2026-08-16"
-        },
-        "offers": 0,
-        "volume": 0,
-        "leaders": 0
-      },
       {
         "period": {
           "start": "2026-08-17",
@@ -315,14 +315,23 @@
         "offers": 3,
         "volume": 580000943,
         "leaders": 3
+      },
+      {
+        "period": {
+          "start": "2026-10-05",
+          "end": "2026-10-11"
+        },
+        "offers": 3,
+        "volume": 55000000,
+        "leaders": 3
       }
     ]
   },
   "observations": [
     "Atividade semanal de 3 ofertas FIAGRO, 0,0% acima da semana anterior.",
-    "Volume informado de R$ 580.000.943 em 3 ofertas com valor positivo; ticket médio de R$ 193.333.648.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 75,2% abaixo e a quantidade de ofertas 14,3% abaixo.",
-    "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou por quantidade de registros (1); os três coordenadores mais presentes concentraram 100,0% das ofertas da semana.",
+    "Volume informado de R$ 55.000.000 em 2 ofertas com valor positivo; ticket médio de R$ 27.500.000.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 97,8% abaixo e a quantidade de ofertas 7,7% abaixo.",
+    "MIVE CAPITAL MARKETS LTDA liderou por quantidade de registros (1); os três coordenadores mais presentes concentraram 100,0% das ofertas da semana.",
     "100,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (3). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
@@ -331,17 +340,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-09T08:00:36.533989"
+      "updatedAt": "2026-10-12T08:01:06.835727"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-09T17:27:12.868Z"
+      "updatedAt": "2026-10-12T20:18:12.751Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "09/10/2026 09:27"
+      "updatedAt": "09/10/2026 18:11"
     }
   },
   "macro": {
@@ -349,21 +358,193 @@
       "id": 1178,
       "label": "Taxa Selic anualizada",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-10-09",
+        "value": 13.65
+      },
+      "previous": {
+        "date": "2026-10-08",
+        "value": 13.65
+      },
+      "change": 0,
+      "history": [
+        {
+          "date": "2026-09-14",
+          "value": 13.9
+        },
+        {
+          "date": "2026-09-15",
+          "value": 13.9
+        },
+        {
+          "date": "2026-09-16",
+          "value": 13.9
+        },
+        {
+          "date": "2026-09-17",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-18",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-21",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-22",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-23",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-25",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-28",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-29",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-01",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-02",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-05",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-07",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-08",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-09",
+          "value": 13.65
+        }
+      ]
     },
     "inadPJ": {
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 3.35
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 3.32
+      },
+      "change": 0.03000000000000025,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2.43
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2.52
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2.49
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2.72
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2.79
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2.85
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2.77
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2.82
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2.75
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2.7
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2.87
+        },
+        {
+          "date": "2026-02-01",
+          "value": 3.07
+        },
+        {
+          "date": "2026-03-01",
+          "value": 3.06
+        },
+        {
+          "date": "2026-04-01",
+          "value": 3.15
+        },
+        {
+          "date": "2026-05-01",
+          "value": 3.25
+        },
+        {
+          "date": "2026-06-01",
+          "value": 3.18
+        },
+        {
+          "date": "2026-07-01",
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
+        }
+      ]
     },
     "estoquePJ": {
       "id": 20540,
@@ -566,32 +747,32 @@
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "08/10/2026",
+      "date": "09/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "08/10/2026",
+      "date": "09/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "08/10/2026",
-      "value": 5.0119,
+      "date": "09/10/2026",
+      "value": 4.9892,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.72,
+      "value": 0.27,
       "label": "IPCA projetado",
       "unit": "%"
     },
     "igpmProjection": {
       "date": null,
-      "value": 1.35,
+      "value": 1.12,
       "label": "IGP-M projetado",
       "unit": "%"
     }
@@ -621,10 +802,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4514,
+      "count": 4524,
       "latestMonth": "2026-10",
-      "offersInMonth": 55,
-      "volumeInMonth": 3860950000.21
+      "offersInMonth": 65,
+      "volumeInMonth": 6009450000.21
     },
     {
       "market": "FIAGRO",
@@ -635,10 +816,10 @@
     },
     {
       "market": "FII",
-      "count": 1509,
+      "count": 1510,
       "latestMonth": "2026-10",
-      "offersInMonth": 7,
-      "volumeInMonth": 1454495965.8
+      "offersInMonth": 8,
+      "volumeInMonth": 1766995973.35
     }
   ],
   "intelligence": {
@@ -665,7 +846,7 @@
           },
           {
             "label": "IRFC",
-            "value": 64.38235294117646,
+            "value": 51.1527149321267,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -715,12 +896,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 84.64803921568627,
+            "value": 80.67914781297134,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 64.38235294117646,
+            "value": 51.1527149321267,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -755,7 +936,7 @@
           },
           {
             "label": "IRFC",
-            "value": 64.38235294117646,
+            "value": 51.1527149321267,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -799,8 +980,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.255024854536531,
-          "IRFC": 64.38235294117646,
-          "IRPM": 80.8563725490196
+          "IRFC": 51.1527149321267,
+          "IRPM": 76.88748114630467
         },
         "bands": {
           "offer": "alto",
@@ -817,8 +998,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 64.38235294117646,
-          "IRPM": 84.64803921568627
+          "IRFC": 51.1527149321267,
+          "IRPM": 80.67914781297134
         },
         "bands": {
           "offer": "alto",
@@ -835,8 +1016,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 64.38235294117646,
-          "IRPM": 81.2938725490196
+          "IRFC": 51.1527149321267,
+          "IRPM": 77.32498114630468
         },
         "bands": {
           "offer": "alto",

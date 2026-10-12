@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "market": "ALL",
-  "generatedAt": "2026-10-09T17:27:12.981Z",
+  "generatedAt": "2026-10-12T20:18:13.504Z",
   "title": "Carta Mensal Radar - 2026-09",
   "aggregate": {
     "current": {
@@ -782,8 +782,16 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 64.38235294117646,
+        "score": 51.1527149321267,
         "components": [
+          {
+            "key": "selic",
+            "label": "Selic",
+            "value": 13.65,
+            "date": "2026-09-30",
+            "score": 61.53846153846153,
+            "weight": 0.3
+          },
           {
             "key": "spreadPJ",
             "label": "Spread PJ",
@@ -791,6 +799,14 @@
             "date": "2026-08-01",
             "score": 97.5,
             "weight": 0.3
+          },
+          {
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
+            "date": "2026-08-01",
+            "score": 2.5,
+            "weight": 0.2
           },
           {
             "key": "credito3m",
@@ -801,7 +817,7 @@
             "weight": 0.2
           }
         ],
-        "asOf": "2026-08-01",
+        "asOf": "2026-09-30",
         "interpretation": "neutras/medianas",
         "education": {
           "code": "IRFC",
@@ -821,15 +837,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 64.38235294117646,
+          "score": 51.1527149321267,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 64/100, faixa intermediária próximo da transição para a faixa alta."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 51/100, faixa intermediária."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-        "score": 82.26609477124182,
+        "score": 78.2972033685269,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -849,9 +865,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 82.26609477124182,
+          "score": 78.2972033685269,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 82/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
         }
       },
       "projection": {
@@ -1674,8 +1690,16 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 64.38235294117646,
+          "score": 51.1527149321267,
           "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.65,
+              "date": "2026-09-30",
+              "score": 61.53846153846153,
+              "weight": 0.3
+            },
             {
               "key": "spreadPJ",
               "label": "Spread PJ",
@@ -1683,6 +1707,14 @@
               "date": "2026-08-01",
               "score": 97.5,
               "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
+              "date": "2026-08-01",
+              "score": 2.5,
+              "weight": 0.2
             },
             {
               "key": "credito3m",
@@ -1693,7 +1725,7 @@
               "weight": 0.2
             }
           ],
-          "asOf": "2026-08-01",
+          "asOf": "2026-09-30",
           "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
@@ -1713,15 +1745,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 64.38235294117646,
+            "score": 51.1527149321267,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 64/100, faixa intermediária próximo da transição para a faixa alta."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 51/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 80.8563725490196,
+          "score": 76.88748114630467,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1741,9 +1773,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 80.8563725490196,
+            "score": 76.88748114630467,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
           }
         },
         "projection": {
@@ -1785,7 +1817,7 @@
         "O volume analítico ajustado ficou 448,2% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 2 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 18 ofertas.",
-        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 81/100 (expansivo)."
+        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 77/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -2389,8 +2421,16 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 64.38235294117646,
+          "score": 51.1527149321267,
           "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.65,
+              "date": "2026-09-30",
+              "score": 61.53846153846153,
+              "weight": 0.3
+            },
             {
               "key": "spreadPJ",
               "label": "Spread PJ",
@@ -2398,6 +2438,14 @@
               "date": "2026-08-01",
               "score": 97.5,
               "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
+              "date": "2026-08-01",
+              "score": 2.5,
+              "weight": 0.2
             },
             {
               "key": "credito3m",
@@ -2408,7 +2456,7 @@
               "weight": 0.2
             }
           ],
-          "asOf": "2026-08-01",
+          "asOf": "2026-09-30",
           "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
@@ -2428,15 +2476,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 64.38235294117646,
+            "score": 51.1527149321267,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 64/100, faixa intermediária próximo da transição para a faixa alta."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 51/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 84.64803921568627,
+          "score": 80.67914781297134,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -2456,9 +2504,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 84.64803921568627,
+            "score": 80.67914781297134,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 85/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
           }
         },
         "projection": {
@@ -2499,7 +2547,7 @@
         "A quantidade de ofertas FIAGRO ficou 116,7% acima da última competência disponível (2026-08).",
         "O volume analítico ajustado ficou 1474,2% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "XP INVESTIMENTOS CCTVM S.A. liderou o mês por quantidade, com 3 ofertas.",
-        "O IROP encerrou em 93/100 (forte); o IRPM ficou em 85/100 (expansivo)."
+        "O IROP encerrou em 93/100 (forte); o IRPM ficou em 81/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -3255,8 +3303,16 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 64.38235294117646,
+          "score": 51.1527149321267,
           "components": [
+            {
+              "key": "selic",
+              "label": "Selic",
+              "value": 13.65,
+              "date": "2026-09-30",
+              "score": 61.53846153846153,
+              "weight": 0.3
+            },
             {
               "key": "spreadPJ",
               "label": "Spread PJ",
@@ -3264,6 +3320,14 @@
               "date": "2026-08-01",
               "score": 97.5,
               "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
+              "date": "2026-08-01",
+              "score": 2.5,
+              "weight": 0.2
             },
             {
               "key": "credito3m",
@@ -3274,7 +3338,7 @@
               "weight": 0.2
             }
           ],
-          "asOf": "2026-08-01",
+          "asOf": "2026-09-30",
           "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
@@ -3294,15 +3358,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 64.38235294117646,
+            "score": 51.1527149321267,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 64/100, faixa intermediária próximo da transição para a faixa alta."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 51/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 81.2938725490196,
+          "score": 77.32498114630468,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -3322,9 +3386,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 81.2938725490196,
+            "score": 77.32498114630468,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
           }
         },
         "projection": {
@@ -3365,7 +3429,7 @@
         "A quantidade de ofertas FII ficou 100,0% acima da última competência disponível (2026-08).",
         "O volume analítico ajustado ficou 38,2% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM liderou o mês por quantidade, com 8 ofertas.",
-        "O IROP encerrou em 89/100 (forte); o IRPM ficou em 81/100 (expansivo)."
+        "O IROP encerrou em 89/100 (forte); o IRPM ficou em 77/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -3392,21 +3456,193 @@
       "id": 1178,
       "label": "Taxa Selic anualizada",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-10-09",
+        "value": 13.65
+      },
+      "previous": {
+        "date": "2026-10-08",
+        "value": 13.65
+      },
+      "change": 0,
+      "history": [
+        {
+          "date": "2026-09-14",
+          "value": 13.9
+        },
+        {
+          "date": "2026-09-15",
+          "value": 13.9
+        },
+        {
+          "date": "2026-09-16",
+          "value": 13.9
+        },
+        {
+          "date": "2026-09-17",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-18",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-21",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-22",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-23",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-25",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-28",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-29",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-01",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-02",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-05",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-07",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-08",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-09",
+          "value": 13.65
+        }
+      ]
     },
     "inadPJ": {
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 3.35
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 3.32
+      },
+      "change": 0.03000000000000025,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2.43
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2.52
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2.49
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2.72
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2.79
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2.85
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2.77
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2.82
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2.75
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2.7
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2.87
+        },
+        {
+          "date": "2026-02-01",
+          "value": 3.07
+        },
+        {
+          "date": "2026-03-01",
+          "value": 3.06
+        },
+        {
+          "date": "2026-04-01",
+          "value": 3.15
+        },
+        {
+          "date": "2026-05-01",
+          "value": 3.25
+        },
+        {
+          "date": "2026-06-01",
+          "value": 3.18
+        },
+        {
+          "date": "2026-07-01",
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
+        }
+      ]
     },
     "estoquePJ": {
       "id": 20540,
@@ -3609,32 +3845,32 @@
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "08/10/2026",
+      "date": "09/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "08/10/2026",
+      "date": "09/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "08/10/2026",
-      "value": 5.0119,
+      "date": "09/10/2026",
+      "value": 4.9892,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.72,
+      "value": 0.27,
       "label": "IPCA projetado",
       "unit": "%"
     },
     "igpmProjection": {
       "date": null,
-      "value": 1.35,
+      "value": 1.12,
       "label": "IGP-M projetado",
       "unit": "%"
     }
@@ -3694,7 +3930,7 @@
           },
           {
             "label": "IRFC",
-            "value": 64.38235294117646,
+            "value": 51.1527149321267,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -3744,12 +3980,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 84.64803921568627,
+            "value": 80.67914781297134,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 64.38235294117646,
+            "value": 51.1527149321267,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -3784,7 +4020,7 @@
           },
           {
             "label": "IRFC",
-            "value": 64.38235294117646,
+            "value": 51.1527149321267,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -3828,8 +4064,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.255024854536531,
-          "IRFC": 64.38235294117646,
-          "IRPM": 80.8563725490196
+          "IRFC": 51.1527149321267,
+          "IRPM": 76.88748114630467
         },
         "bands": {
           "offer": "alto",
@@ -3846,8 +4082,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 64.38235294117646,
-          "IRPM": 84.64803921568627
+          "IRFC": 51.1527149321267,
+          "IRPM": 80.67914781297134
         },
         "bands": {
           "offer": "alto",
@@ -3864,8 +4100,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 64.38235294117646,
-          "IRPM": 81.2938725490196
+          "IRFC": 51.1527149321267,
+          "IRPM": 77.32498114630468
         },
         "bands": {
           "offer": "alto",
@@ -3880,8 +4116,8 @@
         "market": "FIDC",
         "current": {
           "IROP": 87.91666666666666,
-          "IRPM": 80.8563725490196,
-          "IRFC": 64.38235294117646
+          "IRPM": 76.88748114630467,
+          "IRFC": 51.1527149321267
         },
         "scenarios": [
           {
@@ -3906,8 +4142,8 @@
         "market": "FIAGRO",
         "current": {
           "IROP": 93.33333333333333,
-          "IRPM": 84.64803921568627,
-          "IRFC": 64.38235294117646
+          "IRPM": 80.67914781297134,
+          "IRFC": 51.1527149321267
         },
         "scenarios": [
           {
@@ -3932,8 +4168,8 @@
         "market": "FII",
         "current": {
           "IROP": 88.54166666666667,
-          "IRPM": 81.2938725490196,
-          "IRFC": 64.38235294117646
+          "IRPM": 77.32498114630468,
+          "IRFC": 51.1527149321267
         },
         "scenarios": [
           {

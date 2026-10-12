@@ -1,25 +1,29 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-09T08:00:36.533989",
+  "sourceUpdatedAt": "2026-10-12T08:01:06.835727",
   "market": "FII",
-  "count": 1509,
+  "count": 1510,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 7,
-    "volumeInMonth": 1454495965.8,
-    "offersWithVolumeInMonth": 7,
-    "leadersInMonth": 7,
+    "offersInMonth": 8,
+    "volumeInMonth": 1766995973.35,
+    "offersWithVolumeInMonth": 8,
+    "leadersInMonth": 8,
     "byRite": [
       {
         "name": "Automático",
-        "count": 7
+        "count": 8
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
         "count": 7
+      },
+      {
+        "name": "Público geral",
+        "count": 1
       }
     ],
     "topLeaders": [
@@ -28,6 +32,12 @@
         "cnpj": "59.281.253/0001-23",
         "count": 1,
         "volume": 1232392957.8
+      },
+      {
+        "name": "EXES SERVICOS FINANCEIROS LTDA",
+        "cnpj": "55.108.951/0001-70",
+        "count": 1,
+        "volume": 312500007.55
       },
       {
         "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -171,16 +181,16 @@
       },
       {
         "month": "2026-10",
-        "count": 7,
-        "volume": 1454495965.8,
-        "withVolume": 7
+        "count": 8,
+        "volume": 1766995973.35,
+        "withVolume": 8
       }
     ],
     "trailing12": {
-      "offers": 207,
-      "volume": 67271006255.619995,
-      "offersWithVolume": 207,
-      "leaders": 36,
+      "offers": 208,
+      "volume": 67583506263.16999,
+      "offersWithVolume": 208,
+      "leaders": 37,
       "topLeaders": [
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -281,6 +291,30 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "fb90df99c93d10c9",
+        "market": "FII",
+        "name": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "41.076.851/0001-03",
+        "registration": "28287",
+        "processNumber": "SRE/3312/2026",
+        "leader": "EXES SERVICOS FINANCEIROS LTDA",
+        "leaderCnpj": "55.108.951/0001-70",
+        "volume": 312500007.55,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Registro Concedido",
+        "date": "2026-10-09",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "46689bb15095bd30",
         "market": "FII",
@@ -616,33 +650,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "5f545683c72b650a",
-        "market": "FII",
-        "name": "PAC-MAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.948.341/0001-27",
-        "registration": "27937",
-        "processNumber": "SRE/3076/2026",
-        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "leaderCnpj": "36.266.751/0001-00",
-        "volume": 500000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-23",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-09T17:27:12.889Z"
+  "updatedAt": "2026-10-12T20:18:13.326Z"
 }

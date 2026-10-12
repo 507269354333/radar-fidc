@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-09T17:27:12.926Z",
+  "generatedAt": "2026-10-12T20:18:13.397Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-09T08:00:36.533989"
+    "updatedAt": "2026-10-12T08:01:06.835727"
   },
   "coordinators": [
     {
@@ -1798,8 +1798,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 172,
-          "volume": 21033365590.539997
+          "count": 174,
+          "volume": 21042365590.539997
         },
         {
           "market": "FIAGRO",
@@ -3356,8 +3356,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 155,
-          "volume": 10702073198.679995
+          "count": 156,
+          "volume": 10752073198.679995
         },
         {
           "market": "FIAGRO",
@@ -3958,8 +3958,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 191,
-          "volume": 15624122056.010002
+          "count": 193,
+          "volume": 16142122056.010002
         },
         {
           "market": "FIAGRO",
@@ -5904,8 +5904,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1050,
-          "volume": 57135820860.729965
+          "count": 1052,
+          "volume": 58388820860.72994
         },
         {
           "market": "FIAGRO",
@@ -8741,8 +8741,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 175,
-          "volume": 5129319826.01
+          "count": 176,
+          "volume": 5144319826.01
         },
         {
           "market": "FIAGRO",
@@ -11251,7 +11251,7 @@
         {
           "market": "FIDC",
           "count": 32,
-          "volume": 26327169000
+          "volume": 26407169000
         },
         {
           "market": "FIAGRO",
@@ -11953,6 +11953,59 @@
           "market": "FII",
           "count": 6,
           "volume": 1115604555.3600001
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:55108951000170",
+      "name": "EXES SERVICOS FINANCEIROS LTDA",
+      "cnpj": "55.108.951/0001-70",
+      "stats12m": {
+        "offers": 1,
+        "volume": 312500007.55,
+        "offersWithVolume": 1,
+        "averageTicket": 312500007.55
+      },
+      "byMonth": [
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 312500007.55
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "fb90df99c93d10c9",
+          "market": "FII",
+          "name": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "41.076.851/0001-03",
+          "registration": "28287",
+          "processNumber": "SRE/3312/2026",
+          "leader": "EXES SERVICOS FINANCEIROS LTDA",
+          "leaderCnpj": "55.108.951/0001-70",
+          "volume": 312500007.55,
+          "date": "2026-10-09",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Registro Concedido",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 4,
+          "volume": 290500000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 9000000
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 312500007.55
         }
       ]
     },
