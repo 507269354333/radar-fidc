@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:18:13.359Z",
+  "generatedAt": "2026-10-13T18:19:23.789Z",
   "market": "ALL",
   "current": {
     "period": {
@@ -645,17 +645,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-12T08:01:06.835727"
+      "updatedAt": "2026-10-13T08:00:36.372995"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-12T20:18:12.751Z"
+      "updatedAt": "2026-10-13T18:19:23.742Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "09/10/2026 18:11"
+      "updatedAt": "13/10/2026 09:33"
     }
   },
   "macro": {
@@ -855,97 +855,11 @@
       "id": 20540,
       "label": "Saldo da carteira de crédito PJ",
       "unit": "R$ milhões",
-      "latest": {
-        "date": "2026-08-01",
-        "value": 2727499
-      },
-      "previous": {
-        "date": "2026-07-01",
-        "value": 2729162
-      },
-      "change": -1663,
-      "history": [
-        {
-          "date": "2025-01-01",
-          "value": 2451957
-        },
-        {
-          "date": "2025-02-01",
-          "value": 2477151
-        },
-        {
-          "date": "2025-03-01",
-          "value": 2498262
-        },
-        {
-          "date": "2025-04-01",
-          "value": 2512426
-        },
-        {
-          "date": "2025-05-01",
-          "value": 2532708
-        },
-        {
-          "date": "2025-06-01",
-          "value": 2547693
-        },
-        {
-          "date": "2025-07-01",
-          "value": 2544400
-        },
-        {
-          "date": "2025-08-01",
-          "value": 2546265
-        },
-        {
-          "date": "2025-09-01",
-          "value": 2589817
-        },
-        {
-          "date": "2025-10-01",
-          "value": 2597630
-        },
-        {
-          "date": "2025-11-01",
-          "value": 2616902
-        },
-        {
-          "date": "2025-12-01",
-          "value": 2701735
-        },
-        {
-          "date": "2026-01-01",
-          "value": 2654220
-        },
-        {
-          "date": "2026-02-01",
-          "value": 2656484
-        },
-        {
-          "date": "2026-03-01",
-          "value": 2687535
-        },
-        {
-          "date": "2026-04-01",
-          "value": 2685397
-        },
-        {
-          "date": "2026-05-01",
-          "value": 2708154
-        },
-        {
-          "date": "2026-06-01",
-          "value": 2750634
-        },
-        {
-          "date": "2026-07-01",
-          "value": 2729162
-        },
-        {
-          "date": "2026-08-01",
-          "value": 2727499
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "fetch failed"
     },
     "spreadPJ": {
       "id": 27632,
@@ -1046,7 +960,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "09/10/2026",
+      "date": "13/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -1083,6 +997,11 @@
     }
   },
   "regulatoryHighlights": [
+    {
+      "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
+      "source": "CVM"
+    },
     {
       "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
@@ -1151,7 +1070,7 @@
           },
           {
             "label": "IRFC",
-            "value": 51.1527149321267,
+            "value": 60.26442307692307,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1201,12 +1120,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 80.67914781297134,
+            "value": 83.41266025641025,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 51.1527149321267,
+            "value": 60.26442307692307,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1241,7 +1160,7 @@
           },
           {
             "label": "IRFC",
-            "value": 51.1527149321267,
+            "value": 60.26442307692307,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1285,8 +1204,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.255024854536531,
-          "IRFC": 51.1527149321267,
-          "IRPM": 76.88748114630467
+          "IRFC": 60.26442307692307,
+          "IRPM": 79.62099358974358
         },
         "bands": {
           "offer": "alto",
@@ -1303,8 +1222,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 51.1527149321267,
-          "IRPM": 80.67914781297134
+          "IRFC": 60.26442307692307,
+          "IRPM": 83.41266025641025
         },
         "bands": {
           "offer": "alto",
@@ -1321,8 +1240,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 51.1527149321267,
-          "IRPM": 77.32498114630468
+          "IRFC": 60.26442307692307,
+          "IRPM": 80.05849358974359
         },
         "bands": {
           "offer": "alto",

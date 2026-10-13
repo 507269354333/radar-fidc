@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:18:13.378Z",
+  "generatedAt": "2026-10-13T18:19:23.802Z",
   "macro": {
     "generatedAt": "2026-10-10T02:30:06.121Z",
     "items": [
@@ -166,7 +166,7 @@
   "overview": {
     "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "sourceUpdatedAt": "2026-10-12T08:01:06.835727",
+    "sourceUpdatedAt": "2026-10-13T08:00:36.372995",
     "count": 4524,
     "analytics": {
       "latestMonth": "2026-10",
@@ -1061,7 +1061,7 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 51.1527149321267,
+          "score": 60.26442307692307,
           "interpretation": "neutras/medianas",
           "education": {
             "code": "IRFC",
@@ -1081,15 +1081,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 51.1527149321267,
+            "score": 60.26442307692307,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 51/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 60/100, faixa intermediária próximo da transição para a faixa alta."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-          "score": 78.2972033685269,
+          "score": 81.0307158119658,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1109,9 +1109,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 78.2972033685269,
+            "score": 81.0307158119658,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 81/100, faixa alta."
           }
         }
       }
@@ -1129,6 +1129,6 @@
       ]
     },
     "thesesCount": 3,
-    "regulatoryCount": 4
+    "regulatoryCount": 5
   }
 }
