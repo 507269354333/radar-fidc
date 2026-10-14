@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-13T08:00:36.372995",
+  "sourceUpdatedAt": "2026-10-14T08:00:38.172070",
   "market": "FII",
-  "count": 1510,
+  "count": 1511,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 8,
-    "volumeInMonth": 1766995973.35,
-    "offersWithVolumeInMonth": 8,
+    "offersInMonth": 9,
+    "volumeInMonth": 1836091973.35,
+    "offersWithVolumeInMonth": 9,
     "leadersInMonth": 8,
     "byRite": [
       {
         "name": "Automático",
-        "count": 8
+        "count": 9
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 7
+        "count": 8
       },
       {
         "name": "Público geral",
@@ -27,6 +27,12 @@
       }
     ],
     "topLeaders": [
+      {
+        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "cnpj": "18.945.670/0001-46",
+        "count": 2,
+        "volume": 69321008
+      },
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
@@ -68,12 +74,6 @@
         "cnpj": "22.610.500/0001-88",
         "count": 1,
         "volume": 1500000
-      },
-      {
-        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "cnpj": "18.945.670/0001-46",
-        "count": 1,
-        "volume": 225008
       }
     ],
     "byMonth": [
@@ -181,15 +181,15 @@
       },
       {
         "month": "2026-10",
-        "count": 8,
-        "volume": 1766995973.35,
-        "withVolume": 8
+        "count": 9,
+        "volume": 1836091973.35,
+        "withVolume": 9
       }
     ],
     "trailing12": {
-      "offers": 208,
-      "volume": 67583506263.16999,
-      "offersWithVolume": 208,
+      "offers": 209,
+      "volume": 67652602263.16999,
+      "offersWithVolume": 209,
       "leaders": 37,
       "topLeaders": [
         {
@@ -259,16 +259,16 @@
           "volume": 4745023687.42
         },
         {
+          "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "cnpj": "18.945.670/0001-46",
+          "count": 6,
+          "volume": 1347596566.6799998
+        },
+        {
           "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
           "cnpj": "46.482.072/0001-13",
           "count": 5,
           "volume": 2936521695.3900003
-        },
-        {
-          "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "cnpj": "18.945.670/0001-46",
-          "count": 5,
-          "volume": 1278500566.6799998
         },
         {
           "name": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -291,6 +291,30 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "3392b3398f60ffab",
+        "market": "FII",
+        "name": "ATLAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.386.592/0001-28",
+        "registration": "28239",
+        "processNumber": "SRE/3330/2026",
+        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "leaderCnpj": "18.945.670/0001-46",
+        "volume": 69096000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-13",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "fb90df99c93d10c9",
         "market": "FII",
@@ -626,33 +650,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "d6c1632e9e77ac07",
-        "market": "FII",
-        "name": "G5 ALLOCATION FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-        "cnpj": "32.140.405/0001-11",
-        "registration": "28048",
-        "processNumber": "SRE/3088/2026",
-        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "leaderCnpj": "62.285.390/0001-40",
-        "volume": 45000000.15,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-23",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-13T18:19:23.767Z"
+  "updatedAt": "2026-10-14T15:49:50.485Z"
 }

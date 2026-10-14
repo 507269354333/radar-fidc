@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-10-13T18:19:23.814Z",
+  "generatedAt": "2026-10-14T15:49:50.546Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-13T08:00:36.372995"
+    "updatedAt": "2026-10-14T08:00:38.172070"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 167,
-        "volume": 9349440091.960001,
-        "offersWithVolume": 167,
-        "averageTicket": 55984671.209341325
+        "offers": 168,
+        "volume": 9419440091.960003,
+        "offersWithVolume": 168,
+        "averageTicket": 56068095.78547621
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-10",
-          "count": 9,
-          "volume": 1807750000.25
+          "count": 10,
+          "volume": 1877750000.25
         }
       ],
       "recentOffers": [
+        {
+          "id": "b3fdf717a1ac83a8",
+          "market": "FIDC",
+          "name": "GAVEA SUL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL LP",
+          "cnpj": "18.185.812/0001-14",
+          "registration": "28313",
+          "processNumber": "SRE/3335/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 70000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "ca40006b7bce22e6",
           "market": "FIDC",
@@ -573,29 +589,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "8cf6e751bf65fe9b",
-          "market": "FIDC",
-          "name": "ARTESANAL RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE L",
-          "cnpj": "37.284.201/0001-78",
-          "registration": "27649",
-          "processNumber": "SRE/2718/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 150000000.12,
-          "date": "2026-08-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1052,
-          "volume": 58388820860.72994
+          "count": 1053,
+          "volume": 58458820860.72995
         },
         {
           "market": "FIAGRO",
@@ -1216,10 +1216,10 @@
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 55,
-        "volume": 2609099998.6800003,
-        "offersWithVolume": 55,
-        "averageTicket": 47438181.794181824
+        "offers": 56,
+        "volume": 2689099998.6800003,
+        "offersWithVolume": 56,
+        "averageTicket": 48019642.833571434
       },
       "byMonth": [
         {
@@ -1309,11 +1309,27 @@
         },
         {
           "month": "2026-10",
-          "count": 7,
-          "volume": 266000000
+          "count": 8,
+          "volume": 346000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "5dbe1a50f04a620e",
+          "market": "FIDC",
+          "name": "GLOBAL WELLNESS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.623.999/0001-04",
+          "registration": "28318",
+          "processNumber": "SRE/3338/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 80000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "ac7167dca683b0dd",
           "market": "FIDC",
@@ -1567,7 +1583,7 @@
           "date": "2026-08-21",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1777,29 +1793,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "ba803af7785e5a08",
-          "market": "FIDC",
-          "name": "CREDITO PLUS II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FINANCEIROS DE RESP LIMITADA",
-          "cnpj": "66.334.710/0001-66",
-          "registration": "26175",
-          "processNumber": "SRE/1386/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 285000000,
-          "date": "2026-05-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 156,
-          "volume": 10752073198.679995
+          "count": 157,
+          "volume": 10832073198.679996
         },
         {
           "market": "FIAGRO",
@@ -2405,8 +2405,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 17,
-          "volume": 1815112400
+          "count": 18,
+          "volume": 1855112400
         },
         {
           "market": "FII",
@@ -3624,10 +3624,10 @@
       "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
       "cnpj": "03.751.794/0001-13",
       "stats12m": {
-        "offers": 24,
-        "volume": 445530000,
-        "offersWithVolume": 24,
-        "averageTicket": 18563750
+        "offers": 25,
+        "volume": 475530000,
+        "offersWithVolume": 25,
+        "averageTicket": 19021200
       },
       "byMonth": [
         {
@@ -3717,11 +3717,27 @@
         },
         {
           "month": "2026-10",
-          "count": 2,
-          "volume": 25000000
+          "count": 3,
+          "volume": 55000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "bfc1bbcd5c09d2ae",
+          "market": "FIDC",
+          "name": "TENDA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO",
+          "cnpj": "60.759.882/0001-03",
+          "registration": "28308",
+          "processNumber": "SRE/3331/2026",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 30000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "401882fc2848bf99",
           "market": "FIDC",
@@ -4185,29 +4201,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "f23fdc0dd87fc215",
-          "market": "FIDC",
-          "name": "INOVA CREDTECH VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.129.205/0001-38",
-          "registration": "20366",
-          "processNumber": "SRE/1200/2025",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 2000000,
-          "date": "2025-04-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 83,
-          "volume": 2242824193.7599998
+          "count": 84,
+          "volume": 2272824193.7599998
         },
         {
           "market": "FIAGRO",
@@ -4226,10 +4226,10 @@
       "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "24.361.690/0001-72",
       "stats12m": {
-        "offers": 23,
-        "volume": 651250000,
-        "offersWithVolume": 23,
-        "averageTicket": 28315217.391304348
+        "offers": 24,
+        "volume": 751250000,
+        "offersWithVolume": 24,
+        "averageTicket": 31302083.333333332
       },
       "byMonth": [
         {
@@ -4319,11 +4319,27 @@
         },
         {
           "month": "2026-10",
-          "count": 2,
-          "volume": 12500000
+          "count": 3,
+          "volume": 112500000
         }
       ],
       "recentOffers": [
+        {
+          "id": "16b52dc513229990",
+          "market": "FIDC",
+          "name": "AMAZÔNIA LEGAL IOX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.202.238/0001-82",
+          "registration": "28285",
+          "processNumber": "SRE/3329/2026",
+          "leader": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "24.361.690/0001-72",
+          "volume": 100000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "12eb4ed67539bf8f",
           "market": "FIDC",
@@ -4787,29 +4803,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "d4533ad992f79933",
-          "market": "FIDC",
-          "name": "SALVADOR CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "49.087.632/0001-23",
-          "registration": "20463",
-          "processNumber": "SRE/1268/2025",
-          "leader": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "24.361.690/0001-72",
-          "volume": 10000000,
-          "date": "2025-05-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 91,
-          "volume": 2085657602.9
+          "count": 92,
+          "volume": 2185657602.9
         },
         {
           "market": "FIAGRO",
@@ -5426,6 +5426,608 @@
       ]
     },
     {
+      "key": "CNPJ:59281253000123",
+      "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "cnpj": "59.281.253/0001-23",
+      "stats12m": {
+        "offers": 19,
+        "volume": 2725896157.4,
+        "offersWithVolume": 19,
+        "averageTicket": 143468218.8105263
+      },
+      "byMonth": [
+        {
+          "month": "2024-08",
+          "count": 2,
+          "volume": 130000000
+        },
+        {
+          "month": "2024-10",
+          "count": 3,
+          "volume": 670000000
+        },
+        {
+          "month": "2024-11",
+          "count": 2,
+          "volume": 26500000
+        },
+        {
+          "month": "2024-12",
+          "count": 3,
+          "volume": 126600000
+        },
+        {
+          "month": "2025-01",
+          "count": 10,
+          "volume": 651510000
+        },
+        {
+          "month": "2025-02",
+          "count": 6,
+          "volume": 460120000
+        },
+        {
+          "month": "2025-03",
+          "count": 3,
+          "volume": 460000000
+        },
+        {
+          "month": "2025-04",
+          "count": 2,
+          "volume": 362016200
+        },
+        {
+          "month": "2025-05",
+          "count": 2,
+          "volume": 413302000
+        },
+        {
+          "month": "2025-07",
+          "count": 4,
+          "volume": 172000000
+        },
+        {
+          "month": "2025-08",
+          "count": 1,
+          "volume": 51000000
+        },
+        {
+          "month": "2025-10",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2025-12",
+          "count": 4,
+          "volume": 291000000
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 375000000
+        },
+        {
+          "month": "2026-05",
+          "count": 5,
+          "volume": 494999984.99
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2026-09",
+          "count": 5,
+          "volume": 914896172.4100001
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 500000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "27089cc45ec0ce17",
+          "market": "FIDC",
+          "name": "SRM EXODUS JÚNIOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.975.468/0001-35",
+          "registration": "28314",
+          "processNumber": "SRE/3336/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 100000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4576409442b42688",
+          "market": "FIDC",
+          "name": "ARTESANAL CDI+ FIC EM COTAS DE FI EM DIREITOS CREDITÓRIOS IV - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.462.426/0001-09",
+          "registration": "28179",
+          "processNumber": "SRE/3232/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 300000000,
+          "date": "2026-10-02",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ca0e3255e7e9196c",
+          "market": "FIDC",
+          "name": "SOLIS RECEBÍVEIS COMERCIAIS III FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS",
+          "cnpj": "69.283.563/0001-30",
+          "registration": "28175",
+          "processNumber": "SRE/3208/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 100000000,
+          "date": "2026-10-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ab30e520ac6040c7",
+          "market": "FIDC",
+          "name": "PATRIMONIAL VALMOREL FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "69.179.735/0001-20",
+          "registration": "27964",
+          "processNumber": "SRE/3010/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 93750000,
+          "date": "2026-09-18",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "a2c86b2923b06332",
+          "market": "FIDC",
+          "name": "ARACATUY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.551.063/0001-70",
+          "registration": "28059",
+          "processNumber": "SRE/3099/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150000000,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "0bf7fc176b7337a1",
+          "market": "FIDC",
+          "name": "G5 SPECIAL F SEN CDI II FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "55.914.292/0001-60",
+          "registration": "27913",
+          "processNumber": "SRE/2962/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 50000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4a18ec1fe2f71b3a",
+          "market": "FIDC",
+          "name": "MERCADO CRÉDITO II BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "41.970.012/0001-26",
+          "registration": "27856",
+          "processNumber": "SRE/2909/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 500146172.41,
+          "date": "2026-09-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "2901ad147b430321",
+          "market": "FIDC",
+          "name": "PINHAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "68.837.834/0001-90",
+          "registration": "27797",
+          "processNumber": "SRE/2862/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 121000000,
+          "date": "2026-09-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ef708d1dc9bdd3e7",
+          "market": "FIDC",
+          "name": "SOLIS MULTITESES II FI EM COTAS DE FI DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.620.785/0001-39",
+          "registration": "27598",
+          "processNumber": "SRE/2672/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150000000,
+          "date": "2026-08-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "59c1215a55eba441",
+          "market": "FIDC",
+          "name": "SB FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.279.654/0001-16",
+          "registration": "26523",
+          "processNumber": "SRE/1694/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 60000000,
+          "date": "2026-05-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b44a80b0764f6b11",
+          "market": "FIDC",
+          "name": "LESTE CREDIT PRECATÓRIOS V FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "66.929.116/0001-18",
+          "registration": "26491",
+          "processNumber": "SRE/1671/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 125000000,
+          "date": "2026-05-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "59f948b6aef0314e",
+          "market": "FIDC",
+          "name": "PATRIMONIAL TIGNES FI EM COTAS DE FI EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.935.232/0001-40",
+          "registration": "26446",
+          "processNumber": "SRE/1628/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 250000000,
+          "date": "2026-05-25",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "89abd13f88192292",
+          "market": "FIDC",
+          "name": "PRECAVIDA EQI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.515.403/0001-93",
+          "registration": "26451",
+          "processNumber": "SRE/1631/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 15000000,
+          "date": "2026-05-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "7f62ddfde4e0422b",
+          "market": "FIDC",
+          "name": "MCAP I TOTAL RETURN FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "58.137.388/0001-57",
+          "registration": "26275",
+          "processNumber": "SRE/1470/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 44999984.99,
+          "date": "2026-05-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f59166c7766046a3",
+          "market": "FIDC",
+          "name": "POLO CAPITAL YIELD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.813.874/0001-03",
+          "registration": "25655",
+          "processNumber": "SRE/0901/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 375000000,
+          "date": "2026-03-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "383388c4cbd61590",
+          "market": "FIDC",
+          "name": "G5 SPECIAL F SEN CDI II FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "55.914.292/0001-60",
+          "registration": "24112",
+          "processNumber": "SRE/4531/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 150000000,
+          "date": "2025-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d86e6bb42b8b8d0e",
+          "market": "FIDC",
+          "name": "ACCESS ASA DISTRESSED FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "44.173.345/0001-12",
+          "registration": "24003",
+          "processNumber": "SRE/4380/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 1000000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "714939c9f45d8ebb",
+          "market": "FIDC",
+          "name": "ALIANÇA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.819.527/0001-62",
+          "registration": "23807",
+          "processNumber": "SRE/4231/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 50000000,
+          "date": "2025-12-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0f9dfa3e195224bb",
+          "market": "FIDC",
+          "name": "MARISA FUNDO DE INVESTIMENTO EM COTAS DE FIDC COMERCIAIS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.987.794/0001-49",
+          "registration": "23781",
+          "processNumber": "SRE/4186/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 90000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4c537586901cddab",
+          "market": "FIDC",
+          "name": "ESTALEIRINHO FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.218.738/0001-40",
+          "registration": "22998",
+          "processNumber": "SRE/3482/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 200000000,
+          "date": "2025-10-29",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1c8290f2ef131e19",
+          "market": "FIDC",
+          "name": "NEO SÃO RAFAEL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.088.020/0001-13",
+          "registration": "21744",
+          "processNumber": "SRE/2418/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 51000000,
+          "date": "2025-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a7c0bd0a91bdbcc9",
+          "market": "FIDC",
+          "name": "HCAM PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "59.987.689/0001-32",
+          "registration": "21660",
+          "processNumber": "SRE/2351/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 6000000,
+          "date": "2025-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "015dbe04dca93990",
+          "market": "FIDC",
+          "name": "HCAM PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "59.987.689/0001-32",
+          "registration": "21661",
+          "processNumber": "SRE/2348/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 54000000,
+          "date": "2025-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a9d509770583a924",
+          "market": "FIDC",
+          "name": "RAYO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "58.533.096/0001-33",
+          "registration": "21564",
+          "processNumber": "SRE/2268/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 27000000,
+          "date": "2025-07-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "212de06d43ab56ec",
+          "market": "FIDC",
+          "name": "TNB FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.868.687/0001-76",
+          "registration": "21543",
+          "processNumber": "SRE/2247/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 85000000,
+          "date": "2025-07-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "50bd9015084d4225",
+          "market": "FIDC",
+          "name": "SCORE EQI PREC II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "60.543.693/0001-90",
+          "registration": "20458",
+          "processNumber": "SRE/1267/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 12500000,
+          "date": "2025-05-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "08465ead266014f1",
+          "market": "FIDC",
+          "name": "BTG PACTUAL ASSET CERES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "60.457.292/0001-18",
+          "registration": "20448",
+          "processNumber": "SRE/1259/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 400802000,
+          "date": "2025-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "801427d2e267c745",
+          "market": "FIDC",
+          "name": "G5 SPECIAL F SEN CDI II FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "55.914.292/0001-60",
+          "registration": "20287",
+          "processNumber": "SRE/1109/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 200000000,
+          "date": "2025-04-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3cb4628ad7bbedcc",
+          "market": "FIDC",
+          "name": "FEEDER QUALI II FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "59.497.402/0001-96",
+          "registration": "20218",
+          "processNumber": "SRE/1059/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 162016200,
+          "date": "2025-04-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8b9d9f2edce68164",
+          "market": "FIDC",
+          "name": "CRÉDITO CONSIGNADO PREFIXADO FI EM COTAS DE FI EM DIR CRED FINANCEIROS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.189.745/0001-07",
+          "registration": "19859",
+          "processNumber": "SRE/0760/2025",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 200000000,
+          "date": "2025-03-18",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 155,
+          "volume": 28461393877.3
+        },
+        {
+          "market": "FIAGRO",
+          "count": 12,
+          "volume": 1685150465.44
+        },
+        {
+          "market": "FII",
+          "count": 177,
+          "volume": 26053101446.09
+        }
+      ]
+    },
+    {
       "key": "CNPJ:28650236000192",
       "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
       "cnpj": "28.650.236/0001-92",
@@ -5999,608 +6601,6 @@
           "market": "FII",
           "count": 19,
           "volume": 1105738496.75
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:59281253000123",
-      "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "cnpj": "59.281.253/0001-23",
-      "stats12m": {
-        "offers": 18,
-        "volume": 2625896157.4,
-        "offersWithVolume": 18,
-        "averageTicket": 145883119.85555556
-      },
-      "byMonth": [
-        {
-          "month": "2024-08",
-          "count": 2,
-          "volume": 130000000
-        },
-        {
-          "month": "2024-10",
-          "count": 3,
-          "volume": 670000000
-        },
-        {
-          "month": "2024-11",
-          "count": 2,
-          "volume": 26500000
-        },
-        {
-          "month": "2024-12",
-          "count": 3,
-          "volume": 126600000
-        },
-        {
-          "month": "2025-01",
-          "count": 10,
-          "volume": 651510000
-        },
-        {
-          "month": "2025-02",
-          "count": 6,
-          "volume": 460120000
-        },
-        {
-          "month": "2025-03",
-          "count": 3,
-          "volume": 460000000
-        },
-        {
-          "month": "2025-04",
-          "count": 2,
-          "volume": 362016200
-        },
-        {
-          "month": "2025-05",
-          "count": 2,
-          "volume": 413302000
-        },
-        {
-          "month": "2025-07",
-          "count": 4,
-          "volume": 172000000
-        },
-        {
-          "month": "2025-08",
-          "count": 1,
-          "volume": 51000000
-        },
-        {
-          "month": "2025-10",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2025-12",
-          "count": 4,
-          "volume": 291000000
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 375000000
-        },
-        {
-          "month": "2026-05",
-          "count": 5,
-          "volume": 494999984.99
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 150000000
-        },
-        {
-          "month": "2026-09",
-          "count": 5,
-          "volume": 914896172.4100001
-        },
-        {
-          "month": "2026-10",
-          "count": 2,
-          "volume": 400000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "4576409442b42688",
-          "market": "FIDC",
-          "name": "ARTESANAL CDI+ FIC EM COTAS DE FI EM DIREITOS CREDITÓRIOS IV - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.462.426/0001-09",
-          "registration": "28179",
-          "processNumber": "SRE/3232/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 300000000,
-          "date": "2026-10-02",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ca0e3255e7e9196c",
-          "market": "FIDC",
-          "name": "SOLIS RECEBÍVEIS COMERCIAIS III FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS",
-          "cnpj": "69.283.563/0001-30",
-          "registration": "28175",
-          "processNumber": "SRE/3208/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 100000000,
-          "date": "2026-10-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ab30e520ac6040c7",
-          "market": "FIDC",
-          "name": "PATRIMONIAL VALMOREL FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "69.179.735/0001-20",
-          "registration": "27964",
-          "processNumber": "SRE/3010/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 93750000,
-          "date": "2026-09-18",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "a2c86b2923b06332",
-          "market": "FIDC",
-          "name": "ARACATUY II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.551.063/0001-70",
-          "registration": "28059",
-          "processNumber": "SRE/3099/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 150000000,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "0bf7fc176b7337a1",
-          "market": "FIDC",
-          "name": "G5 SPECIAL F SEN CDI II FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "55.914.292/0001-60",
-          "registration": "27913",
-          "processNumber": "SRE/2962/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 50000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "4a18ec1fe2f71b3a",
-          "market": "FIDC",
-          "name": "MERCADO CRÉDITO II BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "41.970.012/0001-26",
-          "registration": "27856",
-          "processNumber": "SRE/2909/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 500146172.41,
-          "date": "2026-09-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "2901ad147b430321",
-          "market": "FIDC",
-          "name": "PINHAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "68.837.834/0001-90",
-          "registration": "27797",
-          "processNumber": "SRE/2862/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 121000000,
-          "date": "2026-09-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ef708d1dc9bdd3e7",
-          "market": "FIDC",
-          "name": "SOLIS MULTITESES II FI EM COTAS DE FI DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.620.785/0001-39",
-          "registration": "27598",
-          "processNumber": "SRE/2672/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 150000000,
-          "date": "2026-08-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "59c1215a55eba441",
-          "market": "FIDC",
-          "name": "SB FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.279.654/0001-16",
-          "registration": "26523",
-          "processNumber": "SRE/1694/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 60000000,
-          "date": "2026-05-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "b44a80b0764f6b11",
-          "market": "FIDC",
-          "name": "LESTE CREDIT PRECATÓRIOS V FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "66.929.116/0001-18",
-          "registration": "26491",
-          "processNumber": "SRE/1671/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 125000000,
-          "date": "2026-05-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "59f948b6aef0314e",
-          "market": "FIDC",
-          "name": "PATRIMONIAL TIGNES FI EM COTAS DE FI EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.935.232/0001-40",
-          "registration": "26446",
-          "processNumber": "SRE/1628/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 250000000,
-          "date": "2026-05-25",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "89abd13f88192292",
-          "market": "FIDC",
-          "name": "PRECAVIDA EQI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.515.403/0001-93",
-          "registration": "26451",
-          "processNumber": "SRE/1631/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 15000000,
-          "date": "2026-05-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "7f62ddfde4e0422b",
-          "market": "FIDC",
-          "name": "MCAP I TOTAL RETURN FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "58.137.388/0001-57",
-          "registration": "26275",
-          "processNumber": "SRE/1470/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 44999984.99,
-          "date": "2026-05-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "f59166c7766046a3",
-          "market": "FIDC",
-          "name": "POLO CAPITAL YIELD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.813.874/0001-03",
-          "registration": "25655",
-          "processNumber": "SRE/0901/2026",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 375000000,
-          "date": "2026-03-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "383388c4cbd61590",
-          "market": "FIDC",
-          "name": "G5 SPECIAL F SEN CDI II FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "55.914.292/0001-60",
-          "registration": "24112",
-          "processNumber": "SRE/4531/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 150000000,
-          "date": "2025-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d86e6bb42b8b8d0e",
-          "market": "FIDC",
-          "name": "ACCESS ASA DISTRESSED FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "44.173.345/0001-12",
-          "registration": "24003",
-          "processNumber": "SRE/4380/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 1000000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "714939c9f45d8ebb",
-          "market": "FIDC",
-          "name": "ALIANÇA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.819.527/0001-62",
-          "registration": "23807",
-          "processNumber": "SRE/4231/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 50000000,
-          "date": "2025-12-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0f9dfa3e195224bb",
-          "market": "FIDC",
-          "name": "MARISA FUNDO DE INVESTIMENTO EM COTAS DE FIDC COMERCIAIS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.987.794/0001-49",
-          "registration": "23781",
-          "processNumber": "SRE/4186/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 90000000,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4c537586901cddab",
-          "market": "FIDC",
-          "name": "ESTALEIRINHO FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.218.738/0001-40",
-          "registration": "22998",
-          "processNumber": "SRE/3482/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 200000000,
-          "date": "2025-10-29",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1c8290f2ef131e19",
-          "market": "FIDC",
-          "name": "NEO SÃO RAFAEL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.088.020/0001-13",
-          "registration": "21744",
-          "processNumber": "SRE/2418/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 51000000,
-          "date": "2025-08-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a7c0bd0a91bdbcc9",
-          "market": "FIDC",
-          "name": "HCAM PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "59.987.689/0001-32",
-          "registration": "21660",
-          "processNumber": "SRE/2351/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 6000000,
-          "date": "2025-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "015dbe04dca93990",
-          "market": "FIDC",
-          "name": "HCAM PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "59.987.689/0001-32",
-          "registration": "21661",
-          "processNumber": "SRE/2348/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 54000000,
-          "date": "2025-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a9d509770583a924",
-          "market": "FIDC",
-          "name": "RAYO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "58.533.096/0001-33",
-          "registration": "21564",
-          "processNumber": "SRE/2268/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 27000000,
-          "date": "2025-07-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "212de06d43ab56ec",
-          "market": "FIDC",
-          "name": "TNB FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.868.687/0001-76",
-          "registration": "21543",
-          "processNumber": "SRE/2247/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 85000000,
-          "date": "2025-07-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "50bd9015084d4225",
-          "market": "FIDC",
-          "name": "SCORE EQI PREC II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "60.543.693/0001-90",
-          "registration": "20458",
-          "processNumber": "SRE/1267/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 12500000,
-          "date": "2025-05-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "08465ead266014f1",
-          "market": "FIDC",
-          "name": "BTG PACTUAL ASSET CERES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "60.457.292/0001-18",
-          "registration": "20448",
-          "processNumber": "SRE/1259/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 400802000,
-          "date": "2025-05-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "801427d2e267c745",
-          "market": "FIDC",
-          "name": "G5 SPECIAL F SEN CDI II FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "55.914.292/0001-60",
-          "registration": "20287",
-          "processNumber": "SRE/1109/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 200000000,
-          "date": "2025-04-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3cb4628ad7bbedcc",
-          "market": "FIDC",
-          "name": "FEEDER QUALI II FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "59.497.402/0001-96",
-          "registration": "20218",
-          "processNumber": "SRE/1059/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 162016200,
-          "date": "2025-04-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8b9d9f2edce68164",
-          "market": "FIDC",
-          "name": "CRÉDITO CONSIGNADO PREFIXADO FI EM COTAS DE FI EM DIR CRED FINANCEIROS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.189.745/0001-07",
-          "registration": "19859",
-          "processNumber": "SRE/0760/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 200000000,
-          "date": "2025-03-18",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ab580de8a678e40c",
-          "market": "FIDC",
-          "name": "MORE PLUS FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "59.894.223/0001-92",
-          "registration": "19841",
-          "processNumber": "SRE/0742/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 200000000,
-          "date": "2025-03-17",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 154,
-          "volume": 28361393877.3
-        },
-        {
-          "market": "FIAGRO",
-          "count": 11,
-          "volume": 1685150465.44
-        },
-        {
-          "market": "FII",
-          "count": 177,
-          "volume": 26053101446.09
         }
       ]
     },
@@ -7764,9 +7764,9 @@
       "cnpj": "06.271.464/0001-19",
       "stats12m": {
         "offers": 15,
-        "volume": 13354460000,
-        "offersWithVolume": 14,
-        "averageTicket": 953890000
+        "volume": 13409460000,
+        "offersWithVolume": 15,
+        "averageTicket": 893964000
       },
       "byMonth": [
         {
@@ -7827,10 +7827,26 @@
         {
           "month": "2026-10",
           "count": 3,
-          "volume": 249500000
+          "volume": 304500000
         }
       ],
       "recentOffers": [
+        {
+          "id": "92d52ab2e42879d4",
+          "market": "FIDC",
+          "name": "GRÃO DIRETO ORIGEM I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO RESP LIMITADA",
+          "cnpj": "66.276.933/0001-14",
+          "registration": "28219",
+          "processNumber": "SRE/3243/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 55000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "1bc80c8359555991",
           "market": "FIDC",
@@ -7861,22 +7877,6 @@
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "92d52ab2e42879d4",
-          "market": "FIDC",
-          "name": "GRÃO DIRETO ORIGEM I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO RESP LIMITADA",
-          "cnpj": "66.276.933/0001-14",
-          "registration": "28219",
-          "processNumber": "SRE/3243/2026",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 0,
-          "date": "2026-10-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
           "publications": []
         },
         {
@@ -8407,7 +8407,7 @@
         {
           "market": "FIDC",
           "count": 32,
-          "volume": 26407169000
+          "volume": 26462169000
         },
         {
           "market": "FIAGRO",
@@ -20462,6 +20462,80 @@
       ]
     },
     {
+      "key": "CNPJ:62264924000152",
+      "name": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "62.264.924/0001-52",
+      "stats12m": {
+        "offers": 2,
+        "volume": 12000000,
+        "offersWithVolume": 2,
+        "averageTicket": 6000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 2000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 10000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "1a7b98c0135cf85a",
+          "market": "FIDC",
+          "name": "3k FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS",
+          "cnpj": "63.061.021/0001-37",
+          "registration": "28312",
+          "processNumber": "SRE/3340/2026",
+          "leader": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "62.264.924/0001-52",
+          "volume": 10000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "cc02c0f482ed1c41",
+          "market": "FIDC",
+          "name": "MENESTYS IV FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "53.942.359/0001-44",
+          "registration": "27837",
+          "processNumber": "SRE/2920/2026",
+          "leader": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "62.264.924/0001-52",
+          "volume": 2000000,
+          "date": "2026-09-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 2,
+          "volume": 12000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
       "key": "CNPJ:00360305000104",
       "name": "CAIXA ECONOMICA FEDERAL",
       "cnpj": "00.360.305/0001-04",
@@ -22126,8 +22200,8 @@
         },
         {
           "market": "FII",
-          "count": 21,
-          "volume": 3568098506.1699996
+          "count": 22,
+          "volume": 3637194506.17
         }
       ]
     },
@@ -23248,59 +23322,6 @@
           "market": "FII",
           "count": 17,
           "volume": 1678166882.0800002
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:62264924000152",
-      "name": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "62.264.924/0001-52",
-      "stats12m": {
-        "offers": 1,
-        "volume": 2000000,
-        "offersWithVolume": 1,
-        "averageTicket": 2000000
-      },
-      "byMonth": [
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 2000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "cc02c0f482ed1c41",
-          "market": "FIDC",
-          "name": "MENESTYS IV FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "53.942.359/0001-44",
-          "registration": "27837",
-          "processNumber": "SRE/2920/2026",
-          "leader": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "62.264.924/0001-52",
-          "volume": 2000000,
-          "date": "2026-09-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 1,
-          "volume": 2000000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 0,
-          "volume": 0
         }
       ]
     },

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T18:19:23.779Z",
+  "generatedAt": "2026-10-14T15:49:50.500Z",
   "market": "FIDC",
   "current": {
     "period": {
       "start": "2026-10-05",
       "end": "2026-10-11"
     },
-    "offers": 48,
+    "offers": 47,
     "offersWithVolume": 47,
     "volume": 4467950000.21,
     "averageTicket": 95062765.9619149,
@@ -43,16 +43,16 @@
         "volume": 22000000
       },
       {
-        "name": "BANCO BRADESCO BBI S.A.",
-        "cnpj": "06.271.464/0001-19",
-        "count": 3,
-        "volume": 249500000
-      },
-      {
         "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
         "cnpj": "22.610.500/0001-88",
         "count": 3,
         "volume": 62000000
+      },
+      {
+        "name": "BANCO BRADESCO BBI S.A.",
+        "cnpj": "06.271.464/0001-19",
+        "count": 2,
+        "volume": 249500000
       },
       {
         "name": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -198,7 +198,7 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 46
+        "count": 45
       },
       {
         "name": "Qualificado",
@@ -208,17 +208,13 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 48
+        "count": 47
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
         "count": 46
-      },
-      {
-        "name": "Aguardando Bookbuilding",
-        "count": 1
       },
       {
         "name": "Oferta Encerrada",
@@ -228,11 +224,11 @@
     "byMarket": [
       {
         "name": "FIDC",
-        "count": 48
+        "count": 47
       }
     ],
-    "professionalShare": 0.9583333333333334,
-    "top3Concentration": 0.3958333333333333,
+    "professionalShare": 0.9574468085106383,
+    "top3Concentration": 0.40425531914893614,
     "busiestDays": [
       {
         "date": "2026-10-06",
@@ -250,7 +246,7 @@
     "themeSignals": [
       {
         "name": "Agronegócio",
-        "count": 4
+        "count": 3
       },
       {
         "name": "Consignado",
@@ -511,7 +507,7 @@
     "themeSignals": []
   },
   "changes": {
-    "offersPct": 60,
+    "offersPct": 56.666666666666664,
     "volumePct": 5.82543818593084
   },
   "benchmarks": {
@@ -523,7 +519,7 @@
       "top3Concentration": 0.43402951824004454
     },
     "currentVsPrior4Average": {
-      "offersPct": 72.97297297297297,
+      "offersPct": 69.36936936936937,
       "volumePct": 20.874746923829328
     }
   },
@@ -597,36 +593,36 @@
           "start": "2026-10-05",
           "end": "2026-10-11"
         },
-        "offers": 48,
+        "offers": 47,
         "volume": 4467950000.21,
         "leaders": 21
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 48 ofertas FIDC, 60,0% acima da semana anterior.",
+    "Atividade semanal de 47 ofertas FIDC, 56,7% acima da semana anterior.",
     "Volume informado de R$ 4.467.950.000 em 47 ofertas com valor positivo; ticket médio de R$ 95.062.766.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 20,9% acima e a quantidade de ofertas 73,0% acima.",
-    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 39,6% das ofertas da semana.",
-    "95,8% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
-    "Sinais de tema pela denominação dos veículos: Agronegócio (4), Consignado (2), Ativos judiciais (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
+    "Contra a média das quatro semanas anteriores, o volume ficou 20,9% acima e a quantidade de ofertas 69,4% acima.",
+    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 40,4% das ofertas da semana.",
+    "95,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Sinais de tema pela denominação dos veículos: Agronegócio (3), Consignado (2), Ativos judiciais (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-13T08:00:36.372995"
+      "updatedAt": "2026-10-14T08:00:38.172070"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-13T18:19:23.742Z"
+      "updatedAt": "2026-10-14T15:49:45.698Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "13/10/2026 09:33"
+      "updatedAt": "14/10/2026 09:36"
     }
   },
   "macro": {
@@ -635,19 +631,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-09",
+        "date": "2026-10-13",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-08",
+        "date": "2026-10-09",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-14",
-          "value": 13.9
-        },
         {
           "date": "2026-09-15",
           "value": 13.9
@@ -722,6 +714,10 @@
         },
         {
           "date": "2026-10-09",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-13",
           "value": 13.65
         }
       ]
@@ -826,11 +822,97 @@
       "id": 20540,
       "label": "Saldo da carteira de crédito PJ",
       "unit": "R$ milhões",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "fetch failed"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 2727499
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 2729162
+      },
+      "change": -1663,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2451957
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2477151
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2498262
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2512426
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2532708
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2547693
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2544400
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2546265
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2589817
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2597630
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2616902
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2701735
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2654220
+        },
+        {
+          "date": "2026-02-01",
+          "value": 2656484
+        },
+        {
+          "date": "2026-03-01",
+          "value": 2687535
+        },
+        {
+          "date": "2026-04-01",
+          "value": 2685397
+        },
+        {
+          "date": "2026-05-01",
+          "value": 2708154
+        },
+        {
+          "date": "2026-06-01",
+          "value": 2750634
+        },
+        {
+          "date": "2026-07-01",
+          "value": 2729162
+        },
+        {
+          "date": "2026-08-01",
+          "value": 2727499
+        }
+      ]
     },
     "spreadPJ": {
       "id": 27632,
@@ -931,26 +1013,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "13/10/2026",
+      "date": "14/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "09/10/2026",
+      "date": "13/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "09/10/2026",
+      "date": "13/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "09/10/2026",
-      "value": 4.9892,
+      "date": "13/10/2026",
+      "value": 5.0096,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -997,24 +1079,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4524,
+      "count": 4530,
       "latestMonth": "2026-10",
-      "offersInMonth": 65,
-      "volumeInMonth": 6009450000.21
+      "offersInMonth": 71,
+      "volumeInMonth": 6454450000.21
     },
     {
       "market": "FIAGRO",
-      "count": 178,
+      "count": 180,
       "latestMonth": "2026-10",
-      "offersInMonth": 6,
-      "volumeInMonth": 635000943
+      "offersInMonth": 8,
+      "volumeInMonth": 675000943
     },
     {
       "market": "FII",
-      "count": 1510,
+      "count": 1511,
       "latestMonth": "2026-10",
-      "offersInMonth": 8,
-      "volumeInMonth": 1766995973.35
+      "offersInMonth": 9,
+      "volumeInMonth": 1836091973.35
     }
   ],
   "intelligence": {
@@ -1041,7 +1123,7 @@
           },
           {
             "label": "IRFC",
-            "value": 60.26442307692307,
+            "value": 50.19117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1091,12 +1173,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 83.41266025641025,
+            "value": 80.39068627450979,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 60.26442307692307,
+            "value": 50.19117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1131,7 +1213,7 @@
           },
           {
             "label": "IRFC",
-            "value": 60.26442307692307,
+            "value": 50.19117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1175,8 +1257,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.255024854536531,
-          "IRFC": 60.26442307692307,
-          "IRPM": 79.62099358974358
+          "IRFC": 50.19117647058823,
+          "IRPM": 76.59901960784313
         },
         "bands": {
           "offer": "alto",
@@ -1193,8 +1275,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 60.26442307692307,
-          "IRPM": 83.41266025641025
+          "IRFC": 50.19117647058823,
+          "IRPM": 80.39068627450979
         },
         "bands": {
           "offer": "alto",
@@ -1211,8 +1293,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 60.26442307692307,
-          "IRPM": 80.05849358974359
+          "IRFC": 50.19117647058823,
+          "IRPM": 77.03651960784313
         },
         "bands": {
           "offer": "alto",

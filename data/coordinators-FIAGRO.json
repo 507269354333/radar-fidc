@@ -1,12 +1,407 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-13T18:19:23.815Z",
+  "generatedAt": "2026-10-14T15:49:50.548Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-13T08:00:36.372995"
+    "updatedAt": "2026-10-14T08:00:38.172070"
   },
   "coordinators": [
+    {
+      "key": "CNPJ:62232889000190",
+      "name": "BANCO DAYCOVAL S.A.",
+      "cnpj": "62.232.889/0001-90",
+      "stats12m": {
+        "offers": 8,
+        "volume": 852312400,
+        "offersWithVolume": 8,
+        "averageTicket": 106539050
+      },
+      "byMonth": [
+        {
+          "month": "2023-09",
+          "count": 1,
+          "volume": 125000000
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 30000000
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2024-02",
+          "count": 1,
+          "volume": 373000000
+        },
+        {
+          "month": "2024-03",
+          "count": 1,
+          "volume": 101000000
+        },
+        {
+          "month": "2024-06",
+          "count": 2,
+          "volume": 120500000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 18300000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 185000000
+        },
+        {
+          "month": "2025-02",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 72000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 140312400
+        },
+        {
+          "month": "2026-04",
+          "count": 1,
+          "volume": 60000000
+        },
+        {
+          "month": "2026-08",
+          "count": 2,
+          "volume": 455000000
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 85000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 40000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "603cfb21ebe8a95b",
+          "market": "FIAGRO",
+          "name": "AGROINFINITY FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.040.545/0001-28",
+          "registration": "28263",
+          "processNumber": "SRE/3327/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 40000000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1c8b1426ef1701e1",
+          "market": "FIAGRO",
+          "name": "KIJANI INOVA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.384.456/0001-00",
+          "registration": "27793",
+          "processNumber": "SRE/2848/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 40000000,
+          "date": "2026-09-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "93e11c7760e9d6f6",
+          "market": "FIAGRO",
+          "name": "ECOAGRO BRAVE FUNDO DE INVESTIMENTO NAS CADEAIS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.728.243/0001-84",
+          "registration": "27726",
+          "processNumber": "SRE/2795/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 45000000,
+          "date": "2026-09-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4f7d7c51d3dd920f",
+          "market": "FIAGRO",
+          "name": "TOAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.288.683/0001-07",
+          "registration": "27721",
+          "processNumber": "SRE/2792/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 35000000,
+          "date": "2026-08-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "e46f45db956dcfa5",
+          "market": "FIAGRO",
+          "name": "MOBIUS LM FIAGRO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.182.805/0001-10",
+          "registration": "27663",
+          "processNumber": "SRE/2737/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 420000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ae52dcdb9b663ab7",
+          "market": "FIAGRO",
+          "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
+          "cnpj": "62.919.053/0001-68",
+          "registration": "25788",
+          "processNumber": "SRE/1021/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 60000000,
+          "date": "2026-04-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "aed7ad1697cb41d5",
+          "market": "FIAGRO",
+          "name": "VALORA AGRO FEEDER FIC DE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
+          "cnpj": "64.221.570/0001-94",
+          "registration": "24930",
+          "processNumber": "SRE/0583/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 140312400,
+          "date": "2026-02-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4154f3f5d4133a40",
+          "market": "FIAGRO",
+          "name": "GOPLAN FIAGRO",
+          "cnpj": "51.550.112/0001-57",
+          "registration": "23669",
+          "processNumber": "SRE/4101/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 72000000,
+          "date": "2025-12-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "902faec0aacf1e32",
+          "market": "FIAGRO",
+          "name": "MBS AGRO FIAGRO - IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.678.342/0001-82",
+          "registration": "19400",
+          "processNumber": "SRE/0350/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 40000000,
+          "date": "2025-02-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1f695ce0bef994c5",
+          "market": "FIAGRO",
+          "name": "TRUST FEEDER FIAGRO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.182.805/0001-10",
+          "registration": "19183",
+          "processNumber": "SRE/0142/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 185000000,
+          "date": "2025-01-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0ddd71c4121433da",
+          "market": "FIAGRO",
+          "name": "THREPSI FIAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "50.860.854/0001-16",
+          "registration": "16787",
+          "processNumber": "SRE/2283/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 18300000,
+          "date": "2024-08-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "17328512c78a2e97",
+          "market": "FIAGRO",
+          "name": "BIGTRADE SUNO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO -RESPONSABILIDADE LIMITADA - FIAGRO DC",
+          "cnpj": "51.764.889/0001-14",
+          "registration": "16073",
+          "processNumber": "SRE/1675/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 20000000,
+          "date": "2024-06-12",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5bbb63cc66be19c0",
+          "market": "FIAGRO",
+          "name": "EXES TERRAS FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.635.202/0001-39",
+          "registration": "15938",
+          "processNumber": "SRE/1549/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 100500000,
+          "date": "2024-06-03",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bb2448662ef66e73",
+          "market": "FIAGRO",
+          "name": "MÖBIUS JMS FIAGRO - DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.326.875/0001-07",
+          "registration": "15046",
+          "processNumber": "SRE/0765/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 101000000,
+          "date": "2024-03-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0aab50284a366c45",
+          "market": "FIAGRO",
+          "name": "INDIGO FIAGRO - DIREITOS CREDITÓRIOS DO AGRONEGÓCIO",
+          "cnpj": "50.653.601/0001-71",
+          "registration": "14642",
+          "processNumber": "SRE/0403/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 373000000,
+          "date": "2024-02-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "91c6e435552881ae",
+          "market": "FIAGRO",
+          "name": "BIGTRADE SUNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.764.889/0001-14",
+          "registration": "4253",
+          "processNumber": "SRE/0052/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 10000000,
+          "date": "2024-01-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "dc1662f760e1becf",
+          "market": "FIAGRO",
+          "name": "EQUIPMED FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "39.338.006/0001-09",
+          "registration": "3946",
+          "processNumber": "SRE/2923/2023",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 30000000,
+          "date": "2023-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9d874e3e32e872cb",
+          "market": "FIAGRO",
+          "name": "VALORA HEDGE FUND AGRO - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "51.658.280/0001-60",
+          "registration": "2867",
+          "processNumber": "SRE/1946/2023",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 125000000,
+          "date": "2023-09-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 193,
+          "volume": 16142122056.010002
+        },
+        {
+          "market": "FIAGRO",
+          "count": 18,
+          "volume": 1855112400
+        },
+        {
+          "market": "FII",
+          "count": 43,
+          "volume": 6677424090.5
+        }
+      ]
+    },
     {
       "key": "CNPJ:02332886000104",
       "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -562,385 +957,11 @@
       ]
     },
     {
-      "key": "CNPJ:62232889000190",
-      "name": "BANCO DAYCOVAL S.A.",
-      "cnpj": "62.232.889/0001-90",
-      "stats12m": {
-        "offers": 7,
-        "volume": 812312400,
-        "offersWithVolume": 7,
-        "averageTicket": 116044628.57142857
-      },
-      "byMonth": [
-        {
-          "month": "2023-09",
-          "count": 1,
-          "volume": 125000000
-        },
-        {
-          "month": "2023-12",
-          "count": 1,
-          "volume": 30000000
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2024-02",
-          "count": 1,
-          "volume": 373000000
-        },
-        {
-          "month": "2024-03",
-          "count": 1,
-          "volume": 101000000
-        },
-        {
-          "month": "2024-06",
-          "count": 2,
-          "volume": 120500000
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 18300000
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 185000000
-        },
-        {
-          "month": "2025-02",
-          "count": 1,
-          "volume": 40000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 72000000
-        },
-        {
-          "month": "2026-02",
-          "count": 1,
-          "volume": 140312400
-        },
-        {
-          "month": "2026-04",
-          "count": 1,
-          "volume": 60000000
-        },
-        {
-          "month": "2026-08",
-          "count": 2,
-          "volume": 455000000
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 85000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "1c8b1426ef1701e1",
-          "market": "FIAGRO",
-          "name": "KIJANI INOVA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.384.456/0001-00",
-          "registration": "27793",
-          "processNumber": "SRE/2848/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 40000000,
-          "date": "2026-09-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "93e11c7760e9d6f6",
-          "market": "FIAGRO",
-          "name": "ECOAGRO BRAVE FUNDO DE INVESTIMENTO NAS CADEAIS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.728.243/0001-84",
-          "registration": "27726",
-          "processNumber": "SRE/2795/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 45000000,
-          "date": "2026-09-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "4f7d7c51d3dd920f",
-          "market": "FIAGRO",
-          "name": "TOAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.288.683/0001-07",
-          "registration": "27721",
-          "processNumber": "SRE/2792/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 35000000,
-          "date": "2026-08-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "e46f45db956dcfa5",
-          "market": "FIAGRO",
-          "name": "MOBIUS LM FIAGRO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.182.805/0001-10",
-          "registration": "27663",
-          "processNumber": "SRE/2737/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 420000000,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ae52dcdb9b663ab7",
-          "market": "FIAGRO",
-          "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
-          "cnpj": "62.919.053/0001-68",
-          "registration": "25788",
-          "processNumber": "SRE/1021/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 60000000,
-          "date": "2026-04-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "aed7ad1697cb41d5",
-          "market": "FIAGRO",
-          "name": "VALORA AGRO FEEDER FIC DE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESP LIMITADA",
-          "cnpj": "64.221.570/0001-94",
-          "registration": "24930",
-          "processNumber": "SRE/0583/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 140312400,
-          "date": "2026-02-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4154f3f5d4133a40",
-          "market": "FIAGRO",
-          "name": "GOPLAN FIAGRO",
-          "cnpj": "51.550.112/0001-57",
-          "registration": "23669",
-          "processNumber": "SRE/4101/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 72000000,
-          "date": "2025-12-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "902faec0aacf1e32",
-          "market": "FIAGRO",
-          "name": "MBS AGRO FIAGRO - IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.678.342/0001-82",
-          "registration": "19400",
-          "processNumber": "SRE/0350/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 40000000,
-          "date": "2025-02-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1f695ce0bef994c5",
-          "market": "FIAGRO",
-          "name": "TRUST FEEDER FIAGRO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.182.805/0001-10",
-          "registration": "19183",
-          "processNumber": "SRE/0142/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 185000000,
-          "date": "2025-01-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0ddd71c4121433da",
-          "market": "FIAGRO",
-          "name": "THREPSI FIAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "50.860.854/0001-16",
-          "registration": "16787",
-          "processNumber": "SRE/2283/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 18300000,
-          "date": "2024-08-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "17328512c78a2e97",
-          "market": "FIAGRO",
-          "name": "BIGTRADE SUNO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO -RESPONSABILIDADE LIMITADA - FIAGRO DC",
-          "cnpj": "51.764.889/0001-14",
-          "registration": "16073",
-          "processNumber": "SRE/1675/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 20000000,
-          "date": "2024-06-12",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "5bbb63cc66be19c0",
-          "market": "FIAGRO",
-          "name": "EXES TERRAS FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.635.202/0001-39",
-          "registration": "15938",
-          "processNumber": "SRE/1549/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 100500000,
-          "date": "2024-06-03",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bb2448662ef66e73",
-          "market": "FIAGRO",
-          "name": "MÖBIUS JMS FIAGRO - DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.326.875/0001-07",
-          "registration": "15046",
-          "processNumber": "SRE/0765/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 101000000,
-          "date": "2024-03-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0aab50284a366c45",
-          "market": "FIAGRO",
-          "name": "INDIGO FIAGRO - DIREITOS CREDITÓRIOS DO AGRONEGÓCIO",
-          "cnpj": "50.653.601/0001-71",
-          "registration": "14642",
-          "processNumber": "SRE/0403/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 373000000,
-          "date": "2024-02-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "91c6e435552881ae",
-          "market": "FIAGRO",
-          "name": "BIGTRADE SUNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "51.764.889/0001-14",
-          "registration": "4253",
-          "processNumber": "SRE/0052/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 10000000,
-          "date": "2024-01-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "dc1662f760e1becf",
-          "market": "FIAGRO",
-          "name": "EQUIPMED FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "39.338.006/0001-09",
-          "registration": "3946",
-          "processNumber": "SRE/2923/2023",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 30000000,
-          "date": "2023-12-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9d874e3e32e872cb",
-          "market": "FIAGRO",
-          "name": "VALORA HEDGE FUND AGRO - FIAGRO-IMOBILIÁRIO",
-          "cnpj": "51.658.280/0001-60",
-          "registration": "2867",
-          "processNumber": "SRE/1946/2023",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 125000000,
-          "date": "2023-09-14",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 193,
-          "volume": 16142122056.010002
-        },
-        {
-          "market": "FIAGRO",
-          "count": 17,
-          "volume": 1815112400
-        },
-        {
-          "market": "FII",
-          "count": 43,
-          "volume": 6677424090.5
-        }
-      ]
-    },
-    {
       "key": "CNPJ:59281253000123",
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 6,
+        "offers": 7,
         "volume": 925000465.44,
         "offersWithVolume": 6,
         "averageTicket": 154166744.24
@@ -990,9 +1011,30 @@
           "month": "2026-08",
           "count": 1,
           "volume": 100000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 0
         }
       ],
       "recentOffers": [
+        {
+          "id": "67113fe4a41980db",
+          "market": "FIAGRO",
+          "name": "BRAVE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.587.184/0001-71",
+          "registration": "28320",
+          "processNumber": "SRE/3341/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 0,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "4c1977ee81c7ac73",
           "market": "FIAGRO",
@@ -1173,12 +1215,12 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 154,
-          "volume": 28361393877.3
+          "count": 155,
+          "volume": 28461393877.3
         },
         {
           "market": "FIAGRO",
-          "count": 11,
+          "count": 12,
           "volume": 1685150465.44
         },
         {
@@ -1728,8 +1770,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 156,
-          "volume": 10752073198.679995
+          "count": 157,
+          "volume": 10832073198.679996
         },
         {
           "market": "FIAGRO",
@@ -1928,8 +1970,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1052,
-          "volume": 58388820860.72994
+          "count": 1053,
+          "volume": 58458820860.72995
         },
         {
           "market": "FIAGRO",
@@ -3158,8 +3200,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 83,
-          "volume": 2242824193.7599998
+          "count": 84,
+          "volume": 2272824193.7599998
         },
         {
           "market": "FIAGRO",
@@ -3678,7 +3720,7 @@
         {
           "market": "FIDC",
           "count": 32,
-          "volume": 26407169000
+          "volume": 26462169000
         },
         {
           "market": "FIAGRO",
@@ -4258,8 +4300,8 @@
         },
         {
           "market": "FII",
-          "count": 21,
-          "volume": 3568098506.1699996
+          "count": 22,
+          "volume": 3637194506.17
         }
       ]
     },
