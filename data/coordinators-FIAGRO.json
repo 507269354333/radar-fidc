@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-14T15:49:50.548Z",
+  "generatedAt": "2026-10-15T15:36:13.693Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-14T08:00:38.172070"
+    "updatedAt": "2026-10-15T08:00:37.024710"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 8,
-        "volume": 852312400,
-        "offersWithVolume": 8,
-        "averageTicket": 106539050
+        "offers": 9,
+        "volume": 1032312400,
+        "offersWithVolume": 9,
+        "averageTicket": 114701377.77777778
       },
       "byMonth": [
         {
@@ -90,11 +90,27 @@
         },
         {
           "month": "2026-10",
-          "count": 1,
-          "volume": 40000000
+          "count": 2,
+          "volume": 220000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "47c7ecb4cee6f0b0",
+          "market": "FIAGRO",
+          "name": "AGBI TIVIO REGENAG FARMLAND FUND IV FI NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS INVEST SUSTENTAVEL",
+          "cnpj": "62.696.025/0001-29",
+          "registration": "28329",
+          "processNumber": "SRE/3348/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 180000000,
+          "date": "2026-10-14",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "603cfb21ebe8a95b",
           "market": "FIAGRO",
@@ -392,8 +408,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 18,
-          "volume": 1855112400
+          "count": 19,
+          "volume": 2035112400
         },
         {
           "market": "FII",
@@ -688,9 +704,9 @@
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
         "offers": 7,
-        "volume": 1124498000,
-        "offersWithVolume": 6,
-        "averageTicket": 187416333.33333334
+        "volume": 4124498000,
+        "offersWithVolume": 7,
+        "averageTicket": 589214000
       },
       "byMonth": [
         {
@@ -741,7 +757,7 @@
         {
           "month": "2026-10",
           "count": 2,
-          "volume": 530000000
+          "volume": 3530000000
         }
       ],
       "recentOffers": [
@@ -754,11 +770,11 @@
           "processNumber": "SRE/3271/2026",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-10-07",
+          "volume": 3000000000,
+          "date": "2026-10-14",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
+          "status": "Registro Concedido",
           "publications": []
         },
         {
@@ -941,13 +957,13 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 53,
-          "volume": 16822170059
+          "count": 54,
+          "volume": 16885920059
         },
         {
           "market": "FIAGRO",
           "count": 12,
-          "volume": 1859498000
+          "volume": 4859498000
         },
         {
           "market": "FII",
@@ -1770,8 +1786,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 157,
-          "volume": 10832073198.679996
+          "count": 158,
+          "volume": 10912073198.659996
         },
         {
           "market": "FIAGRO",
@@ -1970,8 +1986,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1053,
-          "volume": 58458820860.72995
+          "count": 1055,
+          "volume": 58608820860.72994
         },
         {
           "market": "FIAGRO",
@@ -2165,7 +2181,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 52,
+          "count": 53,
           "volume": 16230622370.97
         },
         {
@@ -3380,8 +3396,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 138,
-          "volume": 2042174933.6999998
+          "count": 140,
+          "volume": 2057174934.19
         },
         {
           "market": "FIAGRO",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:49:50.500Z",
+  "generatedAt": "2026-10-15T15:36:13.653Z",
   "market": "FIDC",
   "current": {
     "period": {
@@ -214,11 +214,11 @@
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 46
+        "count": 45
       },
       {
         "name": "Oferta Encerrada",
-        "count": 1
+        "count": 2
       }
     ],
     "byMarket": [
@@ -512,14 +512,14 @@
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 27.75,
+      "offers": 27.5,
       "volume": 3696346932.6025,
       "leaders": 14,
-      "professionalShare": 0.9242133110554163,
-      "top3Concentration": 0.43402951824004454
+      "professionalShare": 0.9227513227513227,
+      "top3Concentration": 0.44060846560846556
     },
     "currentVsPrior4Average": {
-      "offersPct": 69.36936936936937,
+      "offersPct": 70.9090909090909,
       "volumePct": 20.874746923829328
     }
   },
@@ -575,7 +575,7 @@
           "start": "2026-09-21",
           "end": "2026-09-27"
         },
-        "offers": 19,
+        "offers": 18,
         "volume": 3600699557.08,
         "leaders": 11
       },
@@ -602,7 +602,7 @@
   "observations": [
     "Atividade semanal de 47 ofertas FIDC, 56,7% acima da semana anterior.",
     "Volume informado de R$ 4.467.950.000 em 47 ofertas com valor positivo; ticket médio de R$ 95.062.766.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 20,9% acima e a quantidade de ofertas 69,4% acima.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 20,9% acima e a quantidade de ofertas 70,9% acima.",
     "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 40,4% das ofertas da semana.",
     "95,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (3), Consignado (2), Ativos judiciais (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -612,17 +612,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-14T08:00:38.172070"
+      "updatedAt": "2026-10-15T08:00:37.024710"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-14T15:49:45.698Z"
+      "updatedAt": "2026-10-15T15:36:13.197Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "14/10/2026 09:36"
+      "updatedAt": "15/10/2026 09:27"
     }
   },
   "macro": {
@@ -631,19 +631,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-09",
+        "date": "2026-10-13",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-15",
-          "value": 13.9
-        },
         {
           "date": "2026-09-16",
           "value": 13.9
@@ -718,6 +714,10 @@
         },
         {
           "date": "2026-10-13",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-14",
           "value": 13.65
         }
       ]
@@ -1013,26 +1013,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "14/10/2026",
+      "date": "15/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "13/10/2026",
+      "date": "14/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "13/10/2026",
+      "date": "14/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "13/10/2026",
-      "value": 5.0096,
+      "date": "14/10/2026",
+      "value": 5.0441,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1069,27 +1069,22 @@
       "title": "Confira o Ofício Circular Anual da SRE sobre ofertas públicas",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas",
       "source": "CVM"
-    },
-    {
-      "title": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
-      "source": "CVM"
     }
   ],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4530,
+      "count": 4538,
       "latestMonth": "2026-10",
-      "offersInMonth": 71,
-      "volumeInMonth": 6454450000.21
+      "offersInMonth": 79,
+      "volumeInMonth": 6665850000.68
     },
     {
       "market": "FIAGRO",
-      "count": 180,
+      "count": 181,
       "latestMonth": "2026-10",
-      "offersInMonth": 8,
-      "volumeInMonth": 675000943
+      "offersInMonth": 9,
+      "volumeInMonth": 3855000943
     },
     {
       "market": "FII",
@@ -1102,7 +1097,7 @@
   "intelligence": {
     "month": "2026-09",
     "brief": {
-      "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
+      "headline": "Oferta primária forte encontra funding ainda seletivo.",
       "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
       "watch": [
         "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
@@ -1113,8 +1108,8 @@
     "theses": [
       {
         "id": "capital-competition",
-        "title": "Oferta e funding precisam ser lidos juntos",
-        "statement": "A força do mercado primário não deve ser interpretada isoladamente. O Radar cruza pipeline, breadth, concentração e funding antes de inferir pressão competitiva.",
+        "title": "Mais ofertas competindo por capital seletivo",
+        "statement": "O pipeline primário está relativamente forte, mas o ambiente de funding não acompanha na mesma intensidade. A leitura Radar é de maior competição por atenção e capital, não de excesso comprovado de recursos.",
         "evidence": [
           {
             "label": "IROP agregado",
@@ -1123,7 +1118,7 @@
           },
           {
             "label": "IRFC",
-            "value": 50.19117647058823,
+            "value": 49.05481283422459,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1133,7 +1128,7 @@
           },
           {
             "label": "IRCC",
-            "value": 20.11090269729856,
+            "value": 20.115562420230983,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1173,12 +1168,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 80.39068627450979,
+            "value": 80.04977718360071,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 50.19117647058823,
+            "value": 49.05481283422459,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1187,7 +1182,7 @@
           "pipeline mais intenso na vertical",
           "maior número/volume relativo de operações",
           "mais necessidade de comparar estruturas e participantes",
-          "funding menos restritivo pode melhorar capacidade de absorção"
+          "funding restritivo pode aumentar seletividade"
         ],
         "confirms": [
           "IROP de FIAGRO permanece acima das demais verticais",
@@ -1213,7 +1208,7 @@
           },
           {
             "label": "IRFC",
-            "value": 50.19117647058823,
+            "value": 49.05481283422459,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1251,14 +1246,14 @@
     "directions": [
       {
         "market": "FIDC",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
-          "IRCC": 8.255024854536531,
-          "IRFC": 50.19117647058823,
-          "IRPM": 76.59901960784313
+          "IRCC": 8.269004023333803,
+          "IRFC": 49.05481283422459,
+          "IRPM": 76.25811051693404
         },
         "bands": {
           "offer": "alto",
@@ -1269,14 +1264,14 @@
       },
       {
         "market": "FIAGRO",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 50.19117647058823,
-          "IRPM": 80.39068627450979
+          "IRFC": 49.05481283422459,
+          "IRPM": 80.04977718360071
         },
         "bands": {
           "offer": "alto",
@@ -1287,14 +1282,14 @@
       },
       {
         "market": "FII",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 50.19117647058823,
-          "IRPM": 77.03651960784313
+          "IRFC": 49.05481283422459,
+          "IRPM": 76.69561051693404
         },
         "bands": {
           "offer": "alto",
