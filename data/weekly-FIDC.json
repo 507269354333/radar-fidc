@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:36:13.653Z",
+  "generatedAt": "2026-10-16T15:22:57.591Z",
   "market": "FIDC",
   "current": {
     "period": {
@@ -512,15 +512,15 @@
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 27.5,
-      "volume": 3696346932.6025,
+      "offers": 27.25,
+      "volume": 3633846932.6025,
       "leaders": 14,
-      "professionalShare": 0.9227513227513227,
-      "top3Concentration": 0.44060846560846556
+      "professionalShare": 0.9223311546840958,
+      "top3Concentration": 0.44291938997821356
     },
     "currentVsPrior4Average": {
-      "offersPct": 70.9090909090909,
-      "volumePct": 20.874746923829328
+      "offersPct": 72.47706422018348,
+      "volumePct": 22.95372048073939
     }
   },
   "history": {
@@ -566,8 +566,8 @@
           "start": "2026-09-14",
           "end": "2026-09-20"
         },
-        "offers": 35,
-        "volume": 4958372000.469999,
+        "offers": 34,
+        "volume": 4708372000.469999,
         "leaders": 18
       },
       {
@@ -602,7 +602,7 @@
   "observations": [
     "Atividade semanal de 47 ofertas FIDC, 56,7% acima da semana anterior.",
     "Volume informado de R$ 4.467.950.000 em 47 ofertas com valor positivo; ticket médio de R$ 95.062.766.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 20,9% acima e a quantidade de ofertas 70,9% acima.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 23,0% acima e a quantidade de ofertas 72,5% acima.",
     "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 40,4% das ofertas da semana.",
     "95,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (3), Consignado (2), Ativos judiciais (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -612,17 +612,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-15T08:00:37.024710"
+      "updatedAt": "2026-10-16T08:00:37.241691"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-15T15:36:13.197Z"
+      "updatedAt": "2026-10-16T15:22:57.388Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "15/10/2026 09:27"
+      "updatedAt": "16/10/2026 09:29"
     }
   },
   "macro": {
@@ -631,19 +631,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-14",
+        "date": "2026-10-15",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-16",
-          "value": 13.9
-        },
         {
           "date": "2026-09-17",
           "value": 13.65
@@ -718,6 +714,10 @@
         },
         {
           "date": "2026-10-14",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-15",
           "value": 13.65
         }
       ]
@@ -1013,26 +1013,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "15/10/2026",
+      "date": "16/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "14/10/2026",
+      "date": "15/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "14/10/2026",
+      "date": "15/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "14/10/2026",
-      "value": 5.0441,
+      "date": "15/10/2026",
+      "value": 5.0521,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1074,10 +1074,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4538,
+      "count": 4540,
       "latestMonth": "2026-10",
-      "offersInMonth": 79,
-      "volumeInMonth": 6665850000.68
+      "offersInMonth": 82,
+      "volumeInMonth": 7105850000.780001
     },
     {
       "market": "FIAGRO",
@@ -1118,7 +1118,7 @@
           },
           {
             "label": "IRFC",
-            "value": 49.05481283422459,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1128,7 +1128,7 @@
           },
           {
             "label": "IRCC",
-            "value": 20.115562420230983,
+            "value": 20.212760296209826,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1168,12 +1168,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 80.04977718360071,
+            "value": 79.6406862745098,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 49.05481283422459,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1208,7 +1208,7 @@
           },
           {
             "label": "IRFC",
-            "value": 49.05481283422459,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1251,9 +1251,9 @@
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
-          "IRCC": 8.269004023333803,
-          "IRFC": 49.05481283422459,
-          "IRPM": 76.25811051693404
+          "IRCC": 8.560597651270339,
+          "IRFC": 47.69117647058823,
+          "IRPM": 75.84901960784313
         },
         "bands": {
           "offer": "alto",
@@ -1270,8 +1270,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 49.05481283422459,
-          "IRPM": 80.04977718360071
+          "IRFC": 47.69117647058823,
+          "IRPM": 79.6406862745098
         },
         "bands": {
           "offer": "alto",
@@ -1288,8 +1288,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 49.05481283422459,
-          "IRPM": 76.69561051693404
+          "IRFC": 47.69117647058823,
+          "IRPM": 76.28651960784313
         },
         "bands": {
           "offer": "alto",

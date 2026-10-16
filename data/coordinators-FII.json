@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-15T15:36:13.694Z",
+  "generatedAt": "2026-10-16T15:22:57.642Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-15T08:00:37.024710"
+    "updatedAt": "2026-10-16T08:00:37.241691"
   },
   "coordinators": [
     {
@@ -3357,7 +3357,7 @@
         {
           "market": "FIDC",
           "count": 158,
-          "volume": 10912073198.659996
+          "volume": 10912073198.759995
         },
         {
           "market": "FIAGRO",
@@ -3958,8 +3958,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 193,
-          "volume": 16142122056.010002
+          "count": 194,
+          "volume": 16232122056.010004
         },
         {
           "market": "FIAGRO",
@@ -10960,8 +10960,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 242,
-          "volume": 7083205114.030001
+          "count": 243,
+          "volume": 7183205114.030001
         },
         {
           "market": "FIAGRO",
@@ -18080,6 +18080,72 @@
           "market": "FII",
           "count": 3,
           "volume": 102019808.74
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:68757681000170",
+      "name": "BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "68.757.681/0001-70",
+      "stats12m": {
+        "offers": 0,
+        "volume": 0,
+        "offersWithVolume": 0,
+        "averageTicket": null
+      },
+      "byMonth": [],
+      "recentOffers": [
+        {
+          "id": "ac0ebdfa6d820ffb",
+          "market": "FII",
+          "name": "BIRD FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "18.289.950/0001-43",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "68.757.681/0001-70",
+          "volume": 16908551.73,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-05-09",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-06-07",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 16908551.73
         }
       ]
     },
@@ -26395,72 +26461,6 @@
           "market": "FII",
           "count": 17,
           "volume": 1678166882.0800002
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:68757681000170",
-      "name": "SIMPAUL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
-      "cnpj": "68.757.681/0001-70",
-      "stats12m": {
-        "offers": 0,
-        "volume": 0,
-        "offersWithVolume": 0,
-        "averageTicket": null
-      },
-      "byMonth": [],
-      "recentOffers": [
-        {
-          "id": "ac0ebdfa6d820ffb",
-          "market": "FII",
-          "name": "BIRD FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "18.289.950/0001-43",
-          "registration": "",
-          "processNumber": "",
-          "leader": "SIMPAUL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "68.757.681/0001-70",
-          "volume": 16908551.73,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-05-09",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-06-07",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 16908551.73
         }
       ]
     },
