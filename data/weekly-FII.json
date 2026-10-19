@@ -1,7 +1,125 @@
 {
-  "generatedAt": "2026-10-16T15:22:57.596Z",
+  "generatedAt": "2026-10-19T17:29:17.786Z",
   "market": "FII",
   "current": {
+    "period": {
+      "start": "2026-10-12",
+      "end": "2026-10-18"
+    },
+    "offers": 3,
+    "offersWithVolume": 3,
+    "volume": 739096000,
+    "averageTicket": 246365333.33333334,
+    "leaders": 2,
+    "topLeaders": [
+      {
+        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "cnpj": "18.945.670/0001-46",
+        "count": 2,
+        "volume": 619096000
+      },
+      {
+        "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "cnpj": "36.266.751/0001-00",
+        "count": 1,
+        "volume": 120000000
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "ba61270f6b27c5ad",
+        "market": "FII",
+        "name": "GATTI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.011.838/0001-87",
+        "registration": "28356",
+        "processNumber": "SRE/3380/2026",
+        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "volume": 550000000,
+        "date": "2026-10-16",
+        "rite": "Automático",
+        "audience": "Qualificado",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "61f1bc085ba89519",
+        "market": "FII",
+        "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.445.142/0001-69",
+        "registration": "28353",
+        "processNumber": "SRE/3375/2026",
+        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "volume": 120000000,
+        "date": "2026-10-16",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "3392b3398f60ffab",
+        "market": "FII",
+        "name": "ATLAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.386.592/0001-28",
+        "registration": "28239",
+        "processNumber": "SRE/3330/2026",
+        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "volume": 69096000,
+        "date": "2026-10-13",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 2
+      },
+      {
+        "name": "Qualificado",
+        "count": 1
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 3
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 3
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FII",
+        "count": 3
+      }
+    ],
+    "professionalShare": 0.6666666666666666,
+    "top3Concentration": 1,
+    "busiestDays": [
+      {
+        "date": "2026-10-16",
+        "count": 2
+      },
+      {
+        "date": "2026-10-13",
+        "count": 1
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Imobiliário logístico",
+        "count": 1
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-10-05",
       "end": "2026-10-11"
@@ -171,229 +289,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-09-28",
-      "end": "2026-10-04"
-    },
-    "offers": 7,
-    "offersWithVolume": 7,
-    "volume": 894306147.54,
-    "averageTicket": 127758021.07714285,
-    "leaders": 5,
-    "topLeaders": [
-      {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 2,
-        "volume": 520588200
-      },
-      {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
-        "count": 2,
-        "volume": 211499947.53
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 1,
-        "volume": 89378000
-      },
-      {
-        "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "cnpj": "36.266.751/0001-00",
-        "count": 1,
-        "volume": 71000000
-      },
-      {
-        "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "cnpj": "16.695.922/0001-09",
-        "count": 1,
-        "volume": 1840000.01
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "4e77d1aee3669758",
-        "market": "FII",
-        "name": "VALORA CDI RENDA IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.269.110/0001-50",
-        "registration": "28162",
-        "processNumber": "SRE/3194/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "volume": 470588200,
-        "date": "2026-09-30",
-        "rite": "Automático",
-        "audience": "Qualificado",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "977ab2ae56e51924",
-        "market": "FII",
-        "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "63.034.061/0001-90",
-        "registration": "28129",
-        "processNumber": "SRE/3160/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "volume": 209999947.53,
-        "date": "2026-09-29",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "8281053c650aa0d6",
-        "market": "FII",
-        "name": "JIVEMAUÁ RECUPERAÇÃO DE CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA",
-        "cnpj": "68.949.992/0001-31",
-        "registration": "28167",
-        "processNumber": "SRE/3214/2026",
-        "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "volume": 89378000,
-        "date": "2026-10-01",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "c0318d1661319c7b",
-        "market": "FII",
-        "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.445.142/0001-69",
-        "registration": "28199",
-        "processNumber": "SRE/3230/2026",
-        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "volume": 71000000,
-        "date": "2026-10-02",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "c1bfc3358f8131e3",
-        "market": "FII",
-        "name": "CAPITANIA CREDITO HIGH GRADE FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.205.494/0001-47",
-        "registration": "28161",
-        "processNumber": "SRE/3191/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "volume": 50000000,
-        "date": "2026-09-30",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "350f9699cb30d90b",
-        "market": "FII",
-        "name": "COTA REAL 7 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "58.019.792/0001-26",
-        "registration": "28136",
-        "processNumber": "SRE/3165/2026",
-        "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "volume": 1840000.01,
-        "date": "2026-09-30",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "4940209d8d2e1bea",
-        "market": "FII",
-        "name": "HLOG GALEAO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.634.365/0001-01",
-        "registration": "28168",
-        "processNumber": "SRE/3201/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "volume": 1500000,
-        "date": "2026-10-01",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 6
-      },
-      {
-        "name": "Qualificado",
-        "count": 1
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 7
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 7
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FII",
-        "count": 7
-      }
-    ],
-    "professionalShare": 0.8571428571428571,
-    "top3Concentration": 0.7142857142857143,
-    "busiestDays": [
-      {
-        "date": "2026-09-30",
-        "count": 3
-      },
-      {
-        "date": "2026-10-01",
-        "count": 2
-      },
-      {
-        "date": "2026-09-29",
-        "count": 1
-      }
-    ],
-    "themeSignals": []
-  },
   "changes": {
-    "offersPct": -28.57142857142857,
-    "volumePct": 79.48193443210198
+    "offersPct": -40,
+    "volumePct": -53.95378954872383
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 7,
-      "volume": 2077188446.2675002,
+      "offers": 6.5,
+      "volume": 1561290893.9025002,
       "leaders": 4.75,
-      "professionalShare": 0.8809523809523809,
-      "top3Concentration": 0.786904761904762
+      "professionalShare": 0.9083333333333334,
+      "top3Concentration": 0.7583333333333334
     },
     "currentVsPrior4Average": {
-      "offersPct": -28.57142857142857,
-      "volumePct": -22.726415302654107
+      "offersPct": -53.84615384615385,
+      "volumePct": -52.66122393421484
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-08-17",
-          "end": "2026-08-23"
-        },
-        "offers": 2,
-        "volume": 1365991954.44,
-        "leaders": 2
-      },
       {
         "period": {
           "start": "2026-08-24",
@@ -444,9 +358,9 @@
           "start": "2026-09-28",
           "end": "2026-10-04"
         },
-        "offers": 7,
-        "volume": 894306147.54,
-        "leaders": 5
+        "offers": 6,
+        "volume": 823306147.54,
+        "leaders": 4
       },
       {
         "period": {
@@ -456,15 +370,24 @@
         "offers": 5,
         "volume": 1605117973.35,
         "leaders": 5
+      },
+      {
+        "period": {
+          "start": "2026-10-12",
+          "end": "2026-10-18"
+        },
+        "offers": 3,
+        "volume": 739096000,
+        "leaders": 2
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 5 ofertas FII, 28,6% abaixo da semana anterior.",
-    "Volume informado de R$ 1.605.117.973 em 5 ofertas com valor positivo; ticket médio de R$ 321.023.595.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 22,7% abaixo e a quantidade de ofertas 28,6% abaixo.",
-    "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM liderou por quantidade de registros (1); os três coordenadores mais presentes concentraram 60,0% das ofertas da semana.",
-    "80,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Atividade semanal de 3 ofertas FII, 40,0% abaixo da semana anterior.",
+    "Volume informado de R$ 739.096.000 em 3 ofertas com valor positivo; ticket médio de R$ 246.365.333.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 52,7% abaixo e a quantidade de ofertas 53,8% abaixo.",
+    "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 100,0% das ofertas da semana.",
+    "66,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Imobiliário logístico (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -472,17 +395,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-16T08:00:37.241691"
+      "updatedAt": "2026-10-17T08:00:44.443098"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-16T15:22:57.388Z"
+      "updatedAt": "2026-10-19T17:29:17.755Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "16/10/2026 09:29"
+      "updatedAt": "19/10/2026 09:35"
     }
   },
   "macro": {
@@ -490,97 +413,11 @@
       "id": 1178,
       "label": "Taxa Selic anualizada",
       "unit": "%",
-      "latest": {
-        "date": "2026-10-15",
-        "value": 13.65
-      },
-      "previous": {
-        "date": "2026-10-14",
-        "value": 13.65
-      },
-      "change": 0,
-      "history": [
-        {
-          "date": "2026-09-17",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-18",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-21",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-22",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-23",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-24",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-25",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-28",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-29",
-          "value": 13.65
-        },
-        {
-          "date": "2026-09-30",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-01",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-02",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-05",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-06",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-07",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-08",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-09",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-13",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-14",
-          "value": 13.65
-        },
-        {
-          "date": "2026-10-15",
-          "value": 13.65
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "timeout após 8000 ms"
     },
     "inadPJ": {
       "id": 21083,
@@ -873,26 +710,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "16/10/2026",
+      "date": "19/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "15/10/2026",
+      "date": "16/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "15/10/2026",
+      "date": "16/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "15/10/2026",
-      "value": 5.0521,
+      "date": "16/10/2026",
+      "value": 5.0826,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -934,10 +771,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4540,
+      "count": 4552,
       "latestMonth": "2026-10",
-      "offersInMonth": 82,
-      "volumeInMonth": 7105850000.780001
+      "offersInMonth": 94,
+      "volumeInMonth": 9025475000.779999
     },
     {
       "market": "FIAGRO",
@@ -948,10 +785,10 @@
     },
     {
       "market": "FII",
-      "count": 1511,
+      "count": 1512,
       "latestMonth": "2026-10",
-      "offersInMonth": 9,
-      "volumeInMonth": 1836091973.35
+      "offersInMonth": 10,
+      "volumeInMonth": 2435091973.35
     }
   ],
   "intelligence": {
@@ -978,7 +815,7 @@
           },
           {
             "label": "IRFC",
-            "value": 47.69117647058823,
+            "value": 46.70168067226891,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1028,12 +865,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 79.6406862745098,
+            "value": 79.343837535014,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 47.69117647058823,
+            "value": 46.70168067226891,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -1068,7 +905,7 @@
           },
           {
             "label": "IRFC",
-            "value": 47.69117647058823,
+            "value": 46.70168067226891,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -1112,8 +949,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.560597651270339,
-          "IRFC": 47.69117647058823,
-          "IRPM": 75.84901960784313
+          "IRFC": 46.70168067226891,
+          "IRPM": 75.55217086834733
         },
         "bands": {
           "offer": "alto",
@@ -1130,8 +967,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 47.69117647058823,
-          "IRPM": 79.6406862745098
+          "IRFC": 46.70168067226891,
+          "IRPM": 79.343837535014
         },
         "bands": {
           "offer": "alto",
@@ -1148,8 +985,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 47.69117647058823,
-          "IRPM": 76.28651960784313
+          "IRFC": 46.70168067226891,
+          "IRPM": 75.98967086834733
         },
         "bands": {
           "offer": "alto",
