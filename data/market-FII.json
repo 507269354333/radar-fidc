@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-17T08:00:44.443098",
+  "sourceUpdatedAt": "2026-10-20T08:00:38.084460",
   "market": "FII",
-  "count": 1512,
+  "count": 1514,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 10,
-    "volumeInMonth": 2435091973.35,
-    "offersWithVolumeInMonth": 10,
-    "leadersInMonth": 8,
+    "offersInMonth": 12,
+    "volumeInMonth": 3635091973.3500004,
+    "offersWithVolumeInMonth": 12,
+    "leadersInMonth": 9,
     "byRite": [
       {
         "name": "Automático",
-        "count": 10
+        "count": 12
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 8
+        "count": 10
       },
       {
         "name": "Público geral",
@@ -40,8 +40,14 @@
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
+        "count": 2,
+        "volume": 1432392957.8
+      },
+      {
+        "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "27.652.684/0001-62",
         "count": 1,
-        "volume": 1232392957.8
+        "volume": 1000000000
       },
       {
         "name": "EXES SERVICOS FINANCEIROS LTDA",
@@ -185,15 +191,15 @@
       },
       {
         "month": "2026-10",
-        "count": 10,
-        "volume": 2435091973.35,
-        "withVolume": 10
+        "count": 12,
+        "volume": 3635091973.3500004,
+        "withVolume": 12
       }
     ],
     "trailing12": {
-      "offers": 210,
-      "volume": 68251602263.16999,
-      "offersWithVolume": 210,
+      "offers": 212,
+      "volume": 69451602263.16998,
+      "offersWithVolume": 212,
       "leaders": 37,
       "topLeaders": [
         {
@@ -205,8 +211,8 @@
         {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
-          "count": 23,
-          "volume": 6541415647.82
+          "count": 24,
+          "volume": 6741415647.82
         },
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -275,26 +281,74 @@
           "volume": 2936521695.3900003
         },
         {
+          "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "cnpj": "27.652.684/0001-62",
+          "count": 4,
+          "volume": 1666000000
+        },
+        {
           "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
           "cnpj": "36.266.751/0001-00",
           "count": 4,
           "volume": 785000000
-        },
-        {
-          "name": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "cnpj": "07.253.654/0001-76",
-          "count": 4,
-          "volume": 759334370
         }
       ]
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 130000000,
+      "medianPositiveVolume": 132699509.37,
       "outlierCount": 0,
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "87eb2d0074834526",
+        "market": "FII",
+        "name": "MAUA CAPITAL PROPRIEDADES LOGISTICAS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.058.946/0001-42",
+        "registration": "28388",
+        "processNumber": "SRE/3399/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "leaderCnpj": "59.281.253/0001-23",
+        "volume": 200000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-19",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "7184f02a0a754d24",
+        "market": "FII",
+        "name": "SUNO IMÓVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.323.500/0001-60",
+        "registration": "28382",
+        "processNumber": "SRE/3393/2026",
+        "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "27.652.684/0001-62",
+        "volume": 1000000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-19",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "ba61270f6b27c5ad",
         "market": "FII",
@@ -308,30 +362,6 @@
         "volumeComponents": 1,
         "rite": "Automático",
         "audience": "Qualificado",
-        "status": "Registro Concedido",
-        "date": "2026-10-16",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "61f1bc085ba89519",
-        "market": "FII",
-        "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.445.142/0001-69",
-        "registration": "28353",
-        "processNumber": "SRE/3375/2026",
-        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "leaderCnpj": "36.266.751/0001-00",
-        "volume": 120000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
         "status": "Registro Concedido",
         "date": "2026-10-16",
         "dateBasis": "registro",
@@ -488,6 +518,30 @@
         "distinctComponents": 1
       },
       {
+        "id": "61f1bc085ba89519",
+        "market": "FII",
+        "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.445.142/0001-69",
+        "registration": "28353",
+        "processNumber": "SRE/3375/2026",
+        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "leaderCnpj": "36.266.751/0001-00",
+        "volume": 120000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-02",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
         "id": "4940209d8d2e1bea",
         "market": "FII",
         "name": "HLOG GALEAO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
@@ -606,57 +660,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "977ab2ae56e51924",
-        "market": "FII",
-        "name": "ARKAN ALPHA MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "63.034.061/0001-90",
-        "registration": "28129",
-        "processNumber": "SRE/3160/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "leaderCnpj": "22.610.500/0001-88",
-        "volume": 209999947.53,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-29",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "458df344c2954dc5",
-        "market": "FII",
-        "name": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "34.691.520/0001-00",
-        "registration": "28068",
-        "processNumber": "SRE/3110/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "leaderCnpj": "59.281.253/0001-23",
-        "volume": 300604235.95,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-24",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-19T17:29:17.774Z"
+  "updatedAt": "2026-10-20T15:39:38.806Z"
 }

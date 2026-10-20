@@ -1,28 +1,22 @@
 {
-  "generatedAt": "2026-10-19T17:29:17.786Z",
+  "generatedAt": "2026-10-20T15:39:38.825Z",
   "market": "FII",
   "current": {
     "period": {
       "start": "2026-10-12",
       "end": "2026-10-18"
     },
-    "offers": 3,
-    "offersWithVolume": 3,
-    "volume": 739096000,
-    "averageTicket": 246365333.33333334,
-    "leaders": 2,
+    "offers": 2,
+    "offersWithVolume": 2,
+    "volume": 619096000,
+    "averageTicket": 309548000,
+    "leaders": 1,
     "topLeaders": [
       {
         "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
         "cnpj": "18.945.670/0001-46",
         "count": 2,
         "volume": 619096000
-      },
-      {
-        "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "cnpj": "36.266.751/0001-00",
-        "count": 1,
-        "volume": 120000000
       }
     ],
     "topOffers": [
@@ -38,21 +32,6 @@
         "date": "2026-10-16",
         "rite": "Automático",
         "audience": "Qualificado",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "61f1bc085ba89519",
-        "market": "FII",
-        "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.445.142/0001-69",
-        "registration": "28353",
-        "processNumber": "SRE/3375/2026",
-        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "volume": 120000000,
-        "date": "2026-10-16",
-        "rite": "Automático",
-        "audience": "Profissional",
         "status": "Registro Concedido",
         "publications": []
       },
@@ -75,7 +54,7 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 2
+        "count": 1
       },
       {
         "name": "Qualificado",
@@ -85,30 +64,30 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 3
+        "count": 2
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 3
+        "count": 2
       }
     ],
     "byMarket": [
       {
         "name": "FII",
-        "count": 3
+        "count": 2
       }
     ],
-    "professionalShare": 0.6666666666666666,
+    "professionalShare": 0.5,
     "top3Concentration": 1,
     "busiestDays": [
       {
-        "date": "2026-10-16",
-        "count": 2
+        "date": "2026-10-13",
+        "count": 1
       },
       {
-        "date": "2026-10-13",
+        "date": "2026-10-16",
         "count": 1
       }
     ],
@@ -290,20 +269,20 @@
     ]
   },
   "changes": {
-    "offersPct": -40,
-    "volumePct": -53.95378954872383
+    "offersPct": -60,
+    "volumePct": -61.42987554317264
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 6.5,
-      "volume": 1561290893.9025002,
-      "leaders": 4.75,
-      "professionalShare": 0.9083333333333334,
-      "top3Concentration": 0.7583333333333334
+      "offers": 6.75,
+      "volume": 1591290893.9025002,
+      "leaders": 5,
+      "professionalShare": 0.9142857142857144,
+      "top3Concentration": 0.7285714285714286
     },
     "currentVsPrior4Average": {
-      "offersPct": -53.84615384615385,
-      "volumePct": -52.66122393421484
+      "offersPct": -70.37037037037037,
+      "volumePct": -61.094731178802775
     }
   },
   "history": {
@@ -358,9 +337,9 @@
           "start": "2026-09-28",
           "end": "2026-10-04"
         },
-        "offers": 6,
-        "volume": 823306147.54,
-        "leaders": 4
+        "offers": 7,
+        "volume": 943306147.54,
+        "leaders": 5
       },
       {
         "period": {
@@ -376,18 +355,18 @@
           "start": "2026-10-12",
           "end": "2026-10-18"
         },
-        "offers": 3,
-        "volume": 739096000,
-        "leaders": 2
+        "offers": 2,
+        "volume": 619096000,
+        "leaders": 1
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 3 ofertas FII, 40,0% abaixo da semana anterior.",
-    "Volume informado de R$ 739.096.000 em 3 ofertas com valor positivo; ticket médio de R$ 246.365.333.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 52,7% abaixo e a quantidade de ofertas 53,8% abaixo.",
+    "Atividade semanal de 2 ofertas FII, 60,0% abaixo da semana anterior.",
+    "Volume informado de R$ 619.096.000 em 2 ofertas com valor positivo; ticket médio de R$ 309.548.000.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 61,1% abaixo e a quantidade de ofertas 70,4% abaixo.",
     "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 100,0% das ofertas da semana.",
-    "66,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "50,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Imobiliário logístico (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -395,17 +374,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-17T08:00:44.443098"
+      "updatedAt": "2026-10-20T08:00:38.084460"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-19T17:29:17.755Z"
+      "updatedAt": "2026-10-20T15:39:38.779Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "19/10/2026 09:35"
+      "updatedAt": "20/10/2026 09:40"
     }
   },
   "macro": {
@@ -413,11 +392,97 @@
       "id": 1178,
       "label": "Taxa Selic anualizada",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-10-19",
+        "value": 13.65
+      },
+      "previous": {
+        "date": "2026-10-16",
+        "value": 13.65
+      },
+      "change": 0,
+      "history": [
+        {
+          "date": "2026-09-21",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-22",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-23",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-25",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-28",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-29",
+          "value": 13.65
+        },
+        {
+          "date": "2026-09-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-01",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-02",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-05",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-07",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-08",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-09",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-13",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-14",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-15",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-16",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-19",
+          "value": 13.65
+        }
+      ]
     },
     "inadPJ": {
       "id": 21083,
@@ -710,26 +775,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "19/10/2026",
+      "date": "20/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "16/10/2026",
+      "date": "19/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "16/10/2026",
+      "date": "19/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "16/10/2026",
-      "value": 5.0826,
+      "date": "19/10/2026",
+      "value": 5.0564,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -748,6 +813,11 @@
   },
   "regulatoryHighlights": [
     {
+      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
+      "source": "CVM"
+    },
+    {
       "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
       "source": "CVM"
@@ -756,25 +826,15 @@
       "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
       "source": "CVM"
-    },
-    {
-      "title": "CVM participa de debates sobre caminhos da tokenização de ativos mobiliários no País",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-debates-sobre-caminhos-da-tokenizacao-de-ativos-mobiliarios-no-pais",
-      "source": "CVM"
-    },
-    {
-      "title": "Confira o Ofício Circular Anual da SRE sobre ofertas públicas",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas",
-      "source": "CVM"
     }
   ],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4552,
+      "count": 4565,
       "latestMonth": "2026-10",
-      "offersInMonth": 94,
-      "volumeInMonth": 9025475000.779999
+      "offersInMonth": 107,
+      "volumeInMonth": 9903476000.810001
     },
     {
       "market": "FIAGRO",
@@ -785,10 +845,10 @@
     },
     {
       "market": "FII",
-      "count": 1512,
+      "count": 1514,
       "latestMonth": "2026-10",
-      "offersInMonth": 10,
-      "volumeInMonth": 2435091973.35
+      "offersInMonth": 12,
+      "volumeInMonth": 3635091973.3500004
     }
   ],
   "intelligence": {
@@ -815,7 +875,7 @@
           },
           {
             "label": "IRFC",
-            "value": 46.70168067226891,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -865,12 +925,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 79.343837535014,
+            "value": 79.6406862745098,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 46.70168067226891,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -905,7 +965,7 @@
           },
           {
             "label": "IRFC",
-            "value": 46.70168067226891,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -949,8 +1009,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.560597651270339,
-          "IRFC": 46.70168067226891,
-          "IRPM": 75.55217086834733
+          "IRFC": 47.69117647058823,
+          "IRPM": 75.84901960784313
         },
         "bands": {
           "offer": "alto",
@@ -967,8 +1027,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 46.70168067226891,
-          "IRPM": 79.343837535014
+          "IRFC": 47.69117647058823,
+          "IRPM": 79.6406862745098
         },
         "bands": {
           "offer": "alto",
@@ -985,8 +1045,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 46.70168067226891,
-          "IRPM": 75.98967086834733
+          "IRFC": 47.69117647058823,
+          "IRPM": 76.28651960784313
         },
         "bands": {
           "offer": "alto",
