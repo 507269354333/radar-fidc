@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-10-20T15:39:38.801Z",
+  "generatedAt": "2026-10-21T15:58:01.456Z",
   "brief": {
     "headline": "Oferta primária forte encontra funding ainda seletivo.",
     "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
@@ -284,32 +284,7 @@
       "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
     }
   ],
-  "regulatory": [
-    {
-      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM",
-      "theme": "Supervisão de mercado",
-      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
-    },
-    {
-      "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-      "source": "CVM",
-      "theme": "Supervisão de mercado",
-      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
-    },
-    {
-      "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
-      "source": "CVM",
-      "theme": "Supervisão de mercado",
-      "what": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-      "implication": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional."
-    }
-  ],
+  "regulatory": [],
   "regulatoryExecution": {
     "methodology": {
       "name": "Método Radar — Regulação → Execução",
@@ -577,101 +552,7 @@
         ]
       }
     ],
-    "live": [
-      {
-        "id": "reg-01",
-        "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-02",
-        "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      },
-      {
-        "id": "reg-03",
-        "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
-        "source": "CVM",
-        "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
-        "theme": "Supervisão de mercado",
-        "observed": "Publicação oficial potencialmente relevante ao ecossistema acompanhado pelo Radar.",
-        "radarInterpretation": "Abrir a fonte oficial e verificar escopo, vigência e participantes afetados antes de transformar o evento em ação operacional.",
-        "execution": {
-          "status": "triagem necessária",
-          "owners": [
-            "Regulatório / Compliance",
-            "Jurídico",
-            "Dono do processo"
-          ],
-          "checkpoints": [
-            "Abrir e ler a fonte oficial.",
-            "Determinar aplicabilidade.",
-            "Converter o impacto confirmado em tarefa/controle.",
-            "Guardar evidência e monitorar novas orientações."
-          ],
-          "evidence": [
-            "Fonte oficial",
-            "Decisão de aplicabilidade",
-            "Plano de ação",
-            "Evidência de implementação"
-          ],
-          "firstAction": "Ler a fonte oficial e registrar uma decisão de aplicabilidade antes de executar qualquer mudança."
-        },
-        "boundary": "Os checkpoints são uma tradução operacional Radar. Só devem ser tratados como obrigação após validação da fonte aplicável e do contexto da instituição/operação."
-      }
-    ],
+    "live": [],
     "positioning": {
       "promise": "Transformar exigência regulatória em processo executável e evidenciável.",
       "audience": "Coordenadores, distribuidores, gestores, administradores, emissores, operações, jurídico e compliance.",
@@ -736,14 +617,14 @@
         "label": "Estimativa Selic",
         "value": 13.65,
         "unit": "% a.a.",
-        "date": "20/10/2026",
+        "date": "21/10/2026",
         "source": "ANBIMA"
       },
       {
         "label": "DI-B3",
         "value": 13.65,
         "unit": "% a.a.",
-        "date": "19/10/2026",
+        "date": "20/10/2026",
         "source": "ANBIMA"
       },
       {
@@ -755,9 +636,9 @@
       },
       {
         "label": "Dólar venda",
-        "value": 5.0564,
+        "value": 5.014,
         "unit": "R$/US$",
-        "date": "19/10/2026",
+        "date": "20/10/2026",
         "source": "ANBIMA"
       }
     ],
@@ -766,7 +647,7 @@
         "label": "Selic",
         "value": 13.65,
         "unit": "%",
-        "date": "2026-10-19",
+        "date": "2026-10-20",
         "source": "BCB / SGS"
       },
       {
@@ -1840,23 +1721,23 @@
       "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
       "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
     },
-    "generatedAt": "2026-10-20T15:39:38.801Z"
+    "generatedAt": "2026-10-21T15:58:01.456Z"
   },
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-20T08:00:38.084460"
+      "updatedAt": "2026-10-21T08:00:36.503444"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-20T15:39:38.779Z"
+      "updatedAt": "2026-10-21T15:58:01.428Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "20/10/2026 09:40"
+      "updatedAt": "21/10/2026 09:33"
     }
   },
   "methodology": "Inteligência Radar = dado oficial + índices proprietários + mecanismo econômico + critérios de confirmação/invalidação. A camada regulatória descreve primeiro o conteúdo observado na fonte oficial, separa a interpretação operacional do Radar e organiza aplicabilidade, gap, processo, evidência e monitoramento. Cenários não são promessa de resultado, previsão garantida nem recomendação de investimento."

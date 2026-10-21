@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "market": "ALL",
-  "generatedAt": "2026-10-20T15:39:38.944Z",
+  "generatedAt": "2026-10-21T15:58:01.618Z",
   "title": "Carta Mensal Radar - 2026-09",
   "aggregate": {
     "current": {
@@ -3457,19 +3457,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-19",
+        "date": "2026-10-20",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-16",
+        "date": "2026-10-19",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-21",
-          "value": 13.65
-        },
         {
           "date": "2026-09-22",
           "value": 13.65
@@ -3544,6 +3540,10 @@
         },
         {
           "date": "2026-10-19",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-20",
           "value": 13.65
         }
       ]
@@ -3839,26 +3839,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "20/10/2026",
+      "date": "21/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "19/10/2026",
+      "date": "20/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "19/10/2026",
+      "date": "20/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "19/10/2026",
-      "value": 5.0564,
+      "date": "20/10/2026",
+      "value": 5.014,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -3875,23 +3875,7 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [
-    {
-      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM"
-    },
-    {
-      "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-      "source": "CVM"
-    },
-    {
-      "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
-      "source": "CVM"
-    }
-  ],
+  "regulatoryHighlights": [],
   "houseView": {
     "headline": "FIDC liderou o volume analítico do mês; o Radar isolou 2 outlier(s) oficial(is) para preservar a leitura.",
     "principles": [

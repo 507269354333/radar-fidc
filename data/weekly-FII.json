@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:39:38.825Z",
+  "generatedAt": "2026-10-21T15:58:01.488Z",
   "market": "FII",
   "current": {
     "period": {
@@ -374,17 +374,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-20T08:00:38.084460"
+      "updatedAt": "2026-10-21T08:00:36.503444"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-20T15:39:38.779Z"
+      "updatedAt": "2026-10-21T15:58:01.428Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "20/10/2026 09:40"
+      "updatedAt": "21/10/2026 09:33"
     }
   },
   "macro": {
@@ -393,19 +393,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-19",
+        "date": "2026-10-20",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-16",
+        "date": "2026-10-19",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-21",
-          "value": 13.65
-        },
         {
           "date": "2026-09-22",
           "value": 13.65
@@ -480,6 +476,10 @@
         },
         {
           "date": "2026-10-19",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-20",
           "value": 13.65
         }
       ]
@@ -775,26 +775,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "20/10/2026",
+      "date": "21/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "19/10/2026",
+      "date": "20/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "19/10/2026",
+      "date": "20/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "19/10/2026",
-      "value": 5.0564,
+      "date": "20/10/2026",
+      "value": 5.014,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -811,30 +811,14 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [
-    {
-      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM"
-    },
-    {
-      "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-      "source": "CVM"
-    },
-    {
-      "title": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
-      "source": "CVM"
-    }
-  ],
+  "regulatoryHighlights": [],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4565,
+      "count": 4571,
       "latestMonth": "2026-10",
-      "offersInMonth": 107,
-      "volumeInMonth": 9903476000.810001
+      "offersInMonth": 113,
+      "volumeInMonth": 10040865300.369999
     },
     {
       "market": "FIAGRO",
@@ -845,10 +829,10 @@
     },
     {
       "market": "FII",
-      "count": 1514,
+      "count": 1516,
       "latestMonth": "2026-10",
-      "offersInMonth": 12,
-      "volumeInMonth": 3635091973.3500004
+      "offersInMonth": 14,
+      "volumeInMonth": 4218091973.3500004
     }
   ],
   "intelligence": {

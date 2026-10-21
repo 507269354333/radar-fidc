@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-20T08:00:38.084460",
+  "sourceUpdatedAt": "2026-10-21T08:00:36.503444",
   "market": "FII",
-  "count": 1514,
+  "count": 1516,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 12,
-    "volumeInMonth": 3635091973.3500004,
-    "offersWithVolumeInMonth": 12,
-    "leadersInMonth": 9,
+    "offersInMonth": 14,
+    "volumeInMonth": 4218091973.3500004,
+    "offersWithVolumeInMonth": 14,
+    "leadersInMonth": 11,
     "byRite": [
       {
         "name": "Automático",
-        "count": 12
+        "count": 14
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 10
+        "count": 12
       },
       {
         "name": "Público geral",
@@ -48,6 +48,12 @@
         "cnpj": "27.652.684/0001-62",
         "count": 1,
         "volume": 1000000000
+      },
+      {
+        "name": "BANCO BRADESCO BBI S.A.",
+        "cnpj": "06.271.464/0001-19",
+        "count": 1,
+        "volume": 580000000
       },
       {
         "name": "EXES SERVICOS FINANCEIROS LTDA",
@@ -80,10 +86,10 @@
         "volume": 10000000
       },
       {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
+        "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+        "cnpj": "39.526.263/0001-74",
         "count": 1,
-        "volume": 1500000
+        "volume": 3000000
       }
     ],
     "byMonth": [
@@ -191,15 +197,15 @@
       },
       {
         "month": "2026-10",
-        "count": 12,
-        "volume": 3635091973.3500004,
-        "withVolume": 12
+        "count": 14,
+        "volume": 4218091973.3500004,
+        "withVolume": 14
       }
     ],
     "trailing12": {
-      "offers": 212,
-      "volume": 69451602263.16998,
-      "offersWithVolume": 212,
+      "offers": 214,
+      "volume": 70034602263.16998,
+      "offersWithVolume": 214,
       "leaders": 37,
       "topLeaders": [
         {
@@ -281,16 +287,16 @@
           "volume": 2936521695.3900003
         },
         {
+          "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+          "cnpj": "39.526.263/0001-74",
+          "count": 5,
+          "volume": 135500000
+        },
+        {
           "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
           "cnpj": "27.652.684/0001-62",
           "count": 4,
           "volume": 1666000000
-        },
-        {
-          "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "cnpj": "36.266.751/0001-00",
-          "count": 4,
-          "volume": 785000000
         }
       ]
     },
@@ -301,6 +307,54 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "6165ad209d9fd38d",
+        "market": "FII",
+        "name": "D98 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "67.903.696/0001-37",
+        "registration": "28403",
+        "processNumber": "SRE/3413/2026",
+        "leader": "BANCO BRADESCO BBI S.A.",
+        "leaderCnpj": "06.271.464/0001-19",
+        "volume": 580000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-20",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "2360b18eb0c33dd0",
+        "market": "FII",
+        "name": "TERRAS PAULISTAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA",
+        "cnpj": "63.320.393/0001-30",
+        "registration": "28396",
+        "processNumber": "SRE/3406/2026",
+        "leader": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+        "leaderCnpj": "39.526.263/0001-74",
+        "volume": 3000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-20",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "87eb2d0074834526",
         "market": "FII",
@@ -612,57 +666,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "350f9699cb30d90b",
-        "market": "FII",
-        "name": "COTA REAL 7 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "58.019.792/0001-26",
-        "registration": "28136",
-        "processNumber": "SRE/3165/2026",
-        "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "leaderCnpj": "16.695.922/0001-09",
-        "volume": 1840000.01,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-30",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "4e77d1aee3669758",
-        "market": "FII",
-        "name": "VALORA CDI RENDA IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.269.110/0001-50",
-        "registration": "28162",
-        "processNumber": "SRE/3194/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "leaderCnpj": "59.281.253/0001-23",
-        "volume": 470588200,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Qualificado",
-        "status": "Registro Concedido",
-        "date": "2026-09-30",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-20T15:39:38.806Z"
+  "updatedAt": "2026-10-21T15:58:01.462Z"
 }
