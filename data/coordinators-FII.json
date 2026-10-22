@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-21T15:58:01.530Z",
+  "generatedAt": "2026-10-22T15:53:27.640Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-21T08:00:36.503444"
+    "updatedAt": "2026-10-22T08:00:38.192663"
   },
   "coordinators": [
     {
@@ -12,17 +12,12 @@
       "name": "XP INVESTIMENTOS CCTVM S.A.",
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
-        "offers": 32,
-        "volume": 21959640612.28,
-        "offersWithVolume": 32,
-        "averageTicket": 686238769.13375
+        "offers": 34,
+        "volume": 23173140612.28,
+        "offersWithVolume": 34,
+        "averageTicket": 681562959.1847059
       },
       "byMonth": [
-        {
-          "month": "2024-12",
-          "count": 2,
-          "volume": 892463231.8
-        },
         {
           "month": "2025-01",
           "count": 4,
@@ -107,9 +102,46 @@
           "month": "2026-09",
           "count": 2,
           "volume": 2265957699.66
+        },
+        {
+          "month": "2026-10",
+          "count": 2,
+          "volume": 1213500000
         }
       ],
       "recentOffers": [
+        {
+          "id": "4303a42b6084828e",
+          "market": "FII",
+          "name": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "28.737.771/0001-85",
+          "registration": "28421",
+          "processNumber": "SRE/3435/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 535500000,
+          "date": "2026-10-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4f8a1fd1d88f975c",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA RENDA IMOBILIÁRIA MASTER RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.223.905/0001-00",
+          "registration": "28392",
+          "processNumber": "SRE/3436/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 678000000,
+          "date": "2026-10-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "0e833585550d360f",
           "market": "FII",
@@ -557,38 +589,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "0949c90fd2d1befb",
-          "market": "FII",
-          "name": "LCP PREFIXADO II MASTER FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "63.954.054/0001-06",
-          "registration": "23720",
-          "processNumber": "SRE/4138/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 1000000000,
-          "date": "2025-12-09",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "43806c1c35ee2d8c",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO WINGS RENDA IMOBILIÁRIA MASTER - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.683.216/0001-56",
-          "registration": "23375",
-          "processNumber": "SRE/3847/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 462500000,
-          "date": "2025-11-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -604,8 +604,8 @@
         },
         {
           "market": "FII",
-          "count": 141,
-          "volume": 71170323026.59001
+          "count": 143,
+          "volume": 72383823026.59001
         }
       ]
     },
@@ -933,7 +933,7 @@
           "date": "2026-04-24",
           "rite": "Automático",
           "audience": "Qualificado",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1196,8 +1196,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 156,
-          "volume": 28556393877.3
+          "count": 157,
+          "volume": 28656393877.3
         },
         {
           "market": "FIAGRO",
@@ -3356,8 +3356,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 158,
-          "volume": 10912073198.759995
+          "count": 159,
+          "volume": 10932073198.759995
         },
         {
           "market": "FIAGRO",
@@ -3958,8 +3958,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 197,
-          "volume": 16611622056.010004
+          "count": 200,
+          "volume": 18004122056.010002
         },
         {
           "market": "FIAGRO",
@@ -5330,7 +5330,7 @@
           "date": "2026-10-08",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5881,7 +5881,7 @@
           "volume": 120000000,
           "date": "2026-06-26",
           "rite": "Automático",
-          "audience": "Qualificado",
+          "audience": "Público geral",
           "status": "Registro Concedido",
           "publications": []
         },
@@ -9971,16 +9971,16 @@
       ],
       "recentOffers": [
         {
-          "id": "6165ad209d9fd38d",
+          "id": "deb66a75177abc55",
           "market": "FII",
-          "name": "D98 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "name": "TIVIO OPPORTUNITIES II MALLS IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
           "cnpj": "67.903.696/0001-37",
-          "registration": "28403",
-          "processNumber": "SRE/3413/2026",
+          "registration": "28423",
+          "processNumber": "SRE/3433/2026",
           "leader": "BANCO BRADESCO BBI S.A.",
           "leaderCnpj": "06.271.464/0001-19",
           "volume": 580000000,
-          "date": "2026-10-20",
+          "date": "2026-10-21",
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Registro Concedido",
@@ -10254,8 +10254,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 32,
-          "volume": 26462169000
+          "count": 33,
+          "volume": 27122752000
         },
         {
           "market": "FIAGRO",
@@ -11345,8 +11345,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 245,
-          "volume": 7209594414.030002
+          "count": 247,
+          "volume": 7294594414.030002
         },
         {
           "market": "FIAGRO",
@@ -11754,6 +11754,80 @@
           "market": "FII",
           "count": 14,
           "volume": 1312725516.8200002
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:71027866000134",
+      "name": "BANCO BS2 S.A.",
+      "cnpj": "71.027.866/0001-34",
+      "stats12m": {
+        "offers": 2,
+        "volume": 160000000,
+        "offersWithVolume": 2,
+        "averageTicket": 80000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 120000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "db8f7ed93a2443a3",
+          "market": "FII",
+          "name": "BBS REAL ESTATE RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.987.515/0001-35",
+          "registration": "28413",
+          "processNumber": "SRE/3425/2026",
+          "leader": "BANCO BS2 S.A.",
+          "leaderCnpj": "71.027.866/0001-34",
+          "volume": 120000000,
+          "date": "2026-10-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3f810cf5e32f0759",
+          "market": "FII",
+          "name": "BBS AK ONE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.844.894/0001-04",
+          "registration": "27789",
+          "processNumber": "SRE/2847/2026",
+          "leader": "BANCO BS2 S.A.",
+          "leaderCnpj": "71.027.866/0001-34",
+          "volume": 40000000,
+          "date": "2026-09-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 2,
+          "volume": 160000000
         }
       ]
     },
@@ -14576,59 +14650,6 @@
           "market": "FII",
           "count": 1,
           "volume": 40648000
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:71027866000134",
-      "name": "BANCO BS2 S.A.",
-      "cnpj": "71.027.866/0001-34",
-      "stats12m": {
-        "offers": 1,
-        "volume": 40000000,
-        "offersWithVolume": 1,
-        "averageTicket": 40000000
-      },
-      "byMonth": [
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 40000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "3f810cf5e32f0759",
-          "market": "FII",
-          "name": "BBS AK ONE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.844.894/0001-04",
-          "registration": "27789",
-          "processNumber": "SRE/2847/2026",
-          "leader": "BANCO BS2 S.A.",
-          "leaderCnpj": "71.027.866/0001-34",
-          "volume": 40000000,
-          "date": "2026-09-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 40000000
         }
       ]
     },
@@ -17649,7 +17670,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 53,
+          "count": 54,
           "volume": 16330623370.97
         },
         {
