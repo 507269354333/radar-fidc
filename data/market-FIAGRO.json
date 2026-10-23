@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-22T08:00:38.192663",
+  "sourceUpdatedAt": "2026-10-23T08:00:40.509319",
   "market": "FIAGRO",
-  "count": 181,
+  "count": 182,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 9,
-    "volumeInMonth": 3855000943,
-    "offersWithVolumeInMonth": 8,
+    "offersInMonth": 10,
+    "volumeInMonth": 3935000943,
+    "offersWithVolumeInMonth": 9,
     "leadersInMonth": 7,
     "byRite": [
       {
         "name": "Automático",
-        "count": 9
+        "count": 10
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 7
+        "count": 8
       },
       {
         "name": "Qualificado",
@@ -28,16 +28,16 @@
     ],
     "topLeaders": [
       {
+        "name": "BANCO DAYCOVAL S.A.",
+        "cnpj": "62.232.889/0001-90",
+        "count": 3,
+        "volume": 300000000
+      },
+      {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
         "count": 2,
         "volume": 3530000000
-      },
-      {
-        "name": "BANCO DAYCOVAL S.A.",
-        "cnpj": "62.232.889/0001-90",
-        "count": 2,
-        "volume": 220000000
       },
       {
         "name": "MIVE CAPITAL MARKETS LTDA",
@@ -175,22 +175,22 @@
       },
       {
         "month": "2026-10",
-        "count": 9,
-        "volume": 3855000943,
-        "withVolume": 8
+        "count": 10,
+        "volume": 3935000943,
+        "withVolume": 9
       }
     ],
     "trailing12": {
-      "offers": 65,
-      "volume": 268206452887.55,
-      "offersWithVolume": 63,
+      "offers": 66,
+      "volume": 268286452887.55,
+      "offersWithVolume": 64,
       "leaders": 20,
       "topLeaders": [
         {
           "name": "BANCO DAYCOVAL S.A.",
           "cnpj": "62.232.889/0001-90",
-          "count": 9,
-          "volume": 1032312400
+          "count": 10,
+          "volume": 1112312400
         },
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -280,7 +280,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 65000465.44,
+      "medianPositiveVolume": 67500232.72,
       "outlierCount": 1,
       "outliers": [
         {
@@ -293,6 +293,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "9357cd7322bc5429",
+        "market": "FIAGRO",
+        "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
+        "cnpj": "62.919.053/0001-68",
+        "registration": "28432",
+        "processNumber": "SRE/3452/2026",
+        "leader": "BANCO DAYCOVAL S.A.",
+        "leaderCnpj": "62.232.889/0001-90",
+        "volume": 80000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-22",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "47c7ecb4cee6f0b0",
         "market": "FIAGRO",
@@ -628,33 +652,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "985067df394484ef",
-        "market": "FIAGRO",
-        "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.119.359/0001-89",
-        "registration": "27916",
-        "processNumber": "SRE/2969/2026",
-        "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-        "leaderCnpj": "28.650.236/0001-92",
-        "volume": 70000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-09-15",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-22T15:53:27.561Z"
+  "updatedAt": "2026-10-23T15:45:08.197Z"
 }

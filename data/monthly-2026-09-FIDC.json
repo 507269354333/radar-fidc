@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "market": "FIDC",
-  "generatedAt": "2026-10-22T15:53:27.681Z",
+  "generatedAt": "2026-10-23T15:45:08.281Z",
   "title": "Carta Mensal Radar - 2026-09",
   "aggregate": {
     "current": {
@@ -787,7 +787,7 @@
       "funding": {
         "code": "IRFC",
         "name": "Índice Radar de Condições de Funding",
-        "score": 58.98897058823529,
+        "score": 47.69117647058823,
         "components": [
           {
             "key": "selic",
@@ -804,6 +804,14 @@
             "date": "2026-08-01",
             "score": 97.5,
             "weight": 0.3
+          },
+          {
+            "key": "inadPJ",
+            "label": "Inadimplência PJ",
+            "value": 3.35,
+            "date": "2026-08-01",
+            "score": 2.5,
+            "weight": 0.2
           },
           {
             "key": "credito3m",
@@ -834,15 +842,15 @@
             "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
             "É um indicador de regime, não uma taxa de funding de uma operação específica."
           ],
-          "score": 58.98897058823529,
+          "score": 47.69117647058823,
           "band": "faixa intermediária",
-          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 59/100, faixa intermediária."
+          "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 48/100, faixa intermediária."
         }
       },
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 79.23835784313724,
+        "score": 75.84901960784313,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -862,9 +870,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 79.23835784313724,
+          "score": 75.84901960784313,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 79/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 76/100, faixa alta."
         }
       },
       "projection": {
@@ -1687,7 +1695,7 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 58.98897058823529,
+          "score": 47.69117647058823,
           "components": [
             {
               "key": "selic",
@@ -1704,6 +1712,14 @@
               "date": "2026-08-01",
               "score": 97.5,
               "weight": 0.3
+            },
+            {
+              "key": "inadPJ",
+              "label": "Inadimplência PJ",
+              "value": 3.35,
+              "date": "2026-08-01",
+              "score": 2.5,
+              "weight": 0.2
             },
             {
               "key": "credito3m",
@@ -1734,15 +1750,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 58.98897058823529,
+            "score": 47.69117647058823,
             "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 59/100, faixa intermediária."
+            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 48/100, faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 79.23835784313724,
+          "score": 75.84901960784313,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1762,9 +1778,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 79.23835784313724,
+            "score": 75.84901960784313,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 79/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 76/100, faixa alta."
           }
         },
         "projection": {
@@ -1806,7 +1822,7 @@
         "O volume analítico ajustado ficou 438,1% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 2 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 18 ofertas.",
-        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 79/100 (expansivo)."
+        "O IROP encerrou em 88/100 (forte); o IRPM ficou em 76/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -1834,19 +1850,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-20",
+        "date": "2026-10-21",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-23",
-          "value": 13.65
-        },
         {
           "date": "2026-09-24",
           "value": 13.65
@@ -1922,6 +1934,10 @@
         {
           "date": "2026-10-21",
           "value": 13.65
+        },
+        {
+          "date": "2026-10-22",
+          "value": 13.65
         }
       ]
     },
@@ -1929,11 +1945,97 @@
       "id": 21083,
       "label": "Inadimplência da carteira de crédito PJ",
       "unit": "%",
-      "latest": null,
-      "previous": null,
-      "change": null,
-      "history": [],
-      "error": "timeout após 8000 ms"
+      "latest": {
+        "date": "2026-08-01",
+        "value": 3.35
+      },
+      "previous": {
+        "date": "2026-07-01",
+        "value": 3.32
+      },
+      "change": 0.03000000000000025,
+      "history": [
+        {
+          "date": "2025-01-01",
+          "value": 2.43
+        },
+        {
+          "date": "2025-02-01",
+          "value": 2.52
+        },
+        {
+          "date": "2025-03-01",
+          "value": 2.49
+        },
+        {
+          "date": "2025-04-01",
+          "value": 2.72
+        },
+        {
+          "date": "2025-05-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-06-01",
+          "value": 2.67
+        },
+        {
+          "date": "2025-07-01",
+          "value": 2.79
+        },
+        {
+          "date": "2025-08-01",
+          "value": 2.85
+        },
+        {
+          "date": "2025-09-01",
+          "value": 2.77
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2.82
+        },
+        {
+          "date": "2025-11-01",
+          "value": 2.75
+        },
+        {
+          "date": "2025-12-01",
+          "value": 2.7
+        },
+        {
+          "date": "2026-01-01",
+          "value": 2.87
+        },
+        {
+          "date": "2026-02-01",
+          "value": 3.07
+        },
+        {
+          "date": "2026-03-01",
+          "value": 3.06
+        },
+        {
+          "date": "2026-04-01",
+          "value": 3.15
+        },
+        {
+          "date": "2026-05-01",
+          "value": 3.25
+        },
+        {
+          "date": "2026-06-01",
+          "value": 3.18
+        },
+        {
+          "date": "2026-07-01",
+          "value": 3.32
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.35
+        }
+      ]
     },
     "estoquePJ": {
       "id": 20540,
@@ -2130,26 +2232,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "22/10/2026",
+      "date": "23/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "21/10/2026",
+      "date": "22/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "21/10/2026",
+      "date": "22/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "21/10/2026",
-      "value": 5.0277,
+      "date": "22/10/2026",
+      "value": 5.0383,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2190,7 +2292,7 @@
   "methodology": "Carta mensal construída sobre ofertas oficiais da CVM consolidadas por número de oferta/processo, indicadores macro do BCB/SGS e quadro público da ANBIMA. Quando a competência imediatamente anterior não tem registros datados, a comparação usa a última competência disponível e explicita o intervalo. Índices Radar usam metodologia proprietária pública, reproduzível e robusta a outliers.",
   "intelligence": {
     "brief": {
-      "headline": "FIAGRO lidera a pressão relativa de oferta; funding define a capacidade de absorção.",
+      "headline": "Oferta primária forte encontra funding ainda seletivo.",
       "summary": "O Radar lê a competência 2026-09 combinando atividade primária, amplitude de participantes, concentração e funding. A direção é inferida por sinais convergentes; nenhum índice isolado é tratado como previsão.",
       "watch": [
         "Se o IROP sobe junto com IRBD, a expansão é mais disseminada; se sobe com concentração alta, a leitura é mais dependente de poucos participantes.",
@@ -2201,8 +2303,8 @@
     "theses": [
       {
         "id": "capital-competition",
-        "title": "Oferta e funding precisam ser lidos juntos",
-        "statement": "A força do mercado primário não deve ser interpretada isoladamente. O Radar cruza pipeline, breadth, concentração e funding antes de inferir pressão competitiva.",
+        "title": "Mais ofertas competindo por capital seletivo",
+        "statement": "O pipeline primário está relativamente forte, mas o ambiente de funding não acompanha na mesma intensidade. A leitura Radar é de maior competição por atenção e capital, não de excesso comprovado de recursos.",
         "evidence": [
           {
             "label": "IROP agregado",
@@ -2211,7 +2313,7 @@
           },
           {
             "label": "IRFC",
-            "value": 58.98897058823529,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -2261,12 +2363,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 83.03002450980392,
+            "value": 79.6406862745098,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 58.98897058823529,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -2275,7 +2377,7 @@
           "pipeline mais intenso na vertical",
           "maior número/volume relativo de operações",
           "mais necessidade de comparar estruturas e participantes",
-          "funding menos restritivo pode melhorar capacidade de absorção"
+          "funding restritivo pode aumentar seletividade"
         ],
         "confirms": [
           "IROP de FIAGRO permanece acima das demais verticais",
@@ -2301,7 +2403,7 @@
           },
           {
             "label": "IRFC",
-            "value": 58.98897058823529,
+            "value": 47.69117647058823,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -2339,14 +2441,14 @@
     "directions": [
       {
         "market": "FIDC",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.560597651270339,
-          "IRFC": 58.98897058823529,
-          "IRPM": 79.23835784313724
+          "IRFC": 47.69117647058823,
+          "IRPM": 75.84901960784313
         },
         "bands": {
           "offer": "alto",
@@ -2357,14 +2459,14 @@
       },
       {
         "market": "FIAGRO",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 58.98897058823529,
-          "IRPM": 83.03002450980392
+          "IRFC": 47.69117647058823,
+          "IRPM": 79.6406862745098
         },
         "bands": {
           "offer": "alto",
@@ -2375,14 +2477,14 @@
       },
       {
         "market": "FII",
-        "headline": "Oferta forte com funding mais construtivo",
-        "statement": "A pressão de oferta e as condições de funding estão simultaneamente acima da faixa baixa. O cenário favorece maior capacidade potencial de absorção, sem garantir distribuição integral.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 58.98897058823529,
-          "IRPM": 79.67585784313725
+          "IRFC": 47.69117647058823,
+          "IRPM": 76.28651960784313
         },
         "bands": {
           "offer": "alto",
@@ -2397,8 +2499,8 @@
         "market": "FIDC",
         "current": {
           "IROP": 87.91666666666666,
-          "IRPM": 79.23835784313724,
-          "IRFC": 58.98897058823529
+          "IRPM": 75.84901960784313,
+          "IRFC": 47.69117647058823
         },
         "scenarios": [
           {
@@ -2423,8 +2525,8 @@
         "market": "FIAGRO",
         "current": {
           "IROP": 93.33333333333333,
-          "IRPM": 83.03002450980392,
-          "IRFC": 58.98897058823529
+          "IRPM": 79.6406862745098,
+          "IRFC": 47.69117647058823
         },
         "scenarios": [
           {
@@ -2449,8 +2551,8 @@
         "market": "FII",
         "current": {
           "IROP": 88.54166666666667,
-          "IRPM": 79.67585784313725,
-          "IRFC": 58.98897058823529
+          "IRPM": 76.28651960784313,
+          "IRFC": 47.69117647058823
         },
         "scenarios": [
           {

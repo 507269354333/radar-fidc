@@ -1,29 +1,29 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-22T08:00:38.192663",
+  "sourceUpdatedAt": "2026-10-23T08:00:40.509319",
   "market": "FII",
-  "count": 1519,
+  "count": 1522,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 17,
-    "volumeInMonth": 5551591973.35,
-    "offersWithVolumeInMonth": 17,
-    "leadersInMonth": 13,
+    "offersInMonth": 20,
+    "volumeInMonth": 6626091973.35,
+    "offersWithVolumeInMonth": 20,
+    "leadersInMonth": 15,
     "byRite": [
       {
         "name": "Automático",
-        "count": 17
+        "count": 20
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 15
+        "count": 17
       },
       {
         "name": "Público geral",
-        "count": 1
+        "count": 2
       },
       {
         "name": "Qualificado",
@@ -48,6 +48,18 @@
         "cnpj": "02.332.886/0001-04",
         "count": 2,
         "volume": 1213500000
+      },
+      {
+        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "13.486.793/0001-42",
+        "count": 2,
+        "volume": 109378000
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 1,
+        "volume": 1024500000
       },
       {
         "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
@@ -78,18 +90,6 @@
         "cnpj": "36.266.751/0001-00",
         "count": 1,
         "volume": 120000000
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 1,
-        "volume": 89378000
-      },
-      {
-        "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
-        "cnpj": "05.816.451/0001-15",
-        "count": 1,
-        "volume": 50000000
       }
     ],
     "byMonth": [
@@ -197,15 +197,15 @@
       },
       {
         "month": "2026-10",
-        "count": 17,
-        "volume": 5551591973.35,
-        "withVolume": 17
+        "count": 20,
+        "volume": 6626091973.35,
+        "withVolume": 20
       }
     ],
     "trailing12": {
-      "offers": 217,
-      "volume": 71368102263.17,
-      "offersWithVolume": 217,
+      "offers": 220,
+      "volume": 72442602263.17,
+      "offersWithVolume": 220,
       "leaders": 37,
       "topLeaders": [
         {
@@ -223,20 +223,20 @@
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
           "cnpj": "13.486.793/0001-42",
-          "count": 19,
-          "volume": 6342022698.420001
+          "count": 20,
+          "volume": 6362022698.420001
+        },
+        {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 13,
+          "volume": 8359467211.42
         },
         {
           "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
           "cnpj": "16.695.922/0001-09",
           "count": 13,
           "volume": 369840002.23
-        },
-        {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
-          "count": 12,
-          "volume": 7334967211.42
         },
         {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -287,26 +287,98 @@
           "volume": 2936521695.3900003
         },
         {
+          "name": "PLANNER CORRETORA DE VALORES S.A.",
+          "cnpj": "00.806.535/0001-54",
+          "count": 5,
+          "volume": 683556778.58
+        },
+        {
           "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
           "cnpj": "39.526.263/0001-74",
           "count": 5,
           "volume": 135500000
-        },
-        {
-          "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "cnpj": "27.652.684/0001-62",
-          "count": 4,
-          "volume": 1666000000
         }
       ]
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 135399018.74,
+      "medianPositiveVolume": 132699509.37,
       "outlierCount": 0,
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "cb4988b820b2f145",
+        "market": "FII",
+        "name": "CTA VI FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.158.580/0001-46",
+        "registration": "28433",
+        "processNumber": "SRE/3442/2026",
+        "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "13.486.793/0001-42",
+        "volume": 20000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-22",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "77a12b121ced73a8",
+        "market": "FII",
+        "name": "KINEA ALLOS MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "67.228.113/0001-10",
+        "registration": "28434",
+        "processNumber": "SRE/3445/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 1024500000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Registro Concedido",
+        "date": "2026-10-22",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "361ea3579c55ba84",
+        "market": "FII",
+        "name": "SHOPPING TOTALBRAS & NEWMALL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "cnpj": "56.174.611/0001-00",
+        "registration": "28416",
+        "processNumber": "SRE/3440/2026",
+        "leader": "PLANNER CORRETORA DE VALORES S.A.",
+        "leaderCnpj": "00.806.535/0001-54",
+        "volume": 30000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-22",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "4303a42b6084828e",
         "market": "FII",
@@ -594,81 +666,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "8c9d9f1a4002fa7c",
-        "market": "FII",
-        "name": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "11.839.593/0001-09",
-        "registration": "28252",
-        "processNumber": "SRE/3280/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "leaderCnpj": "59.281.253/0001-23",
-        "volume": 1232392957.8,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-07",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "fd4b4948c38fd11b",
-        "market": "FII",
-        "name": "MIRANTE REALTY RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-        "cnpj": "41.251.371/0001-23",
-        "registration": "28253",
-        "processNumber": "SRE/3279/2026",
-        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "leaderCnpj": "62.285.390/0001-40",
-        "volume": 10000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-07",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "61f1bc085ba89519",
-        "market": "FII",
-        "name": "ONDA INVEST RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.445.142/0001-69",
-        "registration": "28353",
-        "processNumber": "SRE/3375/2026",
-        "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "leaderCnpj": "36.266.751/0001-00",
-        "volume": 120000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-02",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-22T15:53:27.561Z"
+  "updatedAt": "2026-10-23T15:45:08.197Z"
 }
