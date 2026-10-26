@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-23T08:00:40.509319",
+  "sourceUpdatedAt": "2026-10-26T08:01:13.977931",
   "market": "FII",
-  "count": 1522,
+  "count": 1524,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 20,
-    "volumeInMonth": 6626091973.35,
-    "offersWithVolumeInMonth": 20,
-    "leadersInMonth": 15,
+    "offersInMonth": 22,
+    "volumeInMonth": 6724701574.2300005,
+    "offersWithVolumeInMonth": 22,
+    "leadersInMonth": 16,
     "byRite": [
       {
         "name": "Automático",
-        "count": 20
+        "count": 22
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 17
+        "count": 19
       },
       {
         "name": "Público geral",
@@ -56,6 +56,12 @@
         "volume": 109378000
       },
       {
+        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "62.285.390/0001-40",
+        "count": 2,
+        "volume": 12000000.879999999
+      },
+      {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
         "count": 1,
@@ -82,12 +88,6 @@
       {
         "name": "BANCO BS2 S.A.",
         "cnpj": "71.027.866/0001-34",
-        "count": 1,
-        "volume": 120000000
-      },
-      {
-        "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "cnpj": "36.266.751/0001-00",
         "count": 1,
         "volume": 120000000
       }
@@ -197,15 +197,15 @@
       },
       {
         "month": "2026-10",
-        "count": 20,
-        "volume": 6626091973.35,
-        "withVolume": 20
+        "count": 22,
+        "volume": 6724701574.2300005,
+        "withVolume": 22
       }
     ],
     "trailing12": {
-      "offers": 220,
-      "volume": 72442602263.17,
-      "offersWithVolume": 220,
+      "offers": 222,
+      "volume": 72541211864.05,
+      "offersWithVolume": 222,
       "leaders": 37,
       "topLeaders": [
         {
@@ -257,6 +257,12 @@
           "volume": 667199897.95
         },
         {
+          "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "cnpj": "62.285.390/0001-40",
+          "count": 8,
+          "volume": 712716744.33
+        },
+        {
           "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
           "cnpj": "13.220.493/0001-17",
           "count": 7,
@@ -267,12 +273,6 @@
           "cnpj": "18.945.670/0001-46",
           "count": 7,
           "volume": 1897596566.6799998
-        },
-        {
-          "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "cnpj": "62.285.390/0001-40",
-          "count": 7,
-          "volume": 710716743.4499999
         },
         {
           "name": "BANCO SAFRA S/A",
@@ -302,11 +302,59 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 132699509.37,
+      "medianPositiveVolume": 130000000,
       "outlierCount": 0,
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "0f1f2d3f35bc8c8b",
+        "market": "FII",
+        "name": "METROPOLITANO BETIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "62.529.006/0001-08",
+        "registration": "28457",
+        "processNumber": "SRE/3465/2026",
+        "leader": "OLIVEIRA TRUST DTVM S.A.",
+        "leaderCnpj": "36.113.876/0001-91",
+        "volume": 96609600,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-23",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "fee4d3af944d1840",
+        "market": "FII",
+        "name": "PRAZO EDUCACIONAL - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+        "cnpj": "29.242.809/0001-01",
+        "registration": "28462",
+        "processNumber": "SRE/3470/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "62.285.390/0001-40",
+        "volume": 2000000.88,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-23",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "cb4988b820b2f145",
         "market": "FII",
@@ -452,20 +500,20 @@
         "distinctComponents": 1
       },
       {
-        "id": "deb66a75177abc55",
+        "id": "2360b18eb0c33dd0",
         "market": "FII",
-        "name": "TIVIO OPPORTUNITIES II MALLS IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.903.696/0001-37",
-        "registration": "28423",
-        "processNumber": "SRE/3433/2026",
-        "leader": "BANCO BRADESCO BBI S.A.",
-        "leaderCnpj": "06.271.464/0001-19",
-        "volume": 580000000,
+        "name": "TERRAS PAULISTAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA",
+        "cnpj": "63.320.393/0001-30",
+        "registration": "28396",
+        "processNumber": "SRE/3406/2026",
+        "leader": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+        "leaderCnpj": "39.526.263/0001-74",
+        "volume": 3000000,
         "volumeComponents": 1,
         "rite": "Automático",
         "audience": "Profissional",
         "status": "Registro Concedido",
-        "date": "2026-10-21",
+        "date": "2026-10-20",
         "dateBasis": "registro",
         "securities": [
           "Cotas de FII"
@@ -476,15 +524,15 @@
         "distinctComponents": 1
       },
       {
-        "id": "2360b18eb0c33dd0",
+        "id": "deb66a75177abc55",
         "market": "FII",
-        "name": "TERRAS PAULISTAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA",
-        "cnpj": "63.320.393/0001-30",
-        "registration": "28396",
-        "processNumber": "SRE/3406/2026",
-        "leader": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
-        "leaderCnpj": "39.526.263/0001-74",
-        "volume": 3000000,
+        "name": "TIVIO OPPORTUNITIES II MALLS IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "67.903.696/0001-37",
+        "registration": "28423",
+        "processNumber": "SRE/3433/2026",
+        "leader": "BANCO BRADESCO BBI S.A.",
+        "leaderCnpj": "06.271.464/0001-19",
+        "volume": 580000000,
         "volumeComponents": 1,
         "rite": "Automático",
         "audience": "Profissional",
@@ -618,57 +666,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "46689bb15095bd30",
-        "market": "FII",
-        "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO AVM FII RESPONSABILIDADE LIMITADA",
-        "cnpj": "33.354.650/0001-94",
-        "registration": "28185",
-        "processNumber": "SRE/3287/2026",
-        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "leaderCnpj": "18.945.670/0001-46",
-        "volume": 225008,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "date": "2026-10-08",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "b0f5df98e9883807",
-        "market": "FII",
-        "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "64.056.494/0001-09",
-        "registration": "28272",
-        "processNumber": "SRE/3298/2026",
-        "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
-        "leaderCnpj": "05.816.451/0001-15",
-        "volume": 50000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-08",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-23T15:45:08.197Z"
+  "updatedAt": "2026-10-26T17:23:53.976Z"
 }

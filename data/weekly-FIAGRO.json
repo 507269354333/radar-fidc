@@ -1,7 +1,131 @@
 {
-  "generatedAt": "2026-10-23T15:45:08.215Z",
+  "generatedAt": "2026-10-26T17:23:53.988Z",
   "market": "FIAGRO",
   "current": {
+    "period": {
+      "start": "2026-10-19",
+      "end": "2026-10-25"
+    },
+    "offers": 4,
+    "offersWithVolume": 3,
+    "volume": 666194000,
+    "averageTicket": 222064666.66666666,
+    "leaders": 3,
+    "topLeaders": [
+      {
+        "name": "BANCO DAYCOVAL S.A.",
+        "cnpj": "62.232.889/0001-90",
+        "count": 2,
+        "volume": 144015000
+      },
+      {
+        "name": "BANCO FATOR S/A",
+        "cnpj": "33.644.196/0001-06",
+        "count": 1,
+        "volume": 522179000
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 1,
+        "volume": 0
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "8d0abd493f029762",
+        "market": "FIAGRO",
+        "name": "CASTANHEIRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - FIAGRO",
+        "cnpj": "65.567.347/0001-66",
+        "registration": "28440",
+        "processNumber": "SRE/3468/2026",
+        "leader": "BANCO FATOR S/A",
+        "volume": 522179000,
+        "date": "2026-10-23",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "9357cd7322bc5429",
+        "market": "FIAGRO",
+        "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
+        "cnpj": "62.919.053/0001-68",
+        "registration": "28432",
+        "processNumber": "SRE/3452/2026",
+        "leader": "BANCO DAYCOVAL S.A.",
+        "volume": 80000000,
+        "date": "2026-10-22",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "9391a77ecf39bf8a",
+        "market": "FIAGRO",
+        "name": "VERDELOG FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "66.384.385/0001-46",
+        "registration": "28276",
+        "processNumber": "SRE/3471/2026",
+        "leader": "BANCO DAYCOVAL S.A.",
+        "volume": 64015000,
+        "date": "2026-10-23",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 4
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 4
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 3
+      },
+      {
+        "name": "Aguardando Bookbuilding",
+        "count": 1
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FIAGRO",
+        "count": 4
+      }
+    ],
+    "professionalShare": 1,
+    "top3Concentration": 1,
+    "busiestDays": [
+      {
+        "date": "2026-10-23",
+        "count": 3
+      },
+      {
+        "date": "2026-10-22",
+        "count": 1
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Agronegócio",
+        "count": 4
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-10-12",
       "end": "2026-10-18"
@@ -129,133 +253,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-10-05",
-      "end": "2026-10-11"
-    },
-    "offers": 2,
-    "offersWithVolume": 2,
-    "volume": 55000000,
-    "averageTicket": 27500000,
-    "leaders": 2,
-    "topLeaders": [
-      {
-        "name": "MIVE CAPITAL MARKETS LTDA",
-        "cnpj": "55.440.852/0001-91",
-        "count": 1,
-        "volume": 35000000
-      },
-      {
-        "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-        "cnpj": "21.610.424/0001-48",
-        "count": 1,
-        "volume": 20000000
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "3f9ec942cc072e0d",
-        "market": "FIAGRO",
-        "name": "GREEN PLACE FIAGRO DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.880.557/0001-35",
-        "registration": "28236",
-        "processNumber": "SRE/3263/2026",
-        "leader": "MIVE CAPITAL MARKETS LTDA",
-        "volume": 35000000,
-        "date": "2026-10-06",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "db75efb18084b717",
-        "market": "FIAGRO",
-        "name": "HEDGE CRÉDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
-        "cnpj": "44.668.806/0001-28",
-        "registration": "28261",
-        "processNumber": "SRE/3294/2026",
-        "leader": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-        "volume": 20000000,
-        "date": "2026-10-08",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 2
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 2
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 2
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FIAGRO",
-        "count": 2
-      }
-    ],
-    "professionalShare": 1,
-    "top3Concentration": 1,
-    "busiestDays": [
-      {
-        "date": "2026-10-06",
-        "count": 1
-      },
-      {
-        "date": "2026-10-08",
-        "count": 1
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Agronegócio",
-        "count": 2
-      }
-    ]
-  },
   "changes": {
-    "offersPct": 100,
-    "volumePct": 5754.545454545455
+    "offersPct": 0,
+    "volumePct": -79.3107453416149
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 3.5,
-      "volume": 2412525235.775,
-      "leaders": 2.5,
-      "professionalShare": 0.75,
-      "top3Concentration": 0.9583333333333334
+      "offers": 3,
+      "volume": 3189750235.75,
+      "leaders": 2.25,
+      "professionalShare": 0.625,
+      "top3Concentration": 1
     },
     "currentVsPrior4Average": {
-      "offersPct": 14.285714285714285,
-      "volumePct": 33.470106436652735
+      "offersPct": 33.33333333333333,
+      "volumePct": -79.11454030057125
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-08-24",
-          "end": "2026-08-30"
-        },
-        "offers": 4,
-        "volume": 250457750000,
-        "leaders": 4
-      },
       {
         "period": {
           "start": "2026-08-31",
@@ -318,15 +334,24 @@
         "offers": 4,
         "volume": 3220000000,
         "leaders": 3
+      },
+      {
+        "period": {
+          "start": "2026-10-19",
+          "end": "2026-10-25"
+        },
+        "offers": 4,
+        "volume": 666194000,
+        "leaders": 3
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 4 ofertas FIAGRO, 100,0% acima da semana anterior.",
-    "Volume informado de R$ 3.220.000.000 em 3 ofertas com valor positivo; ticket médio de R$ 1.073.333.333.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 33,5% acima e a quantidade de ofertas 14,3% acima.",
+    "Atividade semanal de 4 ofertas FIAGRO, 0,0% acima da semana anterior.",
+    "Volume informado de R$ 666.194.000 em 3 ofertas com valor positivo; ticket médio de R$ 222.064.667.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 79,1% abaixo e a quantidade de ofertas 33,3% acima.",
     "BANCO DAYCOVAL S.A. liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 100,0% das ofertas da semana.",
-    "50,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "100,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (4). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -334,17 +359,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-23T08:00:40.509319"
+      "updatedAt": "2026-10-26T08:01:13.977931"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-23T15:45:08.171Z"
+      "updatedAt": "2026-10-26T17:23:53.954Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "23/10/2026 09:51"
+      "updatedAt": "26/10/2026 09:26"
     }
   },
   "macro": {
@@ -353,19 +378,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-24",
-          "value": 13.65
-        },
         {
           "date": "2026-09-25",
           "value": 13.65
@@ -440,6 +461,10 @@
         },
         {
           "date": "2026-10-22",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-23",
           "value": 13.65
         }
       ]
@@ -640,127 +665,41 @@
       "id": 27632,
       "label": "Spread PJ não rotativo",
       "unit": "p.p.",
-      "latest": {
-        "date": "2026-08-01",
-        "value": 4.1
-      },
-      "previous": {
-        "date": "2026-07-01",
-        "value": 4.8
-      },
-      "change": -0.7000000000000002,
-      "history": [
-        {
-          "date": "2025-01-01",
-          "value": 5.3
-        },
-        {
-          "date": "2025-02-01",
-          "value": 4.9
-        },
-        {
-          "date": "2025-03-01",
-          "value": 5
-        },
-        {
-          "date": "2025-04-01",
-          "value": 4.6
-        },
-        {
-          "date": "2025-05-01",
-          "value": 4.9
-        },
-        {
-          "date": "2025-06-01",
-          "value": 5.3
-        },
-        {
-          "date": "2025-07-01",
-          "value": 5.5
-        },
-        {
-          "date": "2025-08-01",
-          "value": 5.6
-        },
-        {
-          "date": "2025-09-01",
-          "value": 5.3
-        },
-        {
-          "date": "2025-10-01",
-          "value": 5.4
-        },
-        {
-          "date": "2025-11-01",
-          "value": 4.9
-        },
-        {
-          "date": "2025-12-01",
-          "value": 4.6
-        },
-        {
-          "date": "2026-01-01",
-          "value": 4.9
-        },
-        {
-          "date": "2026-02-01",
-          "value": 5
-        },
-        {
-          "date": "2026-03-01",
-          "value": 4.7
-        },
-        {
-          "date": "2026-04-01",
-          "value": 4.9
-        },
-        {
-          "date": "2026-05-01",
-          "value": 4.5
-        },
-        {
-          "date": "2026-06-01",
-          "value": 4.3
-        },
-        {
-          "date": "2026-07-01",
-          "value": 4.8
-        },
-        {
-          "date": "2026-08-01",
-          "value": 4.1
-        }
-      ]
+      "latest": null,
+      "previous": null,
+      "change": null,
+      "history": [],
+      "error": "timeout após 8000 ms"
     }
   },
   "anbima": {
     "selicEstimate": {
-      "date": "23/10/2026",
+      "date": "26/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "22/10/2026",
+      "date": "23/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "22/10/2026",
+      "date": "23/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "22/10/2026",
-      "value": 5.0383,
+      "date": "23/10/2026",
+      "value": 5.0377,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.27,
+      "value": 0.21,
       "label": "IPCA projetado",
       "unit": "%"
     },
@@ -786,24 +725,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4588,
+      "count": 4591,
       "latestMonth": "2026-10",
-      "offersInMonth": 130,
-      "volumeInMonth": 13938598300.37
+      "offersInMonth": 132,
+      "volumeInMonth": 12616598300.460001
     },
     {
       "market": "FIAGRO",
-      "count": 182,
+      "count": 185,
       "latestMonth": "2026-10",
-      "offersInMonth": 10,
-      "volumeInMonth": 3935000943
+      "offersInMonth": 13,
+      "volumeInMonth": 4521194943
     },
     {
       "market": "FII",
-      "count": 1522,
+      "count": 1524,
       "latestMonth": "2026-10",
-      "offersInMonth": 20,
-      "volumeInMonth": 6626091973.35
+      "offersInMonth": 22,
+      "volumeInMonth": 6724701574.2300005
     }
   ],
   "intelligence": {
@@ -830,7 +769,7 @@
           },
           {
             "label": "IRFC",
-            "value": 47.69117647058823,
+            "value": 26.344537815126053,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -880,12 +819,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 79.6406862745098,
+            "value": 73.23669467787114,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 47.69117647058823,
+            "value": 26.344537815126053,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -920,7 +859,7 @@
           },
           {
             "label": "IRFC",
-            "value": 47.69117647058823,
+            "value": 26.344537815126053,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -964,12 +903,12 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.560597651270339,
-          "IRFC": 47.69117647058823,
-          "IRPM": 75.84901960784313
+          "IRFC": 26.344537815126053,
+          "IRPM": 69.44502801120447
         },
         "bands": {
           "offer": "alto",
-          "funding": "intermediário",
+          "funding": "baixo",
           "pulse": "alto",
           "concentration": "baixo"
         }
@@ -982,12 +921,12 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 47.69117647058823,
-          "IRPM": 79.6406862745098
+          "IRFC": 26.344537815126053,
+          "IRPM": 73.23669467787114
         },
         "bands": {
           "offer": "alto",
-          "funding": "intermediário",
+          "funding": "baixo",
           "pulse": "alto",
           "concentration": "intermediário"
         }
@@ -1000,12 +939,12 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 47.69117647058823,
-          "IRPM": 76.28651960784313
+          "IRFC": 26.344537815126053,
+          "IRPM": 69.88252801120449
         },
         "bands": {
           "offer": "alto",
-          "funding": "intermediário",
+          "funding": "baixo",
           "pulse": "alto",
           "concentration": "baixo"
         }

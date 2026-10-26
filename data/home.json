@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T15:45:08.235Z",
+  "generatedAt": "2026-10-26T17:23:54.005Z",
   "macro": {
-    "generatedAt": "2026-10-23T01:42:29.096Z",
+    "generatedAt": "2026-10-24T01:45:31.975Z",
     "items": [
       {
         "key": "selic",
@@ -12,7 +12,7 @@
         "display": "13,65%",
         "change": 0,
         "changePct": 0,
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "source": "BCB / SGS",
         "status": "ok",
         "deltaDisplay": "+0 p.p."
@@ -50,11 +50,11 @@
         "label": "USD/BRL",
         "fullLabel": "Dólar / Real",
         "category": "Câmbio",
-        "value": 5.0383,
-        "display": "R$ 5,0383",
-        "change": 0.010599999999999277,
-        "changePct": 0.21083199077112091,
-        "date": "2026-10-22",
+        "value": 5.0377,
+        "display": "R$ 5,0377",
+        "change": -0.0005999999999994898,
+        "changePct": -0.011908778754732285,
+        "date": "2026-10-23",
         "source": "BCB / PTAX",
         "status": "ok"
       },
@@ -166,24 +166,24 @@
   "overview": {
     "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "sourceUpdatedAt": "2026-10-23T08:00:40.509319",
-    "count": 4588,
+    "sourceUpdatedAt": "2026-10-26T08:01:13.977931",
+    "count": 4591,
     "analytics": {
       "latestMonth": "2026-10",
-      "offersInMonth": 130,
-      "volumeInMonth": 13938598300.37,
-      "offersWithVolumeInMonth": 127,
+      "offersInMonth": 132,
+      "volumeInMonth": 12616598300.460001,
+      "offersWithVolumeInMonth": 129,
       "leadersInMonth": 34,
       "byRite": [
         {
           "name": "Automático",
-          "count": 130
+          "count": 132
         }
       ],
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 124
+          "count": 126
         },
         {
           "name": "Qualificado",
@@ -194,8 +194,8 @@
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
-          "count": 19,
-          "volume": 2409250000.2799997
+          "count": 21,
+          "volume": 2439250000.37
         },
         {
           "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -234,12 +234,6 @@
           "volume": 845000000
         },
         {
-          "name": "BANCO VOTORANTIM S.A.",
-          "cnpj": "59.588.111/0001-03",
-          "count": 5,
-          "volume": 1900001000
-        },
-        {
           "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
           "cnpj": "03.751.794/0001-13",
           "count": 5,
@@ -250,6 +244,12 @@
           "cnpj": "06.271.464/0001-19",
           "count": 4,
           "volume": 965083000
+        },
+        {
+          "name": "BANCO VOTORANTIM S.A.",
+          "cnpj": "59.588.111/0001-03",
+          "count": 4,
+          "volume": 500001000
         }
       ],
       "byMonth": [
@@ -321,9 +321,9 @@
         },
         {
           "month": "2026-04",
-          "count": 25,
-          "volume": 1568700445.08,
-          "withVolume": 25
+          "count": 26,
+          "volume": 2968700445.0799994,
+          "withVolume": 26
         },
         {
           "month": "2026-05",
@@ -357,22 +357,22 @@
         },
         {
           "month": "2026-10",
-          "count": 130,
-          "volume": 13938598300.37,
-          "withVolume": 127
+          "count": 132,
+          "volume": 12616598300.460001,
+          "withVolume": 129
         }
       ],
       "trailing12": {
-        "offers": 810,
-        "volume": 86267387061.18001,
-        "offersWithVolume": 805,
+        "offers": 813,
+        "volume": 86345387061.27,
+        "offersWithVolume": 808,
         "leaders": 60,
         "topLeaders": [
           {
             "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
             "cnpj": "62.285.390/0001-40",
-            "count": 177,
-            "volume": 9950940091.99
+            "count": 179,
+            "volume": 9980940092.08
           },
           {
             "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -405,16 +405,16 @@
             "volume": 479530000
           },
           {
+            "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "cnpj": "24.361.690/0001-72",
+            "count": 26,
+            "volume": 801250000
+          },
+          {
             "name": "PLANNER CORRETORA DE VALORES S.A.",
             "cnpj": "00.806.535/0001-54",
             "count": 26,
             "volume": 335003656.39
-          },
-          {
-            "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "cnpj": "24.361.690/0001-72",
-            "count": 25,
-            "volume": 753250000
           },
           {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -497,6 +497,78 @@
       },
       "latestOffers": [
         {
+          "id": "bd901364f748a845",
+          "market": "FIDC",
+          "name": "CONSIGA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "29.242.926/0001-75",
+          "registration": "28452",
+          "processNumber": "SRE/3462/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 10000000.09,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-23",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "7c54492c2b5bf88c",
+          "market": "FIDC",
+          "name": "OLAM FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "41.649.912/0001-76",
+          "registration": "28458",
+          "processNumber": "SRE/3466/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 20000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-23",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "5f40d7c3642ab130",
+          "market": "FIDC",
+          "name": "ORIZ JUS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.036.896/0001-49",
+          "registration": "28439",
+          "processNumber": "SRE/3464/2026",
+          "leader": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "24.361.690/0001-72",
+          "volume": 48000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-10-23",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
           "id": "19b7cf7e0e1275a0",
           "market": "FIDC",
           "name": "COTIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
@@ -510,30 +582,6 @@
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Registro Concedido",
-          "date": "2026-10-22",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "dad3ba03c35af66c",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CREDITAS AUTO XII",
-          "cnpj": "59.929.098/0001-09",
-          "registration": "28442",
-          "processNumber": "SRE/3454/2026",
-          "leader": "BANCO VOTORANTIM S.A.",
-          "leaderCnpj": "59.588.111/0001-03",
-          "volume": 1400000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
           "date": "2026-10-22",
           "dateBasis": "registro",
           "securities": [
@@ -807,54 +855,6 @@
           "sourceFile": "oferta_resolucao_160.csv",
           "sourceRows": 1,
           "distinctComponents": 1
-        },
-        {
-          "id": "15247012b36ec0f5",
-          "market": "FIDC",
-          "name": "ORIZ JUS IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.550.943/0001-30",
-          "registration": "28412",
-          "processNumber": "SRE/3430/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 30000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-21",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "5f6f7e6cf1a3b943",
-          "market": "FIDC",
-          "name": "PRECATO VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.562.163/0001-03",
-          "registration": "28419",
-          "processNumber": "SRE/3431/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 20000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-10-21",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
         }
       ]
     },
@@ -1061,8 +1061,8 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 47.69117647058823,
-          "interpretation": "neutras/medianas",
+          "score": 26.344537815126053,
+          "interpretation": "restritivas",
           "education": {
             "code": "IRFC",
             "name": "Índice Radar de Condições de Funding",
@@ -1081,15 +1081,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 47.69117647058823,
-            "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 48/100, faixa intermediária."
+            "score": 26.344537815126053,
+            "band": "faixa baixa",
+            "currentReading": "O ambiente de funding está relativamente restritivo dentro da amostra observada. Score 26/100, faixa baixa."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-          "score": 77.25874183006536,
+          "score": 70.85475023342671,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1109,9 +1109,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 77.25874183006536,
+            "score": 70.85475023342671,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 71/100, faixa alta."
           }
         }
       }

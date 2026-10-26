@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-23T15:45:08.249Z",
+  "generatedAt": "2026-10-26T17:23:54.015Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-23T08:00:40.509319"
+    "updatedAt": "2026-10-26T08:01:13.977931"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 10,
-        "volume": 1112312400,
-        "offersWithVolume": 10,
-        "averageTicket": 111231240
+        "offers": 11,
+        "volume": 1176327400,
+        "offersWithVolume": 11,
+        "averageTicket": 106938854.54545455
       },
       "byMonth": [
         {
@@ -90,11 +90,27 @@
         },
         {
           "month": "2026-10",
-          "count": 3,
-          "volume": 300000000
+          "count": 4,
+          "volume": 364015000
         }
       ],
       "recentOffers": [
+        {
+          "id": "9391a77ecf39bf8a",
+          "market": "FIAGRO",
+          "name": "VERDELOG FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.384.385/0001-46",
+          "registration": "28276",
+          "processNumber": "SRE/3471/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 64015000,
+          "date": "2026-10-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "9357cd7322bc5429",
           "market": "FIAGRO",
@@ -424,13 +440,303 @@
         },
         {
           "market": "FIAGRO",
-          "count": 20,
-          "volume": 2115112400
+          "count": 21,
+          "volume": 2179127400
         },
         {
           "market": "FII",
           "count": 43,
           "volume": 6677424090.5
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:04845753000159",
+      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "cnpj": "04.845.753/0001-59",
+      "stats12m": {
+        "offers": 8,
+        "volume": 4124498000,
+        "offersWithVolume": 7,
+        "averageTicket": 589214000
+      },
+      "byMonth": [
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 248000000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2025-06",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 147000000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 81998000
+        },
+        {
+          "month": "2026-06",
+          "count": 1,
+          "volume": 97500000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 34000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 231000000
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 3530000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "bf74238892e2defd",
+          "market": "FIAGRO",
+          "name": "HELM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.291.962/0001-27",
+          "registration": "28463",
+          "processNumber": "SRE/3472/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-10-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "6c1433936803d26e",
+          "market": "FIAGRO",
+          "name": "ITAUBA FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.164.780/0001-49",
+          "registration": "28244",
+          "processNumber": "SRE/3271/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 3000000000,
+          "date": "2026-10-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "0ef75625b92d6237",
+          "market": "FIAGRO",
+          "name": "RZK AGRÍCOLA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESP LIMITADA",
+          "cnpj": "68.759.170/0001-98",
+          "registration": "28200",
+          "processNumber": "SRE/3234/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 530000000,
+          "date": "2026-10-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ed902e8babdeb22e",
+          "market": "FIAGRO",
+          "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.134.120/0001-39",
+          "registration": "27755",
+          "processNumber": "SRE/2822/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 231000000,
+          "date": "2026-09-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "fc68a647b40f6291",
+          "market": "FIAGRO",
+          "name": "BIO CANTO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.555.204/0001-22",
+          "registration": "27654",
+          "processNumber": "SRE/2723/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 34000000,
+          "date": "2026-08-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "29bb95286dcc7199",
+          "market": "FIAGRO",
+          "name": "CIBRA OCP FIAGRO DIREITOS CREDITORIOS COMERCIAIS RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.194.165/0001-61",
+          "registration": "26884",
+          "processNumber": "SRE/2032/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 97500000,
+          "date": "2026-06-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1121d0b542961d78",
+          "market": "FIAGRO",
+          "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.134.120/0001-39",
+          "registration": "25636",
+          "processNumber": "SRE/0878/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 81998000,
+          "date": "2026-03-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "600a7e0205dc97f6",
+          "market": "FIAGRO",
+          "name": "GS3 II FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.861.162/0001-71",
+          "registration": "24579",
+          "processNumber": "SRE/0322/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 150000000,
+          "date": "2026-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "306ed83566fd75b9",
+          "market": "FIAGRO",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS AGRO OPEA BIOFINANCE",
+          "cnpj": "52.908.543/0001-05",
+          "registration": "21683",
+          "processNumber": "SRE/2370/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 51000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "301fcde48f61942c",
+          "market": "FIAGRO",
+          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.291.962/0001-27",
+          "registration": "21637",
+          "processNumber": "SRE/2326/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 96000000,
+          "date": "2025-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6b099c94ea1c064f",
+          "market": "FIAGRO",
+          "name": "THEROS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.648.939/0001-99",
+          "registration": "21073",
+          "processNumber": "SRE/1833/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 300000000,
+          "date": "2025-06-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d444474fc3d12d4b",
+          "market": "FIAGRO",
+          "name": "RCL3X FIAGRO - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "42.922.157/0001-14",
+          "registration": "16718",
+          "processNumber": "SRE/2535/2024",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 40000000,
+          "date": "2024-08-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "104bb63c3c57f648",
+          "market": "FIAGRO",
+          "name": "LAVORO AGRO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS",
+          "cnpj": "55.476.342/0001-74",
+          "registration": "16697",
+          "processNumber": "SRE/2213/2024",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 248000000,
+          "date": "2024-07-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 55,
+          "volume": 18114045059
+        },
+        {
+          "market": "FIAGRO",
+          "count": 13,
+          "volume": 4859498000
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 11952159211.42
         }
       ]
     },
@@ -711,280 +1017,6 @@
           "market": "FII",
           "count": 143,
           "volume": 72383823026.59001
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:04845753000159",
-      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "cnpj": "04.845.753/0001-59",
-      "stats12m": {
-        "offers": 7,
-        "volume": 4124498000,
-        "offersWithVolume": 7,
-        "averageTicket": 589214000
-      },
-      "byMonth": [
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 248000000
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 40000000
-        },
-        {
-          "month": "2025-06",
-          "count": 1,
-          "volume": 300000000
-        },
-        {
-          "month": "2025-08",
-          "count": 2,
-          "volume": 147000000
-        },
-        {
-          "month": "2026-02",
-          "count": 1,
-          "volume": 150000000
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 81998000
-        },
-        {
-          "month": "2026-06",
-          "count": 1,
-          "volume": 97500000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 34000000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 231000000
-        },
-        {
-          "month": "2026-10",
-          "count": 2,
-          "volume": 3530000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "6c1433936803d26e",
-          "market": "FIAGRO",
-          "name": "ITAUBA FIAGRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.164.780/0001-49",
-          "registration": "28244",
-          "processNumber": "SRE/3271/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 3000000000,
-          "date": "2026-10-14",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "0ef75625b92d6237",
-          "market": "FIAGRO",
-          "name": "RZK AGRÍCOLA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESP LIMITADA",
-          "cnpj": "68.759.170/0001-98",
-          "registration": "28200",
-          "processNumber": "SRE/3234/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 530000000,
-          "date": "2026-10-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ed902e8babdeb22e",
-          "market": "FIAGRO",
-          "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.134.120/0001-39",
-          "registration": "27755",
-          "processNumber": "SRE/2822/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 231000000,
-          "date": "2026-09-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "fc68a647b40f6291",
-          "market": "FIAGRO",
-          "name": "BIO CANTO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.555.204/0001-22",
-          "registration": "27654",
-          "processNumber": "SRE/2723/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 34000000,
-          "date": "2026-08-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "29bb95286dcc7199",
-          "market": "FIAGRO",
-          "name": "CIBRA OCP FIAGRO DIREITOS CREDITORIOS COMERCIAIS RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.194.165/0001-61",
-          "registration": "26884",
-          "processNumber": "SRE/2032/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 97500000,
-          "date": "2026-06-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "1121d0b542961d78",
-          "market": "FIAGRO",
-          "name": "FIAGRO SINOVA RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.134.120/0001-39",
-          "registration": "25636",
-          "processNumber": "SRE/0878/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 81998000,
-          "date": "2026-03-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "600a7e0205dc97f6",
-          "market": "FIAGRO",
-          "name": "GS3 II FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.861.162/0001-71",
-          "registration": "24579",
-          "processNumber": "SRE/0322/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 150000000,
-          "date": "2026-02-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "306ed83566fd75b9",
-          "market": "FIAGRO",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS AGRO OPEA BIOFINANCE",
-          "cnpj": "52.908.543/0001-05",
-          "registration": "21683",
-          "processNumber": "SRE/2370/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 51000000,
-          "date": "2025-08-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "301fcde48f61942c",
-          "market": "FIAGRO",
-          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.291.962/0001-27",
-          "registration": "21637",
-          "processNumber": "SRE/2326/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 96000000,
-          "date": "2025-08-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6b099c94ea1c064f",
-          "market": "FIAGRO",
-          "name": "THEROS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO FIAGRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.648.939/0001-99",
-          "registration": "21073",
-          "processNumber": "SRE/1833/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 300000000,
-          "date": "2025-06-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d444474fc3d12d4b",
-          "market": "FIAGRO",
-          "name": "RCL3X FIAGRO - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "42.922.157/0001-14",
-          "registration": "16718",
-          "processNumber": "SRE/2535/2024",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 40000000,
-          "date": "2024-08-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "104bb63c3c57f648",
-          "market": "FIAGRO",
-          "name": "LAVORO AGRO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS",
-          "cnpj": "55.476.342/0001-74",
-          "registration": "16697",
-          "processNumber": "SRE/2213/2024",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 248000000,
-          "date": "2024-07-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 55,
-          "volume": 18114045059
-        },
-        {
-          "market": "FIAGRO",
-          "count": 12,
-          "volume": 4859498000
-        },
-        {
-          "market": "FII",
-          "count": 19,
-          "volume": 11952159211.42
         }
       ]
     },
@@ -2002,8 +2034,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1062,
-          "volume": 58990320860.75993
+          "count": 1064,
+          "volume": 59020320860.84993
         },
         {
           "market": "FIAGRO",
@@ -2012,8 +2044,8 @@
         },
         {
           "market": "FII",
-          "count": 46,
-          "volume": 3987251955.04
+          "count": 47,
+          "volume": 3989251955.92
         }
       ]
     },
@@ -2304,6 +2336,122 @@
           "market": "FII",
           "count": 14,
           "volume": 9934672048.76
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:33644196000106",
+      "name": "BANCO FATOR S/A",
+      "cnpj": "33.644.196/0001-06",
+      "stats12m": {
+        "offers": 2,
+        "volume": 549179000,
+        "offersWithVolume": 2,
+        "averageTicket": 274589500
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 27000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 522179000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8d0abd493f029762",
+          "market": "FIAGRO",
+          "name": "CASTANHEIRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - FIAGRO",
+          "cnpj": "65.567.347/0001-66",
+          "registration": "28440",
+          "processNumber": "SRE/3468/2026",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 522179000,
+          "date": "2026-10-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "d3e2d146d45e1626",
+          "market": "FIAGRO",
+          "name": "FLORINDO AGRO FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.027.610/0001-61",
+          "registration": "23941",
+          "processNumber": "SRE/4396/2025",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 27000000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "fd73d0f27086d20b",
+          "market": "FIAGRO",
+          "name": "PONTO RURAL FIAGRO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.131.490/0001-82",
+          "registration": "17629",
+          "processNumber": "SRE/3053/2024",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 120000000,
+          "date": "2024-10-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a6d4e64a7168258b",
+          "market": "FIAGRO",
+          "name": "AGRICONNECTION FIAGRO - DIREITOS CREDITÓRIOS",
+          "cnpj": "50.089.559/0001-08",
+          "registration": "1429",
+          "processNumber": "SRE/0699/2023",
+          "leader": "BANCO FATOR S/A",
+          "leaderCnpj": "33.644.196/0001-06",
+          "volume": 100000000,
+          "date": "2023-04-20",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 8,
+          "volume": 631589282.59
+        },
+        {
+          "market": "FIAGRO",
+          "count": 4,
+          "volume": 769179000
+        },
+        {
+          "market": "FII",
+          "count": 8,
+          "volume": 1208577439
         }
       ]
     },
@@ -3096,101 +3244,6 @@
           "market": "FII",
           "count": 44,
           "volume": 1046683702.5400001
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:33644196000106",
-      "name": "BANCO FATOR S/A",
-      "cnpj": "33.644.196/0001-06",
-      "stats12m": {
-        "offers": 1,
-        "volume": 27000000,
-        "offersWithVolume": 1,
-        "averageTicket": 27000000
-      },
-      "byMonth": [
-        {
-          "month": "2023-04",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 120000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 27000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "d3e2d146d45e1626",
-          "market": "FIAGRO",
-          "name": "FLORINDO AGRO FIAGRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.027.610/0001-61",
-          "registration": "23941",
-          "processNumber": "SRE/4396/2025",
-          "leader": "BANCO FATOR S/A",
-          "leaderCnpj": "33.644.196/0001-06",
-          "volume": 27000000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "fd73d0f27086d20b",
-          "market": "FIAGRO",
-          "name": "PONTO RURAL FIAGRO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.131.490/0001-82",
-          "registration": "17629",
-          "processNumber": "SRE/3053/2024",
-          "leader": "BANCO FATOR S/A",
-          "leaderCnpj": "33.644.196/0001-06",
-          "volume": 120000000,
-          "date": "2024-10-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a6d4e64a7168258b",
-          "market": "FIAGRO",
-          "name": "AGRICONNECTION FIAGRO - DIREITOS CREDITÓRIOS",
-          "cnpj": "50.089.559/0001-08",
-          "registration": "1429",
-          "processNumber": "SRE/0699/2023",
-          "leader": "BANCO FATOR S/A",
-          "leaderCnpj": "33.644.196/0001-06",
-          "volume": 100000000,
-          "date": "2023-04-20",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 8,
-          "volume": 631589282.59
-        },
-        {
-          "market": "FIAGRO",
-          "count": 3,
-          "volume": 247000000
-        },
-        {
-          "market": "FII",
-          "count": 8,
-          "volume": 1208577439
         }
       ]
     },
@@ -4512,8 +4565,8 @@
         },
         {
           "market": "FII",
-          "count": 29,
-          "volume": 5915871834.62
+          "count": 30,
+          "volume": 6012481434.62
         }
       ]
     },
