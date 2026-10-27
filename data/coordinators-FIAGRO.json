@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-26T17:23:54.015Z",
+  "generatedAt": "2026-10-27T16:40:59.389Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-26T08:01:13.977931"
+    "updatedAt": "2026-10-27T08:00:42.629599"
   },
   "coordinators": [
     {
@@ -455,7 +455,7 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 8,
+        "offers": 9,
         "volume": 4124498000,
         "offersWithVolume": 7,
         "averageTicket": 589214000
@@ -508,11 +508,27 @@
         },
         {
           "month": "2026-10",
-          "count": 3,
+          "count": 4,
           "volume": 3530000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "c83dddec2c1476c6",
+          "market": "FIAGRO",
+          "name": "MULTITÉCNICA FIAGRO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.215.017/0001-22",
+          "registration": "28468",
+          "processNumber": "SRE/3478/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "bf74238892e2defd",
           "market": "FIAGRO",
@@ -730,7 +746,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 13,
+          "count": 14,
           "volume": 4859498000
         },
         {
@@ -1438,8 +1454,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 32,
-          "volume": 2308000243.21
+          "count": 33,
+          "volume": 2378000390.5299997
         },
         {
           "market": "FIAGRO",
@@ -2034,8 +2050,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1064,
-          "volume": 59020320860.84993
+          "count": 1065,
+          "volume": 59080320860.84994
         },
         {
           "market": "FIAGRO",
@@ -2989,6 +3005,101 @@
       ]
     },
     {
+      "key": "CNPJ:36113876000191",
+      "name": "OLIVEIRA TRUST DTVM S.A.",
+      "cnpj": "36.113.876/0001-91",
+      "stats12m": {
+        "offers": 1,
+        "volume": 60000000,
+        "offersWithVolume": 1,
+        "averageTicket": 60000000
+      },
+      "byMonth": [
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 56000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 19000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 60000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "85ca0c940cc703a9",
+          "market": "FIAGRO",
+          "name": "JB TERRAS I FIAGRO",
+          "cnpj": "68.814.231/0001-72",
+          "registration": "28479",
+          "processNumber": "SRE/3482/2026",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 60000000,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "46721edc625e7edb",
+          "market": "FIAGRO",
+          "name": "FARMTECH AGRO I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC RESP LTDA",
+          "cnpj": "58.199.148/0001-87",
+          "registration": "21611",
+          "processNumber": "SRE/2306/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 19000000,
+          "date": "2025-07-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d5e299c459f5405e",
+          "market": "FIAGRO",
+          "name": "CAPSICUM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO I - FIAGRO-FII - RESP. LTDA",
+          "cnpj": "58.823.628/0001-77",
+          "registration": "19135",
+          "processNumber": "SRE/0113/2025",
+          "leader": "OLIVEIRA TRUST DTVM S.A.",
+          "leaderCnpj": "36.113.876/0001-91",
+          "volume": 56000000,
+          "date": "2025-01-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 84,
+          "volume": 31631843441.309994
+        },
+        {
+          "market": "FIAGRO",
+          "count": 3,
+          "volume": 135000000
+        },
+        {
+          "market": "FII",
+          "count": 30,
+          "volume": 6012481434.62
+        }
+      ]
+    },
+    {
       "key": "CNPJ:13486793000142",
       "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "13.486.793/0001-42",
@@ -3057,8 +3168,8 @@
         },
         {
           "market": "FII",
-          "count": 147,
-          "volume": 27845014596.590004
+          "count": 148,
+          "volume": 27895014596.590004
         }
       ]
     },
@@ -4493,80 +4604,6 @@
           "market": "FII",
           "count": 4,
           "volume": 1597653461.8
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:36113876000191",
-      "name": "OLIVEIRA TRUST DTVM S.A.",
-      "cnpj": "36.113.876/0001-91",
-      "stats12m": {
-        "offers": 0,
-        "volume": 0,
-        "offersWithVolume": 0,
-        "averageTicket": null
-      },
-      "byMonth": [
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 56000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 19000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "46721edc625e7edb",
-          "market": "FIAGRO",
-          "name": "FARMTECH AGRO I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC RESP LTDA",
-          "cnpj": "58.199.148/0001-87",
-          "registration": "21611",
-          "processNumber": "SRE/2306/2025",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 19000000,
-          "date": "2025-07-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d5e299c459f5405e",
-          "market": "FIAGRO",
-          "name": "CAPSICUM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO I - FIAGRO-FII - RESP. LTDA",
-          "cnpj": "58.823.628/0001-77",
-          "registration": "19135",
-          "processNumber": "SRE/0113/2025",
-          "leader": "OLIVEIRA TRUST DTVM S.A.",
-          "leaderCnpj": "36.113.876/0001-91",
-          "volume": 56000000,
-          "date": "2025-01-14",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 84,
-          "volume": 31631843441.309994
-        },
-        {
-          "market": "FIAGRO",
-          "count": 2,
-          "volume": 75000000
-        },
-        {
-          "market": "FII",
-          "count": 30,
-          "volume": 6012481434.62
         }
       ]
     },

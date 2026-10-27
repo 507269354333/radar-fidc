@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-10-26T17:23:54.014Z",
+  "generatedAt": "2026-10-27T16:40:59.388Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-26T08:01:13.977931"
+    "updatedAt": "2026-10-27T08:00:42.629599"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 179,
-        "volume": 9980940092.08,
-        "offersWithVolume": 179,
-        "averageTicket": 55759441.85519553
+        "offers": 180,
+        "volume": 10040940092.08,
+        "offersWithVolume": 180,
+        "averageTicket": 55783000.51155555
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-10",
-          "count": 21,
-          "volume": 2439250000.37
+          "count": 22,
+          "volume": 2499250000.37
         }
       ],
       "recentOffers": [
+        {
+          "id": "b26876c3f16e9c53",
+          "market": "FIDC",
+          "name": "LEXIS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.442.320/0001-96",
+          "registration": "28470",
+          "processNumber": "SRE/3477/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 60000000,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "bd901364f748a845",
           "market": "FIDC",
@@ -573,29 +589,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "ba377094f3d9fe7e",
-          "market": "FIDC",
-          "name": "BANFITA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL",
-          "cnpj": "35.580.989/0001-34",
-          "registration": "27873",
-          "processNumber": "SRE/2923/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 50000000,
-          "date": "2026-09-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1064,
-          "volume": 59020320860.84993
+          "count": 1065,
+          "volume": 59080320860.84994
         },
         {
           "market": "FIAGRO",
@@ -3012,8 +3012,8 @@
         },
         {
           "market": "FII",
-          "count": 147,
-          "volume": 27845014596.590004
+          "count": 148,
+          "volume": 27895014596.590004
         }
       ]
     },
@@ -4529,7 +4529,7 @@
           "date": "2026-04-27",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5426,616 +5426,14 @@
       ]
     },
     {
-      "key": "CNPJ:04845753000159",
-      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "cnpj": "04.845.753/0001-59",
-      "stats12m": {
-        "offers": 21,
-        "volume": 9780695059,
-        "offersWithVolume": 19,
-        "averageTicket": 514773424.15789473
-      },
-      "byMonth": [
-        {
-          "month": "2024-09",
-          "count": 2,
-          "volume": 390400000
-        },
-        {
-          "month": "2024-10",
-          "count": 2,
-          "volume": 455140000
-        },
-        {
-          "month": "2024-11",
-          "count": 4,
-          "volume": 1485000000
-        },
-        {
-          "month": "2024-12",
-          "count": 4,
-          "volume": 705000000
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 1000000000
-        },
-        {
-          "month": "2025-02",
-          "count": 5,
-          "volume": 543000000
-        },
-        {
-          "month": "2025-03",
-          "count": 2,
-          "volume": 220000000
-        },
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 332500000
-        },
-        {
-          "month": "2025-07",
-          "count": 3,
-          "volume": 483000000
-        },
-        {
-          "month": "2025-08",
-          "count": 2,
-          "volume": 550000000
-        },
-        {
-          "month": "2025-10",
-          "count": 3,
-          "volume": 1627500000
-        },
-        {
-          "month": "2025-11",
-          "count": 1,
-          "volume": 25000000
-        },
-        {
-          "month": "2025-12",
-          "count": 5,
-          "volume": 1016920000
-        },
-        {
-          "month": "2026-03",
-          "count": 2,
-          "volume": 1375000059
-        },
-        {
-          "month": "2026-04",
-          "count": 3,
-          "volume": 788000000
-        },
-        {
-          "month": "2026-05",
-          "count": 2,
-          "volume": 762500000
-        },
-        {
-          "month": "2026-09",
-          "count": 5,
-          "volume": 4521400000
-        },
-        {
-          "month": "2026-10",
-          "count": 3,
-          "volume": 1291875000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "b71dd22b340d7208",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TURBI I DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "49.936.440/0001-44",
-          "registration": "28402",
-          "processNumber": "SRE/3412/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-10-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "publications": []
-        },
-        {
-          "id": "ddd3285ea03274b9",
-          "market": "FIDC",
-          "name": "ICRED INSS IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.395.941/0001-78",
-          "registration": "28321",
-          "processNumber": "SRE/3343/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 1228125000,
-          "date": "2026-10-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c40ba36ce027b57c",
-          "market": "FIDC",
-          "name": "RLX FLUOROCHEMICAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESP LIMITADA",
-          "cnpj": "68.522.785/0001-04",
-          "registration": "28054",
-          "processNumber": "SRE/3092/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 63750000,
-          "date": "2026-10-14",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c2e29da4c3cfd754",
-          "market": "FIDC",
-          "name": "ICRED INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.347.578/0001-64",
-          "registration": "27938",
-          "processNumber": "SRE/3006/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 195000000,
-          "date": "2026-09-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "511952071e0ccd5d",
-          "market": "FIDC",
-          "name": "FUNDAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.282.499/0001-85",
-          "registration": "27725",
-          "processNumber": "SRE/2794/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 291400000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "bfe8b703a00ecb0a",
-          "market": "FIDC",
-          "name": "CORUJA SATURNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.003.757/0001-35",
-          "registration": "27847",
-          "processNumber": "SRE/2900/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-09-09",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "publications": []
-        },
-        {
-          "id": "28c4718d971e10c5",
-          "market": "FIDC",
-          "name": "FLG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
-          "cnpj": "67.878.258/0001-66",
-          "registration": "27689",
-          "processNumber": "SRE/2755/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 35000000,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ddb3568b9d3c6b84",
-          "market": "FIDC",
-          "name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
-          "cnpj": "63.572.282/0001-11",
-          "registration": "27658",
-          "processNumber": "SRE/2727/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 4000000000,
-          "date": "2026-09-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "2ae561da9b059e91",
-          "market": "FIDC",
-          "name": "DAYCOVAL D410 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "65.836.995/0001-70",
-          "registration": "26150",
-          "processNumber": "SRE/1358/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 200000000,
-          "date": "2026-05-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b39bcf005c645553",
-          "market": "FIDC",
-          "name": "SOL AGORA IV FIDC SEGMENTO FINANCEIRO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.473.122/0001-40",
-          "registration": "25661",
-          "processNumber": "SRE/0903/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 562500000,
-          "date": "2026-05-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2bcbb2a4b54963a6",
-          "market": "FIDC",
-          "name": "SB CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL DE CLASSE UNICA FECHADA",
-          "cnpj": "23.956.882/0001-69",
-          "registration": "25579",
-          "processNumber": "SRE/0835/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 500000000,
-          "date": "2026-04-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "840e53b49eca7835",
-          "market": "FIDC",
-          "name": "ARCELORMITTAL VERTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS - RESP LIMITADA",
-          "cnpj": "65.873.297/0001-45",
-          "registration": "25662",
-          "processNumber": "SRE/0907/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 128000000,
-          "date": "2026-04-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "dc710c9ecd38f4bb",
-          "market": "FIDC",
-          "name": "NATURA PAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO PESSOAL SOCIAL E IS RESP LTDA",
-          "cnpj": "57.816.252/0001-00",
-          "registration": "25790",
-          "processNumber": "SRE/1033/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 160000000,
-          "date": "2026-04-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "90e73d59124eadab",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS PAGSEGURO I",
-          "cnpj": "28.169.275/0001-72",
-          "registration": "25708",
-          "processNumber": "SRE/0954/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 1000000000,
-          "date": "2026-03-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "16f9a94d82df9552",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS KINEA CRÉDITO ESTRUTURADO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.431.592/0001-28",
-          "registration": "25584",
-          "processNumber": "SRE/0830/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 375000059,
-          "date": "2026-03-26",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ca5ef0f2302a73e6",
-          "market": "FIDC",
-          "name": "GALLERIA HOME EQUITY FIDC",
-          "cnpj": "37.294.759/0001-34",
-          "registration": "24184",
-          "processNumber": "SRE/4557/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 75000000,
-          "date": "2025-12-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ed486668d01b8d5d",
-          "market": "FIDC",
-          "name": "FRIMESA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.171.340/0001-65",
-          "registration": "23782",
-          "processNumber": "SRE/4189/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 120000000,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "29940ba37344ebdc",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MEDICI - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.144.964/0001-60",
-          "registration": "23952",
-          "processNumber": "SRE/4368/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 511920000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bab27fbe7674eb71",
-          "market": "FIDC",
-          "name": "GRUPO WINE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
-          "cnpj": "63.630.763/0001-36",
-          "registration": "23784",
-          "processNumber": "SRE/4187/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 80000000,
-          "date": "2025-12-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b808f953b0cf23f2",
-          "market": "FIDC",
-          "name": "ISAAC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO SEGMENTO DE SERVIÇOS EDUCACIONAIS",
-          "cnpj": "44.516.049/0001-77",
-          "registration": "23741",
-          "processNumber": "SRE/4156/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 230000000,
-          "date": "2025-12-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0cf617db8d44089e",
-          "market": "FIDC",
-          "name": "H3 CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.507.342/0001-12",
-          "registration": "23368",
-          "processNumber": "SRE/3816/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 25000000,
-          "date": "2025-11-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9ff059a734744707",
-          "market": "FIDC",
-          "name": "INVESTCRED FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "29.226.654/0001-10",
-          "registration": "22983",
-          "processNumber": "SRE/3466/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 90000000,
-          "date": "2025-10-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3270693b0d0b0004",
-          "market": "FIDC",
-          "name": "ACTUM ATIVOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.310.491/0001-97",
-          "registration": "24709",
-          "processNumber": "SRE/0450/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 1350000000,
-          "date": "2025-10-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "31029adfff791817",
-          "market": "FIDC",
-          "name": "CLASSE ÚNICA DO FIDC CRÉDITO NITRO AGRO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "51.554.551/0001-38",
-          "registration": "22922",
-          "processNumber": "SRE/3409/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 187500000,
-          "date": "2025-10-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "db03912f149a4ecf",
-          "market": "FIDC",
-          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III CHAMADA DE CAPITAL FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.014.120/0001-03",
-          "registration": "21756",
-          "processNumber": "SRE/2435/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 300000000,
-          "date": "2025-08-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "57f50f1c743d418f",
-          "market": "FIDC",
-          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III UPFRONT FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.014.262/0001-62",
-          "registration": "21755",
-          "processNumber": "SRE/2436/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 250000000,
-          "date": "2025-08-08",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6bff5b9b97d0b4d9",
-          "market": "FIDC",
-          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.291.962/0001-27",
-          "registration": "21433",
-          "processNumber": "SRE/2166/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2025-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Revogada",
-          "publications": []
-        },
-        {
-          "id": "846dee4c5d59464b",
-          "market": "FIDC",
-          "name": "ALTOMAX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO RECEBÍVEIS COMERCIAIS DE RESP LTDA",
-          "cnpj": "58.288.437/0001-52",
-          "registration": "21585",
-          "processNumber": "SRE/2292/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 15000000,
-          "date": "2025-07-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8e81588ad19defc9",
-          "market": "FIDC",
-          "name": "CRÉDITO UNIVERSITÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "08.417.544/0001-65",
-          "registration": "21284",
-          "processNumber": "SRE/2023/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 468000000,
-          "date": "2025-07-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "53ed0be9cc081462",
-          "market": "FIDC",
-          "name": "SUMUP SOLO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILI",
-          "cnpj": "45.598.747/0001-21",
-          "registration": "20329",
-          "processNumber": "SRE/1150/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 332500000,
-          "date": "2025-04-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 55,
-          "volume": 18114045059
-        },
-        {
-          "market": "FIAGRO",
-          "count": 13,
-          "volume": 4859498000
-        },
-        {
-          "market": "FII",
-          "count": 19,
-          "volume": 11952159211.42
-        }
-      ]
-    },
-    {
       "key": "CNPJ:28650236000192",
       "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
       "cnpj": "28.650.236/0001-92",
       "stats12m": {
-        "offers": 21,
-        "volume": 1053000243.21,
-        "offersWithVolume": 21,
-        "averageTicket": 50142868.724285714
+        "offers": 22,
+        "volume": 1123000390.53,
+        "offersWithVolume": 22,
+        "averageTicket": 51045472.29681818
       },
       "byMonth": [
         {
@@ -6100,11 +5498,27 @@
         },
         {
           "month": "2026-10",
-          "count": 9,
-          "volume": 629999999.96
+          "count": 10,
+          "volume": 700000147.28
         }
       ],
       "recentOffers": [
+        {
+          "id": "6712c008fe1a581d",
+          "market": "FIDC",
+          "name": "FNX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPOSABILIDADE LIMITADA",
+          "cnpj": "62.145.323/0001-20",
+          "registration": "28485",
+          "processNumber": "SRE/3487/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 70000147.32,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "5a6c3cd0adbce994",
           "market": "FIDC",
@@ -6568,29 +5982,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "b8f5ba71dc8cc771",
-          "market": "FIDC",
-          "name": "GALAPAGOS SPECIAL OPPORTUNITIES RG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "59.148.481/0001-20",
-          "registration": "19305",
-          "processNumber": "SRE/0255/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 80000000,
-          "date": "2025-01-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 32,
-          "volume": 2308000243.21
+          "count": 33,
+          "volume": 2378000390.5299997
         },
         {
           "market": "FIAGRO",
@@ -6601,6 +5999,608 @@
           "market": "FII",
           "count": 19,
           "volume": 1105738496.75
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:04845753000159",
+      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "cnpj": "04.845.753/0001-59",
+      "stats12m": {
+        "offers": 21,
+        "volume": 9780695059,
+        "offersWithVolume": 19,
+        "averageTicket": 514773424.15789473
+      },
+      "byMonth": [
+        {
+          "month": "2024-09",
+          "count": 2,
+          "volume": 390400000
+        },
+        {
+          "month": "2024-10",
+          "count": 2,
+          "volume": 455140000
+        },
+        {
+          "month": "2024-11",
+          "count": 4,
+          "volume": 1485000000
+        },
+        {
+          "month": "2024-12",
+          "count": 4,
+          "volume": 705000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 1000000000
+        },
+        {
+          "month": "2025-02",
+          "count": 5,
+          "volume": 543000000
+        },
+        {
+          "month": "2025-03",
+          "count": 2,
+          "volume": 220000000
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 332500000
+        },
+        {
+          "month": "2025-07",
+          "count": 3,
+          "volume": 483000000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 550000000
+        },
+        {
+          "month": "2025-10",
+          "count": 3,
+          "volume": 1627500000
+        },
+        {
+          "month": "2025-11",
+          "count": 1,
+          "volume": 25000000
+        },
+        {
+          "month": "2025-12",
+          "count": 5,
+          "volume": 1016920000
+        },
+        {
+          "month": "2026-03",
+          "count": 2,
+          "volume": 1375000059
+        },
+        {
+          "month": "2026-04",
+          "count": 3,
+          "volume": 788000000
+        },
+        {
+          "month": "2026-05",
+          "count": 2,
+          "volume": 762500000
+        },
+        {
+          "month": "2026-09",
+          "count": 5,
+          "volume": 4521400000
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 1291875000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "b71dd22b340d7208",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TURBI I DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "49.936.440/0001-44",
+          "registration": "28402",
+          "processNumber": "SRE/3412/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-10-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "ddd3285ea03274b9",
+          "market": "FIDC",
+          "name": "ICRED INSS IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.395.941/0001-78",
+          "registration": "28321",
+          "processNumber": "SRE/3343/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1228125000,
+          "date": "2026-10-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c40ba36ce027b57c",
+          "market": "FIDC",
+          "name": "RLX FLUOROCHEMICAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESP LIMITADA",
+          "cnpj": "68.522.785/0001-04",
+          "registration": "28054",
+          "processNumber": "SRE/3092/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 63750000,
+          "date": "2026-10-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c2e29da4c3cfd754",
+          "market": "FIDC",
+          "name": "ICRED INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.347.578/0001-64",
+          "registration": "27938",
+          "processNumber": "SRE/3006/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 195000000,
+          "date": "2026-09-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "511952071e0ccd5d",
+          "market": "FIDC",
+          "name": "FUNDAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.282.499/0001-85",
+          "registration": "27725",
+          "processNumber": "SRE/2794/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 291400000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "bfe8b703a00ecb0a",
+          "market": "FIDC",
+          "name": "CORUJA SATURNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.003.757/0001-35",
+          "registration": "27847",
+          "processNumber": "SRE/2900/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-09-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "28c4718d971e10c5",
+          "market": "FIDC",
+          "name": "FLG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
+          "cnpj": "67.878.258/0001-66",
+          "registration": "27689",
+          "processNumber": "SRE/2755/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 35000000,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ddb3568b9d3c6b84",
+          "market": "FIDC",
+          "name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+          "cnpj": "63.572.282/0001-11",
+          "registration": "27658",
+          "processNumber": "SRE/2727/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 4000000000,
+          "date": "2026-09-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2ae561da9b059e91",
+          "market": "FIDC",
+          "name": "DAYCOVAL D410 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "65.836.995/0001-70",
+          "registration": "26150",
+          "processNumber": "SRE/1358/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 200000000,
+          "date": "2026-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b39bcf005c645553",
+          "market": "FIDC",
+          "name": "SOL AGORA IV FIDC SEGMENTO FINANCEIRO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.473.122/0001-40",
+          "registration": "25661",
+          "processNumber": "SRE/0903/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 562500000,
+          "date": "2026-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2bcbb2a4b54963a6",
+          "market": "FIDC",
+          "name": "SB CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL DE CLASSE UNICA FECHADA",
+          "cnpj": "23.956.882/0001-69",
+          "registration": "25579",
+          "processNumber": "SRE/0835/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 500000000,
+          "date": "2026-04-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "840e53b49eca7835",
+          "market": "FIDC",
+          "name": "ARCELORMITTAL VERTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS - RESP LIMITADA",
+          "cnpj": "65.873.297/0001-45",
+          "registration": "25662",
+          "processNumber": "SRE/0907/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 128000000,
+          "date": "2026-04-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "dc710c9ecd38f4bb",
+          "market": "FIDC",
+          "name": "NATURA PAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO PESSOAL SOCIAL E IS RESP LTDA",
+          "cnpj": "57.816.252/0001-00",
+          "registration": "25790",
+          "processNumber": "SRE/1033/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 160000000,
+          "date": "2026-04-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "90e73d59124eadab",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS PAGSEGURO I",
+          "cnpj": "28.169.275/0001-72",
+          "registration": "25708",
+          "processNumber": "SRE/0954/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1000000000,
+          "date": "2026-03-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "16f9a94d82df9552",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS KINEA CRÉDITO ESTRUTURADO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.431.592/0001-28",
+          "registration": "25584",
+          "processNumber": "SRE/0830/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 375000059,
+          "date": "2026-03-26",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ca5ef0f2302a73e6",
+          "market": "FIDC",
+          "name": "GALLERIA HOME EQUITY FIDC",
+          "cnpj": "37.294.759/0001-34",
+          "registration": "24184",
+          "processNumber": "SRE/4557/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 75000000,
+          "date": "2025-12-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ed486668d01b8d5d",
+          "market": "FIDC",
+          "name": "FRIMESA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.171.340/0001-65",
+          "registration": "23782",
+          "processNumber": "SRE/4189/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 120000000,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "29940ba37344ebdc",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MEDICI - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.144.964/0001-60",
+          "registration": "23952",
+          "processNumber": "SRE/4368/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 511920000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bab27fbe7674eb71",
+          "market": "FIDC",
+          "name": "GRUPO WINE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
+          "cnpj": "63.630.763/0001-36",
+          "registration": "23784",
+          "processNumber": "SRE/4187/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 80000000,
+          "date": "2025-12-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b808f953b0cf23f2",
+          "market": "FIDC",
+          "name": "ISAAC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO SEGMENTO DE SERVIÇOS EDUCACIONAIS",
+          "cnpj": "44.516.049/0001-77",
+          "registration": "23741",
+          "processNumber": "SRE/4156/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 230000000,
+          "date": "2025-12-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0cf617db8d44089e",
+          "market": "FIDC",
+          "name": "H3 CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.507.342/0001-12",
+          "registration": "23368",
+          "processNumber": "SRE/3816/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 25000000,
+          "date": "2025-11-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9ff059a734744707",
+          "market": "FIDC",
+          "name": "INVESTCRED FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "29.226.654/0001-10",
+          "registration": "22983",
+          "processNumber": "SRE/3466/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 90000000,
+          "date": "2025-10-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3270693b0d0b0004",
+          "market": "FIDC",
+          "name": "ACTUM ATIVOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.310.491/0001-97",
+          "registration": "24709",
+          "processNumber": "SRE/0450/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1350000000,
+          "date": "2025-10-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "31029adfff791817",
+          "market": "FIDC",
+          "name": "CLASSE ÚNICA DO FIDC CRÉDITO NITRO AGRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.554.551/0001-38",
+          "registration": "22922",
+          "processNumber": "SRE/3409/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 187500000,
+          "date": "2025-10-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "db03912f149a4ecf",
+          "market": "FIDC",
+          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III CHAMADA DE CAPITAL FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.014.120/0001-03",
+          "registration": "21756",
+          "processNumber": "SRE/2435/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 300000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "57f50f1c743d418f",
+          "market": "FIDC",
+          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III UPFRONT FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.014.262/0001-62",
+          "registration": "21755",
+          "processNumber": "SRE/2436/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 250000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6bff5b9b97d0b4d9",
+          "market": "FIDC",
+          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.291.962/0001-27",
+          "registration": "21433",
+          "processNumber": "SRE/2166/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2025-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Revogada",
+          "publications": []
+        },
+        {
+          "id": "846dee4c5d59464b",
+          "market": "FIDC",
+          "name": "ALTOMAX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO RECEBÍVEIS COMERCIAIS DE RESP LTDA",
+          "cnpj": "58.288.437/0001-52",
+          "registration": "21585",
+          "processNumber": "SRE/2292/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 15000000,
+          "date": "2025-07-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8e81588ad19defc9",
+          "market": "FIDC",
+          "name": "CRÉDITO UNIVERSITÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "08.417.544/0001-65",
+          "registration": "21284",
+          "processNumber": "SRE/2023/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 468000000,
+          "date": "2025-07-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "53ed0be9cc081462",
+          "market": "FIDC",
+          "name": "SUMUP SOLO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILI",
+          "cnpj": "45.598.747/0001-21",
+          "registration": "20329",
+          "processNumber": "SRE/1150/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 332500000,
+          "date": "2025-04-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 55,
+          "volume": 18114045059
+        },
+        {
+          "market": "FIAGRO",
+          "count": 14,
+          "volume": 4859498000
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 11952159211.42
         }
       ]
     },
@@ -11719,8 +11719,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 2,
-          "volume": 75000000
+          "count": 3,
+          "volume": 135000000
         },
         {
           "market": "FII",
@@ -15384,6 +15384,839 @@
       ]
     },
     {
+      "key": "CNPJ:58160789000128",
+      "name": "BANCO SAFRA S/A",
+      "cnpj": "58.160.789/0001-28",
+      "stats12m": {
+        "offers": 4,
+        "volume": 519999971.40000004,
+        "offersWithVolume": 4,
+        "averageTicket": 129999992.85000001
+      },
+      "byMonth": [
+        {
+          "month": "2023-02",
+          "count": 1,
+          "volume": 24520940.49
+        },
+        {
+          "month": "2023-12",
+          "count": 3,
+          "volume": 404238940.67
+        },
+        {
+          "month": "2024-04",
+          "count": 2,
+          "volume": 77515393.49
+        },
+        {
+          "month": "2025-02",
+          "count": 3,
+          "volume": 110677697.63000001
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 52603.95
+        },
+        {
+          "month": "2025-11",
+          "count": 1,
+          "volume": 2499970.66
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 93000000.74
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 175000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 249500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6fa548a799ca0e44",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS TRAMONTINA II",
+          "cnpj": "69.683.344/0001-49",
+          "registration": "28481",
+          "processNumber": "SRE/3485/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 249500000,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3715ed1a34c57606",
+          "market": "FIDC",
+          "name": "ESTRATÉGIA ATIVOS JUDICIAIS IV - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "42.513.856/0001-00",
+          "registration": "27911",
+          "processNumber": "SRE/2965/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 175000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "fa24a0db11f23152",
+          "market": "FIDC",
+          "name": "ESTRATÉGIA ATIVOS JUDICIAIS III - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "42.513.808/0001-12",
+          "registration": "27621",
+          "processNumber": "SRE/2691/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 93000000.74,
+          "date": "2026-08-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3605f9ff523b9cdd",
+          "market": "FIDC",
+          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "26.607.493/0001-16",
+          "registration": "23279",
+          "processNumber": "SRE/3732/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 2499970.66,
+          "date": "2025-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e0d302ab48d054ff",
+          "market": "FIDC",
+          "name": "STEP-UP II CRÉDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "17.206.614/0001-27",
+          "registration": "19871",
+          "processNumber": "SRE/0777/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 52603.95,
+          "date": "2025-03-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "44d78c8d6263a6fa",
+          "market": "FIDC",
+          "name": "JF DIREITOS CREDITÓRIOS SELECIONADOS FIDC - RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.720.187/0001-64",
+          "registration": "19631",
+          "processNumber": "SRE/0597/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 44467468.24,
+          "date": "2025-02-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b4ed7d5ef6830caa",
+          "market": "FIDC",
+          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "26.607.493/0001-16",
+          "registration": "19607",
+          "processNumber": "SRE/0599/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 45000158.66,
+          "date": "2025-02-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ebf26e9368bf044b",
+          "market": "FIDC",
+          "name": "STEP-UP XIV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "37.484.183/0001-78",
+          "registration": "19608",
+          "processNumber": "SRE/0601/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 21210070.73,
+          "date": "2025-02-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "962dc3009756daac",
+          "market": "FIDC",
+          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "26.607.493/0001-16",
+          "registration": "15179",
+          "processNumber": "SRE/0883/2024",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 77400053.1,
+          "date": "2024-04-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7c0c9d5e3b5e76aa",
+          "market": "FIDC",
+          "name": "STEP-UP XIV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS",
+          "cnpj": "37.484.183/0001-78",
+          "registration": "15197",
+          "processNumber": "SRE/0884/2024",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 115340.39,
+          "date": "2024-04-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "67fbe6a7a5abf07a",
+          "market": "FIDC",
+          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "29.746.371/0001-07",
+          "registration": "4102",
+          "processNumber": "SRE/3035/2023",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 8200124.34,
+          "date": "2023-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2967c36812904cbf",
+          "market": "FIDC",
+          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "29.746.371/0001-07",
+          "registration": "3885",
+          "processNumber": "SRE/2931/2023",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 245768786.58,
+          "date": "2023-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d7c97932ea591ab0",
+          "market": "FIDC",
+          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "26.607.493/0001-16",
+          "registration": "3884",
+          "processNumber": "SRE/2902/2023",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 150270029.75,
+          "date": "2023-12-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "894f935182686333",
+          "market": "FIDC",
+          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "29.746.371/0001-07",
+          "registration": "594",
+          "processNumber": "SRE/0161/2023",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 24520940.49,
+          "date": "2023-02-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "406092b87c157b3e",
+          "market": "FIDC",
+          "name": "STEP UP IV - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "27.216.590/0001-40",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 56267900,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-01-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "84bcb42ccb9ee508",
+          "market": "FIDC",
+          "name": "STEP UP XI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS - MULTICARTEIRA OUTROS",
+          "cnpj": "20.826.761/0001-04",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 1026632.75,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-08-13",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-06-24",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-09-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "14c176bdd824664f",
+          "market": "FIDC",
+          "name": "STEP-UP CRÉDITO JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "11.439.669/0001-09",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 60391510.66,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-10-04",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "3707a62b758e18cd",
+          "market": "FIDC",
+          "name": "STEP-UP II CRÉDITO JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "17.206.614/0001-27",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 363074.35,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-04",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-06-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c2763f4b6b6289ac",
+          "market": "FIDC",
+          "name": "STEP-UP IX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "29.746.391/0001-70",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 47930581.28,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-02-22",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-04-08",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-18",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "f08333ee92bd015b",
+          "market": "FIDC",
+          "name": "STEP-UP V FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "28.849.581/0001-50",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 101032337.54,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-06-22",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-09-21",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-09",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "936f6b1377af1552",
+          "market": "FIDC",
+          "name": "STEP-UP VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "28.974.016/0001-14",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 523120.79,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-03-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "212502d7fa9a2dfc",
+          "market": "FIDC",
+          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "26.607.493/0001-16",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 211083281.07,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-05-24",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-10-07",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-10",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "75852e9feba2bfb2",
+          "market": "FIDC",
+          "name": "STEP-UP VIII FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "29.746.406/0001-08",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 211533548.67000002,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-12-27",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-06-07",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-06-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "59da72393413ec9c",
+          "market": "FIDC",
+          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "29.746.371/0001-07",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 262812713.46,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-01-06",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-18",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-06-10",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-10-04",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c29586bd1684baee",
+          "market": "FIDC",
+          "name": "STEP-UP XII FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS",
+          "cnpj": "34.737.918/0001-30",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 7222758.57,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-05-11",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-10-04",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "7c148c13fc376f23",
+          "market": "FIDC",
+          "name": "STEP-UP XIV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS",
+          "cnpj": "37.484.183/0001-78",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 1603881.61,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-09",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "0940ee9fe6691dbc",
+          "market": "FIDC",
+          "name": "STEP-UP XVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NAO-PADRONIZADOS",
+          "cnpj": "34.737.414/0001-10",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 404836734.66999996,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-04-05",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-12-15",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "098e5105aa98ad8e",
+          "market": "FIDC",
+          "name": "STEP-UP XVII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS",
+          "cnpj": "42.500.392/0001-06",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 40500000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-09-15",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 28,
+          "volume": 2544133623.0499997
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 11,
+          "volume": 6709309178.04
+        }
+      ]
+    },
+    {
       "key": "CNPJ:45246410000155",
       "name": "BANCO GENIAL S.A.",
       "cnpj": "45.246.410/0001-55",
@@ -17212,818 +18045,6 @@
       ]
     },
     {
-      "key": "CNPJ:58160789000128",
-      "name": "BANCO SAFRA S/A",
-      "cnpj": "58.160.789/0001-28",
-      "stats12m": {
-        "offers": 3,
-        "volume": 270499971.40000004,
-        "offersWithVolume": 3,
-        "averageTicket": 90166657.13333334
-      },
-      "byMonth": [
-        {
-          "month": "2023-02",
-          "count": 1,
-          "volume": 24520940.49
-        },
-        {
-          "month": "2023-12",
-          "count": 3,
-          "volume": 404238940.67
-        },
-        {
-          "month": "2024-04",
-          "count": 2,
-          "volume": 77515393.49
-        },
-        {
-          "month": "2025-02",
-          "count": 3,
-          "volume": 110677697.63000001
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 52603.95
-        },
-        {
-          "month": "2025-11",
-          "count": 1,
-          "volume": 2499970.66
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 93000000.74
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 175000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "3715ed1a34c57606",
-          "market": "FIDC",
-          "name": "ESTRATÉGIA ATIVOS JUDICIAIS IV - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "42.513.856/0001-00",
-          "registration": "27911",
-          "processNumber": "SRE/2965/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 175000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "fa24a0db11f23152",
-          "market": "FIDC",
-          "name": "ESTRATÉGIA ATIVOS JUDICIAIS III - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "42.513.808/0001-12",
-          "registration": "27621",
-          "processNumber": "SRE/2691/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 93000000.74,
-          "date": "2026-08-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3605f9ff523b9cdd",
-          "market": "FIDC",
-          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "26.607.493/0001-16",
-          "registration": "23279",
-          "processNumber": "SRE/3732/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 2499970.66,
-          "date": "2025-11-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e0d302ab48d054ff",
-          "market": "FIDC",
-          "name": "STEP-UP II CRÉDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "17.206.614/0001-27",
-          "registration": "19871",
-          "processNumber": "SRE/0777/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 52603.95,
-          "date": "2025-03-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "44d78c8d6263a6fa",
-          "market": "FIDC",
-          "name": "JF DIREITOS CREDITÓRIOS SELECIONADOS FIDC - RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.720.187/0001-64",
-          "registration": "19631",
-          "processNumber": "SRE/0597/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 44467468.24,
-          "date": "2025-02-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b4ed7d5ef6830caa",
-          "market": "FIDC",
-          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "26.607.493/0001-16",
-          "registration": "19607",
-          "processNumber": "SRE/0599/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 45000158.66,
-          "date": "2025-02-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ebf26e9368bf044b",
-          "market": "FIDC",
-          "name": "STEP-UP XIV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "37.484.183/0001-78",
-          "registration": "19608",
-          "processNumber": "SRE/0601/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 21210070.73,
-          "date": "2025-02-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "962dc3009756daac",
-          "market": "FIDC",
-          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "26.607.493/0001-16",
-          "registration": "15179",
-          "processNumber": "SRE/0883/2024",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 77400053.1,
-          "date": "2024-04-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7c0c9d5e3b5e76aa",
-          "market": "FIDC",
-          "name": "STEP-UP XIV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS",
-          "cnpj": "37.484.183/0001-78",
-          "registration": "15197",
-          "processNumber": "SRE/0884/2024",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 115340.39,
-          "date": "2024-04-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "67fbe6a7a5abf07a",
-          "market": "FIDC",
-          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "29.746.371/0001-07",
-          "registration": "4102",
-          "processNumber": "SRE/3035/2023",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 8200124.34,
-          "date": "2023-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2967c36812904cbf",
-          "market": "FIDC",
-          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "29.746.371/0001-07",
-          "registration": "3885",
-          "processNumber": "SRE/2931/2023",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 245768786.58,
-          "date": "2023-12-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d7c97932ea591ab0",
-          "market": "FIDC",
-          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "26.607.493/0001-16",
-          "registration": "3884",
-          "processNumber": "SRE/2902/2023",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 150270029.75,
-          "date": "2023-12-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "894f935182686333",
-          "market": "FIDC",
-          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "29.746.371/0001-07",
-          "registration": "594",
-          "processNumber": "SRE/0161/2023",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 24520940.49,
-          "date": "2023-02-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "406092b87c157b3e",
-          "market": "FIDC",
-          "name": "STEP UP IV - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "27.216.590/0001-40",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 56267900,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-01-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "84bcb42ccb9ee508",
-          "market": "FIDC",
-          "name": "STEP UP XI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS - MULTICARTEIRA OUTROS",
-          "cnpj": "20.826.761/0001-04",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 1026632.75,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-08-13",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-06-24",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-09-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "14c176bdd824664f",
-          "market": "FIDC",
-          "name": "STEP-UP CRÉDITO JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "11.439.669/0001-09",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 60391510.66,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-10-04",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "3707a62b758e18cd",
-          "market": "FIDC",
-          "name": "STEP-UP II CRÉDITO JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "17.206.614/0001-27",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 363074.35,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-04",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-06-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c2763f4b6b6289ac",
-          "market": "FIDC",
-          "name": "STEP-UP IX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "29.746.391/0001-70",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 47930581.28,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-02-22",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-04-08",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-18",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "f08333ee92bd015b",
-          "market": "FIDC",
-          "name": "STEP-UP V FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "28.849.581/0001-50",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 101032337.54,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-06-22",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-09-21",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-09",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "936f6b1377af1552",
-          "market": "FIDC",
-          "name": "STEP-UP VI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "28.974.016/0001-14",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 523120.79,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-03-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "212502d7fa9a2dfc",
-          "market": "FIDC",
-          "name": "STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "26.607.493/0001-16",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 211083281.07,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-05-24",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-10-07",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-10",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "75852e9feba2bfb2",
-          "market": "FIDC",
-          "name": "STEP-UP VIII FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "29.746.406/0001-08",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 211533548.67000002,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-12-27",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-06-07",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-06-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "59da72393413ec9c",
-          "market": "FIDC",
-          "name": "STEP-UP X FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "29.746.371/0001-07",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 262812713.46,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-01-06",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-18",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-06-10",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-10-04",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c29586bd1684baee",
-          "market": "FIDC",
-          "name": "STEP-UP XII FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS",
-          "cnpj": "34.737.918/0001-30",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 7222758.57,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-05-11",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-10-04",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "7c148c13fc376f23",
-          "market": "FIDC",
-          "name": "STEP-UP XIV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS",
-          "cnpj": "37.484.183/0001-78",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 1603881.61,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-09",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "0940ee9fe6691dbc",
-          "market": "FIDC",
-          "name": "STEP-UP XVI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NAO-PADRONIZADOS",
-          "cnpj": "34.737.414/0001-10",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 404836734.66999996,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-04-05",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-12-15",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "098e5105aa98ad8e",
-          "market": "FIDC",
-          "name": "STEP-UP XVII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS",
-          "cnpj": "42.500.392/0001-06",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 40500000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-09-15",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 27,
-          "volume": 2294633623.0499997
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 11,
-          "volume": 6709309178.04
-        }
-      ]
-    },
-    {
       "key": "CNPJ:02819125000173",
       "name": "UBS BRASIL CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "02.819.125/0001-73",
@@ -18194,6 +18215,540 @@
           "market": "FII",
           "count": 1,
           "volume": 1000000000
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:36266751000100",
+      "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "36.266.751/0001-00",
+      "stats12m": {
+        "offers": 3,
+        "volume": 208000000,
+        "offersWithVolume": 3,
+        "averageTicket": 69333333.33333333
+      },
+      "byMonth": [
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2026-01",
+          "count": 1,
+          "volume": 175000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 15000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 18000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "7b6084958e4b8805",
+          "market": "FIDC",
+          "name": "VF AUTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.127.465/0001-90",
+          "registration": "28472",
+          "processNumber": "SRE/3479/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 18000000,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "889ad1f1a82127fe",
+          "market": "FIDC",
+          "name": "G5 CHIMERA FEEDER II FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "68.975.436/0001-30",
+          "registration": "27836",
+          "processNumber": "SRE/2903/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 15000000,
+          "date": "2026-09-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5af364475f2a47cf",
+          "market": "FIDC",
+          "name": "ESTANHO CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS- RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.156.218/0001-12",
+          "registration": "24530",
+          "processNumber": "SRE/0279/2026",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 175000000,
+          "date": "2026-01-30",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5e1044a9ab4c8300",
+          "market": "FIDC",
+          "name": "GANDRIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+          "cnpj": "54.503.197/0001-00",
+          "registration": "16952",
+          "processNumber": "SRE/2473/2024",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 50000000,
+          "date": "2024-08-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "155cd427ab62b1ea",
+          "market": "FIDC",
+          "name": "3R EDUCACIONAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "42.299.351/0001-95",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 27271420,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-08-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a43ac06d91f475d1",
+          "market": "FIDC",
+          "name": "CAPTALYS DIRECT LENDING FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "43.164.864/0001-51",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 138650000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-12-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "770af553eac33851",
+          "market": "FIDC",
+          "name": "FIDC FUNTTEL PADTEC FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "42.299.401/0001-34",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 80000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-03-25",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "4e74cbe66068cee8",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COOPER CARD",
+          "cnpj": "44.028.870/0001-44",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 850000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2025-04-11",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c6ff388f96badbe3",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIRIETOS CREDITÓRIOS REDE DE POSTOS MONTE CARLO",
+          "cnpj": "43.143.480/0001-52",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 100000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-11-10",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "b3c11b90a0d84516",
+          "market": "FIDC",
+          "name": "IRACEMA III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "43.164.886/0001-11",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 71585780,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2025-04-11",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "63e620b788121e96",
+          "market": "FIDC",
+          "name": "MERCADO CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO",
+          "cnpj": "33.254.370/0001-04",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 100000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-09-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "44a30c97381df258",
+          "market": "FIDC",
+          "name": "MERCADO CRÉDITO II BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS",
+          "cnpj": "41.970.012/0001-26",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 1200000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-11-22",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "591f19c5767bae98",
+          "market": "FIDC",
+          "name": "NAIA ZETTA VENTURE DEBT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "41.970.097/0001-42",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 34700000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "070f2f4ea0382df2",
+          "market": "FIDC",
+          "name": "PRAT 12 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "42.299.306/0001-30",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 228000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-08-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a6f9699aa8012148",
+          "market": "FIDC",
+          "name": "PRAT 12 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS",
+          "cnpj": "42.299.306/0001-30",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 265000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-08-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "aad0e0593a38039f",
+          "market": "FIDC",
+          "name": "RAPPICARD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "37.986.018/0001-14",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 80000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-10",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-02-24",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "2b82d1e5408e5751",
+          "market": "FIDC",
+          "name": "STZ FORNECEDORES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "43.143.438/0001-31",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 24000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-02",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "f0c206327baa7fbe",
+          "market": "FIDC",
+          "name": "VECTOR EDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "41.970.123/0001-32",
+          "registration": "",
+          "processNumber": "",
+          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "36.266.751/0001-00",
+          "volume": 18955000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-08",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-12-05",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 18,
+          "volume": 2627012200
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 5,
+          "volume": 876400000
         }
       ]
     },
@@ -19701,519 +20256,6 @@
           "market": "FII",
           "count": 0,
           "volume": 0
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:36266751000100",
-      "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "36.266.751/0001-00",
-      "stats12m": {
-        "offers": 2,
-        "volume": 190000000,
-        "offersWithVolume": 2,
-        "averageTicket": 95000000
-      },
-      "byMonth": [
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 50000000
-        },
-        {
-          "month": "2026-01",
-          "count": 1,
-          "volume": 175000000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 15000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "889ad1f1a82127fe",
-          "market": "FIDC",
-          "name": "G5 CHIMERA FEEDER II FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "68.975.436/0001-30",
-          "registration": "27836",
-          "processNumber": "SRE/2903/2026",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 15000000,
-          "date": "2026-09-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "5af364475f2a47cf",
-          "market": "FIDC",
-          "name": "ESTANHO CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS- RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.156.218/0001-12",
-          "registration": "24530",
-          "processNumber": "SRE/0279/2026",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 175000000,
-          "date": "2026-01-30",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "5e1044a9ab4c8300",
-          "market": "FIDC",
-          "name": "GANDRIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
-          "cnpj": "54.503.197/0001-00",
-          "registration": "16952",
-          "processNumber": "SRE/2473/2024",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 50000000,
-          "date": "2024-08-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        },
-        {
-          "id": "155cd427ab62b1ea",
-          "market": "FIDC",
-          "name": "3R EDUCACIONAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "42.299.351/0001-95",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 27271420,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-08-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a43ac06d91f475d1",
-          "market": "FIDC",
-          "name": "CAPTALYS DIRECT LENDING FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "43.164.864/0001-51",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 138650000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-12-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "770af553eac33851",
-          "market": "FIDC",
-          "name": "FIDC FUNTTEL PADTEC FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "42.299.401/0001-34",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 80000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-03-25",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "4e74cbe66068cee8",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COOPER CARD",
-          "cnpj": "44.028.870/0001-44",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 850000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2025-04-11",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c6ff388f96badbe3",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIRIETOS CREDITÓRIOS REDE DE POSTOS MONTE CARLO",
-          "cnpj": "43.143.480/0001-52",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 100000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-11-10",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "b3c11b90a0d84516",
-          "market": "FIDC",
-          "name": "IRACEMA III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "43.164.886/0001-11",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 71585780,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2025-04-11",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "63e620b788121e96",
-          "market": "FIDC",
-          "name": "MERCADO CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO",
-          "cnpj": "33.254.370/0001-04",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 100000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "44a30c97381df258",
-          "market": "FIDC",
-          "name": "MERCADO CRÉDITO II BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS",
-          "cnpj": "41.970.012/0001-26",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 1200000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-11-22",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "591f19c5767bae98",
-          "market": "FIDC",
-          "name": "NAIA ZETTA VENTURE DEBT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "41.970.097/0001-42",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 34700000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "070f2f4ea0382df2",
-          "market": "FIDC",
-          "name": "PRAT 12 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "42.299.306/0001-30",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 228000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-08-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a6f9699aa8012148",
-          "market": "FIDC",
-          "name": "PRAT 12 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS",
-          "cnpj": "42.299.306/0001-30",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 265000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-08-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "aad0e0593a38039f",
-          "market": "FIDC",
-          "name": "RAPPICARD FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "37.986.018/0001-14",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 80000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-10",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-02-24",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "2b82d1e5408e5751",
-          "market": "FIDC",
-          "name": "STZ FORNECEDORES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "43.143.438/0001-31",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 24000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-02",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "f0c206327baa7fbe",
-          "market": "FIDC",
-          "name": "VECTOR EDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "41.970.123/0001-32",
-          "registration": "",
-          "processNumber": "",
-          "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "36.266.751/0001-00",
-          "volume": 18955000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-08",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-12-05",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 17,
-          "volume": 2609012200
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 5,
-          "volume": 876400000
         }
       ]
     },

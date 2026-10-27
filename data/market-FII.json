@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-26T08:01:13.977931",
+  "sourceUpdatedAt": "2026-10-27T08:00:42.629599",
   "market": "FII",
-  "count": 1524,
+  "count": 1525,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 22,
-    "volumeInMonth": 6724701574.2300005,
-    "offersWithVolumeInMonth": 22,
+    "offersInMonth": 23,
+    "volumeInMonth": 6774701574.2300005,
+    "offersWithVolumeInMonth": 23,
     "leadersInMonth": 16,
     "byRite": [
       {
         "name": "Automático",
-        "count": 22
+        "count": 23
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 19
+        "count": 20
       },
       {
         "name": "Público geral",
@@ -38,6 +38,12 @@
         "volume": 619321008
       },
       {
+        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "13.486.793/0001-42",
+        "count": 3,
+        "volume": 159378000
+      },
+      {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
         "count": 2,
@@ -48,12 +54,6 @@
         "cnpj": "02.332.886/0001-04",
         "count": 2,
         "volume": 1213500000
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 2,
-        "volume": 109378000
       },
       {
         "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -197,15 +197,15 @@
       },
       {
         "month": "2026-10",
-        "count": 22,
-        "volume": 6724701574.2300005,
-        "withVolume": 22
+        "count": 23,
+        "volume": 6774701574.2300005,
+        "withVolume": 23
       }
     ],
     "trailing12": {
-      "offers": 222,
-      "volume": 72541211864.05,
-      "offersWithVolume": 222,
+      "offers": 223,
+      "volume": 72591211864.05,
+      "offersWithVolume": 223,
       "leaders": 37,
       "topLeaders": [
         {
@@ -223,8 +223,8 @@
         {
           "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
           "cnpj": "13.486.793/0001-42",
-          "count": 20,
-          "volume": 6362022698.420001
+          "count": 21,
+          "volume": 6412022698.420001
         },
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -307,6 +307,30 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "9196c07a6a894f66",
+        "market": "FII",
+        "name": "ZAVIT CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "52.101.897/0001-43",
+        "registration": "28483",
+        "processNumber": "SRE/3489/2026",
+        "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "13.486.793/0001-42",
+        "volume": 50000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-26",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "0f1f2d3f35bc8c8b",
         "market": "FII",
@@ -642,33 +666,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "fb90df99c93d10c9",
-        "market": "FII",
-        "name": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "41.076.851/0001-03",
-        "registration": "28287",
-        "processNumber": "SRE/3312/2026",
-        "leader": "EXES SERVICOS FINANCEIROS LTDA",
-        "leaderCnpj": "55.108.951/0001-70",
-        "volume": 312500007.55,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Registro Concedido",
-        "date": "2026-10-09",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-26T17:23:53.976Z"
+  "updatedAt": "2026-10-27T16:40:59.325Z"
 }

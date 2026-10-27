@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-26T17:23:54.016Z",
+  "generatedAt": "2026-10-27T16:40:59.391Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-26T08:01:13.977931"
+    "updatedAt": "2026-10-27T08:00:42.629599"
   },
   "coordinators": [
     {
@@ -155,7 +155,7 @@
           "date": "2026-09-14",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1216,10 +1216,10 @@
       "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "13.486.793/0001-42",
       "stats12m": {
-        "offers": 20,
-        "volume": 6362022698.420001,
-        "offersWithVolume": 20,
-        "averageTicket": 318101134.92100006
+        "offers": 21,
+        "volume": 6412022698.420001,
+        "offersWithVolume": 21,
+        "averageTicket": 305334414.2104762
       },
       "byMonth": [
         {
@@ -1309,11 +1309,27 @@
         },
         {
           "month": "2026-10",
-          "count": 2,
-          "volume": 109378000
+          "count": 3,
+          "volume": 159378000
         }
       ],
       "recentOffers": [
+        {
+          "id": "9196c07a6a894f66",
+          "market": "FII",
+          "name": "ZAVIT CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.101.897/0001-43",
+          "registration": "28483",
+          "processNumber": "SRE/3489/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 50000000,
+          "date": "2026-10-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "cb4988b820b2f145",
           "market": "FII",
@@ -1777,22 +1793,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "41ab0444ba23c0ef",
-          "market": "FII",
-          "name": "OPPORTUNITY BALASSIANO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "42.273.290/0001-97",
-          "registration": "18176",
-          "processNumber": "SRE/3501/2024",
-          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.486.793/0001-42",
-          "volume": 30000694.63,
-          "date": "2024-11-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -1808,8 +1808,8 @@
         },
         {
           "market": "FII",
-          "count": 147,
-          "volume": 27845014596.590004
+          "count": 148,
+          "volume": 27895014596.590004
         }
       ]
     },
@@ -2194,7 +2194,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 13,
+          "count": 14,
           "volume": 4859498000
         },
         {
@@ -4391,8 +4391,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 32,
-          "volume": 2308000243.21
+          "count": 33,
+          "volume": 2378000390.5299997
         },
         {
           "market": "FIAGRO",
@@ -5084,8 +5084,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1064,
-          "volume": 59020320860.84993
+          "count": 1065,
+          "volume": 59080320860.84994
         },
         {
           "market": "FIAGRO",
@@ -6706,8 +6706,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 27,
-          "volume": 2294633623.0499997
+          "count": 28,
+          "volume": 2544133623.0499997
         },
         {
           "market": "FIAGRO",
@@ -8884,8 +8884,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 17,
-          "volume": 2609012200
+          "count": 18,
+          "volume": 2627012200
         },
         {
           "market": "FIAGRO",
@@ -10638,8 +10638,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 2,
-          "volume": 75000000
+          "count": 3,
+          "volume": 135000000
         },
         {
           "market": "FII",
@@ -14047,7 +14047,7 @@
           "date": "2026-10-08",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         }
       ],
