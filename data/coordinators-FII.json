@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-27T16:40:59.391Z",
+  "generatedAt": "2026-10-28T17:10:41.090Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-27T08:00:42.629599"
+    "updatedAt": "2026-10-28T08:00:38.376207"
   },
   "coordinators": [
     {
@@ -1216,10 +1216,10 @@
       "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "13.486.793/0001-42",
       "stats12m": {
-        "offers": 21,
-        "volume": 6412022698.420001,
-        "offersWithVolume": 21,
-        "averageTicket": 305334414.2104762
+        "offers": 22,
+        "volume": 6441622698.420001,
+        "offersWithVolume": 22,
+        "averageTicket": 292801031.7463637
       },
       "byMonth": [
         {
@@ -1309,11 +1309,27 @@
         },
         {
           "month": "2026-10",
-          "count": 3,
-          "volume": 159378000
+          "count": 4,
+          "volume": 188978000
         }
       ],
       "recentOffers": [
+        {
+          "id": "2c93aedddf5d5b75",
+          "market": "FII",
+          "name": "CTA V FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.636.844/0001-20",
+          "registration": "28484",
+          "processNumber": "SRE/3492/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 28000000,
+          "date": "2026-10-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "9196c07a6a894f66",
           "market": "FII",
@@ -1323,7 +1339,7 @@
           "processNumber": "SRE/3489/2026",
           "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "leaderCnpj": "13.486.793/0001-42",
-          "volume": 50000000,
+          "volume": 51600000,
           "date": "2026-10-26",
           "rite": "Automático",
           "audience": "Profissional",
@@ -1777,22 +1793,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "ceb62e7e04cf34fd",
-          "market": "FII",
-          "name": "BRIX FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "35.360.651/0001-77",
-          "registration": "18177",
-          "processNumber": "SRE/3500/2024",
-          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.486.793/0001-42",
-          "volume": 30001703.7,
-          "date": "2024-11-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -1808,8 +1808,8 @@
         },
         {
           "market": "FII",
-          "count": 148,
-          "volume": 27895014596.590004
+          "count": 149,
+          "volume": 27924614596.590004
         }
       ]
     },
@@ -2775,8 +2775,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 140,
-          "volume": 2057174934.19
+          "count": 142,
+          "volume": 2064174934.19
         },
         {
           "market": "FIAGRO",
@@ -5084,8 +5084,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1065,
-          "volume": 59080320860.84994
+          "count": 1066,
+          "volume": 59140320860.84994
         },
         {
           "market": "FIAGRO",
@@ -14054,8 +14054,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 3,
-          "volume": 120000000.4
+          "count": 4,
+          "volume": 240000000.4
         },
         {
           "market": "FIAGRO",
@@ -14600,8 +14600,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 86,
-          "volume": 2276824193.7599998
+          "count": 88,
+          "volume": 2306824193.76
         },
         {
           "market": "FIAGRO",
@@ -14813,7 +14813,7 @@
         {
           "market": "FIDC",
           "count": 11,
-          "volume": 3144500000
+          "volume": 3294500000
         },
         {
           "market": "FIAGRO",
@@ -23811,8 +23811,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 7,
-          "volume": 44150000
+          "count": 8,
+          "volume": 49150000
         },
         {
           "market": "FIAGRO",

@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-27T08:00:42.629599",
+  "sourceUpdatedAt": "2026-10-28T08:00:38.376207",
   "market": "FII",
-  "count": 1525,
+  "count": 1526,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 23,
-    "volumeInMonth": 6774701574.2300005,
-    "offersWithVolumeInMonth": 23,
+    "offersInMonth": 24,
+    "volumeInMonth": 6804301574.2300005,
+    "offersWithVolumeInMonth": 24,
     "leadersInMonth": 16,
     "byRite": [
       {
         "name": "Automático",
-        "count": 23
+        "count": 24
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 20
+        "count": 21
       },
       {
         "name": "Público geral",
@@ -32,16 +32,16 @@
     ],
     "topLeaders": [
       {
+        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "13.486.793/0001-42",
+        "count": 4,
+        "volume": 188978000
+      },
+      {
         "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
         "cnpj": "18.945.670/0001-46",
         "count": 3,
         "volume": 619321008
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 3,
-        "volume": 159378000
       },
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -197,15 +197,15 @@
       },
       {
         "month": "2026-10",
-        "count": 23,
-        "volume": 6774701574.2300005,
-        "withVolume": 23
+        "count": 24,
+        "volume": 6804301574.2300005,
+        "withVolume": 24
       }
     ],
     "trailing12": {
-      "offers": 223,
-      "volume": 72591211864.05,
-      "offersWithVolume": 223,
+      "offers": 224,
+      "volume": 72620811864.05,
+      "offersWithVolume": 224,
       "leaders": 37,
       "topLeaders": [
         {
@@ -221,10 +221,10 @@
           "volume": 6741415647.82
         },
         {
-          "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "13.486.793/0001-42",
-          "count": 21,
-          "volume": 6412022698.420001
+          "count": 22,
+          "volume": 6441622698.420001
         },
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -302,11 +302,35 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 130000000,
+      "medianPositiveVolume": 127543545.225,
       "outlierCount": 0,
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "2c93aedddf5d5b75",
+        "market": "FII",
+        "name": "CTA V FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.636.844/0001-20",
+        "registration": "28484",
+        "processNumber": "SRE/3492/2026",
+        "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "13.486.793/0001-42",
+        "volume": 28000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-27",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "9196c07a6a894f66",
         "market": "FII",
@@ -316,7 +340,7 @@
         "processNumber": "SRE/3489/2026",
         "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "leaderCnpj": "13.486.793/0001-42",
-        "volume": 50000000,
+        "volume": 51600000,
         "volumeComponents": 1,
         "rite": "Automático",
         "audience": "Profissional",
@@ -642,33 +666,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "3392b3398f60ffab",
-        "market": "FII",
-        "name": "ATLAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.386.592/0001-28",
-        "registration": "28239",
-        "processNumber": "SRE/3330/2026",
-        "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "leaderCnpj": "18.945.670/0001-46",
-        "volume": 69096000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-13",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-27T16:40:59.325Z"
+  "updatedAt": "2026-10-28T17:10:41.021Z"
 }
