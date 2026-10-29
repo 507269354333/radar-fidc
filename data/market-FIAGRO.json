@@ -1,14 +1,14 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-28T08:00:38.376207",
+  "sourceUpdatedAt": "2026-10-29T08:00:38.075784",
   "market": "FIAGRO",
   "count": 187,
   "analytics": {
     "latestMonth": "2026-10",
     "offersInMonth": 15,
-    "volumeInMonth": 4581194943,
-    "offersWithVolumeInMonth": 12,
+    "volumeInMonth": 4621194943,
+    "offersWithVolumeInMonth": 13,
     "leadersInMonth": 9,
     "byRite": [
       {
@@ -31,7 +31,7 @@
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
         "count": 4,
-        "volume": 3530000000
+        "volume": 3570000000
       },
       {
         "name": "BANCO DAYCOVAL S.A.",
@@ -188,14 +188,14 @@
       {
         "month": "2026-10",
         "count": 15,
-        "volume": 4581194943,
-        "withVolume": 12
+        "volume": 4621194943,
+        "withVolume": 13
       }
     ],
     "trailing12": {
       "offers": 71,
-      "volume": 268932646887.55,
-      "offersWithVolume": 67,
+      "volume": 268972646887.55,
+      "offersWithVolume": 68,
       "leaders": 21,
       "topLeaders": [
         {
@@ -208,7 +208,7 @@
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
           "count": 9,
-          "volume": 4124498000
+          "volume": 4164498000
         },
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -292,7 +292,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 65000465.44,
+      "medianPositiveVolume": 64507732.72,
       "outlierCount": 1,
       "outliers": [
         {
@@ -305,6 +305,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "c83dddec2c1476c6",
+        "market": "FIAGRO",
+        "name": "MULTITÉCNICA FIAGRO RESPONSABILIDADE LIMITADA",
+        "cnpj": "53.215.017/0001-22",
+        "registration": "28468",
+        "processNumber": "SRE/3478/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 40000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-28",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "85ca0c940cc703a9",
         "market": "FIAGRO",
@@ -321,30 +345,6 @@
         "status": "Registro Concedido",
         "date": "2026-10-26",
         "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "c83dddec2c1476c6",
-        "market": "FIAGRO",
-        "name": "MULTITÉCNICA FIAGRO RESPONSABILIDADE LIMITADA",
-        "cnpj": "53.215.017/0001-22",
-        "registration": "28468",
-        "processNumber": "SRE/3478/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "leaderCnpj": "04.845.753/0001-59",
-        "volume": 0,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Aguardando Bookbuilding",
-        "date": "2026-10-26",
-        "dateBasis": "requerimento",
         "securities": [
           "Cotas de FIAGRO"
         ],
@@ -668,5 +668,5 @@
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-28T17:10:41.021Z"
+  "updatedAt": "2026-10-29T17:26:37.343Z"
 }

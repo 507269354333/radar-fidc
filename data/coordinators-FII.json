@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-10-28T17:10:41.090Z",
+  "generatedAt": "2026-10-29T17:26:37.389Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-28T08:00:38.376207"
+    "updatedAt": "2026-10-29T08:00:38.075784"
   },
   "coordinators": [
     {
@@ -12,7 +12,7 @@
       "name": "XP INVESTIMENTOS CCTVM S.A.",
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
-        "offers": 34,
+        "offers": 35,
         "volume": 23173140612.28,
         "offersWithVolume": 34,
         "averageTicket": 681562959.1847059
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-10",
-          "count": 2,
+          "count": 3,
           "volume": 1213500000
         }
       ],
       "recentOffers": [
+        {
+          "id": "c5c63c5c0f875758",
+          "market": "FII",
+          "name": "MAUÁ CAPITAL PRIME PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.853.463/0001-00",
+          "registration": "28524",
+          "processNumber": "SRE/3525/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 0,
+          "date": "2026-10-28",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "4303a42b6084828e",
           "market": "FII",
@@ -573,29 +589,13 @@
           "audience": "Público geral",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "455056820533a5eb",
-          "market": "FII",
-          "name": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "56.992.328/0001-96",
-          "registration": "23743",
-          "processNumber": "SRE/4159/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 5235000000,
-          "date": "2025-12-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 80,
-          "volume": 24487390133.030003
+          "count": 81,
+          "volume": 24612390133.030003
         },
         {
           "market": "FIAGRO",
@@ -604,7 +604,7 @@
         },
         {
           "market": "FII",
-          "count": 143,
+          "count": 144,
           "volume": 72383823026.59001
         }
       ]
@@ -614,10 +614,10 @@
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 24,
-        "volume": 6741415647.82,
-        "offersWithVolume": 24,
-        "averageTicket": 280892318.65916663
+        "offers": 25,
+        "volume": 7521415647.82,
+        "offersWithVolume": 25,
+        "averageTicket": 300856625.9128
       },
       "byMonth": [
         {
@@ -707,11 +707,27 @@
         },
         {
           "month": "2026-10",
-          "count": 2,
-          "volume": 1432392957.8
+          "count": 3,
+          "volume": 2212392957.8
         }
       ],
       "recentOffers": [
+        {
+          "id": "f03f26ab5c52fcea",
+          "market": "FII",
+          "name": "RIZA ARGOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.740.632/0001-98",
+          "registration": "28521",
+          "processNumber": "SRE/3519/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 780000000,
+          "date": "2026-10-28",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "87eb2d0074834526",
           "market": "FII",
@@ -1175,22 +1191,6 @@
           "audience": "Qualificado",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "3af40af564dd9261",
-          "market": "FII",
-          "name": "KINEA DESENVOLVIMENTO GUARARÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.305.758/0001-22",
-          "registration": "21111",
-          "processNumber": "SRE/1857/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 62500000,
-          "date": "2025-06-30",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -1206,8 +1206,8 @@
         },
         {
           "market": "FII",
-          "count": 178,
-          "volume": 26253101446.09
+          "count": 179,
+          "volume": 27033101446.090004
         }
       ]
     },
@@ -1798,8 +1798,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 178,
-          "volume": 21220365590.539997
+          "count": 179,
+          "volume": 21320365590.539997
         },
         {
           "market": "FIAGRO",
@@ -2195,7 +2195,7 @@
         {
           "market": "FIAGRO",
           "count": 14,
-          "volume": 4859498000
+          "volume": 4899498000
         },
         {
           "market": "FII",
@@ -3377,8 +3377,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 159,
-          "volume": 10932073198.759995
+          "count": 161,
+          "volume": 10988102161.209995
         },
         {
           "market": "FIAGRO",
@@ -3979,8 +3979,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 200,
-          "volume": 18004122056.010002
+          "count": 201,
+          "volume": 18054122056.010002
         },
         {
           "market": "FIAGRO",
@@ -11360,8 +11360,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 248,
-          "volume": 7297094414.030002
+          "count": 250,
+          "volume": 7317094414.030002
         },
         {
           "market": "FIAGRO",
@@ -17686,7 +17686,7 @@
         {
           "market": "FIDC",
           "count": 55,
-          "volume": 17730623370.97
+          "volume": 21030623370.969997
         },
         {
           "market": "FIAGRO",
