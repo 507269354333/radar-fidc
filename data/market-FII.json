@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-29T08:00:38.075784",
+  "sourceUpdatedAt": "2026-10-30T08:00:39.889244",
   "market": "FII",
-  "count": 1528,
+  "count": 1530,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 26,
-    "volumeInMonth": 7584301574.2300005,
-    "offersWithVolumeInMonth": 25,
-    "leadersInMonth": 16,
+    "offersInMonth": 28,
+    "volumeInMonth": 7892762574.2300005,
+    "offersWithVolumeInMonth": 27,
+    "leadersInMonth": 17,
     "byRite": [
       {
         "name": "Automático",
-        "count": 26
+        "count": 28
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 21
+        "count": 23
       },
       {
         "name": "Público geral",
@@ -56,6 +56,12 @@
         "volume": 619321008
       },
       {
+        "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+        "cnpj": "39.526.263/0001-74",
+        "count": 2,
+        "volume": 18500000
+      },
+      {
         "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "cnpj": "62.285.390/0001-40",
         "count": 2,
@@ -77,19 +83,13 @@
         "name": "BANCO BRADESCO BBI S.A.",
         "cnpj": "06.271.464/0001-19",
         "count": 1,
-        "volume": 580000000
+        "volume": 502961000
       },
       {
-        "name": "EXES SERVICOS FINANCEIROS LTDA",
-        "cnpj": "55.108.951/0001-70",
+        "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpj": "16.695.922/0001-09",
         "count": 1,
-        "volume": 312500007.55
-      },
-      {
-        "name": "BANCO BS2 S.A.",
-        "cnpj": "71.027.866/0001-34",
-        "count": 1,
-        "volume": 120000000
+        "volume": 370000000
       }
     ],
     "byMonth": [
@@ -197,15 +197,15 @@
       },
       {
         "month": "2026-10",
-        "count": 26,
-        "volume": 7584301574.2300005,
-        "withVolume": 25
+        "count": 28,
+        "volume": 7892762574.2300005,
+        "withVolume": 27
       }
     ],
     "trailing12": {
-      "offers": 226,
-      "volume": 73400811864.05,
-      "offersWithVolume": 225,
+      "offers": 228,
+      "volume": 73709272864.05,
+      "offersWithVolume": 227,
       "leaders": 37,
       "topLeaders": [
         {
@@ -227,16 +227,16 @@
           "volume": 6441622698.420001
         },
         {
+          "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "cnpj": "16.695.922/0001-09",
+          "count": 14,
+          "volume": 739840002.23
+        },
+        {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
           "count": 13,
           "volume": 8359467211.42
-        },
-        {
-          "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "cnpj": "16.695.922/0001-09",
-          "count": 13,
-          "volume": 369840002.23
         },
         {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -281,6 +281,12 @@
           "volume": 4745023687.42
         },
         {
+          "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+          "cnpj": "39.526.263/0001-74",
+          "count": 6,
+          "volume": 151000000
+        },
+        {
           "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
           "cnpj": "46.482.072/0001-13",
           "count": 5,
@@ -291,12 +297,6 @@
           "cnpj": "00.806.535/0001-54",
           "count": 5,
           "volume": 683556778.58
-        },
-        {
-          "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
-          "cnpj": "39.526.263/0001-74",
-          "count": 5,
-          "volume": 135500000
         }
       ]
     },
@@ -307,6 +307,54 @@
       "outliers": []
     },
     "latestOffers": [
+      {
+        "id": "239425af3f0f8a5c",
+        "market": "FII",
+        "name": "MINAS GERAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "65.275.189/0001-70",
+        "registration": "28529",
+        "processNumber": "SRE/3534/2026",
+        "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "leaderCnpj": "16.695.922/0001-09",
+        "volume": 370000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-29",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "7d0fc2fe3d48752a",
+        "market": "FII",
+        "name": "TERRAS PAULISTAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA",
+        "cnpj": "63.320.393/0001-30",
+        "registration": "28532",
+        "processNumber": "SRE/3537/2026",
+        "leader": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+        "leaderCnpj": "39.526.263/0001-74",
+        "volume": 15500000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-29",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FII"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "c5c63c5c0f875758",
         "market": "FII",
@@ -618,57 +666,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "deb66a75177abc55",
-        "market": "FII",
-        "name": "TIVIO OPPORTUNITIES II MALLS IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.903.696/0001-37",
-        "registration": "28423",
-        "processNumber": "SRE/3433/2026",
-        "leader": "BANCO BRADESCO BBI S.A.",
-        "leaderCnpj": "06.271.464/0001-19",
-        "volume": 580000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-20",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "87eb2d0074834526",
-        "market": "FII",
-        "name": "MAUA CAPITAL PROPRIEDADES LOGISTICAS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.058.946/0001-42",
-        "registration": "28388",
-        "processNumber": "SRE/3399/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "leaderCnpj": "59.281.253/0001-23",
-        "volume": 200000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-19",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FII"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-29T17:26:37.343Z"
+  "updatedAt": "2026-10-30T17:01:29.010Z"
 }

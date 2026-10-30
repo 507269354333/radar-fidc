@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:26:37.355Z",
+  "generatedAt": "2026-10-30T17:01:29.025Z",
   "market": "FIAGRO",
   "current": {
     "period": {
@@ -359,17 +359,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-10-29T08:00:38.075784"
+      "updatedAt": "2026-10-30T08:00:39.889244"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-10-29T17:26:37.317Z"
+      "updatedAt": "2026-10-30T17:01:28.978Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "29/10/2026 09:43"
+      "updatedAt": "30/10/2026 09:36"
     }
   },
   "macro": {
@@ -378,19 +378,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-28",
+        "date": "2026-10-29",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-09-30",
-          "value": 13.65
-        },
         {
           "date": "2026-10-01",
           "value": 13.65
@@ -465,6 +461,10 @@
         },
         {
           "date": "2026-10-28",
+          "value": 13.65
+        },
+        {
+          "date": "2026-10-29",
           "value": 13.65
         }
       ]
@@ -760,26 +760,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "29/10/2026",
+      "date": "30/10/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "28/10/2026",
+      "date": "29/10/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "28/10/2026",
+      "date": "29/10/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "28/10/2026",
-      "value": 5.342,
+      "date": "29/10/2026",
+      "value": 5.3744,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -791,7 +791,7 @@
     },
     "igpmProjection": {
       "date": null,
-      "value": 1.53,
+      "value": 0.87,
       "label": "IGP-M projetado",
       "unit": "%"
     }
@@ -816,24 +816,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4610,
+      "count": 4617,
       "latestMonth": "2026-10",
-      "offersInMonth": 151,
-      "volumeInMonth": 17039127410.230001
+      "offersInMonth": 158,
+      "volumeInMonth": 17726327010.29
     },
     {
       "market": "FIAGRO",
-      "count": 187,
+      "count": 188,
       "latestMonth": "2026-10",
-      "offersInMonth": 15,
+      "offersInMonth": 16,
       "volumeInMonth": 4621194943
     },
     {
       "market": "FII",
-      "count": 1528,
+      "count": 1530,
       "latestMonth": "2026-10",
-      "offersInMonth": 26,
-      "volumeInMonth": 7584301574.2300005
+      "offersInMonth": 28,
+      "volumeInMonth": 7892762574.2300005
     }
   ],
   "intelligence": {
@@ -860,7 +860,7 @@
           },
           {
             "label": "IRFC",
-            "value": 45.51470588235294,
+            "value": 43.59243697478992,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -910,12 +910,12 @@
           },
           {
             "label": "IRPM FIAGRO",
-            "value": 78.98774509803921,
+            "value": 78.4110644257703,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
             "label": "IRFC comum",
-            "value": 45.51470588235294,
+            "value": 43.59243697478992,
             "source": "Metodologia Radar / BCB"
           }
         ],
@@ -950,7 +950,7 @@
           },
           {
             "label": "IRFC",
-            "value": 45.51470588235294,
+            "value": 43.59243697478992,
             "source": "Metodologia Radar / BCB"
           },
           {
@@ -994,8 +994,8 @@
           "IROP": 87.91666666666666,
           "IRBD": 87.5,
           "IRCC": 8.560597651270339,
-          "IRFC": 45.51470588235294,
-          "IRPM": 75.19607843137254
+          "IRFC": 43.59243697478992,
+          "IRPM": 74.61939775910363
         },
         "bands": {
           "offer": "alto",
@@ -1012,8 +1012,8 @@
           "IROP": 93.33333333333333,
           "IRBD": 91.66666666666667,
           "IRCC": 46.815977111076,
-          "IRFC": 45.51470588235294,
-          "IRPM": 78.98774509803921
+          "IRFC": 43.59243697478992,
+          "IRPM": 78.4110644257703
         },
         "bands": {
           "offer": "alto",
@@ -1030,8 +1030,8 @@
           "IROP": 88.54166666666667,
           "IRBD": 91.66666666666667,
           "IRCC": 5.261706126283146,
-          "IRFC": 45.51470588235294,
-          "IRPM": 75.63357843137254
+          "IRFC": 43.59243697478992,
+          "IRPM": 75.05689775910363
         },
         "bands": {
           "offer": "alto",

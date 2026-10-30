@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-10-29T08:00:38.075784",
+  "sourceUpdatedAt": "2026-10-30T08:00:39.889244",
   "market": "FIAGRO",
-  "count": 187,
+  "count": 188,
   "analytics": {
     "latestMonth": "2026-10",
-    "offersInMonth": 15,
+    "offersInMonth": 16,
     "volumeInMonth": 4621194943,
     "offersWithVolumeInMonth": 13,
     "leadersInMonth": 9,
     "byRite": [
       {
         "name": "Automático",
-        "count": 15
+        "count": 16
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 13
+        "count": 14
       },
       {
         "name": "Qualificado",
@@ -30,7 +30,7 @@
       {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
-        "count": 4,
+        "count": 5,
         "volume": 3570000000
       },
       {
@@ -187,13 +187,13 @@
       },
       {
         "month": "2026-10",
-        "count": 15,
+        "count": 16,
         "volume": 4621194943,
         "withVolume": 13
       }
     ],
     "trailing12": {
-      "offers": 71,
+      "offers": 72,
       "volume": 268972646887.55,
       "offersWithVolume": 68,
       "leaders": 21,
@@ -207,7 +207,7 @@
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
-          "count": 9,
+          "count": 10,
           "volume": 4164498000
         },
         {
@@ -305,6 +305,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "1d27b417b60f24d7",
+        "market": "FIAGRO",
+        "name": "MKL - USIMATERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
+        "cnpj": "69.433.932/0001-24",
+        "registration": "28538",
+        "processNumber": "SRE/3541/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 0,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Aguardando Bookbuilding",
+        "date": "2026-10-29",
+        "dateBasis": "requerimento",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "c83dddec2c1476c6",
         "market": "FIAGRO",
@@ -640,33 +664,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "3788c7b2ef28c2cc",
-        "market": "FIAGRO",
-        "name": "FORTUNE CARBON REMOVAL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO",
-        "cnpj": "63.550.475/0001-71",
-        "registration": "28164",
-        "processNumber": "SRE/3198/2026",
-        "leader": "PLANNER CORRETORA DE VALORES S.A.",
-        "leaderCnpj": "00.806.535/0001-54",
-        "volume": 30000943,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-01",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-10-29T17:26:37.343Z"
+  "updatedAt": "2026-10-30T17:01:29.009Z"
 }

@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-29T17:26:37.387Z",
+  "generatedAt": "2026-10-30T17:01:29.070Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-29T08:00:38.075784"
+    "updatedAt": "2026-10-30T08:00:39.889244"
   },
   "coordinators": [
     {
@@ -455,7 +455,7 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 9,
+        "offers": 10,
         "volume": 4164498000,
         "offersWithVolume": 8,
         "averageTicket": 520562250
@@ -508,11 +508,27 @@
         },
         {
           "month": "2026-10",
-          "count": 4,
+          "count": 5,
           "volume": 3570000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "1d27b417b60f24d7",
+          "market": "FIAGRO",
+          "name": "MKL - USIMATERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
+          "cnpj": "69.433.932/0001-24",
+          "registration": "28538",
+          "processNumber": "SRE/3541/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-10-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "c83dddec2c1476c6",
           "market": "FIAGRO",
@@ -746,7 +762,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 14,
+          "count": 15,
           "volume": 4899498000
         },
         {
@@ -1295,8 +1311,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 158,
-          "volume": 28806393877.3
+          "count": 159,
+          "volume": 28926393877.3
         },
         {
           "market": "FIAGRO",
@@ -2050,8 +2066,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1066,
-          "volume": 59140320860.84994
+          "count": 1069,
+          "volume": 59250520460.909935
         },
         {
           "market": "FIAGRO",
@@ -3586,8 +3602,8 @@
         },
         {
           "market": "FII",
-          "count": 28,
-          "volume": 1628300461.17
+          "count": 29,
+          "volume": 1998300461.17
         }
       ]
     },
@@ -3926,7 +3942,7 @@
         {
           "market": "FII",
           "count": 11,
-          "volume": 3025124809.4
+          "volume": 2948085809.4
         }
       ]
     },
