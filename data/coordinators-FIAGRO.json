@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-10-30T17:01:29.070Z",
+  "generatedAt": "2026-11-02T20:47:10.321Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-10-30T08:00:39.889244"
+    "updatedAt": "2026-11-02T08:01:18.430921"
   },
   "coordinators": [
     {
@@ -435,8 +435,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 201,
-          "volume": 18054122056.010002
+          "count": 203,
+          "volume": 18241652056.010002
         },
         {
           "market": "FIAGRO",
@@ -445,8 +445,8 @@
         },
         {
           "market": "FII",
-          "count": 43,
-          "volume": 6677424090.5
+          "count": 44,
+          "volume": 6749012290.5
         }
       ]
     },
@@ -456,9 +456,9 @@
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
         "offers": 10,
-        "volume": 4164498000,
-        "offersWithVolume": 8,
-        "averageTicket": 520562250
+        "volume": 4260498000,
+        "offersWithVolume": 9,
+        "averageTicket": 473388666.6666667
       },
       "byMonth": [
         {
@@ -509,10 +509,26 @@
         {
           "month": "2026-10",
           "count": 5,
-          "volume": 3570000000
+          "volume": 3666000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "bf74238892e2defd",
+          "market": "FIAGRO",
+          "name": "HELM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.291.962/0001-27",
+          "registration": "28463",
+          "processNumber": "SRE/3472/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 96000000,
+          "date": "2026-10-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "1d27b417b60f24d7",
           "market": "FIAGRO",
@@ -543,22 +559,6 @@
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "bf74238892e2defd",
-          "market": "FIAGRO",
-          "name": "HELM FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.291.962/0001-27",
-          "registration": "28463",
-          "processNumber": "SRE/3472/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-10-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
           "publications": []
         },
         {
@@ -763,7 +763,7 @@
         {
           "market": "FIAGRO",
           "count": 15,
-          "volume": 4899498000
+          "volume": 4995498000
         },
         {
           "market": "FII",
@@ -1327,173 +1327,14 @@
       ]
     },
     {
-      "key": "CNPJ:28650236000192",
-      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-      "cnpj": "28.650.236/0001-92",
-      "stats12m": {
-        "offers": 6,
-        "volume": 220000186.17999998,
-        "offersWithVolume": 6,
-        "averageTicket": 36666697.696666665
-      },
-      "byMonth": [
-        {
-          "month": "2023-04",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2025-12",
-          "count": 3,
-          "volume": 120000186.17999999
-        },
-        {
-          "month": "2026-09",
-          "count": 3,
-          "volume": 100000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "985067df394484ef",
-          "market": "FIAGRO",
-          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.119.359/0001-89",
-          "registration": "27916",
-          "processNumber": "SRE/2969/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 70000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "de4f2ed157cdc21e",
-          "market": "FIAGRO",
-          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.119.359/0001-89",
-          "registration": "27918",
-          "processNumber": "SRE/2970/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 10000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "f45451bc7691f024",
-          "market": "FIAGRO",
-          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.119.359/0001-89",
-          "registration": "27921",
-          "processNumber": "SRE/2971/2026",
-          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 20000000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c9730dc8a748834a",
-          "market": "FIAGRO",
-          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.868.204/0001-69",
-          "registration": "23776",
-          "processNumber": "SRE/4181/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 6000000,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9048a7f224c790b7",
-          "market": "FIAGRO",
-          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.868.204/0001-69",
-          "registration": "23778",
-          "processNumber": "SRE/4183/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 74600130.21,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bf771244ff4b4260",
-          "market": "FIAGRO",
-          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.868.204/0001-69",
-          "registration": "23779",
-          "processNumber": "SRE/4184/2025",
-          "leader": "GLPG DTVM",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 39400055.97,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "86a5c1da04ea1a2c",
-          "market": "FIAGRO",
-          "name": "GALAPAGOS FOF INFRA FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES EM INFRAESTRUTURA",
-          "cnpj": "50.284.286/0001-52",
-          "registration": "1373",
-          "processNumber": "SRE/0656/2023",
-          "leader": "BS2 DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "28.650.236/0001-92",
-          "volume": 100000000,
-          "date": "2023-04-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 33,
-          "volume": 2378000390.5299997
-        },
-        {
-          "market": "FIAGRO",
-          "count": 7,
-          "volume": 320000186.17999995
-        },
-        {
-          "market": "FII",
-          "count": 19,
-          "volume": 1105738496.75
-        }
-      ]
-    },
-    {
       "key": "CNPJ:22610500000188",
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 6,
-        "volume": 149250000,
-        "offersWithVolume": 6,
-        "averageTicket": 24875000
+        "offers": 7,
+        "volume": 159250000,
+        "offersWithVolume": 7,
+        "averageTicket": 22750000
       },
       "byMonth": [
         {
@@ -1553,11 +1394,27 @@
         },
         {
           "month": "2026-10",
-          "count": 1,
-          "volume": 20000000
+          "count": 2,
+          "volume": 30000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "e13009d89969fe1b",
+          "market": "FIAGRO",
+          "name": "UBYFOL AGRO III FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP LIMITADA",
+          "cnpj": "37.645.417/0001-11",
+          "registration": "28546",
+          "processNumber": "SRE/3548/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 10000000,
+          "date": "2026-10-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "ebf586d8f3437c71",
           "market": "FIAGRO",
@@ -1866,18 +1723,177 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 161,
-          "volume": 10988102161.209995
+          "count": 162,
+          "volume": 11008102161.209995
         },
         {
           "market": "FIAGRO",
-          "count": 19,
-          "volume": 809849275
+          "count": 20,
+          "volume": 819849275
         },
         {
           "market": "FII",
-          "count": 84,
-          "volume": 6837616722.009998
+          "count": 85,
+          "volume": 6937616722.009998
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:28650236000192",
+      "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+      "cnpj": "28.650.236/0001-92",
+      "stats12m": {
+        "offers": 6,
+        "volume": 220000186.17999998,
+        "offersWithVolume": 6,
+        "averageTicket": 36666697.696666665
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2025-12",
+          "count": 3,
+          "volume": 120000186.17999999
+        },
+        {
+          "month": "2026-09",
+          "count": 3,
+          "volume": 100000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "985067df394484ef",
+          "market": "FIAGRO",
+          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.119.359/0001-89",
+          "registration": "27916",
+          "processNumber": "SRE/2969/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 70000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "de4f2ed157cdc21e",
+          "market": "FIAGRO",
+          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.119.359/0001-89",
+          "registration": "27918",
+          "processNumber": "SRE/2970/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 10000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f45451bc7691f024",
+          "market": "FIAGRO",
+          "name": "NPL AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.119.359/0001-89",
+          "registration": "27921",
+          "processNumber": "SRE/2971/2026",
+          "leader": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 20000000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c9730dc8a748834a",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.868.204/0001-69",
+          "registration": "23776",
+          "processNumber": "SRE/4181/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 6000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9048a7f224c790b7",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.868.204/0001-69",
+          "registration": "23778",
+          "processNumber": "SRE/4183/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 74600130.21,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bf771244ff4b4260",
+          "market": "FIAGRO",
+          "name": "FIAGRO CENTRO-OESTE - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.868.204/0001-69",
+          "registration": "23779",
+          "processNumber": "SRE/4184/2025",
+          "leader": "GLPG DTVM",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 39400055.97,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "86a5c1da04ea1a2c",
+          "market": "FIAGRO",
+          "name": "GALAPAGOS FOF INFRA FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES EM INFRAESTRUTURA",
+          "cnpj": "50.284.286/0001-52",
+          "registration": "1373",
+          "processNumber": "SRE/0656/2023",
+          "leader": "BS2 DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "28.650.236/0001-92",
+          "volume": 100000000,
+          "date": "2023-04-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 33,
+          "volume": 2378000390.5299997
+        },
+        {
+          "market": "FIAGRO",
+          "count": 7,
+          "volume": 320000186.17999995
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 1105738496.75
         }
       ]
     },
@@ -2066,8 +2082,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1069,
-          "volume": 59250520460.909935
+          "count": 1071,
+          "volume": 59352520460.90993
         },
         {
           "market": "FIAGRO",
@@ -2683,8 +2699,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 176,
-          "volume": 5144319826.01
+          "count": 177,
+          "volume": 5146819826.01
         },
         {
           "market": "FIAGRO",
@@ -3151,7 +3167,7 @@
           "date": "2026-05-07",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -3592,8 +3608,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 142,
-          "volume": 2064174934.19
+          "count": 143,
+          "volume": 2066871934.23
         },
         {
           "market": "FIAGRO",
@@ -3602,8 +3618,8 @@
         },
         {
           "market": "FII",
-          "count": 29,
-          "volume": 1998300461.17
+          "count": 30,
+          "volume": 1999300461.17
         }
       ]
     },
