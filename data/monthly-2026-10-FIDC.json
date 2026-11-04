@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-03T18:27:37.462Z",
+  "generatedAt": "2026-11-04T18:39:06.311Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -324,12 +324,12 @@
     },
     "previous": {
       "month": "2026-09",
-      "offers": 105,
+      "offers": 104,
       "offersWithVolume": 104,
       "registeredVolume": 22372388041.93,
       "analyticalVolume": 13372388041.929998,
       "averageTicket": 131101843.54833332,
-      "issuers": 97,
+      "issuers": 96,
       "leaders": 33,
       "topLeaders": [
         {
@@ -363,12 +363,6 @@
           "volume": 173000000
         },
         {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
-          "count": 5,
-          "volume": 4521400000
-        },
-        {
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
           "count": 5,
@@ -385,6 +379,12 @@
           "cnpj": "03.751.794/0001-13",
           "count": 5,
           "volume": 60420000
+        },
+        {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 4,
+          "volume": 4521400000
         },
         {
           "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -635,7 +635,7 @@
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 97
+          "count": 96
         },
         {
           "name": "Qualificado",
@@ -645,7 +645,7 @@
       "byRite": [
         {
           "name": "Automático",
-          "count": 105
+          "count": 104
         }
       ]
     },
@@ -654,7 +654,7 @@
       "calendarGap": 0
     },
     "changes": {
-      "offersPct": 59.04761904761905,
+      "offersPct": 60.57692307692307,
       "officialVolumePct": -19.239485410555563,
       "analyticalVolumePct": 10.436936636177434
     },
@@ -860,29 +860,29 @@
         "actualThrough": "2026-10",
         "officialActualVolume": 73863688409.64001,
         "adjustedActualVolume": 56063688409.639984,
-        "actualOffers": 653,
+        "actualOffers": 652,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 60669342336.86498,
-            "offers": 714,
+            "offers": 713,
             "monthlyVolumeAssumption": 2302826963.6125,
             "monthlyOfferAssumption": 30.5
           },
           {
             "label": "Base",
             "volume": 64178711625.09998,
-            "offers": 759,
+            "offers": 758,
             "monthlyVolumeAssumption": 4057511607.7299995,
             "monthlyOfferAssumption": 53
           },
           {
             "label": "Expansão",
             "volume": 73736873972.80998,
-            "offers": 868,
+            "offers": 866,
             "monthlyVolumeAssumption": 8836592781.585,
-            "monthlyOfferAssumption": 107.5
+            "monthlyOfferAssumption": 106.75
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -1212,12 +1212,12 @@
       },
       "previous": {
         "month": "2026-09",
-        "offers": 105,
+        "offers": 104,
         "offersWithVolume": 104,
         "registeredVolume": 22372388041.93,
         "analyticalVolume": 13372388041.929998,
         "averageTicket": 131101843.54833332,
-        "issuers": 97,
+        "issuers": 96,
         "leaders": 33,
         "topLeaders": [
           {
@@ -1251,12 +1251,6 @@
             "volume": 173000000
           },
           {
-            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "cnpj": "04.845.753/0001-59",
-            "count": 5,
-            "volume": 4521400000
-          },
-          {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
             "cnpj": "59.281.253/0001-23",
             "count": 5,
@@ -1273,6 +1267,12 @@
             "cnpj": "03.751.794/0001-13",
             "count": 5,
             "volume": 60420000
+          },
+          {
+            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "cnpj": "04.845.753/0001-59",
+            "count": 4,
+            "volume": 4521400000
           },
           {
             "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -1523,7 +1523,7 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 97
+            "count": 96
           },
           {
             "name": "Qualificado",
@@ -1533,7 +1533,7 @@
         "byRite": [
           {
             "name": "Automático",
-            "count": 105
+            "count": 104
           }
         ]
       },
@@ -1542,7 +1542,7 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 59.04761904761905,
+        "offersPct": 60.57692307692307,
         "officialVolumePct": -19.239485410555563,
         "analyticalVolumePct": 10.436936636177434
       },
@@ -1748,29 +1748,29 @@
           "actualThrough": "2026-10",
           "officialActualVolume": 73863688409.64001,
           "adjustedActualVolume": 56063688409.639984,
-          "actualOffers": 653,
+          "actualOffers": 652,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
               "volume": 60669342336.86498,
-              "offers": 714,
+              "offers": 713,
               "monthlyVolumeAssumption": 2302826963.6125,
               "monthlyOfferAssumption": 30.5
             },
             {
               "label": "Base",
               "volume": 64178711625.09998,
-              "offers": 759,
+              "offers": 758,
               "monthlyVolumeAssumption": 4057511607.7299995,
               "monthlyOfferAssumption": 53
             },
             {
               "label": "Expansão",
               "volume": 73736873972.80998,
-              "offers": 868,
+              "offers": 866,
               "monthlyVolumeAssumption": 8836592781.585,
-              "monthlyOfferAssumption": 107.5
+              "monthlyOfferAssumption": 106.75
             }
           ],
           "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -1778,7 +1778,7 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIDC ficou 59,0% acima da última competência disponível (2026-09).",
+        "A quantidade de ofertas FIDC ficou 60,6% acima da última competência disponível (2026-09).",
         "O volume analítico ajustado ficou 10,4% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 1 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 28 ofertas.",
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-02",
-          "value": 13.65
-        },
         {
           "date": "2026-10-05",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-10-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-03",
           "value": 13.65
         }
       ]
@@ -2192,26 +2192,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "30/10/2026",
-      "value": 5.4212,
+      "date": "03/11/2026",
+      "value": 5.4935,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2288,7 +2288,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.51577142826258,
+            "value": 14.503610892872565,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2373,7 +2373,7 @@
           },
           {
             "label": "IRCC FII",
-            "value": 5.554300718015447,
+            "value": 5.517819111845403,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2447,7 +2447,7 @@
         "scores": {
           "IROP": 66.77083333333334,
           "IRBD": 81.25,
-          "IRCC": 5.554300718015447,
+          "IRCC": 5.517819111845403,
           "IRFC": 45.51470588235294,
           "IRPM": 60.39399509803922
         },
@@ -2471,17 +2471,17 @@
           {
             "label": "Conservador",
             "volume": 60669342336.86498,
-            "offers": 714
+            "offers": 713
           },
           {
             "label": "Base",
             "volume": 64178711625.09998,
-            "offers": 759
+            "offers": 758
           },
           {
             "label": "Expansão",
             "volume": 73736873972.80998,
-            "offers": 868
+            "offers": 866
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -2523,17 +2523,17 @@
           {
             "label": "Conservador",
             "volume": 63349181772.115005,
-            "offers": 200
+            "offers": 199
           },
           {
             "label": "Base",
             "volume": 71353084350.56001,
-            "offers": 218
+            "offers": 217
           },
           {
             "label": "Expansão",
             "volume": 75716478651.35,
-            "offers": 248
+            "offers": 246
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

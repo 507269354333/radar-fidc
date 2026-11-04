@@ -1,17 +1,17 @@
 {
   "month": "2026-10",
   "market": "ALL",
-  "generatedAt": "2026-11-03T18:27:37.527Z",
+  "generatedAt": "2026-11-04T18:39:06.375Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
       "month": "2026-10",
-      "offers": 215,
+      "offers": 214,
       "offersWithVolume": 211,
       "registeredVolume": 30860601425.84,
       "analyticalVolume": 27560601425.84,
       "averageTicket": null,
-      "issuers": 192,
+      "issuers": 191,
       "leaders": 44,
       "topLeaders": [
         {
@@ -269,7 +269,7 @@
               "processNumber": "SRE/3436/2026",
               "volume": 678000000,
               "date": "2026-10-21",
-              "status": "Registro Concedido",
+              "status": "Oferta Encerrada",
               "publications": []
             }
           ]
@@ -317,24 +317,24 @@
         },
         {
           "name": "Público geral",
-          "count": 3
+          "count": 2
         }
       ],
       "byRite": [
         {
           "name": "Automático",
-          "count": 215
+          "count": 214
         }
       ]
     },
     "previous": {
       "month": "2026-09",
-      "offers": 156,
+      "offers": 155,
       "offersWithVolume": 154,
       "registeredVolume": 43358050782.04,
       "analyticalVolume": 34358050782.04,
       "averageTicket": null,
-      "issuers": 145,
+      "issuers": 144,
       "leaders": 37,
       "topLeaders": [
         {
@@ -362,16 +362,16 @@
           "volume": 1098987687.53
         },
         {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
-          "count": 10,
-          "volume": 6568620019.96
-        },
-        {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "cnpj": "22.610.500/0001-88",
           "count": 10,
           "volume": 724372832.32
+        },
+        {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 9,
+          "volume": 6568620019.96
         },
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -642,7 +642,7 @@
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 138
+          "count": 137
         },
         {
           "name": "Qualificado",
@@ -656,7 +656,7 @@
       "byRite": [
         {
           "name": "Automático",
-          "count": 156
+          "count": 155
         }
       ]
     },
@@ -664,7 +664,7 @@
       "previousAvailableMonth": "2026-09"
     },
     "changes": {
-      "offersPct": 37.82051282051282,
+      "offersPct": 38.064516129032256,
       "officialVolumePct": -28.823826557666106,
       "analyticalVolumePct": -19.78415306305221
     },
@@ -747,7 +747,7 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração - 3 mercados",
-        "score": 14.51577142826258,
+        "score": 14.503610892872565,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -766,7 +766,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 14.51577142826258,
+          "score": 14.503610892872565,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 15/100, faixa baixa."
         }
@@ -867,29 +867,29 @@
         "actualThrough": "2026-10",
         "officialActualVolume": 399894460535.86005,
         "adjustedActualVolume": 132094460535.86,
-        "actualOffers": 897,
+        "actualOffers": 895,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 142496169507.43,
-            "offers": 980,
+            "offers": 978,
             "monthlyVolumeAssumption": 5200854485.785,
             "monthlyOfferAssumption": 41
           },
           {
             "label": "Base",
             "volume": 154855805851,
-            "offers": 1046,
+            "offers": 1044,
             "monthlyVolumeAssumption": 11380672657.57,
             "monthlyOfferAssumption": 74.5
           },
           {
             "label": "Expansão",
             "volume": 169785168663.69,
-            "offers": 1192,
+            "offers": 1188,
             "monthlyVolumeAssumption": 18845354063.914997,
-            "monthlyOfferAssumption": 147.25
+            "monthlyOfferAssumption": 145.75
           }
         ],
         "method": "Soma dos cenários analíticos de FIDC, FIAGRO e FII; cada vertical aplica sua própria regra de outlier antes da agregação."
@@ -1219,12 +1219,12 @@
       },
       "previous": {
         "month": "2026-09",
-        "offers": 105,
+        "offers": 104,
         "offersWithVolume": 104,
         "registeredVolume": 22372388041.93,
         "analyticalVolume": 13372388041.929998,
         "averageTicket": 131101843.54833332,
-        "issuers": 97,
+        "issuers": 96,
         "leaders": 33,
         "topLeaders": [
           {
@@ -1258,12 +1258,6 @@
             "volume": 173000000
           },
           {
-            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "cnpj": "04.845.753/0001-59",
-            "count": 5,
-            "volume": 4521400000
-          },
-          {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
             "cnpj": "59.281.253/0001-23",
             "count": 5,
@@ -1280,6 +1274,12 @@
             "cnpj": "03.751.794/0001-13",
             "count": 5,
             "volume": 60420000
+          },
+          {
+            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "cnpj": "04.845.753/0001-59",
+            "count": 4,
+            "volume": 4521400000
           },
           {
             "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -1530,7 +1530,7 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 97
+            "count": 96
           },
           {
             "name": "Qualificado",
@@ -1540,7 +1540,7 @@
         "byRite": [
           {
             "name": "Automático",
-            "count": 105
+            "count": 104
           }
         ]
       },
@@ -1549,7 +1549,7 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 59.04761904761905,
+        "offersPct": 60.57692307692307,
         "officialVolumePct": -19.239485410555563,
         "analyticalVolumePct": 10.436936636177434
       },
@@ -1755,29 +1755,29 @@
           "actualThrough": "2026-10",
           "officialActualVolume": 73863688409.64001,
           "adjustedActualVolume": 56063688409.639984,
-          "actualOffers": 653,
+          "actualOffers": 652,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
               "volume": 60669342336.86498,
-              "offers": 714,
+              "offers": 713,
               "monthlyVolumeAssumption": 2302826963.6125,
               "monthlyOfferAssumption": 30.5
             },
             {
               "label": "Base",
               "volume": 64178711625.09998,
-              "offers": 759,
+              "offers": 758,
               "monthlyVolumeAssumption": 4057511607.7299995,
               "monthlyOfferAssumption": 53
             },
             {
               "label": "Expansão",
               "volume": 73736873972.80998,
-              "offers": 868,
+              "offers": 866,
               "monthlyVolumeAssumption": 8836592781.585,
-              "monthlyOfferAssumption": 107.5
+              "monthlyOfferAssumption": 106.75
             }
           ],
           "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -1785,7 +1785,7 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIDC ficou 59,0% acima da última competência disponível (2026-09).",
+        "A quantidade de ofertas FIDC ficou 60,6% acima da última competência disponível (2026-09).",
         "O volume analítico ajustado ficou 10,4% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 1 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 28 ofertas.",
@@ -2669,12 +2669,12 @@
     "FII": {
       "current": {
         "month": "2026-10",
-        "offers": 31,
+        "offers": 30,
         "offersWithVolume": 30,
         "registeredVolume": 8065350774.2300005,
         "analyticalVolume": 8065350774.2300005,
         "averageTicket": 268845025.80766666,
-        "issuers": 29,
+        "issuers": 28,
         "leaders": 18,
         "topLeaders": [
           {
@@ -2690,16 +2690,16 @@
             "volume": 2212392957.8
           },
           {
-            "name": "XP INVESTIMENTOS CCTVM S.A.",
-            "cnpj": "02.332.886/0001-04",
-            "count": 3,
-            "volume": 1213500000
-          },
-          {
             "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
             "cnpj": "18.945.670/0001-46",
             "count": 3,
             "volume": 619321008
+          },
+          {
+            "name": "XP INVESTIMENTOS CCTVM S.A.",
+            "cnpj": "02.332.886/0001-04",
+            "count": 2,
+            "volume": 1213500000
           },
           {
             "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -2824,7 +2824,7 @@
                 "processNumber": "SRE/3436/2026",
                 "volume": 678000000,
                 "date": "2026-10-21",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -2973,18 +2973,18 @@
             "count": 26
           },
           {
-            "name": "Público geral",
-            "count": 3
+            "name": "Qualificado",
+            "count": 2
           },
           {
-            "name": "Qualificado",
+            "name": "Público geral",
             "count": 2
           }
         ],
         "byRite": [
           {
             "name": "Automático",
-            "count": 31
+            "count": 30
           }
         ]
       },
@@ -3305,7 +3305,7 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": -18.421052631578945,
+        "offersPct": -21.052631578947366,
         "officialVolumePct": -30.796624857132304,
         "analyticalVolumePct": -30.796624857132304
       },
@@ -3381,8 +3381,8 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 5.554300718015447,
-          "countHHI": 1.7200220358694975,
+          "score": 5.517819111845403,
+          "countHHI": 1.6470588235294106,
           "volumeHHI": 9.388579400161396,
           "interpretation": "baixa",
           "education": {
@@ -3402,7 +3402,7 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 5.554300718015447,
+            "score": 5.517819111845403,
             "band": "faixa baixa",
             "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 6/100, faixa baixa."
           }
@@ -3503,29 +3503,29 @@
           "actualThrough": "2026-10",
           "officialActualVolume": 57886877425.93001,
           "adjustedActualVolume": 57886877425.93001,
-          "actualOffers": 184,
+          "actualOffers": 183,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
               "volume": 63349181772.115005,
-              "offers": 200,
+              "offers": 199,
               "monthlyVolumeAssumption": 2731152173.0924997,
               "monthlyOfferAssumption": 7.75
             },
             {
               "label": "Base",
               "volume": 71353084350.56001,
-              "offers": 218,
+              "offers": 217,
               "monthlyVolumeAssumption": 6733103462.315001,
               "monthlyOfferAssumption": 17
             },
             {
               "label": "Expansão",
               "volume": 75716478651.35,
-              "offers": 248,
+              "offers": 246,
               "monthlyVolumeAssumption": 8914800612.71,
-              "monthlyOfferAssumption": 32
+              "monthlyOfferAssumption": 31.25
             }
           ],
           "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -3533,7 +3533,7 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FII ficou 18,4% abaixo da última competência disponível (2026-09).",
+        "A quantidade de ofertas FII ficou 21,1% abaixo da última competência disponível (2026-09).",
         "O volume analítico ajustado ficou 30,8% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
         "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 4 ofertas.",
         "O IROP encerrou em 67/100 (intermediária); o IRPM ficou em 60/100 (equilibrado)."
@@ -3564,19 +3564,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-02",
-          "value": 13.65
-        },
         {
           "date": "2026-10-05",
           "value": 13.65
@@ -3651,6 +3647,10 @@
         },
         {
           "date": "2026-10-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-03",
           "value": 13.65
         }
       ]
@@ -3946,26 +3946,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "30/10/2026",
-      "value": 5.4212,
+      "date": "03/11/2026",
+      "value": 5.4935,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -4042,7 +4042,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.51577142826258,
+            "value": 14.503610892872565,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -4127,7 +4127,7 @@
           },
           {
             "label": "IRCC FII",
-            "value": 5.554300718015447,
+            "value": 5.517819111845403,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -4201,7 +4201,7 @@
         "scores": {
           "IROP": 66.77083333333334,
           "IRBD": 81.25,
-          "IRCC": 5.554300718015447,
+          "IRCC": 5.517819111845403,
           "IRFC": 45.51470588235294,
           "IRPM": 60.39399509803922
         },
@@ -4225,17 +4225,17 @@
           {
             "label": "Conservador",
             "volume": 60669342336.86498,
-            "offers": 714
+            "offers": 713
           },
           {
             "label": "Base",
             "volume": 64178711625.09998,
-            "offers": 759
+            "offers": 758
           },
           {
             "label": "Expansão",
             "volume": 73736873972.80998,
-            "offers": 868
+            "offers": 866
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -4277,17 +4277,17 @@
           {
             "label": "Conservador",
             "volume": 63349181772.115005,
-            "offers": 200
+            "offers": 199
           },
           {
             "label": "Base",
             "volume": 71353084350.56001,
-            "offers": 218
+            "offers": 217
           },
           {
             "label": "Expansão",
             "volume": 75716478651.35,
-            "offers": 248
+            "offers": 246
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

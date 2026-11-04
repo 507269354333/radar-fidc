@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-03T18:27:37.413Z",
+  "generatedAt": "2026-11-04T18:39:06.272Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-03T08:00:58.336718"
+    "updatedAt": "2026-11-04T08:00:42.408548"
   },
   "coordinators": [
     {
@@ -13,16 +13,11 @@
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
         "offers": 35,
-        "volume": 23173140612.28,
+        "volume": 23205390612.28,
         "offersWithVolume": 34,
-        "averageTicket": 681562959.1847059
+        "averageTicket": 682511488.5964706
       },
       "byMonth": [
-        {
-          "month": "2025-01",
-          "count": 4,
-          "volume": 2468750005.52
-        },
         {
           "month": "2025-02",
           "count": 1,
@@ -105,11 +100,64 @@
         },
         {
           "month": "2026-10",
-          "count": 3,
+          "count": 2,
           "volume": 1213500000
+        },
+        {
+          "month": "2026-11",
+          "count": 4,
+          "volume": 1974000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "9f635aab5f0db072",
+          "market": "FII",
+          "name": "ARX FUNDO DE INVESTIMENTO IMOBILIARIO PORTFOLIO RENDA CDI+ II RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.693.630/0001-95",
+          "registration": "28572",
+          "processNumber": "SRE/3576/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 250000000,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "24cdc564a3e89924",
+          "market": "FII",
+          "name": "FULWOOD DESENVOLVIMENTO LOGÍSTICO I FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
+          "cnpj": "68.281.552/0001-59",
+          "registration": "28561",
+          "processNumber": "SRE/3579/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 0,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "a27d7eab29c86889",
+          "market": "FII",
+          "name": "FULWOOD DESENVOLVIMENTO LOGISTICO I FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.281.456/0001-00",
+          "registration": "28574",
+          "processNumber": "SRE/3578/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 224000000,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "c5c63c5c0f875758",
           "market": "FII",
@@ -119,11 +167,11 @@
           "processNumber": "SRE/3525/2026",
           "leader": "XP INVESTIMENTOS CCTVM S.A.",
           "leaderCnpj": "02.332.886/0001-04",
-          "volume": 0,
-          "date": "2026-10-28",
+          "volume": 1500000000,
+          "date": "2026-11-03",
           "rite": "Automático",
           "audience": "Público geral",
-          "status": "Aguardando Bookbuilding",
+          "status": "Registro Concedido",
           "publications": []
         },
         {
@@ -155,7 +203,7 @@
           "date": "2026-10-21",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -541,54 +589,6 @@
           "audience": "Público geral",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "9e3ff13ce46ea24a",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO TG RENDA IMOBILIARIA FEEDER PRE - RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.099.959/0001-09",
-          "registration": "24079",
-          "processNumber": "SRE/4458/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 625000000,
-          "date": "2026-01-05",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c04117b5990d7dd5",
-          "market": "FII",
-          "name": "BGR CIDADE JARDIM FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.941.672/0001-11",
-          "registration": "24087",
-          "processNumber": "SRE/4457/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 170000000,
-          "date": "2025-12-30",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ed31a2d9ec6fb9e3",
-          "market": "FII",
-          "name": "BRIO RENDA MAIS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.137.795/0001-67",
-          "registration": "24056",
-          "processNumber": "SRE/4493/2025",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 375000000,
-          "date": "2025-12-29",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -604,8 +604,8 @@
         },
         {
           "market": "FII",
-          "count": 144,
-          "volume": 72383823026.59001
+          "count": 147,
+          "volume": 74357823026.59001
         }
       ]
     },
@@ -614,17 +614,12 @@
       "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
       "cnpj": "59.281.253/0001-23",
       "stats12m": {
-        "offers": 25,
-        "volume": 7521415647.82,
-        "offersWithVolume": 25,
-        "averageTicket": 300856625.9128
+        "offers": 26,
+        "volume": 7821415647.82,
+        "offersWithVolume": 26,
+        "averageTicket": 300823678.7623077
       },
       "byMonth": [
-        {
-          "month": "2024-11",
-          "count": 4,
-          "volume": 445000000
-        },
         {
           "month": "2024-12",
           "count": 1,
@@ -709,9 +704,30 @@
           "month": "2026-10",
           "count": 3,
           "volume": 2212392957.8
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 300000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "3a59cfb431697c87",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO LOTUS TOWERS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.591.656/0001-22",
+          "registration": "28571",
+          "processNumber": "SRE/3575/2026",
+          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+          "leaderCnpj": "59.281.253/0001-23",
+          "volume": 300000000,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "f03f26ab5c52fcea",
           "market": "FII",
@@ -1175,22 +1191,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "708fb7ffe2e463d5",
-          "market": "FII",
-          "name": "VINCI OPORTUNIDADES LOGÍSTICAS FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.909.000/0001-26",
-          "registration": "20266",
-          "processNumber": "SRE/1091/2025",
-          "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "leaderCnpj": "59.281.253/0001-23",
-          "volume": 250000000,
-          "date": "2025-07-11",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
@@ -1206,8 +1206,8 @@
         },
         {
           "market": "FII",
-          "count": 179,
-          "volume": 27033101446.090004
+          "count": 180,
+          "volume": 27333101446.090004
         }
       ]
     },
@@ -1216,10 +1216,10 @@
       "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "13.486.793/0001-42",
       "stats12m": {
-        "offers": 22,
-        "volume": 6441622698.420001,
-        "offersWithVolume": 22,
-        "averageTicket": 292801031.7463637
+        "offers": 21,
+        "volume": 6401452847.360001,
+        "offersWithVolume": 21,
+        "averageTicket": 304831087.96952385
       },
       "byMonth": [
         {
@@ -1818,10 +1818,10 @@
       "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "16.695.922/0001-09",
       "stats12m": {
-        "offers": 15,
-        "volume": 740840002.23,
-        "offersWithVolume": 15,
-        "averageTicket": 49389333.482
+        "offers": 16,
+        "volume": 750840002.23,
+        "offersWithVolume": 16,
+        "averageTicket": 46927500.139375
       },
       "byMonth": [
         {
@@ -1908,9 +1908,30 @@
           "month": "2026-10",
           "count": 2,
           "volume": 371000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 10000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "e0cb3e1934337fea",
+          "market": "FII",
+          "name": "RIO REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.745.126/0001-05",
+          "registration": "28570",
+          "processNumber": "SRE/3573/2026",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 10000000,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "1fb5f4222d4f8ce5",
           "market": "FII",
@@ -2387,35 +2408,6 @@
               "url": ""
             }
           ]
-        },
-        {
-          "id": "8100f84245bdde6c",
-          "market": "FII",
-          "name": "OCTO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "44.680.435/0001-08",
-          "registration": "",
-          "processNumber": "",
-          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "16.695.922/0001-09",
-          "volume": 28600600,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-24",
-              "url": ""
-            }
-          ]
         }
       ],
       "byMarket": [
@@ -2431,8 +2423,8 @@
         },
         {
           "market": "FII",
-          "count": 30,
-          "volume": 1999300461.17
+          "count": 31,
+          "volume": 2009300461.17
         }
       ]
     },
@@ -2813,7 +2805,7 @@
         {
           "market": "FIDC",
           "count": 55,
-          "volume": 18114045059
+          "volume": 18339045059
         },
         {
           "market": "FIAGRO",
@@ -2828,14 +2820,616 @@
       ]
     },
     {
+      "key": "CNPJ:62232889000190",
+      "name": "BANCO DAYCOVAL S.A.",
+      "cnpj": "62.232.889/0001-90",
+      "stats12m": {
+        "offers": 11,
+        "volume": 3947375658.9700003,
+        "offersWithVolume": 11,
+        "averageTicket": 358852332.6336364
+      },
+      "byMonth": [
+        {
+          "month": "2024-05",
+          "count": 2,
+          "volume": 307500000
+        },
+        {
+          "month": "2024-06",
+          "count": 2,
+          "volume": 105825000
+        },
+        {
+          "month": "2024-07",
+          "count": 2,
+          "volume": 95211450
+        },
+        {
+          "month": "2024-08",
+          "count": 4,
+          "volume": 305247174.21000004
+        },
+        {
+          "month": "2024-10",
+          "count": 1,
+          "volume": 30522382.8
+        },
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 125000000
+        },
+        {
+          "month": "2025-01",
+          "count": 2,
+          "volume": 288918730.24
+        },
+        {
+          "month": "2025-02",
+          "count": 1,
+          "volume": 96000000
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 360220000
+        },
+        {
+          "month": "2025-05",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2025-10",
+          "count": 2,
+          "volume": 2767000
+        },
+        {
+          "month": "2025-12",
+          "count": 3,
+          "volume": 469500032.4
+        },
+        {
+          "month": "2026-02",
+          "count": 2,
+          "volume": 260019000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2026-06",
+          "count": 2,
+          "volume": 3050000000
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 46268426.57
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 71588200
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "78e24831f09f6294",
+          "market": "FII",
+          "name": "VALORA CRI RENDA IMOBILIÁRIA FEEDER FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.693.350/0001-87",
+          "registration": "28466",
+          "processNumber": "SRE/3544/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 71588200,
+          "date": "2026-10-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "66842355f3e9c92e",
+          "market": "FII",
+          "name": "AZ QUEST PANORAMA ILION CAIUBÍ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.281.236/0001-87",
+          "registration": "27919",
+          "processNumber": "SRE/2980/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 45000000,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b062e93fb17a4fe0",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TERRENO QUINTAS GLOBAIS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "50.041.467/0001-58",
+          "registration": "27898",
+          "processNumber": "SRE/2986/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 1268426.57,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1c0f72440be483a6",
+          "market": "FII",
+          "name": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.838.122/0001-05",
+          "registration": "26845",
+          "processNumber": "SRE/1988/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 3000000000,
+          "date": "2026-06-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "29f8caa5a6463954",
+          "market": "FII",
+          "name": "TRN FEEDER C25 FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.219.946/0001-14",
+          "registration": "26803",
+          "processNumber": "SRE/1964/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50000000,
+          "date": "2026-06-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ee01264f94ab0144",
+          "market": "FII",
+          "name": "AZ QUEST PANORAMA VINTAGE II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.834.129/0001-03",
+          "registration": "26498",
+          "processNumber": "SRE/1674/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50000000,
+          "date": "2026-05-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4fc790b83b93ca19",
+          "market": "FII",
+          "name": "KRONOLOG FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.161.749/0001-78",
+          "registration": "24785",
+          "processNumber": "SRE/0524/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 70000000,
+          "date": "2026-02-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f5faf5cac65e3d6a",
+          "market": "FII",
+          "name": "RIZA KRIOS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.607.978/0001-07",
+          "registration": "24728",
+          "processNumber": "SRE/0466/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 190019000,
+          "date": "2026-02-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f784f610e0bd8282",
+          "market": "FII",
+          "name": "DAYCOVAL D64 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.293.353/0001-84",
+          "registration": "24125",
+          "processNumber": "SRE/4496/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 320000000,
+          "date": "2025-12-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "95d573a2bfc59a2b",
+          "market": "FII",
+          "name": "JHSF CAPITAL JARDIM DA PACOBÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.076.143/0001-43",
+          "registration": "24058",
+          "processNumber": "SRE/4432/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 49500032.4,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f692cda08b2f4130",
+          "market": "FII",
+          "name": "DAYCOVAL D72 FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.848.135/0001-21",
+          "registration": "24021",
+          "processNumber": "SRE/4400/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 100000000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8c4de8efcda3b9cd",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TERRENO QUINTAS GLOBAIS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "50.041.467/0001-58",
+          "registration": "22954",
+          "processNumber": "SRE/3449/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 1267000,
+          "date": "2025-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "03e881eb936b895b",
+          "market": "FII",
+          "name": "JHSF CAPITAL RESIDENCIAL PACOBÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.076.143/0001-43",
+          "registration": "22955",
+          "processNumber": "SRE/3446/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 1500000,
+          "date": "2025-10-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "95c693e48b0c8f71",
+          "market": "FII",
+          "name": "ARTEMIS 2025 FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.250.967/0001-98",
+          "registration": "21475",
+          "processNumber": "SRE/2193/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 40000000,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cf803b0727a3d8e4",
+          "market": "FII",
+          "name": "DAYCOVAL D55 FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "59.137.499/0001-26",
+          "registration": "20398",
+          "processNumber": "SRE/1211/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 100000000,
+          "date": "2025-05-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "44232b6fd410e5d0",
+          "market": "FII",
+          "name": "NEST EAGLE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.422.883/0001-57",
+          "registration": "20198",
+          "processNumber": "SRE/1040/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 360220000,
+          "date": "2025-04-11",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "43c52043ebce9624",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TURMALINA DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.478.226/0001-82",
+          "registration": "19442",
+          "processNumber": "SRE/0387/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 96000000,
+          "date": "2025-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ce3af413af164d6c",
+          "market": "FII",
+          "name": "VALORA HEDGE FUND AGRO - FIAGRO-IMOBILIÁRIO",
+          "cnpj": "51.658.280/0001-60",
+          "registration": "19303",
+          "processNumber": "SRE/0260/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 80318730.24,
+          "date": "2025-01-29",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "22d107cf9b56ff6e",
+          "market": "FII",
+          "name": "CYRELA DESENVOLVIMENTO LOGISTICO II FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.050.885/0001-50",
+          "registration": "19224",
+          "processNumber": "SRE/0188/2025",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 208600000,
+          "date": "2025-01-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2b0401028c997d39",
+          "market": "FII",
+          "name": "DAYCOVAL D37 FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "55.487.360/0001-51",
+          "registration": "18121",
+          "processNumber": "SRE/3458/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 125000000,
+          "date": "2024-11-06",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3f7c5f88a95c6272",
+          "market": "FII",
+          "name": "SPECIALE REAL ESTATE FUND OF FUNDS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "50.135.849/0001-40",
+          "registration": "17575",
+          "processNumber": "SRE/3054/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 30522382.8,
+          "date": "2024-10-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0a53cd6d7aa7f29c",
+          "market": "FII",
+          "name": "VALORA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.656.482/0001-07",
+          "registration": "16969",
+          "processNumber": "SRE/2476/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 30247174.21,
+          "date": "2024-08-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e71dc4d1b59aea5a",
+          "market": "FII",
+          "name": "AZ QUEST PANORAMA CREDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.985.307/0001-80",
+          "registration": "16874",
+          "processNumber": "SRE/2367/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 125000000,
+          "date": "2024-08-19",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "c8f8e884caf69651",
+          "market": "FII",
+          "name": "ARTEMIS 2024 FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "56.303.820/0001-07",
+          "registration": "16847",
+          "processNumber": "SRE/2343/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 100000000,
+          "date": "2024-08-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "249230b76757368f",
+          "market": "FII",
+          "name": "ICATU VANGUARDA CREDITO IMOBILIARIO FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.305.536/0001-81",
+          "registration": "16846",
+          "processNumber": "SRE/2340/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50000000,
+          "date": "2024-08-07",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "32da5a35d470f840",
+          "market": "FII",
+          "name": "DAYCOVAL D36 FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "55.034.258/0001-09",
+          "registration": "16761",
+          "processNumber": "SRE/2265/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50000000,
+          "date": "2024-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "11f8037e1fa8e205",
+          "market": "FII",
+          "name": "DAYCOVAL D17 FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "52.890.292/0001-89",
+          "registration": "16651",
+          "processNumber": "SRE/2167/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 45211450,
+          "date": "2024-07-23",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1f768b4175389235",
+          "market": "FII",
+          "name": "DAYCOVAL D5 FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "50.918.320/0001-01",
+          "registration": "16369",
+          "processNumber": "SRE/1913/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 55620000,
+          "date": "2024-06-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d69ebb04ab48833a",
+          "market": "FII",
+          "name": "EDGE FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.306.150/0001-57",
+          "registration": "16111",
+          "processNumber": "SRE/1703/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50205000,
+          "date": "2024-06-14",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "09f175299803a82c",
+          "market": "FII",
+          "name": "SPECIALE REAL ESTATE DEVELOPMENT II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "54.635.301/0001-10",
+          "registration": "15869",
+          "processNumber": "SRE/1484/2024",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 120000000,
+          "date": "2024-05-27",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 205,
+          "volume": 18365952056.010002
+        },
+        {
+          "market": "FIAGRO",
+          "count": 21,
+          "volume": 2179127400
+        },
+        {
+          "market": "FII",
+          "count": 44,
+          "volume": 6749012290.5
+        }
+      ]
+    },
+    {
       "key": "CNPJ:22610500000188",
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 12,
-        "volume": 1500598779.0800002,
-        "offersWithVolume": 12,
-        "averageTicket": 125049898.25666668
+        "offers": 10,
+        "volume": 1095598779.0800002,
+        "offersWithVolume": 10,
+        "averageTicket": 109559877.90800002
       },
       "byMonth": [
         {
@@ -3430,608 +4024,6 @@
       ]
     },
     {
-      "key": "CNPJ:62232889000190",
-      "name": "BANCO DAYCOVAL S.A.",
-      "cnpj": "62.232.889/0001-90",
-      "stats12m": {
-        "offers": 11,
-        "volume": 3947375658.9700003,
-        "offersWithVolume": 11,
-        "averageTicket": 358852332.6336364
-      },
-      "byMonth": [
-        {
-          "month": "2024-05",
-          "count": 2,
-          "volume": 307500000
-        },
-        {
-          "month": "2024-06",
-          "count": 2,
-          "volume": 105825000
-        },
-        {
-          "month": "2024-07",
-          "count": 2,
-          "volume": 95211450
-        },
-        {
-          "month": "2024-08",
-          "count": 4,
-          "volume": 305247174.21000004
-        },
-        {
-          "month": "2024-10",
-          "count": 1,
-          "volume": 30522382.8
-        },
-        {
-          "month": "2024-11",
-          "count": 1,
-          "volume": 125000000
-        },
-        {
-          "month": "2025-01",
-          "count": 2,
-          "volume": 288918730.24
-        },
-        {
-          "month": "2025-02",
-          "count": 1,
-          "volume": 96000000
-        },
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 360220000
-        },
-        {
-          "month": "2025-05",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 40000000
-        },
-        {
-          "month": "2025-10",
-          "count": 2,
-          "volume": 2767000
-        },
-        {
-          "month": "2025-12",
-          "count": 3,
-          "volume": 469500032.4
-        },
-        {
-          "month": "2026-02",
-          "count": 2,
-          "volume": 260019000
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 50000000
-        },
-        {
-          "month": "2026-06",
-          "count": 2,
-          "volume": 3050000000
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 46268426.57
-        },
-        {
-          "month": "2026-10",
-          "count": 1,
-          "volume": 71588200
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "78e24831f09f6294",
-          "market": "FII",
-          "name": "VALORA CRI RENDA IMOBILIÁRIA FEEDER FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.693.350/0001-87",
-          "registration": "28466",
-          "processNumber": "SRE/3544/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 71588200,
-          "date": "2026-10-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "66842355f3e9c92e",
-          "market": "FII",
-          "name": "AZ QUEST PANORAMA ILION CAIUBÍ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.281.236/0001-87",
-          "registration": "27919",
-          "processNumber": "SRE/2980/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 45000000,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "b062e93fb17a4fe0",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TERRENO QUINTAS GLOBAIS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "50.041.467/0001-58",
-          "registration": "27898",
-          "processNumber": "SRE/2986/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 1268426.57,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "1c0f72440be483a6",
-          "market": "FII",
-          "name": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.838.122/0001-05",
-          "registration": "26845",
-          "processNumber": "SRE/1988/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 3000000000,
-          "date": "2026-06-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        },
-        {
-          "id": "29f8caa5a6463954",
-          "market": "FII",
-          "name": "TRN FEEDER C25 FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.219.946/0001-14",
-          "registration": "26803",
-          "processNumber": "SRE/1964/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50000000,
-          "date": "2026-06-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ee01264f94ab0144",
-          "market": "FII",
-          "name": "AZ QUEST PANORAMA VINTAGE II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.834.129/0001-03",
-          "registration": "26498",
-          "processNumber": "SRE/1674/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50000000,
-          "date": "2026-05-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4fc790b83b93ca19",
-          "market": "FII",
-          "name": "KRONOLOG FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.161.749/0001-78",
-          "registration": "24785",
-          "processNumber": "SRE/0524/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 70000000,
-          "date": "2026-02-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f5faf5cac65e3d6a",
-          "market": "FII",
-          "name": "RIZA KRIOS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.607.978/0001-07",
-          "registration": "24728",
-          "processNumber": "SRE/0466/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 190019000,
-          "date": "2026-02-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f784f610e0bd8282",
-          "market": "FII",
-          "name": "DAYCOVAL D64 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.293.353/0001-84",
-          "registration": "24125",
-          "processNumber": "SRE/4496/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 320000000,
-          "date": "2025-12-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "95d573a2bfc59a2b",
-          "market": "FII",
-          "name": "JHSF CAPITAL JARDIM DA PACOBÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.076.143/0001-43",
-          "registration": "24058",
-          "processNumber": "SRE/4432/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 49500032.4,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f692cda08b2f4130",
-          "market": "FII",
-          "name": "DAYCOVAL D72 FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.848.135/0001-21",
-          "registration": "24021",
-          "processNumber": "SRE/4400/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 100000000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8c4de8efcda3b9cd",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TERRENO QUINTAS GLOBAIS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "50.041.467/0001-58",
-          "registration": "22954",
-          "processNumber": "SRE/3449/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 1267000,
-          "date": "2025-10-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "03e881eb936b895b",
-          "market": "FII",
-          "name": "JHSF CAPITAL RESIDENCIAL PACOBÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.076.143/0001-43",
-          "registration": "22955",
-          "processNumber": "SRE/3446/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 1500000,
-          "date": "2025-10-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "95c693e48b0c8f71",
-          "market": "FII",
-          "name": "ARTEMIS 2025 FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.250.967/0001-98",
-          "registration": "21475",
-          "processNumber": "SRE/2193/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 40000000,
-          "date": "2025-07-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "cf803b0727a3d8e4",
-          "market": "FII",
-          "name": "DAYCOVAL D55 FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "59.137.499/0001-26",
-          "registration": "20398",
-          "processNumber": "SRE/1211/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 100000000,
-          "date": "2025-05-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "44232b6fd410e5d0",
-          "market": "FII",
-          "name": "NEST EAGLE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.422.883/0001-57",
-          "registration": "20198",
-          "processNumber": "SRE/1040/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 360220000,
-          "date": "2025-04-11",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "43c52043ebce9624",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TURMALINA DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.478.226/0001-82",
-          "registration": "19442",
-          "processNumber": "SRE/0387/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 96000000,
-          "date": "2025-02-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ce3af413af164d6c",
-          "market": "FII",
-          "name": "VALORA HEDGE FUND AGRO - FIAGRO-IMOBILIÁRIO",
-          "cnpj": "51.658.280/0001-60",
-          "registration": "19303",
-          "processNumber": "SRE/0260/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 80318730.24,
-          "date": "2025-01-29",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "22d107cf9b56ff6e",
-          "market": "FII",
-          "name": "CYRELA DESENVOLVIMENTO LOGISTICO II FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.050.885/0001-50",
-          "registration": "19224",
-          "processNumber": "SRE/0188/2025",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 208600000,
-          "date": "2025-01-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2b0401028c997d39",
-          "market": "FII",
-          "name": "DAYCOVAL D37 FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "55.487.360/0001-51",
-          "registration": "18121",
-          "processNumber": "SRE/3458/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 125000000,
-          "date": "2024-11-06",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3f7c5f88a95c6272",
-          "market": "FII",
-          "name": "SPECIALE REAL ESTATE FUND OF FUNDS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "50.135.849/0001-40",
-          "registration": "17575",
-          "processNumber": "SRE/3054/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 30522382.8,
-          "date": "2024-10-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0a53cd6d7aa7f29c",
-          "market": "FII",
-          "name": "VALORA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.656.482/0001-07",
-          "registration": "16969",
-          "processNumber": "SRE/2476/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 30247174.21,
-          "date": "2024-08-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e71dc4d1b59aea5a",
-          "market": "FII",
-          "name": "AZ QUEST PANORAMA CREDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.985.307/0001-80",
-          "registration": "16874",
-          "processNumber": "SRE/2367/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 125000000,
-          "date": "2024-08-19",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c8f8e884caf69651",
-          "market": "FII",
-          "name": "ARTEMIS 2024 FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "56.303.820/0001-07",
-          "registration": "16847",
-          "processNumber": "SRE/2343/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 100000000,
-          "date": "2024-08-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "249230b76757368f",
-          "market": "FII",
-          "name": "ICATU VANGUARDA CREDITO IMOBILIARIO FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.305.536/0001-81",
-          "registration": "16846",
-          "processNumber": "SRE/2340/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50000000,
-          "date": "2024-08-07",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "32da5a35d470f840",
-          "market": "FII",
-          "name": "DAYCOVAL D36 FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "55.034.258/0001-09",
-          "registration": "16761",
-          "processNumber": "SRE/2265/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50000000,
-          "date": "2024-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "11f8037e1fa8e205",
-          "market": "FII",
-          "name": "DAYCOVAL D17 FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "52.890.292/0001-89",
-          "registration": "16651",
-          "processNumber": "SRE/2167/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 45211450,
-          "date": "2024-07-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1f768b4175389235",
-          "market": "FII",
-          "name": "DAYCOVAL D5 FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "50.918.320/0001-01",
-          "registration": "16369",
-          "processNumber": "SRE/1913/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 55620000,
-          "date": "2024-06-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d69ebb04ab48833a",
-          "market": "FII",
-          "name": "EDGE FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.306.150/0001-57",
-          "registration": "16111",
-          "processNumber": "SRE/1703/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50205000,
-          "date": "2024-06-14",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "09f175299803a82c",
-          "market": "FII",
-          "name": "SPECIALE REAL ESTATE DEVELOPMENT II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.635.301/0001-10",
-          "registration": "15869",
-          "processNumber": "SRE/1484/2024",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 120000000,
-          "date": "2024-05-27",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 203,
-          "volume": 18241652056.010002
-        },
-        {
-          "market": "FIAGRO",
-          "count": 21,
-          "volume": 2179127400
-        },
-        {
-          "market": "FII",
-          "count": 44,
-          "volume": 6749012290.5
-        }
-      ]
-    },
-    {
       "key": "CNPJ:28650236000192",
       "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
       "cnpj": "28.650.236/0001-92",
@@ -4440,6 +4432,563 @@
           "market": "FII",
           "count": 19,
           "volume": 1105738496.75
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:18945670000146",
+      "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "cnpj": "18.945.670/0001-46",
+      "stats12m": {
+        "offers": 8,
+        "volume": 1907596566.6899998,
+        "offersWithVolume": 8,
+        "averageTicket": 238449570.83624998
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 1,
+          "volume": 78995827.5
+        },
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 256925000
+        },
+        {
+          "month": "2023-12",
+          "count": 2,
+          "volume": 288127517.31
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 24003750
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 128877332.63
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 202500073.05
+        },
+        {
+          "month": "2025-02",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2025-03",
+          "count": 2,
+          "volume": 158000059
+        },
+        {
+          "month": "2025-08",
+          "count": 1,
+          "volume": 280000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 12567395.84
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 2999999.99
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 1262708162.85
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 619321008
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 10000000.01
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6363925164e94ee6",
+          "market": "FII",
+          "name": "GUIMMAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.220.343/0001-93",
+          "registration": "28560",
+          "processNumber": "SRE/3562/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 10000000.01,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ba61270f6b27c5ad",
+          "market": "FII",
+          "name": "GATTI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.011.838/0001-87",
+          "registration": "28356",
+          "processNumber": "SRE/3380/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 550000000,
+          "date": "2026-10-16",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3392b3398f60ffab",
+          "market": "FII",
+          "name": "ATLAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.386.592/0001-28",
+          "registration": "28239",
+          "processNumber": "SRE/3330/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 69096000,
+          "date": "2026-10-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "46689bb15095bd30",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO AVM FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "33.354.650/0001-94",
+          "registration": "28185",
+          "processNumber": "SRE/3287/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 225008,
+          "date": "2026-10-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b9c92fec4b284673",
+          "market": "FII",
+          "name": "BTS SERENA FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.105.082/0001-59",
+          "registration": "27732",
+          "processNumber": "SRE/2805/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 149205000,
+          "date": "2026-09-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "54bddc15c84ad6a8",
+          "market": "FII",
+          "name": "BTSP III FUNDO DE INVESTIMENTO IMOBILIARIO FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.965.056/0001-99",
+          "registration": "27685",
+          "processNumber": "SRE/2774/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 1113503162.85,
+          "date": "2026-09-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "9fcc02e9338fae8d",
+          "market": "FII",
+          "name": "GUIMMAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.220.343/0001-93",
+          "registration": "24776",
+          "processNumber": "SRE/0516/2026",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 2999999.99,
+          "date": "2026-02-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "136f324127de78e9",
+          "market": "FII",
+          "name": "BTS SERENA FUNDO DE INVESTIMENTO IMOBILIARIO FII RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.105.082/0001-59",
+          "registration": "23966",
+          "processNumber": "SRE/4341/2025",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 12567395.84,
+          "date": "2025-12-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "786c5c00311e8514",
+          "market": "FII",
+          "name": "INTER OPORTUNIDADE IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.272.325/0001-18",
+          "registration": "21090",
+          "processNumber": "SRE/1844/2025",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 280000000,
+          "date": "2025-08-13",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "855c852ce6b6a812",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO - AVM FII",
+          "cnpj": "33.354.650/0001-94",
+          "registration": "19766",
+          "processNumber": "SRE/0713/2025",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 3000059,
+          "date": "2025-03-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f5bb0352267b1394",
+          "market": "FII",
+          "name": "STRIVO YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.678.586/0001-90",
+          "registration": "19730",
+          "processNumber": "SRE/0661/2025",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 155000000,
+          "date": "2025-03-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d28ce70e6db189dc",
+          "market": "FII",
+          "name": "INTER HEDGE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.501.860/0001-99",
+          "registration": "19441",
+          "processNumber": "SRE/0386/2025",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 200000000,
+          "date": "2025-02-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d9f78b48fbcff3aa",
+          "market": "FII",
+          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "36.930.464/0001-44",
+          "registration": "16933",
+          "processNumber": "SRE/2438/2024",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 202500073.05,
+          "date": "2024-08-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "5167e3c2ad136b65",
+          "market": "FII",
+          "name": "LOGCP INTER FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "34.598.181/0001-11",
+          "registration": "16527",
+          "processNumber": "SRE/2062/2024",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 128877332.63,
+          "date": "2024-07-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "a16113ca31c23ff9",
+          "market": "FII",
+          "name": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.635.194/0001-03",
+          "registration": "16317",
+          "processNumber": "SRE/1874/2024",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 24003750,
+          "date": "2024-06-26",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0689ba25f4f4562a",
+          "market": "FII",
+          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "36.930.464/0001-44",
+          "registration": "3845",
+          "processNumber": "SRE/2813/2023",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 208127517.31,
+          "date": "2023-12-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "656724ba0ea5bd7e",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RBR CRÉDITO PULVERIZADO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.018.363/0001-10",
+          "registration": "3769",
+          "processNumber": "SRE/2742/2023",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 80000000,
+          "date": "2023-12-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b9bebf19895f791a",
+          "market": "FII",
+          "name": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "52.635.194/0001-03",
+          "registration": "3478",
+          "processNumber": "SRE/2489/2023",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 256925000,
+          "date": "2023-11-03",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "08b1774c9fc06eb1",
+          "market": "FII",
+          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "36.930.464/0001-44",
+          "registration": "1261",
+          "processNumber": "SRE/0561/2023",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 78995827.5,
+          "date": "2023-04-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "aef41c3034dd84c6",
+          "market": "FII",
+          "name": "BTSP I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "36.098.375/0001-83",
+          "registration": "",
+          "processNumber": "",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 74500000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "f7c99badc8fafd74",
+          "market": "FII",
+          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "36.930.464/0001-44",
+          "registration": "",
+          "processNumber": "",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 187000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-05-25",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-11-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "de0d8ff20385b8aa",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO - AVM FII",
+          "cnpj": "33.354.650/0001-94",
+          "registration": "",
+          "processNumber": "",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 342211900,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-04-14",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "18b6f2173d4db999",
+          "market": "FII",
+          "name": "INTER TITULOS IMOBILIARIOS FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "34.007.109/0001-72",
+          "registration": "",
+          "processNumber": "",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 50000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-08-27",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "ab583046c8e8b3cc",
+          "market": "FII",
+          "name": "LUGGO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "34.835.191/0001-23",
+          "registration": "",
+          "processNumber": "",
+          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+          "leaderCnpj": "18.945.670/0001-46",
+          "volume": 18456480,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-02-03",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1,
+          "volume": 60000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 100000007.25
+        },
+        {
+          "market": "FII",
+          "count": 24,
+          "volume": 4197194506.18
         }
       ]
     },
@@ -5137,14 +5686,278 @@
       ]
     },
     {
+      "key": "CNPJ:58160789000128",
+      "name": "BANCO SAFRA S/A",
+      "cnpj": "58.160.789/0001-28",
+      "stats12m": {
+        "offers": 6,
+        "volume": 4745023687.42,
+        "offersWithVolume": 6,
+        "averageTicket": 790837281.2366667
+      },
+      "byMonth": [
+        {
+          "month": "2023-10",
+          "count": 1,
+          "volume": 323661888
+        },
+        {
+          "month": "2024-03",
+          "count": 1,
+          "volume": 517726209
+        },
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 231652590
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 785000000
+        },
+        {
+          "month": "2026-02",
+          "count": 3,
+          "volume": 2460023241.94
+        },
+        {
+          "month": "2026-06",
+          "count": 2,
+          "volume": 1500000445.48
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8c7233bff50f083f",
+          "market": "FII",
+          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.176.399/0001-98",
+          "registration": "26807",
+          "processNumber": "SRE/1972/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 750000445.48,
+          "date": "2026-06-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f88768feb7d375ea",
+          "market": "FII",
+          "name": "JS CRÉDITO ESTRUTURADO III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.523.141/0001-60",
+          "registration": "26805",
+          "processNumber": "SRE/1973/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 750000000,
+          "date": "2026-06-22",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2b27b9de81114c2d",
+          "market": "FII",
+          "name": "JS CREDITO ESTRUTURADO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.739.777/0001-55",
+          "registration": "24696",
+          "processNumber": "SRE/0436/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 750000000,
+          "date": "2026-02-12",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6681dca7bd23ef86",
+          "market": "FII",
+          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.950.991/0001-20",
+          "registration": "24693",
+          "processNumber": "SRE/0435/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 960023638.62,
+          "date": "2026-02-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cf8da63c3bcfa0cb",
+          "market": "FII",
+          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.176.399/0001-98",
+          "registration": "24654",
+          "processNumber": "SRE/0397/2026",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 749999603.32,
+          "date": "2026-02-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "88cdf04a4b0358b3",
+          "market": "FII",
+          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.950.991/0001-20",
+          "registration": "23751",
+          "processNumber": "SRE/4178/2025",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 785000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f005510bc7c8f29c",
+          "market": "FII",
+          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.501.233/0001-15",
+          "registration": "16322",
+          "processNumber": "SRE/1880/2024",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 231652590,
+          "date": "2024-06-26",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "f862adcd29c845b8",
+          "market": "FII",
+          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "42.085.661/0001-07",
+          "registration": "15030",
+          "processNumber": "SRE/0747/2024",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 517726209,
+          "date": "2024-03-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3d4af8543817b54a",
+          "market": "FII",
+          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "42.085.661/0001-07",
+          "registration": "3302",
+          "processNumber": "SRE/2359/2023",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 323661888,
+          "date": "2023-10-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bc642cc42d3c739e",
+          "market": "FII",
+          "name": "JS REAL ESTATE MULTIGESTÃO - FII",
+          "cnpj": "13.371.132/0001-71",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 770744803.62,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-02-13",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "0260d793b7bd4bdf",
+          "market": "FII",
+          "name": "TISHMAN SPEYER RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "34.847.042/0001-84",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SAFRA S/A",
+          "leaderCnpj": "58.160.789/0001-28",
+          "volume": 120500000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-04-05",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 28,
+          "volume": 2544133623.0499997
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 11,
+          "volume": 6709309178.04
+        }
+      ]
+    },
+    {
       "key": "CNPJ:13220493000117",
       "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
       "cnpj": "13.220.493/0001-17",
       "stats12m": {
-        "offers": 7,
-        "volume": 2121755828.4499998,
-        "offersWithVolume": 7,
-        "averageTicket": 303107975.4928571
+        "offers": 6,
+        "volume": 1515889165.57,
+        "offersWithVolume": 6,
+        "averageTicket": 252648194.26166666
       },
       "byMonth": [
         {
@@ -5955,806 +6768,6 @@
           "market": "FII",
           "count": 30,
           "volume": 6975725913.02
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:18945670000146",
-      "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-      "cnpj": "18.945.670/0001-46",
-      "stats12m": {
-        "offers": 7,
-        "volume": 1897596566.6799998,
-        "offersWithVolume": 7,
-        "averageTicket": 271085223.81142855
-      },
-      "byMonth": [
-        {
-          "month": "2023-04",
-          "count": 1,
-          "volume": 78995827.5
-        },
-        {
-          "month": "2023-11",
-          "count": 1,
-          "volume": 256925000
-        },
-        {
-          "month": "2023-12",
-          "count": 2,
-          "volume": 288127517.31
-        },
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 24003750
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 128877332.63
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 202500073.05
-        },
-        {
-          "month": "2025-02",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2025-03",
-          "count": 2,
-          "volume": 158000059
-        },
-        {
-          "month": "2025-08",
-          "count": 1,
-          "volume": 280000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 12567395.84
-        },
-        {
-          "month": "2026-02",
-          "count": 1,
-          "volume": 2999999.99
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 1262708162.85
-        },
-        {
-          "month": "2026-10",
-          "count": 3,
-          "volume": 619321008
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "ba61270f6b27c5ad",
-          "market": "FII",
-          "name": "GATTI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.011.838/0001-87",
-          "registration": "28356",
-          "processNumber": "SRE/3380/2026",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 550000000,
-          "date": "2026-10-16",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3392b3398f60ffab",
-          "market": "FII",
-          "name": "ATLAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.386.592/0001-28",
-          "registration": "28239",
-          "processNumber": "SRE/3330/2026",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 69096000,
-          "date": "2026-10-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "46689bb15095bd30",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO AVM FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "33.354.650/0001-94",
-          "registration": "28185",
-          "processNumber": "SRE/3287/2026",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 225008,
-          "date": "2026-10-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b9c92fec4b284673",
-          "market": "FII",
-          "name": "BTS SERENA FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.105.082/0001-59",
-          "registration": "27732",
-          "processNumber": "SRE/2805/2026",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 149205000,
-          "date": "2026-09-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "54bddc15c84ad6a8",
-          "market": "FII",
-          "name": "BTSP III FUNDO DE INVESTIMENTO IMOBILIARIO FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.965.056/0001-99",
-          "registration": "27685",
-          "processNumber": "SRE/2774/2026",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 1113503162.85,
-          "date": "2026-09-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "9fcc02e9338fae8d",
-          "market": "FII",
-          "name": "GUIMMAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.220.343/0001-93",
-          "registration": "24776",
-          "processNumber": "SRE/0516/2026",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 2999999.99,
-          "date": "2026-02-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "136f324127de78e9",
-          "market": "FII",
-          "name": "BTS SERENA FUNDO DE INVESTIMENTO IMOBILIARIO FII RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.105.082/0001-59",
-          "registration": "23966",
-          "processNumber": "SRE/4341/2025",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 12567395.84,
-          "date": "2025-12-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "786c5c00311e8514",
-          "market": "FII",
-          "name": "INTER OPORTUNIDADE IMOBILIARIA FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.272.325/0001-18",
-          "registration": "21090",
-          "processNumber": "SRE/1844/2025",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 280000000,
-          "date": "2025-08-13",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "855c852ce6b6a812",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO - AVM FII",
-          "cnpj": "33.354.650/0001-94",
-          "registration": "19766",
-          "processNumber": "SRE/0713/2025",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 3000059,
-          "date": "2025-03-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f5bb0352267b1394",
-          "market": "FII",
-          "name": "STRIVO YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "59.678.586/0001-90",
-          "registration": "19730",
-          "processNumber": "SRE/0661/2025",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 155000000,
-          "date": "2025-03-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d28ce70e6db189dc",
-          "market": "FII",
-          "name": "INTER HEDGE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.501.860/0001-99",
-          "registration": "19441",
-          "processNumber": "SRE/0386/2025",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 200000000,
-          "date": "2025-02-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d9f78b48fbcff3aa",
-          "market": "FII",
-          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "36.930.464/0001-44",
-          "registration": "16933",
-          "processNumber": "SRE/2438/2024",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 202500073.05,
-          "date": "2024-08-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "5167e3c2ad136b65",
-          "market": "FII",
-          "name": "LOGCP INTER FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "34.598.181/0001-11",
-          "registration": "16527",
-          "processNumber": "SRE/2062/2024",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 128877332.63,
-          "date": "2024-07-11",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "a16113ca31c23ff9",
-          "market": "FII",
-          "name": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "52.635.194/0001-03",
-          "registration": "16317",
-          "processNumber": "SRE/1874/2024",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 24003750,
-          "date": "2024-06-26",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0689ba25f4f4562a",
-          "market": "FII",
-          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "36.930.464/0001-44",
-          "registration": "3845",
-          "processNumber": "SRE/2813/2023",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 208127517.31,
-          "date": "2023-12-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "656724ba0ea5bd7e",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RBR CRÉDITO PULVERIZADO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.018.363/0001-10",
-          "registration": "3769",
-          "processNumber": "SRE/2742/2023",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 80000000,
-          "date": "2023-12-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b9bebf19895f791a",
-          "market": "FII",
-          "name": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "52.635.194/0001-03",
-          "registration": "3478",
-          "processNumber": "SRE/2489/2023",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 256925000,
-          "date": "2023-11-03",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "08b1774c9fc06eb1",
-          "market": "FII",
-          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "36.930.464/0001-44",
-          "registration": "1261",
-          "processNumber": "SRE/0561/2023",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 78995827.5,
-          "date": "2023-04-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "aef41c3034dd84c6",
-          "market": "FII",
-          "name": "BTSP I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "36.098.375/0001-83",
-          "registration": "",
-          "processNumber": "",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 74500000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "f7c99badc8fafd74",
-          "market": "FII",
-          "name": "BTSP II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "36.930.464/0001-44",
-          "registration": "",
-          "processNumber": "",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 187000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-05-25",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-11-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "de0d8ff20385b8aa",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO - AVM FII",
-          "cnpj": "33.354.650/0001-94",
-          "registration": "",
-          "processNumber": "",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 342211900,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-04-14",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "18b6f2173d4db999",
-          "market": "FII",
-          "name": "INTER TITULOS IMOBILIARIOS FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "34.007.109/0001-72",
-          "registration": "",
-          "processNumber": "",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 50000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-08-27",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "ab583046c8e8b3cc",
-          "market": "FII",
-          "name": "LUGGO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "34.835.191/0001-23",
-          "registration": "",
-          "processNumber": "",
-          "leader": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-          "leaderCnpj": "18.945.670/0001-46",
-          "volume": 18456480,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-02-03",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 1,
-          "volume": 60000000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 1,
-          "volume": 100000007.25
-        },
-        {
-          "market": "FII",
-          "count": 23,
-          "volume": 4187194506.17
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:58160789000128",
-      "name": "BANCO SAFRA S/A",
-      "cnpj": "58.160.789/0001-28",
-      "stats12m": {
-        "offers": 6,
-        "volume": 4745023687.42,
-        "offersWithVolume": 6,
-        "averageTicket": 790837281.2366667
-      },
-      "byMonth": [
-        {
-          "month": "2023-10",
-          "count": 1,
-          "volume": 323661888
-        },
-        {
-          "month": "2024-03",
-          "count": 1,
-          "volume": 517726209
-        },
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 231652590
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 785000000
-        },
-        {
-          "month": "2026-02",
-          "count": 3,
-          "volume": 2460023241.94
-        },
-        {
-          "month": "2026-06",
-          "count": 2,
-          "volume": 1500000445.48
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "8c7233bff50f083f",
-          "market": "FII",
-          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.176.399/0001-98",
-          "registration": "26807",
-          "processNumber": "SRE/1972/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 750000445.48,
-          "date": "2026-06-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f88768feb7d375ea",
-          "market": "FII",
-          "name": "JS CRÉDITO ESTRUTURADO III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.523.141/0001-60",
-          "registration": "26805",
-          "processNumber": "SRE/1973/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 750000000,
-          "date": "2026-06-22",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2b27b9de81114c2d",
-          "market": "FII",
-          "name": "JS CREDITO ESTRUTURADO II FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.739.777/0001-55",
-          "registration": "24696",
-          "processNumber": "SRE/0436/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 750000000,
-          "date": "2026-02-12",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6681dca7bd23ef86",
-          "market": "FII",
-          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.950.991/0001-20",
-          "registration": "24693",
-          "processNumber": "SRE/0435/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 960023638.62,
-          "date": "2026-02-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "cf8da63c3bcfa0cb",
-          "market": "FII",
-          "name": "JS CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.176.399/0001-98",
-          "registration": "24654",
-          "processNumber": "SRE/0397/2026",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 749999603.32,
-          "date": "2026-02-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "88cdf04a4b0358b3",
-          "market": "FII",
-          "name": "JS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.950.991/0001-20",
-          "registration": "23751",
-          "processNumber": "SRE/4178/2025",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 785000000,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f005510bc7c8f29c",
-          "market": "FII",
-          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.501.233/0001-15",
-          "registration": "16322",
-          "processNumber": "SRE/1880/2024",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 231652590,
-          "date": "2024-06-26",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "f862adcd29c845b8",
-          "market": "FII",
-          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "42.085.661/0001-07",
-          "registration": "15030",
-          "processNumber": "SRE/0747/2024",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 517726209,
-          "date": "2024-03-19",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3d4af8543817b54a",
-          "market": "FII",
-          "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "42.085.661/0001-07",
-          "registration": "3302",
-          "processNumber": "SRE/2359/2023",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 323661888,
-          "date": "2023-10-19",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bc642cc42d3c739e",
-          "market": "FII",
-          "name": "JS REAL ESTATE MULTIGESTÃO - FII",
-          "cnpj": "13.371.132/0001-71",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 770744803.62,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-02-13",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "0260d793b7bd4bdf",
-          "market": "FII",
-          "name": "TISHMAN SPEYER RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.847.042/0001-84",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SAFRA S/A",
-          "leaderCnpj": "58.160.789/0001-28",
-          "volume": 120500000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-04-05",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 28,
-          "volume": 2544133623.0499997
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 11,
-          "volume": 6709309178.04
         }
       ]
     },
@@ -8200,620 +8213,6 @@
           "market": "FII",
           "count": 37,
           "volume": 3477211750.81
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:27652684000162",
-      "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-      "cnpj": "27.652.684/0001-62",
-      "stats12m": {
-        "offers": 4,
-        "volume": 1666000000,
-        "offersWithVolume": 4,
-        "averageTicket": 416500000
-      },
-      "byMonth": [
-        {
-          "month": "2023-01",
-          "count": 1,
-          "volume": 125000043.48
-        },
-        {
-          "month": "2023-07",
-          "count": 1,
-          "volume": 124560000
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 68750000
-        },
-        {
-          "month": "2024-02",
-          "count": 1,
-          "volume": 62500000
-        },
-        {
-          "month": "2024-04",
-          "count": 1,
-          "volume": 124999993.7
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 120000000
-        },
-        {
-          "month": "2025-11",
-          "count": 1,
-          "volume": 36000000
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 450000000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 180000000
-        },
-        {
-          "month": "2026-10",
-          "count": 1,
-          "volume": 1000000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "7184f02a0a754d24",
-          "market": "FII",
-          "name": "SUNO IMÓVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.323.500/0001-60",
-          "registration": "28382",
-          "processNumber": "SRE/3393/2026",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 1000000000,
-          "date": "2026-10-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "5ddcda8c50a0169d",
-          "market": "FII",
-          "name": "MATRIZ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.132.550/0001-06",
-          "registration": "27749",
-          "processNumber": "SRE/2817/2026",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 180000000,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "4e3690b4b2c6614a",
-          "market": "FII",
-          "name": "LWTC FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "36.501.249/0001-28",
-          "registration": "26469",
-          "processNumber": "SRE/1648/2026",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 450000000,
-          "date": "2026-05-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "b989c95e2607b168",
-          "market": "FII",
-          "name": "RIZA ESTIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.574.892/0001-54",
-          "registration": "23374",
-          "processNumber": "SRE/3818/2025",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 36000000,
-          "date": "2025-11-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ce64667d3438109d",
-          "market": "FII",
-          "name": "CORPORATE CHUCRI - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.762.309/0001-03",
-          "registration": "21627",
-          "processNumber": "SRE/2320/2025",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 120000000,
-          "date": "2025-07-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4476c342a4da99c3",
-          "market": "FII",
-          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.192.125/0001-00",
-          "registration": "15435",
-          "processNumber": "SRE/1100/2024",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 124999993.7,
-          "date": "2024-04-19",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e9f1a1501092425b",
-          "market": "FII",
-          "name": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.866.872/0001-01",
-          "registration": "14779",
-          "processNumber": "SRE/0537/2024",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 62500000,
-          "date": "2024-02-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ff089011e28ac814",
-          "market": "FII",
-          "name": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.193.237/0001-00",
-          "registration": "4268",
-          "processNumber": "SRE/0062/2024",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 68750000,
-          "date": "2024-01-05",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6e0afd0e649cc1ac",
-          "market": "FII",
-          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.192.125/0001-00",
-          "registration": "2233",
-          "processNumber": "SRE/1397/2023",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 124560000,
-          "date": "2023-07-11",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d0a625450d7fc635",
-          "market": "FII",
-          "name": "MORE RECEBÍVEIS IMOBILIÁRIOS FII FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "40.102.474/0001-69",
-          "registration": "585",
-          "processNumber": "SRE/0069/2023",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 125000043.48,
-          "date": "2023-01-27",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4520389c8377e00b",
-          "market": "FII",
-          "name": "BPGB-001 FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "21.044.600/0001-21",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 40200000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-03-02",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "8f469497b7abd8ba",
-          "market": "FII",
-          "name": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI",
-          "cnpj": "38.294.329/0001-85",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 14000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-06-13",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "eea6655d33ca19a9",
-          "market": "FII",
-          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.501.233/0001-15",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 63913900,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-08-17",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-02-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "0586eba96decd014",
-          "market": "FII",
-          "name": "EZTB Fundo de Investimento Imobiliário - FII",
-          "cnpj": "18.312.285/0001-61",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 250000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-23",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-09-15",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "2b98533d1b358dd7",
-          "market": "FII",
-          "name": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "11.664.201/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 299999893.44,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-04-11",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "e30e020f53ae530f",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MOGNO CERTIFICADOS DE RECEBÍVEIS IMOBILIÁRIOS HIGH GRADE",
-          "cnpj": "35.652.204/0001-91",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 1170400,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "5a040dedccb45f8b",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO MOGNO FUNDO DE FUNDOS",
-          "cnpj": "29.216.463/0001-77",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 254496749.48000002,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-09-03",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-06-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "010842081e481982",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO VERA CRUZ REAL ESTATE/RFM DESENVOLVIMENTO RESIDENCIAL",
-          "cnpj": "40.041.739/0001-66",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-05-20",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "1a4636d79bf6e9d3",
-          "market": "FII",
-          "name": "MALLS BRASIL PLURAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "26.499.833/0001-32",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 170087208.84,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-12-09",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "352812f46ae615a9",
-          "market": "FII",
-          "name": "PLURAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.501.210/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 79999975,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "18750605d9d0b9ed",
-          "market": "FII",
-          "name": "SPA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "18.311.024/0001-27",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 11270000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-12-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "93ff6997f47af42a",
-          "market": "FII",
-          "name": "VRE HOTÉIS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HÍBRIDO GESTÃO ATIVA - HOTEL",
-          "cnpj": "18.308.516/0001-63",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 53094329.5,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-01-23",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 26,
-          "volume": 1586049000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 6,
-          "volume": 693208000
-        },
-        {
-          "market": "FII",
-          "count": 22,
-          "volume": 3530042493.44
         }
       ]
     },
@@ -11314,6 +10713,620 @@
           "market": "FII",
           "count": 11,
           "volume": 2948085809.4
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:27652684000162",
+      "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "27.652.684/0001-62",
+      "stats12m": {
+        "offers": 3,
+        "volume": 1630000000,
+        "offersWithVolume": 3,
+        "averageTicket": 543333333.3333334
+      },
+      "byMonth": [
+        {
+          "month": "2023-01",
+          "count": 1,
+          "volume": 125000043.48
+        },
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 124560000
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 68750000
+        },
+        {
+          "month": "2024-02",
+          "count": 1,
+          "volume": 62500000
+        },
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 124999993.7
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2025-11",
+          "count": 1,
+          "volume": 36000000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 450000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 180000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 1000000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "7184f02a0a754d24",
+          "market": "FII",
+          "name": "SUNO IMÓVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.323.500/0001-60",
+          "registration": "28382",
+          "processNumber": "SRE/3393/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 1000000000,
+          "date": "2026-10-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5ddcda8c50a0169d",
+          "market": "FII",
+          "name": "MATRIZ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.132.550/0001-06",
+          "registration": "27749",
+          "processNumber": "SRE/2817/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 180000000,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4e3690b4b2c6614a",
+          "market": "FII",
+          "name": "LWTC FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "36.501.249/0001-28",
+          "registration": "26469",
+          "processNumber": "SRE/1648/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 450000000,
+          "date": "2026-05-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b989c95e2607b168",
+          "market": "FII",
+          "name": "RIZA ESTIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.574.892/0001-54",
+          "registration": "23374",
+          "processNumber": "SRE/3818/2025",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 36000000,
+          "date": "2025-11-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ce64667d3438109d",
+          "market": "FII",
+          "name": "CORPORATE CHUCRI - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.762.309/0001-03",
+          "registration": "21627",
+          "processNumber": "SRE/2320/2025",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 120000000,
+          "date": "2025-07-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4476c342a4da99c3",
+          "market": "FII",
+          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.192.125/0001-00",
+          "registration": "15435",
+          "processNumber": "SRE/1100/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 124999993.7,
+          "date": "2024-04-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e9f1a1501092425b",
+          "market": "FII",
+          "name": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.866.872/0001-01",
+          "registration": "14779",
+          "processNumber": "SRE/0537/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 62500000,
+          "date": "2024-02-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ff089011e28ac814",
+          "market": "FII",
+          "name": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.193.237/0001-00",
+          "registration": "4268",
+          "processNumber": "SRE/0062/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 68750000,
+          "date": "2024-01-05",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6e0afd0e649cc1ac",
+          "market": "FII",
+          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.192.125/0001-00",
+          "registration": "2233",
+          "processNumber": "SRE/1397/2023",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 124560000,
+          "date": "2023-07-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d0a625450d7fc635",
+          "market": "FII",
+          "name": "MORE RECEBÍVEIS IMOBILIÁRIOS FII FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "40.102.474/0001-69",
+          "registration": "585",
+          "processNumber": "SRE/0069/2023",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 125000043.48,
+          "date": "2023-01-27",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4520389c8377e00b",
+          "market": "FII",
+          "name": "BPGB-001 FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "21.044.600/0001-21",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 40200000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-03-02",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "8f469497b7abd8ba",
+          "market": "FII",
+          "name": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI",
+          "cnpj": "38.294.329/0001-85",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 14000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-06-13",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "eea6655d33ca19a9",
+          "market": "FII",
+          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.501.233/0001-15",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 63913900,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-08-17",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-02-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "0586eba96decd014",
+          "market": "FII",
+          "name": "EZTB Fundo de Investimento Imobiliário - FII",
+          "cnpj": "18.312.285/0001-61",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 250000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-23",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-09-15",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "2b98533d1b358dd7",
+          "market": "FII",
+          "name": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "11.664.201/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 299999893.44,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-04-11",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "e30e020f53ae530f",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MOGNO CERTIFICADOS DE RECEBÍVEIS IMOBILIÁRIOS HIGH GRADE",
+          "cnpj": "35.652.204/0001-91",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 1170400,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "5a040dedccb45f8b",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO MOGNO FUNDO DE FUNDOS",
+          "cnpj": "29.216.463/0001-77",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 254496749.48000002,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-09-03",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-06-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "010842081e481982",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO VERA CRUZ REAL ESTATE/RFM DESENVOLVIMENTO RESIDENCIAL",
+          "cnpj": "40.041.739/0001-66",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-05-20",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "1a4636d79bf6e9d3",
+          "market": "FII",
+          "name": "MALLS BRASIL PLURAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "26.499.833/0001-32",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 170087208.84,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-12-09",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "352812f46ae615a9",
+          "market": "FII",
+          "name": "PLURAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.501.210/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 79999975,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-09-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "18750605d9d0b9ed",
+          "market": "FII",
+          "name": "SPA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "18.311.024/0001-27",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 11270000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-12-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "93ff6997f47af42a",
+          "market": "FII",
+          "name": "VRE HOTÉIS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HÍBRIDO GESTÃO ATIVA - HOTEL",
+          "cnpj": "18.308.516/0001-63",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 53094329.5,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-01-23",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 26,
+          "volume": 1586049000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 6,
+          "volume": 693208000
+        },
+        {
+          "market": "FII",
+          "count": 22,
+          "volume": 3530042493.44
         }
       ]
     },
@@ -14812,8 +14825,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 45,
-          "volume": 623400045.95
+          "count": 47,
+          "volume": 638400045.95
         },
         {
           "market": "FIAGRO",

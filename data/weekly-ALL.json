@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T18:27:37.367Z",
+  "generatedAt": "2026-11-04T18:39:06.231Z",
   "market": "ALL",
   "current": {
     "period": {
       "start": "2026-10-26",
       "end": "2026-11-01"
     },
-    "offers": 51,
+    "offers": 50,
     "offersWithVolume": 49,
     "volume": 7075145608.15,
     "averageTicket": 144390726.69693875,
@@ -67,10 +67,10 @@
         "volume": 182001698.28
       },
       {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
+        "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "cnpj": "03.751.794/0001-13",
         "count": 2,
-        "volume": 125000000
+        "volume": 30000000
       }
     ],
     "topOffers": [
@@ -203,16 +203,12 @@
       {
         "name": "Qualificado",
         "count": 3
-      },
-      {
-        "name": "Público geral",
-        "count": 1
       }
     ],
     "byRite": [
       {
         "name": "Automático",
-        "count": 51
+        "count": 50
       }
     ],
     "byStatus": [
@@ -222,7 +218,7 @@
       },
       {
         "name": "Aguardando Bookbuilding",
-        "count": 2
+        "count": 1
       }
     ],
     "byMarket": [
@@ -232,26 +228,26 @@
       },
       {
         "name": "FII",
-        "count": 9
+        "count": 8
       },
       {
         "name": "FIAGRO",
         "count": 5
       }
     ],
-    "professionalShare": 0.9215686274509803,
-    "top3Concentration": 0.3333333333333333,
+    "professionalShare": 0.94,
+    "top3Concentration": 0.34,
     "busiestDays": [
       {
         "date": "2026-10-30",
         "count": 14
       },
       {
-        "date": "2026-10-28",
-        "count": 11
+        "date": "2026-10-27",
+        "count": 10
       },
       {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "count": 10
       }
     ],
@@ -400,7 +396,7 @@
         "date": "2026-10-21",
         "rite": "Automático",
         "audience": "Profissional",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "publications": []
       },
       {
@@ -483,11 +479,11 @@
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 49
+        "count": 47
       },
       {
         "name": "Oferta Encerrada",
-        "count": 2
+        "count": 4
       },
       {
         "name": "Aguardando Bookbuilding",
@@ -548,7 +544,7 @@
     ]
   },
   "changes": {
-    "offersPct": -1.9230769230769231,
+    "offersPct": -3.8461538461538463,
     "volumePct": -16.46706908975483
   },
   "benchmarks": {
@@ -560,7 +556,7 @@
       "top3Concentration": 0.3869607244607245
     },
     "currentVsPrior4Average": {
-      "offersPct": 12.70718232044199,
+      "offersPct": 10.497237569060774,
       "volumePct": 4.052441015536204
     }
   },
@@ -571,7 +567,7 @@
           "start": "2026-09-07",
           "end": "2026-09-13"
         },
-        "offers": 34,
+        "offers": 33,
         "volume": 5833024355.67,
         "leaders": 15
       },
@@ -634,18 +630,18 @@
           "start": "2026-10-26",
           "end": "2026-11-01"
         },
-        "offers": 51,
+        "offers": 50,
         "volume": 7075145608.15,
         "leaders": 24
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 51 ofertas ALL, 1,9% abaixo da semana anterior.",
+    "Atividade semanal de 50 ofertas ALL, 3,8% abaixo da semana anterior.",
     "Volume informado de R$ 7.075.145.608 em 49 ofertas com valor positivo; ticket médio de R$ 144.390.727.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 4,1% acima e a quantidade de ofertas 12,7% acima.",
-    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 33,3% das ofertas da semana.",
-    "92,2% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 4,1% acima e a quantidade de ofertas 10,5% acima.",
+    "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 34,0% das ofertas da semana.",
+    "94,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (7), Consignado (4), Veículos (3). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
@@ -653,17 +649,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-03T08:00:58.336718"
+      "updatedAt": "2026-11-04T08:00:42.408548"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-03T18:27:37.277Z"
+      "updatedAt": "2026-11-04T18:39:05.872Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "03/11/2026 09:30"
+      "updatedAt": "04/11/2026 09:42"
     }
   },
   "macro": {
@@ -672,19 +668,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-02",
-          "value": 13.65
-        },
         {
           "date": "2026-10-05",
           "value": 13.65
@@ -759,6 +751,10 @@
         },
         {
           "date": "2026-10-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-03",
           "value": 13.65
         }
       ]
@@ -1054,26 +1050,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "30/10/2026",
-      "value": 5.4212,
+      "date": "03/11/2026",
+      "value": 5.4935,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1110,10 +1106,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4626,
-      "latestMonth": "2026-10",
-      "offersInMonth": 167,
-      "volumeInMonth": 18068055708.61
+      "count": 4631,
+      "latestMonth": "2026-11",
+      "offersInMonth": 6,
+      "volumeInMonth": 364400000
     },
     {
       "market": "FIAGRO",
@@ -1124,10 +1120,10 @@
     },
     {
       "market": "FII",
-      "count": 1533,
-      "latestMonth": "2026-10",
-      "offersInMonth": 31,
-      "volumeInMonth": 8065350774.2300005
+      "count": 1539,
+      "latestMonth": "2026-11",
+      "offersInMonth": 7,
+      "volumeInMonth": 2294000000.01
     }
   ],
   "intelligence": {
@@ -1164,7 +1160,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.51577142826258,
+            "value": 14.503610892872565,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1249,7 +1245,7 @@
           },
           {
             "label": "IRCC FII",
-            "value": 5.554300718015447,
+            "value": 5.517819111845403,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -1323,7 +1319,7 @@
         "scores": {
           "IROP": 66.77083333333334,
           "IRBD": 81.25,
-          "IRCC": 5.554300718015447,
+          "IRCC": 5.517819111845403,
           "IRFC": 45.51470588235294,
           "IRPM": 60.39399509803922
         },

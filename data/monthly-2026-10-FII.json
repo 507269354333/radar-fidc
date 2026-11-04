@@ -1,17 +1,17 @@
 {
   "month": "2026-10",
   "market": "FII",
-  "generatedAt": "2026-11-03T18:27:37.500Z",
+  "generatedAt": "2026-11-04T18:39:06.348Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
       "month": "2026-10",
-      "offers": 31,
+      "offers": 30,
       "offersWithVolume": 30,
       "registeredVolume": 8065350774.2300005,
       "analyticalVolume": 8065350774.2300005,
       "averageTicket": 268845025.80766666,
-      "issuers": 29,
+      "issuers": 28,
       "leaders": 18,
       "topLeaders": [
         {
@@ -27,16 +27,16 @@
           "volume": 2212392957.8
         },
         {
-          "name": "XP INVESTIMENTOS CCTVM S.A.",
-          "cnpj": "02.332.886/0001-04",
-          "count": 3,
-          "volume": 1213500000
-        },
-        {
           "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
           "cnpj": "18.945.670/0001-46",
           "count": 3,
           "volume": 619321008
+        },
+        {
+          "name": "XP INVESTIMENTOS CCTVM S.A.",
+          "cnpj": "02.332.886/0001-04",
+          "count": 2,
+          "volume": 1213500000
         },
         {
           "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -161,7 +161,7 @@
               "processNumber": "SRE/3436/2026",
               "volume": 678000000,
               "date": "2026-10-21",
-              "status": "Registro Concedido",
+              "status": "Oferta Encerrada",
               "publications": []
             }
           ]
@@ -310,18 +310,18 @@
           "count": 26
         },
         {
-          "name": "Público geral",
-          "count": 3
+          "name": "Qualificado",
+          "count": 2
         },
         {
-          "name": "Qualificado",
+          "name": "Público geral",
           "count": 2
         }
       ],
       "byRite": [
         {
           "name": "Automático",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -642,7 +642,7 @@
       "calendarGap": 0
     },
     "changes": {
-      "offersPct": -18.421052631578945,
+      "offersPct": -21.052631578947366,
       "officialVolumePct": -30.796624857132304,
       "analyticalVolumePct": -30.796624857132304
     },
@@ -718,8 +718,8 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 5.554300718015447,
-        "countHHI": 1.7200220358694975,
+        "score": 5.517819111845403,
+        "countHHI": 1.6470588235294106,
         "volumeHHI": 9.388579400161396,
         "interpretation": "baixa",
         "education": {
@@ -739,7 +739,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 5.554300718015447,
+          "score": 5.517819111845403,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 6/100, faixa baixa."
         }
@@ -840,29 +840,29 @@
         "actualThrough": "2026-10",
         "officialActualVolume": 57886877425.93001,
         "adjustedActualVolume": 57886877425.93001,
-        "actualOffers": 184,
+        "actualOffers": 183,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 63349181772.115005,
-            "offers": 200,
+            "offers": 199,
             "monthlyVolumeAssumption": 2731152173.0924997,
             "monthlyOfferAssumption": 7.75
           },
           {
             "label": "Base",
             "volume": 71353084350.56001,
-            "offers": 218,
+            "offers": 217,
             "monthlyVolumeAssumption": 6733103462.315001,
             "monthlyOfferAssumption": 17
           },
           {
             "label": "Expansão",
             "volume": 75716478651.35,
-            "offers": 248,
+            "offers": 246,
             "monthlyVolumeAssumption": 8914800612.71,
-            "monthlyOfferAssumption": 32
+            "monthlyOfferAssumption": 31.25
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -874,12 +874,12 @@
     "FII": {
       "current": {
         "month": "2026-10",
-        "offers": 31,
+        "offers": 30,
         "offersWithVolume": 30,
         "registeredVolume": 8065350774.2300005,
         "analyticalVolume": 8065350774.2300005,
         "averageTicket": 268845025.80766666,
-        "issuers": 29,
+        "issuers": 28,
         "leaders": 18,
         "topLeaders": [
           {
@@ -895,16 +895,16 @@
             "volume": 2212392957.8
           },
           {
-            "name": "XP INVESTIMENTOS CCTVM S.A.",
-            "cnpj": "02.332.886/0001-04",
-            "count": 3,
-            "volume": 1213500000
-          },
-          {
             "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
             "cnpj": "18.945.670/0001-46",
             "count": 3,
             "volume": 619321008
+          },
+          {
+            "name": "XP INVESTIMENTOS CCTVM S.A.",
+            "cnpj": "02.332.886/0001-04",
+            "count": 2,
+            "volume": 1213500000
           },
           {
             "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -1029,7 +1029,7 @@
                 "processNumber": "SRE/3436/2026",
                 "volume": 678000000,
                 "date": "2026-10-21",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -1178,18 +1178,18 @@
             "count": 26
           },
           {
-            "name": "Público geral",
-            "count": 3
+            "name": "Qualificado",
+            "count": 2
           },
           {
-            "name": "Qualificado",
+            "name": "Público geral",
             "count": 2
           }
         ],
         "byRite": [
           {
             "name": "Automático",
-            "count": 31
+            "count": 30
           }
         ]
       },
@@ -1510,7 +1510,7 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": -18.421052631578945,
+        "offersPct": -21.052631578947366,
         "officialVolumePct": -30.796624857132304,
         "analyticalVolumePct": -30.796624857132304
       },
@@ -1586,8 +1586,8 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 5.554300718015447,
-          "countHHI": 1.7200220358694975,
+          "score": 5.517819111845403,
+          "countHHI": 1.6470588235294106,
           "volumeHHI": 9.388579400161396,
           "interpretation": "baixa",
           "education": {
@@ -1607,7 +1607,7 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 5.554300718015447,
+            "score": 5.517819111845403,
             "band": "faixa baixa",
             "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 6/100, faixa baixa."
           }
@@ -1708,29 +1708,29 @@
           "actualThrough": "2026-10",
           "officialActualVolume": 57886877425.93001,
           "adjustedActualVolume": 57886877425.93001,
-          "actualOffers": 184,
+          "actualOffers": 183,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
               "volume": 63349181772.115005,
-              "offers": 200,
+              "offers": 199,
               "monthlyVolumeAssumption": 2731152173.0924997,
               "monthlyOfferAssumption": 7.75
             },
             {
               "label": "Base",
               "volume": 71353084350.56001,
-              "offers": 218,
+              "offers": 217,
               "monthlyVolumeAssumption": 6733103462.315001,
               "monthlyOfferAssumption": 17
             },
             {
               "label": "Expansão",
               "volume": 75716478651.35,
-              "offers": 248,
+              "offers": 246,
               "monthlyVolumeAssumption": 8914800612.71,
-              "monthlyOfferAssumption": 32
+              "monthlyOfferAssumption": 31.25
             }
           ],
           "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -1738,7 +1738,7 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FII ficou 18,4% abaixo da última competência disponível (2026-09).",
+        "A quantidade de ofertas FII ficou 21,1% abaixo da última competência disponível (2026-09).",
         "O volume analítico ajustado ficou 30,8% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
         "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 4 ofertas.",
         "O IROP encerrou em 67/100 (intermediária); o IRPM ficou em 60/100 (equilibrado)."
@@ -1769,19 +1769,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-02",
-          "value": 13.65
-        },
         {
           "date": "2026-10-05",
           "value": 13.65
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-10-30",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-03",
           "value": 13.65
         }
       ]
@@ -2151,26 +2151,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "30/10/2026",
+      "date": "03/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "30/10/2026",
-      "value": 5.4212,
+      "date": "03/11/2026",
+      "value": 5.4935,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2247,7 +2247,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.51577142826258,
+            "value": 14.503610892872565,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2332,7 +2332,7 @@
           },
           {
             "label": "IRCC FII",
-            "value": 5.554300718015447,
+            "value": 5.517819111845403,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2406,7 +2406,7 @@
         "scores": {
           "IROP": 66.77083333333334,
           "IRBD": 81.25,
-          "IRCC": 5.554300718015447,
+          "IRCC": 5.517819111845403,
           "IRFC": 45.51470588235294,
           "IRPM": 60.39399509803922
         },
@@ -2430,17 +2430,17 @@
           {
             "label": "Conservador",
             "volume": 60669342336.86498,
-            "offers": 714
+            "offers": 713
           },
           {
             "label": "Base",
             "volume": 64178711625.09998,
-            "offers": 759
+            "offers": 758
           },
           {
             "label": "Expansão",
             "volume": 73736873972.80998,
-            "offers": 868
+            "offers": 866
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -2482,17 +2482,17 @@
           {
             "label": "Conservador",
             "volume": 63349181772.115005,
-            "offers": 200
+            "offers": 199
           },
           {
             "label": "Base",
             "volume": 71353084350.56001,
-            "offers": 218
+            "offers": 217
           },
           {
             "label": "Expansão",
             "volume": 75716478651.35,
-            "offers": 248
+            "offers": 246
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
