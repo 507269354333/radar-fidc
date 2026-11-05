@@ -1,94 +1,36 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-04T08:00:42.408548",
+  "sourceUpdatedAt": "2026-11-05T08:00:40.384563",
   "market": "FIAGRO",
   "count": 189,
   "analytics": {
-    "latestMonth": "2026-10",
-    "offersInMonth": 17,
-    "volumeInMonth": 4727194943,
-    "offersWithVolumeInMonth": 15,
-    "leadersInMonth": 9,
+    "latestMonth": "2026-11",
+    "offersInMonth": 1,
+    "volumeInMonth": 70000000,
+    "offersWithVolumeInMonth": 1,
+    "leadersInMonth": 1,
     "byRite": [
       {
         "name": "Automático",
-        "count": 17
+        "count": 1
       }
     ],
     "byAudience": [
       {
-        "name": "Profissional",
-        "count": 15
-      },
-      {
         "name": "Qualificado",
-        "count": 2
+        "count": 1
       }
     ],
     "topLeaders": [
       {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 5,
-        "volume": 3666000000
-      },
-      {
-        "name": "BANCO DAYCOVAL S.A.",
-        "cnpj": "62.232.889/0001-90",
-        "count": 4,
-        "volume": 364015000
-      },
-      {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
-        "count": 2,
-        "volume": 30000000
-      },
-      {
-        "name": "BANCO FATOR S/A",
-        "cnpj": "33.644.196/0001-06",
-        "count": 1,
-        "volume": 522179000
-      },
-      {
-        "name": "OLIVEIRA TRUST DTVM S.A.",
-        "cnpj": "36.113.876/0001-91",
-        "count": 1,
-        "volume": 60000000
-      },
-      {
-        "name": "MIVE CAPITAL MARKETS LTDA",
-        "cnpj": "55.440.852/0001-91",
-        "count": 1,
-        "volume": 35000000
-      },
-      {
-        "name": "PLANNER CORRETORA DE VALORES S.A.",
-        "cnpj": "00.806.535/0001-54",
-        "count": 1,
-        "volume": 30000943
-      },
-      {
-        "name": "HEDGE ALTERNATIVE INVESTMENTS LTDA",
-        "cnpj": "21.610.424/0001-48",
-        "count": 1,
-        "volume": 20000000
-      },
-      {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
         "count": 1,
-        "volume": 0
+        "volume": 70000000
       }
     ],
     "byMonth": [
-      {
-        "month": "2025-01",
-        "count": 7,
-        "volume": 803499275,
-        "withVolume": 7
-      },
       {
         "month": "2025-02",
         "count": 2,
@@ -187,15 +129,21 @@
       },
       {
         "month": "2026-10",
-        "count": 17,
+        "count": 16,
         "volume": 4727194943,
         "withVolume": 15
+      },
+      {
+        "month": "2026-11",
+        "count": 1,
+        "volume": 70000000,
+        "withVolume": 1
       }
     ],
     "trailing12": {
       "offers": 73,
-      "volume": 269078646887.55,
-      "offersWithVolume": 70,
+      "volume": 269148646887.55,
+      "offersWithVolume": 71,
       "leaders": 21,
       "topLeaders": [
         {
@@ -220,7 +168,7 @@
           "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
           "cnpj": "59.281.253/0001-23",
           "count": 7,
-          "volume": 925000465.44
+          "volume": 995000465.44
         },
         {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -292,7 +240,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 64507732.72,
+      "medianPositiveVolume": 65000465.44,
       "outlierCount": 1,
       "outliers": [
         {
@@ -305,6 +253,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "67113fe4a41980db",
+        "market": "FIAGRO",
+        "name": "BRAVE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.587.184/0001-71",
+        "registration": "28320",
+        "processNumber": "SRE/3341/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "leaderCnpj": "59.281.253/0001-23",
+        "volume": 70000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Qualificado",
+        "status": "Registro Concedido",
+        "date": "2026-11-04",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "bf74238892e2defd",
         "market": "FIAGRO",
@@ -570,30 +542,6 @@
         "distinctComponents": 1
       },
       {
-        "id": "67113fe4a41980db",
-        "market": "FIAGRO",
-        "name": "BRAVE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.587.184/0001-71",
-        "registration": "28320",
-        "processNumber": "SRE/3341/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "leaderCnpj": "59.281.253/0001-23",
-        "volume": 0,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Qualificado",
-        "status": "Aguardando Bookbuilding",
-        "date": "2026-10-13",
-        "dateBasis": "requerimento",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
         "id": "db75efb18084b717",
         "market": "FIAGRO",
         "name": "HEDGE CRÉDITO AGRO FIAGRO DE RESPONSABILIDADE LIMITADA",
@@ -668,5 +616,5 @@
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-04T18:39:06.203Z"
+  "updatedAt": "2026-11-05T18:46:12.196Z"
 }

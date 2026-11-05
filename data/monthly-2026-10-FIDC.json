@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-04T18:39:06.311Z",
+  "generatedAt": "2026-11-05T18:46:12.298Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-03",
+        "date": "2026-11-04",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-05",
-          "value": 13.65
-        },
         {
           "date": "2026-10-06",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-03",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-04",
           "value": 13.65
         }
       ]
@@ -2192,26 +2192,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "04/11/2026",
+      "date": "05/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "03/11/2026",
-      "value": 5.4935,
+      "date": "04/11/2026",
+      "value": 5.4778,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2273,7 +2273,7 @@
         "evidence": [
           {
             "label": "IROP agregado",
-            "value": 84.86111111111111,
+            "value": 84.5138888888889,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2283,12 +2283,12 @@
           },
           {
             "label": "IRBD",
-            "value": 90.27777777777779,
+            "value": 88.8888888888889,
             "source": "Metodologia Radar / CVM"
           },
           {
             "label": "IRCC",
-            "value": 14.503610892872565,
+            "value": 14.617406411079848,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2427,11 +2427,11 @@
         "headline": "Pipeline forte, capital ainda seletivo",
         "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
-          "IROP": 91.97916666666667,
-          "IRBD": 93.75,
-          "IRCC": 31.954534483588805,
+          "IROP": 90.9375,
+          "IRBD": 89.58333333333334,
+          "IRCC": 32.29592103821066,
           "IRFC": 45.51470588235294,
-          "IRPM": 78.03982843137256
+          "IRPM": 77.31066176470587
         },
         "bands": {
           "offer": "alto",
@@ -2489,25 +2489,25 @@
       {
         "market": "FIAGRO",
         "current": {
-          "IROP": 91.97916666666667,
-          "IRPM": 78.03982843137256,
+          "IROP": 90.9375,
+          "IRPM": 77.31066176470587,
           "IRFC": 45.51470588235294
         },
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 18477645398.45,
-            "offers": 66
+            "offers": 65
           },
           {
             "label": "Base",
             "volume": 19324009875.34,
-            "offers": 69
+            "offers": 68
           },
           {
             "label": "Expansão",
             "volume": 20331816039.53,
-            "offers": 76
+            "offers": 75
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

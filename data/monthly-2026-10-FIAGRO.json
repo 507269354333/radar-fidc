@@ -1,18 +1,18 @@
 {
   "month": "2026-10",
   "market": "FIAGRO",
-  "generatedAt": "2026-11-04T18:39:06.330Z",
+  "generatedAt": "2026-11-05T18:46:12.315Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
       "month": "2026-10",
-      "offers": 17,
+      "offers": 16,
       "offersWithVolume": 15,
       "registeredVolume": 4727194943,
       "analyticalVolume": 4727194943,
       "averageTicket": 315146329.53333336,
-      "issuers": 17,
-      "leaders": 9,
+      "issuers": 16,
+      "leaders": 8,
       "topLeaders": [
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -61,12 +61,6 @@
           "cnpj": "21.610.424/0001-48",
           "count": 1,
           "volume": 20000000
-        },
-        {
-          "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-          "cnpj": "59.281.253/0001-23",
-          "count": 1,
-          "volume": 0
         }
       ],
       "topOffers": [
@@ -296,13 +290,13 @@
         },
         {
           "name": "Qualificado",
-          "count": 2
+          "count": 1
         }
       ],
       "byRite": [
         {
           "name": "Automático",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -607,7 +601,7 @@
       "calendarGap": 0
     },
     "changes": {
-      "offersPct": 30.76923076923077,
+      "offersPct": 23.076923076923077,
       "officialVolumePct": -49.3393603867782,
       "analyticalVolumePct": -49.3393603867782
     },
@@ -623,11 +617,11 @@
       "offerPressure": {
         "code": "IROP",
         "name": "Índice Radar de Oferta Primária",
-        "score": 91.97916666666667,
+        "score": 90.9375,
         "components": {
           "volume": 87.5,
           "quantity": 95.83333333333334,
-          "breadth": 93.75
+          "breadth": 89.58333333333334
         },
         "interpretation": "forte",
         "education": {
@@ -648,15 +642,15 @@
             "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
             "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
           ],
-          "score": 91.97916666666667,
+          "score": 90.9375,
           "band": "faixa alta",
-          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 92/100, faixa alta."
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 91/100, faixa alta."
         }
       },
       "breadth": {
         "code": "IRBD",
         "name": "Índice Radar de Breadth",
-        "score": 93.75,
+        "score": 89.58333333333334,
         "interpretation": "ampla",
         "education": {
           "code": "IRBD",
@@ -675,16 +669,16 @@
             "Não mede concentração de volume sozinho; isso é função do IRCC.",
             "Participante distinto não significa estratégia, qualidade ou porte distintos."
           ],
-          "score": 93.75,
+          "score": 89.58333333333334,
           "band": "faixa alta",
-          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 94/100, faixa alta."
+          "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 90/100, faixa alta."
         }
       },
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 31.954534483588805,
-        "countHHI": 7.352941176470587,
+        "score": 32.29592103821066,
+        "countHHI": 8.035714285714286,
         "volumeHHI": 56.55612779070702,
         "interpretation": "baixa",
         "education": {
@@ -704,7 +698,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 31.954534483588805,
+          "score": 32.29592103821066,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 32/100, faixa baixa próximo da transição para a faixa intermediária."
         }
@@ -775,7 +769,7 @@
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 78.03982843137256,
+        "score": 77.31066176470587,
         "interpretation": "expansivo",
         "education": {
           "code": "IRPM",
@@ -795,9 +789,9 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 78.03982843137256,
+          "score": 77.31066176470587,
           "band": "faixa alta",
-          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
+          "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
         }
       },
       "projection": {
@@ -805,27 +799,27 @@
         "actualThrough": "2026-10",
         "officialActualVolume": 268143894700.29,
         "adjustedActualVolume": 18143894700.29,
-        "actualOffers": 60,
+        "actualOffers": 59,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 18477645398.45,
-            "offers": 66,
+            "offers": 65,
             "monthlyVolumeAssumption": 166875349.07999998,
             "monthlyOfferAssumption": 2.75
           },
           {
             "label": "Base",
             "volume": 19324009875.34,
-            "offers": 69,
+            "offers": 68,
             "monthlyVolumeAssumption": 590057587.525,
             "monthlyOfferAssumption": 4.5
           },
           {
             "label": "Expansão",
             "volume": 20331816039.53,
-            "offers": 76,
+            "offers": 75,
             "monthlyVolumeAssumption": 1093960669.62,
             "monthlyOfferAssumption": 7.75
           }
@@ -839,13 +833,13 @@
     "FIAGRO": {
       "current": {
         "month": "2026-10",
-        "offers": 17,
+        "offers": 16,
         "offersWithVolume": 15,
         "registeredVolume": 4727194943,
         "analyticalVolume": 4727194943,
         "averageTicket": 315146329.53333336,
-        "issuers": 17,
-        "leaders": 9,
+        "issuers": 16,
+        "leaders": 8,
         "topLeaders": [
           {
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -894,12 +888,6 @@
             "cnpj": "21.610.424/0001-48",
             "count": 1,
             "volume": 20000000
-          },
-          {
-            "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-            "cnpj": "59.281.253/0001-23",
-            "count": 1,
-            "volume": 0
           }
         ],
         "topOffers": [
@@ -1129,13 +1117,13 @@
           },
           {
             "name": "Qualificado",
-            "count": 2
+            "count": 1
           }
         ],
         "byRite": [
           {
             "name": "Automático",
-            "count": 17
+            "count": 16
           }
         ]
       },
@@ -1440,7 +1428,7 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 30.76923076923077,
+        "offersPct": 23.076923076923077,
         "officialVolumePct": -49.3393603867782,
         "analyticalVolumePct": -49.3393603867782
       },
@@ -1456,11 +1444,11 @@
         "offerPressure": {
           "code": "IROP",
           "name": "Índice Radar de Oferta Primária",
-          "score": 91.97916666666667,
+          "score": 90.9375,
           "components": {
             "volume": 87.5,
             "quantity": 95.83333333333334,
-            "breadth": 93.75
+            "breadth": 89.58333333333334
           },
           "interpretation": "forte",
           "education": {
@@ -1481,15 +1469,15 @@
               "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
               "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
             ],
-            "score": 91.97916666666667,
+            "score": 90.9375,
             "band": "faixa alta",
-            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 92/100, faixa alta."
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 91/100, faixa alta."
           }
         },
         "breadth": {
           "code": "IRBD",
           "name": "Índice Radar de Breadth",
-          "score": 93.75,
+          "score": 89.58333333333334,
           "interpretation": "ampla",
           "education": {
             "code": "IRBD",
@@ -1508,16 +1496,16 @@
               "Não mede concentração de volume sozinho; isso é função do IRCC.",
               "Participante distinto não significa estratégia, qualidade ou porte distintos."
             ],
-            "score": 93.75,
+            "score": 89.58333333333334,
             "band": "faixa alta",
-            "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 94/100, faixa alta."
+            "currentReading": "A participação está ampla: mais emissores e coordenadores estão ativos em relação ao histórico recente. Score 90/100, faixa alta."
           }
         },
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 31.954534483588805,
-          "countHHI": 7.352941176470587,
+          "score": 32.29592103821066,
+          "countHHI": 8.035714285714286,
           "volumeHHI": 56.55612779070702,
           "interpretation": "baixa",
           "education": {
@@ -1537,7 +1525,7 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 31.954534483588805,
+            "score": 32.29592103821066,
             "band": "faixa baixa",
             "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 32/100, faixa baixa próximo da transição para a faixa intermediária."
           }
@@ -1608,7 +1596,7 @@
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 78.03982843137256,
+          "score": 77.31066176470587,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1628,9 +1616,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 78.03982843137256,
+            "score": 77.31066176470587,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 78/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 77/100, faixa alta."
           }
         },
         "projection": {
@@ -1638,27 +1626,27 @@
           "actualThrough": "2026-10",
           "officialActualVolume": 268143894700.29,
           "adjustedActualVolume": 18143894700.29,
-          "actualOffers": 60,
+          "actualOffers": 59,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
               "volume": 18477645398.45,
-              "offers": 66,
+              "offers": 65,
               "monthlyVolumeAssumption": 166875349.07999998,
               "monthlyOfferAssumption": 2.75
             },
             {
               "label": "Base",
               "volume": 19324009875.34,
-              "offers": 69,
+              "offers": 68,
               "monthlyVolumeAssumption": 590057587.525,
               "monthlyOfferAssumption": 4.5
             },
             {
               "label": "Expansão",
               "volume": 20331816039.53,
-              "offers": 76,
+              "offers": 75,
               "monthlyVolumeAssumption": 1093960669.62,
               "monthlyOfferAssumption": 7.75
             }
@@ -1668,10 +1656,10 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIAGRO ficou 30,8% acima da última competência disponível (2026-09).",
+        "A quantidade de ofertas FIAGRO ficou 23,1% acima da última competência disponível (2026-09).",
         "O volume analítico ajustado ficou 49,3% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
         "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou o mês por quantidade, com 5 ofertas.",
-        "O IROP encerrou em 92/100 (forte); o IRPM ficou em 78/100 (expansivo)."
+        "O IROP encerrou em 91/100 (forte); o IRPM ficou em 77/100 (expansivo)."
       ],
       "transmission": [
         {
@@ -1699,19 +1687,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-03",
+        "date": "2026-11-04",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-05",
-          "value": 13.65
-        },
         {
           "date": "2026-10-06",
           "value": 13.65
@@ -1786,6 +1770,10 @@
         },
         {
           "date": "2026-11-03",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-04",
           "value": 13.65
         }
       ]
@@ -2081,26 +2069,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "04/11/2026",
+      "date": "05/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "03/11/2026",
+      "date": "04/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "03/11/2026",
-      "value": 5.4935,
+      "date": "04/11/2026",
+      "value": 5.4778,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2162,7 +2150,7 @@
         "evidence": [
           {
             "label": "IROP agregado",
-            "value": 84.86111111111111,
+            "value": 84.5138888888889,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2172,12 +2160,12 @@
           },
           {
             "label": "IRBD",
-            "value": 90.27777777777779,
+            "value": 88.8888888888889,
             "source": "Metodologia Radar / CVM"
           },
           {
             "label": "IRCC",
-            "value": 14.503610892872565,
+            "value": 14.617406411079848,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2316,11 +2304,11 @@
         "headline": "Pipeline forte, capital ainda seletivo",
         "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
-          "IROP": 91.97916666666667,
-          "IRBD": 93.75,
-          "IRCC": 31.954534483588805,
+          "IROP": 90.9375,
+          "IRBD": 89.58333333333334,
+          "IRCC": 32.29592103821066,
           "IRFC": 45.51470588235294,
-          "IRPM": 78.03982843137256
+          "IRPM": 77.31066176470587
         },
         "bands": {
           "offer": "alto",
@@ -2378,25 +2366,25 @@
       {
         "market": "FIAGRO",
         "current": {
-          "IROP": 91.97916666666667,
-          "IRPM": 78.03982843137256,
+          "IROP": 90.9375,
+          "IRPM": 77.31066176470587,
           "IRFC": 45.51470588235294
         },
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 18477645398.45,
-            "offers": 66
+            "offers": 65
           },
           {
             "label": "Base",
             "volume": 19324009875.34,
-            "offers": 69
+            "offers": 68
           },
           {
             "label": "Expansão",
             "volume": 20331816039.53,
-            "offers": 76
+            "offers": 75
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

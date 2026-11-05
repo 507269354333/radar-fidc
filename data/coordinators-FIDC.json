@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-04T18:39:06.269Z",
+  "generatedAt": "2026-11-05T18:46:12.259Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-04T08:00:42.408548"
+    "updatedAt": "2026-11-05T08:00:40.384563"
   },
   "coordinators": [
     {
@@ -614,17 +614,12 @@
       "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
       "cnpj": "39.669.186/0001-01",
       "stats12m": {
-        "offers": 108,
-        "volume": 3340961919.35,
-        "offersWithVolume": 108,
-        "averageTicket": 30934832.586574074
+        "offers": 109,
+        "volume": 3355961933.4899993,
+        "offersWithVolume": 109,
+        "averageTicket": 30788641.59165137
       },
       "byMonth": [
-        {
-          "month": "2025-03",
-          "count": 12,
-          "volume": 350016777.6
-        },
         {
           "month": "2025-04",
           "count": 4,
@@ -709,9 +704,30 @@
           "month": "2026-10",
           "count": 17,
           "volume": 518889300
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 15000014.14
         }
       ],
       "recentOffers": [
+        {
+          "id": "5b9046a97e8c973f",
+          "market": "FIDC",
+          "name": "MASTER LEPTA NP FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "56.730.030/0001-08",
+          "registration": "28580",
+          "processNumber": "SRE/3582/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 15000014.14,
+          "date": "2026-11-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "c089bdfe529b1f53",
           "market": "FIDC",
@@ -1175,29 +1191,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "509b42af31966822",
-          "market": "FIDC",
-          "name": "CONSIGNADO V8 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.543.762/0001-78",
-          "registration": "27593",
-          "processNumber": "SRE/2668/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 10000000,
-          "date": "2026-08-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 251,
-          "volume": 7342094414.030002
+          "count": 252,
+          "volume": 7357094428.170001
         },
         {
           "market": "FIAGRO",
@@ -1216,10 +1216,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 59,
-        "volume": 5644680513.6,
-        "offersWithVolume": 59,
-        "averageTicket": 95672551.07796611
+        "offers": 60,
+        "volume": 5744680513.6,
+        "offersWithVolume": 60,
+        "averageTicket": 95744675.22666667
       },
       "byMonth": [
         {
@@ -1309,11 +1309,27 @@
         },
         {
           "month": "2026-11",
-          "count": 2,
-          "volume": 124300000
+          "count": 3,
+          "volume": 224300000
         }
       ],
       "recentOffers": [
+        {
+          "id": "9c22208c9457df00",
+          "market": "FIDC",
+          "name": "CARMELO CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.088.357/0001-70",
+          "registration": "28554",
+          "processNumber": "SRE/3589/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 100000000,
+          "date": "2026-11-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "173294aa44661cd3",
           "market": "FIDC",
@@ -1777,29 +1793,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "1ddd02554cc072c4",
-          "market": "FIDC",
-          "name": "MOMENTO PRECATORIOS X FIDC DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.343.982/0001-60",
-          "registration": "26892",
-          "processNumber": "SRE/2036/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 30000000,
-          "date": "2026-06-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 205,
-          "volume": 18365952056.010002
+          "count": 206,
+          "volume": 18465952056.010002
         },
         {
           "market": "FIAGRO",
@@ -1818,17 +1818,12 @@
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 56,
-        "volume": 2620128961.21,
-        "offersWithVolume": 56,
-        "averageTicket": 46788017.16446429
+        "offers": 57,
+        "volume": 2660128961.21,
+        "offersWithVolume": 57,
+        "averageTicket": 46668929.144035086
       },
       "byMonth": [
-        {
-          "month": "2024-09",
-          "count": 1,
-          "volume": 10000000
-        },
         {
           "month": "2024-10",
           "count": 2,
@@ -1913,9 +1908,30 @@
           "month": "2026-10",
           "count": 13,
           "volume": 522028962.53
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 40000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "e5f01586517de9ad",
+          "market": "FIDC",
+          "name": "G5 ENERGIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.825.769/0001-45",
+          "registration": "28581",
+          "processNumber": "SRE/3584/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 40000000,
+          "date": "2026-11-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "a16a6f7577b496f8",
           "market": "FIDC",
@@ -2379,29 +2395,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "b37579f737814b18",
-          "market": "FIDC",
-          "name": "MAIS TRABALHADOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.571.531/0001-42",
-          "registration": "26529",
-          "processNumber": "SRE/1703/2026",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 10000000,
-          "date": "2026-05-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 162,
-          "volume": 11008102161.209995
+          "count": 163,
+          "volume": 11048102161.209995
         },
         {
           "market": "FIAGRO",
@@ -2420,17 +2420,12 @@
       "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "13.486.793/0001-42",
       "stats12m": {
-        "offers": 30,
-        "volume": 1372803997.88,
-        "offersWithVolume": 30,
-        "averageTicket": 45760133.26266667
+        "offers": 31,
+        "volume": 1392803997.88,
+        "offersWithVolume": 31,
+        "averageTicket": 44929161.22193549
       },
       "byMonth": [
-        {
-          "month": "2024-08",
-          "count": 2,
-          "volume": 211000000
-        },
         {
           "month": "2024-09",
           "count": 4,
@@ -2515,9 +2510,30 @@
           "month": "2026-10",
           "count": 9,
           "volume": 300000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 20000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "76fb9fb369715269",
+          "market": "FIDC",
+          "name": "EP ACESS SOSU OPPORTUNITIES III FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.276.225/0001-10",
+          "registration": "28585",
+          "processNumber": "SRE/3587/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 20000000,
+          "date": "2026-11-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "90c61fd92267cea1",
           "market": "FIDC",
@@ -2981,29 +2997,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "c99fb1956c9bbaf7",
-          "market": "FIDC",
-          "name": "IORQ FREDERIC FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.032.712/0001-02",
-          "registration": "23648",
-          "processNumber": "SRE/4072/2025",
-          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.486.793/0001-42",
-          "volume": 251500000,
-          "date": "2025-12-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 179,
-          "volume": 21320365590.539997
+          "count": 180,
+          "volume": 21340365590.539997
         },
         {
           "market": "FIAGRO",
@@ -3815,7 +3815,7 @@
           "date": "2026-10-06",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5035,7 +5035,7 @@
           "date": "2026-10-01",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5131,7 +5131,7 @@
           "date": "2026-08-21",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5416,7 +5416,7 @@
         {
           "market": "FIAGRO",
           "count": 12,
-          "volume": 1685150465.44
+          "volume": 1755150465.44
         },
         {
           "market": "FII",
@@ -11243,7 +11243,7 @@
           "date": "2026-10-16",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -14459,7 +14459,7 @@
           "date": "2026-10-27",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
