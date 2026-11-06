@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-05T18:46:12.262Z",
+  "generatedAt": "2026-11-06T17:58:26.514Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-05T08:00:40.384563"
+    "updatedAt": "2026-11-06T08:00:37.958988"
   },
   "coordinators": [
     {
@@ -13,9 +13,9 @@
       "cnpj": "02.332.886/0001-04",
       "stats12m": {
         "offers": 35,
-        "volume": 23205390612.28,
-        "offersWithVolume": 34,
-        "averageTicket": 682511488.5964706
+        "volume": 23303390612.28,
+        "offersWithVolume": 35,
+        "averageTicket": 665811160.3508571
       },
       "byMonth": [
         {
@@ -106,10 +106,26 @@
         {
           "month": "2026-11",
           "count": 4,
-          "volume": 1974000000
+          "volume": 2072000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "24cdc564a3e89924",
+          "market": "FII",
+          "name": "FULWOOD DESENVOLVIMENTO LOGÍSTICO I FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
+          "cnpj": "68.281.552/0001-59",
+          "registration": "28561",
+          "processNumber": "SRE/3579/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 98000000,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "9f635aab5f0db072",
           "market": "FII",
@@ -124,22 +140,6 @@
           "rite": "Automático",
           "audience": "Público geral",
           "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "24cdc564a3e89924",
-          "market": "FII",
-          "name": "FULWOOD DESENVOLVIMENTO LOGÍSTICO I FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
-          "cnpj": "68.281.552/0001-59",
-          "registration": "28561",
-          "processNumber": "SRE/3579/2026",
-          "leader": "XP INVESTIMENTOS CCTVM S.A.",
-          "leaderCnpj": "02.332.886/0001-04",
-          "volume": 0,
-          "date": "2026-11-03",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Aguardando Bookbuilding",
           "publications": []
         },
         {
@@ -267,7 +267,7 @@
           "date": "2026-08-25",
           "rite": "Automático",
           "audience": "Público geral",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -605,7 +605,7 @@
         {
           "market": "FII",
           "count": 147,
-          "volume": 74357823026.59001
+          "volume": 74455823026.59001
         }
       ]
     },
@@ -2804,12 +2804,12 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 55,
+          "count": 57,
           "volume": 18339045059
         },
         {
           "market": "FIAGRO",
-          "count": 15,
+          "count": 16,
           "volume": 4995498000
         },
         {
@@ -8284,7 +8284,7 @@
           "date": "2026-09-23",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -14841,6 +14841,834 @@
       ]
     },
     {
+      "key": "CNPJ:13673855000125",
+      "name": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "13.673.855/0001-25",
+      "stats12m": {
+        "offers": 1,
+        "volume": 2700000,
+        "offersWithVolume": 1,
+        "averageTicket": 2700000
+      },
+      "byMonth": [
+        {
+          "month": "2023-04",
+          "count": 4,
+          "volume": 9999842.05
+        },
+        {
+          "month": "2023-05",
+          "count": 2,
+          "volume": 30899366.11
+        },
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 60000078.32
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 45000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 2700000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "cb11f7e881fa2c50",
+          "market": "FII",
+          "name": "SPGM III FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.963.250/0001-23",
+          "registration": "28596",
+          "processNumber": "SRE/3594/2026",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 2700000,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "38d6c913b4bc323c",
+          "market": "FII",
+          "name": "SPGM FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "53.127.942/0001-00",
+          "registration": "4412",
+          "processNumber": "SRE/0195/2024",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 45000000,
+          "date": "2024-01-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "280f78016b1a271a",
+          "market": "FII",
+          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS",
+          "cnpj": "36.642.293/0001-58",
+          "registration": "2300",
+          "processNumber": "SRE/1454/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 60000078.32,
+          "date": "2023-07-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e6518a489ec2d830",
+          "market": "FII",
+          "name": "HIGH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "41.778.415/0001-78",
+          "registration": "1667",
+          "processNumber": "SRE/0902/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 27809300,
+          "date": "2023-05-17",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0f3c245eacfa9759",
+          "market": "FII",
+          "name": "HIGH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "41.778.415/0001-78",
+          "registration": "1668",
+          "processNumber": "SRE/0903/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 3090066.11,
+          "date": "2023-05-17",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "70e6a2e891c0a012",
+          "market": "FII",
+          "name": "RB CAPITAL PATRIMONIAL V FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "13.568.181/0001-07",
+          "registration": "1377",
+          "processNumber": "SRE/0657/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 2500000,
+          "date": "2023-04-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Revogada",
+          "publications": []
+        },
+        {
+          "id": "228d23bb77ca3aa9",
+          "market": "FII",
+          "name": "RB CAPITAL PATRIMONIAL VI FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "27.580.051/0001-96",
+          "registration": "1379",
+          "processNumber": "SRE/0659/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 2499999.89,
+          "date": "2023-04-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d0a6661314a2bf17",
+          "market": "FII",
+          "name": "SALUS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "13.012.312/0001-67",
+          "registration": "1380",
+          "processNumber": "SRE/0660/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 2500000,
+          "date": "2023-04-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2be9af0d88f9d7e3",
+          "market": "FII",
+          "name": "SALUS II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "17.331.883/0001-15",
+          "registration": "1381",
+          "processNumber": "SRE/0661/2023",
+          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 2499842.16,
+          "date": "2023-04-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0a996f4ca62914e6",
+          "market": "FII",
+          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS",
+          "cnpj": "36.642.293/0001-58",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 118789136.75999999,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-06-02",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-08-12",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "78f0efa4fe5da903",
+          "market": "FII",
+          "name": "BASÍLICA PARTNERS LED CORPORATE FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+          "cnpj": "28.267.555/0001-13",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 160000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-09-25",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "488c6421ebb459e4",
+          "market": "FII",
+          "name": "BII VENTURA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "39.583.723/0001-04",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 8864400,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-11-25",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "28c065717ffe775d",
+          "market": "FII",
+          "name": "BR7 SENADO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "40.944.736/0001-32",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 20000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2025-01-10",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "e6802489b8fc9575",
+          "market": "FII",
+          "name": "CIX CAPITAL OPORTUNIDADES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "27.538.335/0001-14",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-08-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "fc4840c2ac4bc0b5",
+          "market": "FII",
+          "name": "DOMO FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+          "cnpj": "17.374.696/0001-19",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 69380000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-11-01",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "9fb186c2d3271c53",
+          "market": "FII",
+          "name": "FRAM CAPITAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "26.132.504/0001-59",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 7610231,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-07-25",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c1bcba0137f73d77",
+          "market": "FII",
+          "name": "FRAM CAPITAL HELMER FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "40.944.707/0001-70",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 38094000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-06",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "03a608f4935d2b4a",
+          "market": "FII",
+          "name": "FRAM CAPITAL HELMER MULTIATIVOS RENDA PREFERENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "40.944.707/0001-70",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 8200170,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-17",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "6e6a3e60ac8a9a1e",
+          "market": "FII",
+          "name": "FRAM CAPITAL III FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "27.293.656/0001-04",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 10000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-07-11",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "acb24fdf1952ca4c",
+          "market": "FII",
+          "name": "FRAM CAPITAL IV FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "27.293.689/0001-46",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 6651257.7,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-07-12",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "0b476634240c4a67",
+          "market": "FII",
+          "name": "FRAM CAPITAL LUND FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "27.771.547/0001-47",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 45000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-10-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "86d7819ba0bb3ff0",
+          "market": "FII",
+          "name": "FRAM CAPITAL ODARA FUNDO DE INVETIMENTO IMOBILIÁRIO",
+          "cnpj": "33.701.501/0001-54",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 28000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-12-21",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "5ecdae58bf0b76aa",
+          "market": "FII",
+          "name": "FRAM CAPITAL PENHA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "33.701.455/0001-93",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 1050000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "989474ea1f5bc410",
+          "market": "FII",
+          "name": "FRAM CAPITAL RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "27.771.547/0001-47",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-03-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "4d4c4c6780ac51c3",
+          "market": "FII",
+          "name": "FRAM CAPITAL TESSEN FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "33.701.485/0001-08",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 45050000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "85a4687cddc808b9",
+          "market": "FII",
+          "name": "FRAM CAPITAL VI FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "27.771.568/0001-62",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 30000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-04-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "ab084a0c991997d7",
+          "market": "FII",
+          "name": "FRAM CAPITAL XXI FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "39.591.218/0001-01",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 1429480,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-06-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "8724634d31ea4bf1",
+          "market": "FII",
+          "name": "Fundo de Investimento Imobiliário - NCH EQI High Yield Recebíveis Imobiliários",
+          "cnpj": "18.085.673/0001-57",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 23913127.46,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-18",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-06-28",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-12-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a6a45019c8f0e314",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MOGNO REAL ESTATE IMPACT DEVELOPMENT FUND",
+          "cnpj": "36.642.099/0001-72",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 34900000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-05-07",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "ad83182dd68155ce",
+          "market": "FII",
+          "name": "GRUPO RCFA FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "27.771.586/0001-44",
+          "registration": "",
+          "processNumber": "",
+          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.673.855/0001-25",
+          "volume": 11678533,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-02-19",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 24,
+          "volume": 1235961288.27
+        },
+        {
+          "market": "FIAGRO",
+          "count": 8,
+          "volume": 367152390.68
+        },
+        {
+          "market": "FII",
+          "count": 45,
+          "volume": 1049383702.5400001
+        }
+      ]
+    },
+    {
       "key": "CNPJ:33817677000176",
       "name": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "33.817.677/0001-76",
@@ -20547,842 +21375,6 @@
       ]
     },
     {
-      "key": "CNPJ:13673855000125",
-      "name": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "cnpj": "13.673.855/0001-25",
-      "stats12m": {
-        "offers": 0,
-        "volume": 0,
-        "offersWithVolume": 0,
-        "averageTicket": null
-      },
-      "byMonth": [
-        {
-          "month": "2023-04",
-          "count": 4,
-          "volume": 9999842.05
-        },
-        {
-          "month": "2023-05",
-          "count": 2,
-          "volume": 30899366.11
-        },
-        {
-          "month": "2023-07",
-          "count": 1,
-          "volume": 60000078.32
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 45000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "38d6c913b4bc323c",
-          "market": "FII",
-          "name": "SPGM FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "53.127.942/0001-00",
-          "registration": "4412",
-          "processNumber": "SRE/0195/2024",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 45000000,
-          "date": "2024-01-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "280f78016b1a271a",
-          "market": "FII",
-          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS",
-          "cnpj": "36.642.293/0001-58",
-          "registration": "2300",
-          "processNumber": "SRE/1454/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 60000078.32,
-          "date": "2023-07-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e6518a489ec2d830",
-          "market": "FII",
-          "name": "HIGH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "41.778.415/0001-78",
-          "registration": "1667",
-          "processNumber": "SRE/0902/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 27809300,
-          "date": "2023-05-17",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0f3c245eacfa9759",
-          "market": "FII",
-          "name": "HIGH FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "41.778.415/0001-78",
-          "registration": "1668",
-          "processNumber": "SRE/0903/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 3090066.11,
-          "date": "2023-05-17",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "70e6a2e891c0a012",
-          "market": "FII",
-          "name": "RB CAPITAL PATRIMONIAL V FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "13.568.181/0001-07",
-          "registration": "1377",
-          "processNumber": "SRE/0657/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 2500000,
-          "date": "2023-04-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Revogada",
-          "publications": []
-        },
-        {
-          "id": "228d23bb77ca3aa9",
-          "market": "FII",
-          "name": "RB CAPITAL PATRIMONIAL VI FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "27.580.051/0001-96",
-          "registration": "1379",
-          "processNumber": "SRE/0659/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 2499999.89,
-          "date": "2023-04-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d0a6661314a2bf17",
-          "market": "FII",
-          "name": "SALUS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "13.012.312/0001-67",
-          "registration": "1380",
-          "processNumber": "SRE/0660/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 2500000,
-          "date": "2023-04-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2be9af0d88f9d7e3",
-          "market": "FII",
-          "name": "SALUS II FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "17.331.883/0001-15",
-          "registration": "1381",
-          "processNumber": "SRE/0661/2023",
-          "leader": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 2499842.16,
-          "date": "2023-04-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0a996f4ca62914e6",
-          "market": "FII",
-          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS",
-          "cnpj": "36.642.293/0001-58",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 118789136.75999999,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-06-02",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-08-12",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "78f0efa4fe5da903",
-          "market": "FII",
-          "name": "BASÍLICA PARTNERS LED CORPORATE FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
-          "cnpj": "28.267.555/0001-13",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 160000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-09-25",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "488c6421ebb459e4",
-          "market": "FII",
-          "name": "BII VENTURA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "39.583.723/0001-04",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 8864400,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-11-25",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "28c065717ffe775d",
-          "market": "FII",
-          "name": "BR7 SENADO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "40.944.736/0001-32",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 20000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2025-01-10",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "e6802489b8fc9575",
-          "market": "FII",
-          "name": "CIX CAPITAL OPORTUNIDADES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "27.538.335/0001-14",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-08-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "fc4840c2ac4bc0b5",
-          "market": "FII",
-          "name": "DOMO FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-          "cnpj": "17.374.696/0001-19",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 69380000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-11-01",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "9fb186c2d3271c53",
-          "market": "FII",
-          "name": "FRAM CAPITAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "26.132.504/0001-59",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 7610231,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-07-25",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c1bcba0137f73d77",
-          "market": "FII",
-          "name": "FRAM CAPITAL HELMER FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "40.944.707/0001-70",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 38094000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-06",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "03a608f4935d2b4a",
-          "market": "FII",
-          "name": "FRAM CAPITAL HELMER MULTIATIVOS RENDA PREFERENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "40.944.707/0001-70",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 8200170,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-17",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "6e6a3e60ac8a9a1e",
-          "market": "FII",
-          "name": "FRAM CAPITAL III FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "27.293.656/0001-04",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 10000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-07-11",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "acb24fdf1952ca4c",
-          "market": "FII",
-          "name": "FRAM CAPITAL IV FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "27.293.689/0001-46",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 6651257.7,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-07-12",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "0b476634240c4a67",
-          "market": "FII",
-          "name": "FRAM CAPITAL LUND FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "27.771.547/0001-47",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 45000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-10-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "86d7819ba0bb3ff0",
-          "market": "FII",
-          "name": "FRAM CAPITAL ODARA FUNDO DE INVETIMENTO IMOBILIÁRIO",
-          "cnpj": "33.701.501/0001-54",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 28000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-12-21",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "5ecdae58bf0b76aa",
-          "market": "FII",
-          "name": "FRAM CAPITAL PENHA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "33.701.455/0001-93",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 1050000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "989474ea1f5bc410",
-          "market": "FII",
-          "name": "FRAM CAPITAL RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "27.771.547/0001-47",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-03-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "4d4c4c6780ac51c3",
-          "market": "FII",
-          "name": "FRAM CAPITAL TESSEN FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "33.701.485/0001-08",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 45050000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "85a4687cddc808b9",
-          "market": "FII",
-          "name": "FRAM CAPITAL VI FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "27.771.568/0001-62",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 30000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-04-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "ab084a0c991997d7",
-          "market": "FII",
-          "name": "FRAM CAPITAL XXI FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "39.591.218/0001-01",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 1429480,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-06-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "8724634d31ea4bf1",
-          "market": "FII",
-          "name": "Fundo de Investimento Imobiliário - NCH EQI High Yield Recebíveis Imobiliários",
-          "cnpj": "18.085.673/0001-57",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 23913127.46,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-18",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-06-28",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-12-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a6a45019c8f0e314",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MOGNO REAL ESTATE IMPACT DEVELOPMENT FUND",
-          "cnpj": "36.642.099/0001-72",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 34900000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-05-07",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "ad83182dd68155ce",
-          "market": "FII",
-          "name": "GRUPO RCFA FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "27.771.586/0001-44",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 11678533,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-02-19",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "fc1ebecf5c225718",
-          "market": "FII",
-          "name": "HOA DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.471.694/0001-67",
-          "registration": "",
-          "processNumber": "",
-          "leader": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "13.673.855/0001-25",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-21",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 24,
-          "volume": 1235961288.27
-        },
-        {
-          "market": "FIAGRO",
-          "count": 8,
-          "volume": 367152390.68
-        },
-        {
-          "market": "FII",
-          "count": 44,
-          "volume": 1046683702.5400001
-        }
-      ]
-    },
-    {
       "key": "CNPJ:37800856000151",
       "name": "GREEN ALTERNATIVE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
       "cnpj": "37.800.856/0001-51",
@@ -23877,8 +23869,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 8,
-          "volume": 49150000
+          "count": 9,
+          "volume": 51650000
         },
         {
           "market": "FIAGRO",

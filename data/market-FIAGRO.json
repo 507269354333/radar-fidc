@@ -1,22 +1,26 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-05T08:00:40.384563",
+  "sourceUpdatedAt": "2026-11-06T08:00:37.958988",
   "market": "FIAGRO",
-  "count": 189,
+  "count": 190,
   "analytics": {
     "latestMonth": "2026-11",
-    "offersInMonth": 1,
+    "offersInMonth": 2,
     "volumeInMonth": 70000000,
     "offersWithVolumeInMonth": 1,
-    "leadersInMonth": 1,
+    "leadersInMonth": 2,
     "byRite": [
       {
         "name": "Automático",
-        "count": 1
+        "count": 2
       }
     ],
     "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 1
+      },
       {
         "name": "Qualificado",
         "count": 1
@@ -28,6 +32,12 @@
         "cnpj": "59.281.253/0001-23",
         "count": 1,
         "volume": 70000000
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 1,
+        "volume": 0
       }
     ],
     "byMonth": [
@@ -135,28 +145,28 @@
       },
       {
         "month": "2026-11",
-        "count": 1,
+        "count": 2,
         "volume": 70000000,
         "withVolume": 1
       }
     ],
     "trailing12": {
-      "offers": 73,
+      "offers": 74,
       "volume": 269148646887.55,
       "offersWithVolume": 71,
       "leaders": 21,
       "topLeaders": [
         {
+          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "cnpj": "04.845.753/0001-59",
+          "count": 11,
+          "volume": 4260498000
+        },
+        {
           "name": "BANCO DAYCOVAL S.A.",
           "cnpj": "62.232.889/0001-90",
           "count": 11,
           "volume": 1176327400
-        },
-        {
-          "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "cnpj": "04.845.753/0001-59",
-          "count": 10,
-          "volume": 4260498000
         },
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -253,6 +263,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "2fffe1a9f9e67e3a",
+        "market": "FIAGRO",
+        "name": "AGRO SLB-IMR FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - RESP LIMITADA",
+        "cnpj": "63.504.290/0001-20",
+        "registration": "28590",
+        "processNumber": "SRE/3602/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 0,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Aguardando Bookbuilding",
+        "date": "2026-11-05",
+        "dateBasis": "requerimento",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "67113fe4a41980db",
         "market": "FIAGRO",
@@ -588,33 +622,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "ebf586d8f3437c71",
-        "market": "FIAGRO",
-        "name": "AGROLOGICA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "64.957.407/0001-94",
-        "registration": "28202",
-        "processNumber": "SRE/3231/2026",
-        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "leaderCnpj": "22.610.500/0001-88",
-        "volume": 20000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-02",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-05T18:46:12.196Z"
+  "updatedAt": "2026-11-06T17:58:26.451Z"
 }

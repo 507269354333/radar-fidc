@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-05T18:46:12.259Z",
+  "generatedAt": "2026-11-06T17:58:26.511Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-05T08:00:40.384563"
+    "updatedAt": "2026-11-06T08:00:37.958988"
   },
   "coordinators": [
     {
@@ -5211,7 +5211,7 @@
           "date": "2026-05-12",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5422,6 +5422,608 @@
           "market": "FII",
           "count": 180,
           "volume": 27333101446.090004
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:04845753000159",
+      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "cnpj": "04.845.753/0001-59",
+      "stats12m": {
+        "offers": 22,
+        "volume": 9980695059,
+        "offersWithVolume": 19,
+        "averageTicket": 525299739.94736844
+      },
+      "byMonth": [
+        {
+          "month": "2024-10",
+          "count": 2,
+          "volume": 455140000
+        },
+        {
+          "month": "2024-11",
+          "count": 4,
+          "volume": 1485000000
+        },
+        {
+          "month": "2024-12",
+          "count": 4,
+          "volume": 705000000
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 1000000000
+        },
+        {
+          "month": "2025-02",
+          "count": 5,
+          "volume": 543000000
+        },
+        {
+          "month": "2025-03",
+          "count": 2,
+          "volume": 220000000
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 332500000
+        },
+        {
+          "month": "2025-07",
+          "count": 3,
+          "volume": 483000000
+        },
+        {
+          "month": "2025-08",
+          "count": 2,
+          "volume": 550000000
+        },
+        {
+          "month": "2025-10",
+          "count": 3,
+          "volume": 1627500000
+        },
+        {
+          "month": "2025-11",
+          "count": 1,
+          "volume": 25000000
+        },
+        {
+          "month": "2025-12",
+          "count": 5,
+          "volume": 1016920000
+        },
+        {
+          "month": "2026-03",
+          "count": 2,
+          "volume": 1375000059
+        },
+        {
+          "month": "2026-04",
+          "count": 3,
+          "volume": 788000000
+        },
+        {
+          "month": "2026-05",
+          "count": 2,
+          "volume": 762500000
+        },
+        {
+          "month": "2026-09",
+          "count": 4,
+          "volume": 4521400000
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 1291875000
+        },
+        {
+          "month": "2026-11",
+          "count": 3,
+          "volume": 225000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "665cf75790d8754f",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS VELOT MOTORS SEGMENTO FINANCEIRO - RESP LIMITADA",
+          "cnpj": "65.892.447/0001-68",
+          "registration": "28603",
+          "processNumber": "SRE/3603/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "e7c727a7f6272a94",
+          "market": "FIDC",
+          "name": "SERUM FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.931.082/0001-21",
+          "registration": "28600",
+          "processNumber": "SRE/3596/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "bfe8b703a00ecb0a",
+          "market": "FIDC",
+          "name": "CORUJA SATURNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.003.757/0001-35",
+          "registration": "27847",
+          "processNumber": "SRE/2900/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 225000000,
+          "date": "2026-11-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b71dd22b340d7208",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TURBI I DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "49.936.440/0001-44",
+          "registration": "28402",
+          "processNumber": "SRE/3412/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-10-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "ddd3285ea03274b9",
+          "market": "FIDC",
+          "name": "ICRED INSS IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.395.941/0001-78",
+          "registration": "28321",
+          "processNumber": "SRE/3343/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1228125000,
+          "date": "2026-10-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c40ba36ce027b57c",
+          "market": "FIDC",
+          "name": "RLX FLUOROCHEMICAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESP LIMITADA",
+          "cnpj": "68.522.785/0001-04",
+          "registration": "28054",
+          "processNumber": "SRE/3092/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 63750000,
+          "date": "2026-10-14",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c2e29da4c3cfd754",
+          "market": "FIDC",
+          "name": "ICRED INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.347.578/0001-64",
+          "registration": "27938",
+          "processNumber": "SRE/3006/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 195000000,
+          "date": "2026-09-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "511952071e0ccd5d",
+          "market": "FIDC",
+          "name": "FUNDAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.282.499/0001-85",
+          "registration": "27725",
+          "processNumber": "SRE/2794/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 291400000,
+          "date": "2026-09-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "28c4718d971e10c5",
+          "market": "FIDC",
+          "name": "FLG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
+          "cnpj": "67.878.258/0001-66",
+          "registration": "27689",
+          "processNumber": "SRE/2755/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 35000000,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ddb3568b9d3c6b84",
+          "market": "FIDC",
+          "name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+          "cnpj": "63.572.282/0001-11",
+          "registration": "27658",
+          "processNumber": "SRE/2727/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 4000000000,
+          "date": "2026-09-01",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2ae561da9b059e91",
+          "market": "FIDC",
+          "name": "DAYCOVAL D410 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "65.836.995/0001-70",
+          "registration": "26150",
+          "processNumber": "SRE/1358/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 200000000,
+          "date": "2026-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b39bcf005c645553",
+          "market": "FIDC",
+          "name": "SOL AGORA IV FIDC SEGMENTO FINANCEIRO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.473.122/0001-40",
+          "registration": "25661",
+          "processNumber": "SRE/0903/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 562500000,
+          "date": "2026-05-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2bcbb2a4b54963a6",
+          "market": "FIDC",
+          "name": "SB CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL DE CLASSE UNICA FECHADA",
+          "cnpj": "23.956.882/0001-69",
+          "registration": "25579",
+          "processNumber": "SRE/0835/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 500000000,
+          "date": "2026-04-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "840e53b49eca7835",
+          "market": "FIDC",
+          "name": "ARCELORMITTAL VERTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS - RESP LIMITADA",
+          "cnpj": "65.873.297/0001-45",
+          "registration": "25662",
+          "processNumber": "SRE/0907/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 128000000,
+          "date": "2026-04-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "dc710c9ecd38f4bb",
+          "market": "FIDC",
+          "name": "NATURA PAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO PESSOAL SOCIAL E IS RESP LTDA",
+          "cnpj": "57.816.252/0001-00",
+          "registration": "25790",
+          "processNumber": "SRE/1033/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 160000000,
+          "date": "2026-04-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "90e73d59124eadab",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS PAGSEGURO I",
+          "cnpj": "28.169.275/0001-72",
+          "registration": "25708",
+          "processNumber": "SRE/0954/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1000000000,
+          "date": "2026-03-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "16f9a94d82df9552",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS KINEA CRÉDITO ESTRUTURADO RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.431.592/0001-28",
+          "registration": "25584",
+          "processNumber": "SRE/0830/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 375000059,
+          "date": "2026-03-26",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ca5ef0f2302a73e6",
+          "market": "FIDC",
+          "name": "GALLERIA HOME EQUITY FIDC",
+          "cnpj": "37.294.759/0001-34",
+          "registration": "24184",
+          "processNumber": "SRE/4557/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 75000000,
+          "date": "2025-12-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ed486668d01b8d5d",
+          "market": "FIDC",
+          "name": "FRIMESA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.171.340/0001-65",
+          "registration": "23782",
+          "processNumber": "SRE/4189/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 120000000,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "29940ba37344ebdc",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MEDICI - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.144.964/0001-60",
+          "registration": "23952",
+          "processNumber": "SRE/4368/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 511920000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bab27fbe7674eb71",
+          "market": "FIDC",
+          "name": "GRUPO WINE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
+          "cnpj": "63.630.763/0001-36",
+          "registration": "23784",
+          "processNumber": "SRE/4187/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 80000000,
+          "date": "2025-12-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b808f953b0cf23f2",
+          "market": "FIDC",
+          "name": "ISAAC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO SEGMENTO DE SERVIÇOS EDUCACIONAIS",
+          "cnpj": "44.516.049/0001-77",
+          "registration": "23741",
+          "processNumber": "SRE/4156/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 230000000,
+          "date": "2025-12-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "0cf617db8d44089e",
+          "market": "FIDC",
+          "name": "H3 CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.507.342/0001-12",
+          "registration": "23368",
+          "processNumber": "SRE/3816/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 25000000,
+          "date": "2025-11-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9ff059a734744707",
+          "market": "FIDC",
+          "name": "INVESTCRED FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+          "cnpj": "29.226.654/0001-10",
+          "registration": "22983",
+          "processNumber": "SRE/3466/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 90000000,
+          "date": "2025-10-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3270693b0d0b0004",
+          "market": "FIDC",
+          "name": "ACTUM ATIVOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "63.310.491/0001-97",
+          "registration": "24709",
+          "processNumber": "SRE/0450/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1350000000,
+          "date": "2025-10-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "31029adfff791817",
+          "market": "FIDC",
+          "name": "CLASSE ÚNICA DO FIDC CRÉDITO NITRO AGRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.554.551/0001-38",
+          "registration": "22922",
+          "processNumber": "SRE/3409/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 187500000,
+          "date": "2025-10-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "db03912f149a4ecf",
+          "market": "FIDC",
+          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III CHAMADA DE CAPITAL FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.014.120/0001-03",
+          "registration": "21756",
+          "processNumber": "SRE/2435/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 300000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "57f50f1c743d418f",
+          "market": "FIDC",
+          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III UPFRONT FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.014.262/0001-62",
+          "registration": "21755",
+          "processNumber": "SRE/2436/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 250000000,
+          "date": "2025-08-08",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6bff5b9b97d0b4d9",
+          "market": "FIDC",
+          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "58.291.962/0001-27",
+          "registration": "21433",
+          "processNumber": "SRE/2166/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2025-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Revogada",
+          "publications": []
+        },
+        {
+          "id": "846dee4c5d59464b",
+          "market": "FIDC",
+          "name": "ALTOMAX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO RECEBÍVEIS COMERCIAIS DE RESP LTDA",
+          "cnpj": "58.288.437/0001-52",
+          "registration": "21585",
+          "processNumber": "SRE/2292/2025",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 15000000,
+          "date": "2025-07-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 57,
+          "volume": 18339045059
+        },
+        {
+          "market": "FIAGRO",
+          "count": 16,
+          "volume": 4995498000
+        },
+        {
+          "market": "FII",
+          "count": 19,
+          "volume": 11952159211.42
         }
       ]
     },
@@ -5999,608 +6601,6 @@
           "market": "FII",
           "count": 19,
           "volume": 1105738496.75
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:04845753000159",
-      "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "cnpj": "04.845.753/0001-59",
-      "stats12m": {
-        "offers": 20,
-        "volume": 9980695059,
-        "offersWithVolume": 19,
-        "averageTicket": 525299739.94736844
-      },
-      "byMonth": [
-        {
-          "month": "2024-10",
-          "count": 2,
-          "volume": 455140000
-        },
-        {
-          "month": "2024-11",
-          "count": 4,
-          "volume": 1485000000
-        },
-        {
-          "month": "2024-12",
-          "count": 4,
-          "volume": 705000000
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 1000000000
-        },
-        {
-          "month": "2025-02",
-          "count": 5,
-          "volume": 543000000
-        },
-        {
-          "month": "2025-03",
-          "count": 2,
-          "volume": 220000000
-        },
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 332500000
-        },
-        {
-          "month": "2025-07",
-          "count": 3,
-          "volume": 483000000
-        },
-        {
-          "month": "2025-08",
-          "count": 2,
-          "volume": 550000000
-        },
-        {
-          "month": "2025-10",
-          "count": 3,
-          "volume": 1627500000
-        },
-        {
-          "month": "2025-11",
-          "count": 1,
-          "volume": 25000000
-        },
-        {
-          "month": "2025-12",
-          "count": 5,
-          "volume": 1016920000
-        },
-        {
-          "month": "2026-03",
-          "count": 2,
-          "volume": 1375000059
-        },
-        {
-          "month": "2026-04",
-          "count": 3,
-          "volume": 788000000
-        },
-        {
-          "month": "2026-05",
-          "count": 2,
-          "volume": 762500000
-        },
-        {
-          "month": "2026-09",
-          "count": 4,
-          "volume": 4521400000
-        },
-        {
-          "month": "2026-10",
-          "count": 3,
-          "volume": 1291875000
-        },
-        {
-          "month": "2026-11",
-          "count": 1,
-          "volume": 225000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "bfe8b703a00ecb0a",
-          "market": "FIDC",
-          "name": "CORUJA SATURNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.003.757/0001-35",
-          "registration": "27847",
-          "processNumber": "SRE/2900/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 225000000,
-          "date": "2026-11-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "b71dd22b340d7208",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TURBI I DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "49.936.440/0001-44",
-          "registration": "28402",
-          "processNumber": "SRE/3412/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-10-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "publications": []
-        },
-        {
-          "id": "ddd3285ea03274b9",
-          "market": "FIDC",
-          "name": "ICRED INSS IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.395.941/0001-78",
-          "registration": "28321",
-          "processNumber": "SRE/3343/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 1228125000,
-          "date": "2026-10-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c40ba36ce027b57c",
-          "market": "FIDC",
-          "name": "RLX FLUOROCHEMICAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESP LIMITADA",
-          "cnpj": "68.522.785/0001-04",
-          "registration": "28054",
-          "processNumber": "SRE/3092/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 63750000,
-          "date": "2026-10-14",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c2e29da4c3cfd754",
-          "market": "FIDC",
-          "name": "ICRED INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.347.578/0001-64",
-          "registration": "27938",
-          "processNumber": "SRE/3006/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 195000000,
-          "date": "2026-09-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "511952071e0ccd5d",
-          "market": "FIDC",
-          "name": "FUNDAGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.282.499/0001-85",
-          "registration": "27725",
-          "processNumber": "SRE/2794/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 291400000,
-          "date": "2026-09-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "28c4718d971e10c5",
-          "market": "FIDC",
-          "name": "FLG FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
-          "cnpj": "67.878.258/0001-66",
-          "registration": "27689",
-          "processNumber": "SRE/2755/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 35000000,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ddb3568b9d3c6b84",
-          "market": "FIDC",
-          "name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
-          "cnpj": "63.572.282/0001-11",
-          "registration": "27658",
-          "processNumber": "SRE/2727/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 4000000000,
-          "date": "2026-09-01",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2ae561da9b059e91",
-          "market": "FIDC",
-          "name": "DAYCOVAL D410 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "65.836.995/0001-70",
-          "registration": "26150",
-          "processNumber": "SRE/1358/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 200000000,
-          "date": "2026-05-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b39bcf005c645553",
-          "market": "FIDC",
-          "name": "SOL AGORA IV FIDC SEGMENTO FINANCEIRO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.473.122/0001-40",
-          "registration": "25661",
-          "processNumber": "SRE/0903/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 562500000,
-          "date": "2026-05-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2bcbb2a4b54963a6",
-          "market": "FIDC",
-          "name": "SB CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL DE CLASSE UNICA FECHADA",
-          "cnpj": "23.956.882/0001-69",
-          "registration": "25579",
-          "processNumber": "SRE/0835/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 500000000,
-          "date": "2026-04-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "840e53b49eca7835",
-          "market": "FIDC",
-          "name": "ARCELORMITTAL VERTICE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS - RESP LIMITADA",
-          "cnpj": "65.873.297/0001-45",
-          "registration": "25662",
-          "processNumber": "SRE/0907/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 128000000,
-          "date": "2026-04-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "dc710c9ecd38f4bb",
-          "market": "FIDC",
-          "name": "NATURA PAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO PESSOAL SOCIAL E IS RESP LTDA",
-          "cnpj": "57.816.252/0001-00",
-          "registration": "25790",
-          "processNumber": "SRE/1033/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 160000000,
-          "date": "2026-04-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "90e73d59124eadab",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS PAGSEGURO I",
-          "cnpj": "28.169.275/0001-72",
-          "registration": "25708",
-          "processNumber": "SRE/0954/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 1000000000,
-          "date": "2026-03-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "16f9a94d82df9552",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS KINEA CRÉDITO ESTRUTURADO RESPONSABILIDADE LIMITADA",
-          "cnpj": "60.431.592/0001-28",
-          "registration": "25584",
-          "processNumber": "SRE/0830/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 375000059,
-          "date": "2026-03-26",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ca5ef0f2302a73e6",
-          "market": "FIDC",
-          "name": "GALLERIA HOME EQUITY FIDC",
-          "cnpj": "37.294.759/0001-34",
-          "registration": "24184",
-          "processNumber": "SRE/4557/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 75000000,
-          "date": "2025-12-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ed486668d01b8d5d",
-          "market": "FIDC",
-          "name": "FRIMESA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.171.340/0001-65",
-          "registration": "23782",
-          "processNumber": "SRE/4189/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 120000000,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "29940ba37344ebdc",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MEDICI - RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.144.964/0001-60",
-          "registration": "23952",
-          "processNumber": "SRE/4368/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 511920000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bab27fbe7674eb71",
-          "market": "FIDC",
-          "name": "GRUPO WINE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS DE RESP LIMITADA",
-          "cnpj": "63.630.763/0001-36",
-          "registration": "23784",
-          "processNumber": "SRE/4187/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 80000000,
-          "date": "2025-12-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b808f953b0cf23f2",
-          "market": "FIDC",
-          "name": "ISAAC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DO SEGMENTO DE SERVIÇOS EDUCACIONAIS",
-          "cnpj": "44.516.049/0001-77",
-          "registration": "23741",
-          "processNumber": "SRE/4156/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 230000000,
-          "date": "2025-12-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "0cf617db8d44089e",
-          "market": "FIDC",
-          "name": "H3 CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.507.342/0001-12",
-          "registration": "23368",
-          "processNumber": "SRE/3816/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 25000000,
-          "date": "2025-11-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9ff059a734744707",
-          "market": "FIDC",
-          "name": "INVESTCRED FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "29.226.654/0001-10",
-          "registration": "22983",
-          "processNumber": "SRE/3466/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 90000000,
-          "date": "2025-10-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3270693b0d0b0004",
-          "market": "FIDC",
-          "name": "ACTUM ATIVOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "63.310.491/0001-97",
-          "registration": "24709",
-          "processNumber": "SRE/0450/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 1350000000,
-          "date": "2025-10-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "31029adfff791817",
-          "market": "FIDC",
-          "name": "CLASSE ÚNICA DO FIDC CRÉDITO NITRO AGRO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "51.554.551/0001-38",
-          "registration": "22922",
-          "processNumber": "SRE/3409/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 187500000,
-          "date": "2025-10-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "db03912f149a4ecf",
-          "market": "FIDC",
-          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III CHAMADA DE CAPITAL FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.014.120/0001-03",
-          "registration": "21756",
-          "processNumber": "SRE/2435/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 300000000,
-          "date": "2025-08-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "57f50f1c743d418f",
-          "market": "FIDC",
-          "name": "ITAÚ CRÉDITO ESTRUTURADO ALPES III UPFRONT FIDC RESPONSABILIDADE LIMITADA",
-          "cnpj": "62.014.262/0001-62",
-          "registration": "21755",
-          "processNumber": "SRE/2436/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 250000000,
-          "date": "2025-08-08",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6bff5b9b97d0b4d9",
-          "market": "FIDC",
-          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.291.962/0001-27",
-          "registration": "21433",
-          "processNumber": "SRE/2166/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2025-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Revogada",
-          "publications": []
-        },
-        {
-          "id": "846dee4c5d59464b",
-          "market": "FIDC",
-          "name": "ALTOMAX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO RECEBÍVEIS COMERCIAIS DE RESP LTDA",
-          "cnpj": "58.288.437/0001-52",
-          "registration": "21585",
-          "processNumber": "SRE/2292/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 15000000,
-          "date": "2025-07-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8e81588ad19defc9",
-          "market": "FIDC",
-          "name": "CRÉDITO UNIVERSITÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "08.417.544/0001-65",
-          "registration": "21284",
-          "processNumber": "SRE/2023/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 468000000,
-          "date": "2025-07-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "53ed0be9cc081462",
-          "market": "FIDC",
-          "name": "SUMUP SOLO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILI",
-          "cnpj": "45.598.747/0001-21",
-          "registration": "20329",
-          "processNumber": "SRE/1150/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 332500000,
-          "date": "2025-04-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 55,
-          "volume": 18339045059
-        },
-        {
-          "market": "FIAGRO",
-          "count": 15,
-          "volume": 4995498000
-        },
-        {
-          "market": "FII",
-          "count": 19,
-          "volume": 11952159211.42
         }
       ]
     },
@@ -9158,7 +9158,7 @@
           "date": "2026-10-15",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -10210,7 +10210,7 @@
         {
           "market": "FII",
           "count": 147,
-          "volume": 74357823026.59001
+          "volume": 74455823026.59001
         }
       ]
     },
@@ -11307,7 +11307,7 @@
           "date": "2026-05-08",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -13566,6 +13566,212 @@
       ]
     },
     {
+      "key": "CNPJ:41592532000142",
+      "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "cnpj": "41.592.532/0001-42",
+      "stats12m": {
+        "offers": 7,
+        "volume": 36650000,
+        "offersWithVolume": 7,
+        "averageTicket": 5235714.285714285
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 5000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 6000000
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 18150000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 2500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "19ac8ca30568979b",
+          "market": "FIDC",
+          "name": "EDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.865.749/0001-06",
+          "registration": "28599",
+          "processNumber": "SRE/3601/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 2500000,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "df1065fa04913d39",
+          "market": "FIDC",
+          "name": "ATLAS CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.238.677/0001-04",
+          "registration": "28501",
+          "processNumber": "SRE/3503/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 5000000,
+          "date": "2026-10-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7eb2893c95eced71",
+          "market": "FIDC",
+          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.237.118/0001-34",
+          "registration": "28326",
+          "processNumber": "SRE/3344/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 2650000,
+          "date": "2026-10-14",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "424f09427a246277",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS APTX - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.566.022/0001-57",
+          "registration": "28221",
+          "processNumber": "SRE/3248/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10500000,
+          "date": "2026-10-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ebf9c777ba398e06",
+          "market": "FIDC",
+          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.580/0001-98",
+          "registration": "28038",
+          "processNumber": "SRE/3106/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 4500000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1a38df3b7ae6f5e9",
+          "market": "FIDC",
+          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.580/0001-98",
+          "registration": "28053",
+          "processNumber": "SRE/3105/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 1500000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c03fd825dfa196fb",
+          "market": "FIDC",
+          "name": "BRIDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.784.717/0001-05",
+          "registration": "27667",
+          "processNumber": "SRE/2744/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "368dd16a77e7ae17",
+          "market": "FIDC",
+          "name": "LEDOROTAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE ILIMITADA",
+          "cnpj": "61.516.625/0001-03",
+          "registration": "21278",
+          "processNumber": "SRE/2010/2025",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10000000,
+          "date": "2025-07-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b59ab9c88bcedf0e",
+          "market": "FIDC",
+          "name": "INSOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.626.024/0001-42",
+          "registration": "16341",
+          "processNumber": "SRE/1912/2024",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 5000000,
+          "date": "2024-06-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 9,
+          "volume": 51650000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 7,
+          "volume": 194964822.18
+        }
+      ]
+    },
+    {
       "key": "CNPJ:33817677000176",
       "name": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "33.817.677/0001-76",
@@ -14405,191 +14611,6 @@
           "market": "FII",
           "count": 6,
           "volume": 1115604555.3600001
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:41592532000142",
-      "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "cnpj": "41.592.532/0001-42",
-      "stats12m": {
-        "offers": 6,
-        "volume": 34150000,
-        "offersWithVolume": 6,
-        "averageTicket": 5691666.666666667
-      },
-      "byMonth": [
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 5000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 6000000
-        },
-        {
-          "month": "2026-10",
-          "count": 3,
-          "volume": 18150000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "df1065fa04913d39",
-          "market": "FIDC",
-          "name": "ATLAS CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.238.677/0001-04",
-          "registration": "28501",
-          "processNumber": "SRE/3503/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 5000000,
-          "date": "2026-10-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7eb2893c95eced71",
-          "market": "FIDC",
-          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.237.118/0001-34",
-          "registration": "28326",
-          "processNumber": "SRE/3344/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 2650000,
-          "date": "2026-10-14",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "424f09427a246277",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS APTX - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.566.022/0001-57",
-          "registration": "28221",
-          "processNumber": "SRE/3248/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10500000,
-          "date": "2026-10-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ebf9c777ba398e06",
-          "market": "FIDC",
-          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.166.580/0001-98",
-          "registration": "28038",
-          "processNumber": "SRE/3106/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 4500000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "1a38df3b7ae6f5e9",
-          "market": "FIDC",
-          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.166.580/0001-98",
-          "registration": "28053",
-          "processNumber": "SRE/3105/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 1500000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c03fd825dfa196fb",
-          "market": "FIDC",
-          "name": "BRIDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.784.717/0001-05",
-          "registration": "27667",
-          "processNumber": "SRE/2744/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10000000,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "368dd16a77e7ae17",
-          "market": "FIDC",
-          "name": "LEDOROTAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE ILIMITADA",
-          "cnpj": "61.516.625/0001-03",
-          "registration": "21278",
-          "processNumber": "SRE/2010/2025",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10000000,
-          "date": "2025-07-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b59ab9c88bcedf0e",
-          "market": "FIDC",
-          "name": "INSOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.626.024/0001-42",
-          "registration": "16341",
-          "processNumber": "SRE/1912/2024",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 5000000,
-          "date": "2024-06-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 8,
-          "volume": 49150000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 7,
-          "volume": 194964822.18
         }
       ]
     },
@@ -17344,8 +17365,8 @@
         },
         {
           "market": "FII",
-          "count": 44,
-          "volume": 1046683702.5400001
+          "count": 45,
+          "volume": 1049383702.5400001
         }
       ]
     },
@@ -18179,6 +18200,386 @@
           "market": "FII",
           "count": 11,
           "volume": 6709309178.04
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:11504852000132",
+      "name": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+      "cnpj": "11.504.852/0001-32",
+      "stats12m": {
+        "offers": 3,
+        "volume": 410000000,
+        "offersWithVolume": 3,
+        "averageTicket": 136666666.66666666
+      },
+      "byMonth": [
+        {
+          "month": "2023-05",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 90000000
+        },
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 125000000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 37664825.1
+        },
+        {
+          "month": "2025-01",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2025-07",
+          "count": 2,
+          "volume": 651000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 40000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 220000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 150000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "c853343ded4195b9",
+          "market": "FIDC",
+          "name": "BLIPAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.354.123/0001-48",
+          "registration": "28594",
+          "processNumber": "SRE/3592/2026",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 150000000,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ab463d3eb6a97d56",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUVO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "42.888.478/0001-40",
+          "registration": "28291",
+          "processNumber": "SRE/3316/2026",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 220000000,
+          "date": "2026-10-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "e9df73bb37c39253",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SRM CNTL AUTOESTIMA RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.811.944/0001-82",
+          "registration": "27926",
+          "processNumber": "SRE/2982/2026",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 40000000,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3a13d983e893975a",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
+          "cnpj": "42.196.288/0001-61",
+          "registration": "21313",
+          "processNumber": "SRE/2083/2025",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 50000000,
+          "date": "2025-07-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bc43c9d597036e45",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FIDC SÊNIOR EXODUS INSTITUCIONAL - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.385.893/0001-25",
+          "registration": "21257",
+          "processNumber": "SRE/2028/2025",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 601000000,
+          "date": "2025-07-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "415751e0ec5ca221",
+          "market": "FIDC",
+          "name": "BLIPAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.354.123/0001-48",
+          "registration": "19706",
+          "processNumber": "SRE/0674/2025",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 10000000,
+          "date": "2025-03-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e9dadafd464707c5",
+          "market": "FIDC",
+          "name": "BLIPAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.354.123/0001-48",
+          "registration": "19152",
+          "processNumber": "SRE/0180/2025",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 10000000,
+          "date": "2025-01-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "64df054008cda318",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUVO",
+          "cnpj": "42.888.478/0001-40",
+          "registration": "16552",
+          "processNumber": "SRE/2089/2024",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 37664825.1,
+          "date": "2024-07-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6715c4ed50a00627",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
+          "cnpj": "42.196.288/0001-61",
+          "registration": "15233",
+          "processNumber": "SRE/0928/2024",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 125000000,
+          "date": "2024-04-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cc951fb486c9e22b",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUVO",
+          "cnpj": "42.888.478/0001-40",
+          "registration": "3798",
+          "processNumber": "SRE/2766/2023",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 90000000,
+          "date": "2023-12-05",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3b5c1cb2ed92befb",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
+          "cnpj": "42.196.288/0001-61",
+          "registration": "1588",
+          "processNumber": "SRE/0848/2023",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 120000000,
+          "date": "2023-05-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "842df703a1126573",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
+          "cnpj": "42.196.288/0001-61",
+          "registration": "",
+          "processNumber": "",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 184089494.7,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-04-27",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-04-26",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "b90897e6b1dc0266",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM QUOTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO SRM",
+          "cnpj": "09.260.031/0001-56",
+          "registration": "",
+          "processNumber": "",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 1999719.47,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-22",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "768b458e715e96ed",
+          "market": "FIDC",
+          "name": "S.R.M. PROPETIES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "40.171.210/0001-67",
+          "registration": "",
+          "processNumber": "",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 25051000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-06-22",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "147080154bae80dc",
+          "market": "FIDC",
+          "name": "SRM EXODUS PME FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "34.521.809/0001-80",
+          "registration": "",
+          "processNumber": "",
+          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+          "leaderCnpj": "11.504.852/0001-32",
+          "volume": 500000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-04-22",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 15,
+          "volume": 2164805039.27
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
         }
       ]
     },
@@ -20081,365 +20482,6 @@
       ]
     },
     {
-      "key": "CNPJ:11504852000132",
-      "name": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-      "cnpj": "11.504.852/0001-32",
-      "stats12m": {
-        "offers": 2,
-        "volume": 260000000,
-        "offersWithVolume": 2,
-        "averageTicket": 130000000
-      },
-      "byMonth": [
-        {
-          "month": "2023-05",
-          "count": 1,
-          "volume": 120000000
-        },
-        {
-          "month": "2023-12",
-          "count": 1,
-          "volume": 90000000
-        },
-        {
-          "month": "2024-04",
-          "count": 1,
-          "volume": 125000000
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 37664825.1
-        },
-        {
-          "month": "2025-01",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2025-07",
-          "count": 2,
-          "volume": 651000000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 40000000
-        },
-        {
-          "month": "2026-10",
-          "count": 1,
-          "volume": 220000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "ab463d3eb6a97d56",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUVO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "42.888.478/0001-40",
-          "registration": "28291",
-          "processNumber": "SRE/3316/2026",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 220000000,
-          "date": "2026-10-09",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "e9df73bb37c39253",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SRM CNTL AUTOESTIMA RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.811.944/0001-82",
-          "registration": "27926",
-          "processNumber": "SRE/2982/2026",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 40000000,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3a13d983e893975a",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
-          "cnpj": "42.196.288/0001-61",
-          "registration": "21313",
-          "processNumber": "SRE/2083/2025",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 50000000,
-          "date": "2025-07-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bc43c9d597036e45",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FIDC SÊNIOR EXODUS INSTITUCIONAL - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.385.893/0001-25",
-          "registration": "21257",
-          "processNumber": "SRE/2028/2025",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 601000000,
-          "date": "2025-07-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "415751e0ec5ca221",
-          "market": "FIDC",
-          "name": "BLIPAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.354.123/0001-48",
-          "registration": "19706",
-          "processNumber": "SRE/0674/2025",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 10000000,
-          "date": "2025-03-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e9dadafd464707c5",
-          "market": "FIDC",
-          "name": "BLIPAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.354.123/0001-48",
-          "registration": "19152",
-          "processNumber": "SRE/0180/2025",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 10000000,
-          "date": "2025-01-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "64df054008cda318",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUVO",
-          "cnpj": "42.888.478/0001-40",
-          "registration": "16552",
-          "processNumber": "SRE/2089/2024",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 37664825.1,
-          "date": "2024-07-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6715c4ed50a00627",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
-          "cnpj": "42.196.288/0001-61",
-          "registration": "15233",
-          "processNumber": "SRE/0928/2024",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 125000000,
-          "date": "2024-04-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "cc951fb486c9e22b",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUVO",
-          "cnpj": "42.888.478/0001-40",
-          "registration": "3798",
-          "processNumber": "SRE/2766/2023",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 90000000,
-          "date": "2023-12-05",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3b5c1cb2ed92befb",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
-          "cnpj": "42.196.288/0001-61",
-          "registration": "1588",
-          "processNumber": "SRE/0848/2023",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 120000000,
-          "date": "2023-05-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "842df703a1126573",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EXODUS INSTITUCIONA",
-          "cnpj": "42.196.288/0001-61",
-          "registration": "",
-          "processNumber": "",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 184089494.7,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-04-27",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-04-26",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "b90897e6b1dc0266",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM QUOTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO SRM",
-          "cnpj": "09.260.031/0001-56",
-          "registration": "",
-          "processNumber": "",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 1999719.47,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-22",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "768b458e715e96ed",
-          "market": "FIDC",
-          "name": "S.R.M. PROPETIES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "40.171.210/0001-67",
-          "registration": "",
-          "processNumber": "",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 25051000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-06-22",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "147080154bae80dc",
-          "market": "FIDC",
-          "name": "SRM EXODUS PME FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "34.521.809/0001-80",
-          "registration": "",
-          "processNumber": "",
-          "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "leaderCnpj": "11.504.852/0001-32",
-          "volume": 500000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-04-22",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 14,
-          "volume": 2014805039.27
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 0,
-          "volume": 0
-        }
-      ]
-    },
-    {
       "key": "CNPJ:00066670000100",
       "name": "BEM - DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "00.066.670/0001-00",
@@ -21456,7 +21498,7 @@
           "date": "2026-03-27",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {

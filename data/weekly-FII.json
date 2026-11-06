@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:46:12.216Z",
+  "generatedAt": "2026-11-06T17:58:26.470Z",
   "market": "FII",
   "current": {
     "period": {
@@ -575,17 +575,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-05T08:00:40.384563"
+      "updatedAt": "2026-11-06T08:00:37.958988"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-05T18:46:12.161Z"
+      "updatedAt": "2026-11-06T17:58:26.141Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "05/11/2026 09:49"
+      "updatedAt": "06/11/2026 09:34"
     }
   },
   "macro": {
@@ -594,19 +594,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-03",
+        "date": "2026-11-04",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-06",
-          "value": 13.65
-        },
         {
           "date": "2026-10-07",
           "value": 13.65
@@ -681,6 +677,10 @@
         },
         {
           "date": "2026-11-04",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-05",
           "value": 13.65
         }
       ]
@@ -976,26 +976,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "05/11/2026",
+      "date": "06/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "04/11/2026",
+      "date": "05/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "04/11/2026",
+      "date": "05/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "04/11/2026",
-      "value": 5.4778,
+      "date": "05/11/2026",
+      "value": 5.4621,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1013,6 +1013,11 @@
     }
   },
   "regulatoryHighlights": [
+    {
+      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
+      "source": "CVM"
+    },
     {
       "title": "Colegiado da CVM rejeita propostas de Termo de Compromisso com Riza Securitizadora S.A., ex-Virgo Companhia de Securitização, e seus ex-diretores",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-propostas-de-termo-de-compromisso-com-riza-securitizadora-s-a-ex-virgo-companhia-de-securitizacao-e-seus-ex-diretores",
@@ -1032,24 +1037,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4635,
+      "count": 4639,
       "latestMonth": "2026-11",
-      "offersInMonth": 10,
-      "volumeInMonth": 539400014.14
+      "offersInMonth": 14,
+      "volumeInMonth": 691900014.14
     },
     {
       "market": "FIAGRO",
-      "count": 189,
+      "count": 190,
       "latestMonth": "2026-11",
-      "offersInMonth": 1,
+      "offersInMonth": 2,
       "volumeInMonth": 70000000
     },
     {
       "market": "FII",
-      "count": 1539,
+      "count": 1540,
       "latestMonth": "2026-11",
-      "offersInMonth": 7,
-      "volumeInMonth": 2294000000.01
+      "offersInMonth": 8,
+      "volumeInMonth": 2394700000.01
     }
   ],
   "intelligence": {
