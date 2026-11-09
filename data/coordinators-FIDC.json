@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-06T17:58:26.511Z",
+  "generatedAt": "2026-11-09T21:26:55.707Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-06T08:00:37.958988"
+    "updatedAt": "2026-11-09T08:01:15.737028"
   },
   "coordinators": [
     {
@@ -139,7 +139,7 @@
           "date": "2026-10-30",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -539,7 +539,7 @@
           "date": "2026-10-02",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -614,10 +614,10 @@
       "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
       "cnpj": "39.669.186/0001-01",
       "stats12m": {
-        "offers": 109,
-        "volume": 3355961933.4899993,
-        "offersWithVolume": 109,
-        "averageTicket": 30788641.59165137
+        "offers": 112,
+        "volume": 3369834612.8199997,
+        "offersWithVolume": 112,
+        "averageTicket": 30087809.043035712
       },
       "byMonth": [
         {
@@ -707,11 +707,59 @@
         },
         {
           "month": "2026-11",
-          "count": 1,
-          "volume": 15000014.14
+          "count": 4,
+          "volume": 28872693.47
         }
       ],
       "recentOffers": [
+        {
+          "id": "af57ed46e788f19f",
+          "market": "FIDC",
+          "name": "MCC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "47.117.716/0001-37",
+          "registration": "28613",
+          "processNumber": "SRE/3611/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 10000004.53,
+          "date": "2026-11-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "51afc69d8874eb13",
+          "market": "FIDC",
+          "name": "VGR CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADA",
+          "cnpj": "59.927.305/0001-96",
+          "registration": "28568",
+          "processNumber": "SRE/3612/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 1484909,
+          "date": "2026-11-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "48130868c9958dbc",
+          "market": "FIDC",
+          "name": "VGR CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADA",
+          "cnpj": "59.927.305/0001-96",
+          "registration": "28569",
+          "processNumber": "SRE/3613/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 2387765.8,
+          "date": "2026-11-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "5b9046a97e8c973f",
           "market": "FIDC",
@@ -1143,61 +1191,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "9b151f6c6182011c",
-          "market": "FIDC",
-          "name": "INOVA CREDTECH VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.371.254/0001-07",
-          "registration": "27644",
-          "processNumber": "SRE/2785/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 5000000,
-          "date": "2026-08-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "13c006f82af6be7c",
-          "market": "FIDC",
-          "name": "CONSIGNADO V8 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.543.762/0001-78",
-          "registration": "27590",
-          "processNumber": "SRE/2669/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 20000000,
-          "date": "2026-08-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "3c445d37c9c12b79",
-          "market": "FIDC",
-          "name": "CONSIGNADO V8 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.543.762/0001-78",
-          "registration": "27592",
-          "processNumber": "SRE/2670/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 30000000,
-          "date": "2026-08-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 252,
-          "volume": 7357094428.170001
+          "count": 255,
+          "volume": 7370967107.500001
         },
         {
           "market": "FIAGRO",
@@ -2410,8 +2410,8 @@
         },
         {
           "market": "FII",
-          "count": 85,
-          "volume": 6937616722.009998
+          "count": 91,
+          "volume": 7102616722.009998
         }
       ]
     },
@@ -2691,7 +2691,7 @@
           "date": "2026-09-16",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -6992,7 +6992,7 @@
           "date": "2025-12-23",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -7008,7 +7008,7 @@
           "date": "2025-12-23",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -8365,7 +8365,7 @@
       "name": "BANCO BRADESCO BBI S.A.",
       "cnpj": "06.271.464/0001-19",
       "stats12m": {
-        "offers": 15,
+        "offers": 16,
         "volume": 13880043000,
         "offersWithVolume": 15,
         "averageTicket": 925336200
@@ -8430,9 +8430,30 @@
           "month": "2026-10",
           "count": 4,
           "volume": 965083000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 0
         }
       ],
       "recentOffers": [
+        {
+          "id": "85fc9d268de018b2",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITO CONSIGNADO PRIVADO PAKETÁ II DE RESP LIMITADA",
+          "cnpj": "69.969.128/0001-64",
+          "registration": "28604",
+          "processNumber": "SRE/3621/2026",
+          "leader": "BANCO BRADESCO BBI S.A.",
+          "leaderCnpj": "06.271.464/0001-19",
+          "volume": 0,
+          "date": "2026-11-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "2e6d208d054acae3",
           "market": "FIDC",
@@ -8961,41 +8982,12 @@
               "url": ""
             }
           ]
-        },
-        {
-          "id": "0a7fa5fce42d1bc1",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CLIENTES BRF",
-          "cnpj": "31.547.712/0001-59",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO BRADESCO BBI S.A.",
-          "leaderCnpj": "06.271.464/0001-19",
-          "volume": 860387000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-12-18",
-              "url": ""
-            }
-          ]
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 33,
+          "count": 34,
           "volume": 27122752000
         },
         {
@@ -9760,7 +9752,7 @@
           "date": "2026-09-08",
           "rite": "Automático",
           "audience": "Qualificado",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -23711,6 +23703,94 @@
       ]
     },
     {
+      "key": "CNPJ:89960090000176",
+      "name": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "89.960.090/0001-76",
+      "stats12m": {
+        "offers": 1,
+        "volume": 8000000,
+        "offersWithVolume": 1,
+        "averageTicket": 8000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 8000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "088dbd66f5668b6d",
+          "market": "FIDC",
+          "name": "APROVOU FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "62.135.021/0001-71",
+          "registration": "28616",
+          "processNumber": "SRE/3615/2026",
+          "leader": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "89.960.090/0001-76",
+          "volume": 8000000,
+          "date": "2026-11-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ad23ad07afccc059",
+          "market": "FIDC",
+          "name": "GALAPAGOS PRO SOLUTTI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - NÃO PADRONIZADO",
+          "cnpj": "32.388.164/0001-24",
+          "registration": "",
+          "processNumber": "",
+          "leader": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "89.960.090/0001-76",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-08",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-30",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 2,
+          "volume": 8000000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 7,
+          "volume": 523611002.25
+        }
+      ]
+    },
+    {
       "key": "CNPJ:02678955000128",
       "name": "AKRO PARTICIPAÇÕES E SERVIÇOS S.A.",
       "cnpj": "02.678.955/0001-28",
@@ -34307,72 +34387,6 @@
           "market": "FII",
           "count": 0,
           "volume": 0
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:89960090000176",
-      "name": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "89.960.090/0001-76",
-      "stats12m": {
-        "offers": 0,
-        "volume": 0,
-        "offersWithVolume": 0,
-        "averageTicket": null
-      },
-      "byMonth": [],
-      "recentOffers": [
-        {
-          "id": "ad23ad07afccc059",
-          "market": "FIDC",
-          "name": "GALAPAGOS PRO SOLUTTI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - NÃO PADRONIZADO",
-          "cnpj": "32.388.164/0001-24",
-          "registration": "",
-          "processNumber": "",
-          "leader": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "89.960.090/0001-76",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-08",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-30",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 1,
-          "volume": 0
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 7,
-          "volume": 523611002.25
         }
       ]
     },

@@ -1,7 +1,228 @@
 {
-  "generatedAt": "2026-11-06T17:58:26.470Z",
+  "generatedAt": "2026-11-09T21:26:55.672Z",
   "market": "FII",
   "current": {
+    "period": {
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    "offers": 14,
+    "offersWithVolume": 14,
+    "volume": 2559700000.01,
+    "averageTicket": 182835714.2864286,
+    "leaders": 6,
+    "topLeaders": [
+      {
+        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "cnpj": "22.610.500/0001-88",
+        "count": 6,
+        "volume": 165000000
+      },
+      {
+        "name": "XP INVESTIMENTOS CCTVM S.A.",
+        "cnpj": "02.332.886/0001-04",
+        "count": 4,
+        "volume": 2072000000
+      },
+      {
+        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "cnpj": "59.281.253/0001-23",
+        "count": 1,
+        "volume": 300000000
+      },
+      {
+        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+        "cnpj": "18.945.670/0001-46",
+        "count": 1,
+        "volume": 10000000.01
+      },
+      {
+        "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpj": "16.695.922/0001-09",
+        "count": 1,
+        "volume": 10000000
+      },
+      {
+        "name": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "13.673.855/0001-25",
+        "count": 1,
+        "volume": 2700000
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "c5c63c5c0f875758",
+        "market": "FII",
+        "name": "MAUÁ CAPITAL PRIME PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.853.463/0001-00",
+        "registration": "28524",
+        "processNumber": "SRE/3525/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "volume": 1500000000,
+        "date": "2026-11-03",
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "3a59cfb431697c87",
+        "market": "FII",
+        "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO LOTUS TOWERS - RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.591.656/0001-22",
+        "registration": "28571",
+        "processNumber": "SRE/3575/2026",
+        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+        "volume": 300000000,
+        "date": "2026-11-03",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "9f635aab5f0db072",
+        "market": "FII",
+        "name": "ARX FUNDO DE INVESTIMENTO IMOBILIARIO PORTFOLIO RENDA CDI+ II RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.693.630/0001-95",
+        "registration": "28572",
+        "processNumber": "SRE/3576/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "volume": 250000000,
+        "date": "2026-11-03",
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "a27d7eab29c86889",
+        "market": "FII",
+        "name": "FULWOOD DESENVOLVIMENTO LOGISTICO I FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.281.456/0001-00",
+        "registration": "28574",
+        "processNumber": "SRE/3578/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "volume": 224000000,
+        "date": "2026-11-03",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "24cdc564a3e89924",
+        "market": "FII",
+        "name": "FULWOOD DESENVOLVIMENTO LOGÍSTICO I FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
+        "cnpj": "68.281.552/0001-59",
+        "registration": "28561",
+        "processNumber": "SRE/3579/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "volume": 98000000,
+        "date": "2026-11-05",
+        "rite": "Automático",
+        "audience": "Público geral",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "10c57c3b2acc191d",
+        "market": "FII",
+        "name": "TESSELA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.900.302/0001-12",
+        "registration": "28608",
+        "processNumber": "SRE/3607/2026",
+        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "volume": 57000000,
+        "date": "2026-11-06",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "7f2f67c1abc7240e",
+        "market": "FII",
+        "name": "TESSELA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.900.302/0001-12",
+        "registration": "28607",
+        "processNumber": "SRE/3606/2026",
+        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "volume": 40000000,
+        "date": "2026-11-06",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "9891c42c4390b9f8",
+        "market": "FII",
+        "name": "TESSELA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.900.302/0001-12",
+        "registration": "28605",
+        "processNumber": "SRE/3604/2026",
+        "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "volume": 26000000,
+        "date": "2026-11-06",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 10
+      },
+      {
+        "name": "Público geral",
+        "count": 4
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 14
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 14
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FII",
+        "count": 14
+      }
+    ],
+    "professionalShare": 0.7142857142857143,
+    "top3Concentration": 0.7857142857142857,
+    "busiestDays": [
+      {
+        "date": "2026-11-03",
+        "count": 6
+      },
+      {
+        "date": "2026-11-06",
+        "count": 6
+      },
+      {
+        "date": "2026-11-05",
+        "count": 2
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Imobiliário logístico",
+        "count": 2
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-10-26",
       "end": "2026-11-01"
@@ -217,287 +438,25 @@
     ],
     "themeSignals": []
   },
-  "prior": {
-    "period": {
-      "start": "2026-10-19",
-      "end": "2026-10-25"
-    },
-    "offers": 12,
-    "offersWithVolume": 12,
-    "volume": 4212570600.88,
-    "averageTicket": 351047550.0733333,
-    "leaders": 11,
-    "topLeaders": [
-      {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 2,
-        "volume": 1213500000
-      },
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 1,
-        "volume": 1024500000
-      },
-      {
-        "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "27.652.684/0001-62",
-        "count": 1,
-        "volume": 1000000000
-      },
-      {
-        "name": "BANCO BRADESCO BBI S.A.",
-        "cnpj": "06.271.464/0001-19",
-        "count": 1,
-        "volume": 502961000
-      },
-      {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 1,
-        "volume": 200000000
-      },
-      {
-        "name": "BANCO BS2 S.A.",
-        "cnpj": "71.027.866/0001-34",
-        "count": 1,
-        "volume": 120000000
-      },
-      {
-        "name": "OLIVEIRA TRUST DTVM S.A.",
-        "cnpj": "36.113.876/0001-91",
-        "count": 1,
-        "volume": 96609600
-      },
-      {
-        "name": "PLANNER CORRETORA DE VALORES S.A.",
-        "cnpj": "00.806.535/0001-54",
-        "count": 1,
-        "volume": 30000000
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 1,
-        "volume": 20000000
-      },
-      {
-        "name": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
-        "cnpj": "39.526.263/0001-74",
-        "count": 1,
-        "volume": 3000000
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "77a12b121ced73a8",
-        "market": "FII",
-        "name": "KINEA ALLOS MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.228.113/0001-10",
-        "registration": "28434",
-        "processNumber": "SRE/3445/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "volume": 1024500000,
-        "date": "2026-10-22",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "7184f02a0a754d24",
-        "market": "FII",
-        "name": "SUNO IMÓVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.323.500/0001-60",
-        "registration": "28382",
-        "processNumber": "SRE/3393/2026",
-        "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-        "volume": 1000000000,
-        "date": "2026-10-19",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "4f8a1fd1d88f975c",
-        "market": "FII",
-        "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA RENDA IMOBILIÁRIA MASTER RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.223.905/0001-00",
-        "registration": "28392",
-        "processNumber": "SRE/3436/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 678000000,
-        "date": "2026-10-21",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "4303a42b6084828e",
-        "market": "FII",
-        "name": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "28.737.771/0001-85",
-        "registration": "28421",
-        "processNumber": "SRE/3435/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 535500000,
-        "date": "2026-10-21",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "deb66a75177abc55",
-        "market": "FII",
-        "name": "TIVIO OPPORTUNITIES II MALLS IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.903.696/0001-37",
-        "registration": "28423",
-        "processNumber": "SRE/3433/2026",
-        "leader": "BANCO BRADESCO BBI S.A.",
-        "volume": 502961000,
-        "date": "2026-10-20",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Oferta Encerrada",
-        "publications": []
-      },
-      {
-        "id": "87eb2d0074834526",
-        "market": "FII",
-        "name": "MAUA CAPITAL PROPRIEDADES LOGISTICAS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.058.946/0001-42",
-        "registration": "28388",
-        "processNumber": "SRE/3399/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "volume": 200000000,
-        "date": "2026-10-19",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "db8f7ed93a2443a3",
-        "market": "FII",
-        "name": "BBS REAL ESTATE RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "66.987.515/0001-35",
-        "registration": "28413",
-        "processNumber": "SRE/3425/2026",
-        "leader": "BANCO BS2 S.A.",
-        "volume": 120000000,
-        "date": "2026-10-21",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "0f1f2d3f35bc8c8b",
-        "market": "FII",
-        "name": "METROPOLITANO BETIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "62.529.006/0001-08",
-        "registration": "28457",
-        "processNumber": "SRE/3465/2026",
-        "leader": "OLIVEIRA TRUST DTVM S.A.",
-        "volume": 96609600,
-        "date": "2026-10-23",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 11
-      },
-      {
-        "name": "Público geral",
-        "count": 1
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 12
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 10
-      },
-      {
-        "name": "Oferta Encerrada",
-        "count": 2
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FII",
-        "count": 12
-      }
-    ],
-    "professionalShare": 0.9166666666666666,
-    "top3Concentration": 0.3333333333333333,
-    "busiestDays": [
-      {
-        "date": "2026-10-21",
-        "count": 3
-      },
-      {
-        "date": "2026-10-22",
-        "count": 3
-      },
-      {
-        "date": "2026-10-19",
-        "count": 2
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Shopping/Varejo",
-        "count": 3
-      },
-      {
-        "name": "Imobiliário logístico",
-        "count": 1
-      }
-    ]
-  },
   "changes": {
-    "offersPct": -33.33333333333333,
-    "volumePct": -66.34624474415108
+    "offersPct": 75,
+    "volumePct": 80.55451121128047
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 6.5,
-      "volume": 1845022680.4425,
-      "leaders": 5.5,
-      "professionalShare": 0.7684523809523809,
-      "top3Concentration": 0.6619047619047619
+      "offers": 6.75,
+      "volume": 1963618193.5575,
+      "leaders": 5.75,
+      "professionalShare": 0.7729166666666667,
+      "top3Concentration": 0.6395833333333334
     },
     "currentVsPrior4Average": {
-      "offersPct": 23.076923076923077,
-      "volumePct": -23.16147573535576
+      "offersPct": 107.40740740740742,
+      "volumePct": 30.35629881655227
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-09-07",
-          "end": "2026-09-13"
-        },
-        "offers": 6,
-        "volume": 3597708182.81,
-        "leaders": 4
-      },
       {
         "period": {
           "start": "2026-09-14",
@@ -560,32 +519,42 @@
         "offers": 8,
         "volume": 1417688200,
         "leaders": 6
+      },
+      {
+        "period": {
+          "start": "2026-11-02",
+          "end": "2026-11-08"
+        },
+        "offers": 14,
+        "volume": 2559700000.01,
+        "leaders": 6
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 8 ofertas FII, 33,3% abaixo da semana anterior.",
-    "Volume informado de R$ 1.417.688.200 em 8 ofertas com valor positivo; ticket médio de R$ 177.211.025.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 23,2% abaixo e a quantidade de ofertas 23,1% acima.",
-    "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A. liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 62,5% das ofertas da semana.",
-    "87,5% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo."
+    "Atividade semanal de 14 ofertas FII, 75,0% acima da semana anterior.",
+    "Volume informado de R$ 2.559.700.000 em 14 ofertas com valor positivo; ticket médio de R$ 182.835.714.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 30,4% acima e a quantidade de ofertas 107,4% acima.",
+    "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA. liderou por quantidade de registros (6); os três coordenadores mais presentes concentraram 78,6% das ofertas da semana.",
+    "71,4% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Sinais de tema pela denominação dos veículos: Imobiliário logístico (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-06T08:00:37.958988"
+      "updatedAt": "2026-11-09T08:01:15.737028"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-06T17:58:26.141Z"
+      "updatedAt": "2026-11-09T21:26:55.629Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "06/11/2026 09:34"
+      "updatedAt": "09/11/2026 17:28"
     }
   },
   "macro": {
@@ -594,19 +563,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-07",
-          "value": 13.65
-        },
         {
           "date": "2026-10-08",
           "value": 13.65
@@ -681,6 +646,10 @@
         },
         {
           "date": "2026-11-05",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-06",
           "value": 13.65
         }
       ]
@@ -976,26 +945,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "06/11/2026",
+      "date": "09/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "05/11/2026",
+      "date": "09/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "05/11/2026",
+      "date": "09/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "05/11/2026",
-      "value": 5.4621,
+      "date": "09/11/2026",
+      "value": 5.5146,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1022,25 +991,15 @@
       "title": "Colegiado da CVM rejeita propostas de Termo de Compromisso com Riza Securitizadora S.A., ex-Virgo Companhia de Securitização, e seus ex-diretores",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-propostas-de-termo-de-compromisso-com-riza-securitizadora-s-a-ex-virgo-companhia-de-securitizacao-e-seus-ex-diretores",
       "source": "CVM"
-    },
-    {
-      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM"
-    },
-    {
-      "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
-      "source": "CVM"
     }
   ],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4639,
+      "count": 4644,
       "latestMonth": "2026-11",
-      "offersInMonth": 14,
-      "volumeInMonth": 691900014.14
+      "offersInMonth": 19,
+      "volumeInMonth": 713772693.47
     },
     {
       "market": "FIAGRO",
@@ -1051,10 +1010,10 @@
     },
     {
       "market": "FII",
-      "count": 1540,
+      "count": 1546,
       "latestMonth": "2026-11",
-      "offersInMonth": 8,
-      "volumeInMonth": 2394700000.01
+      "offersInMonth": 14,
+      "volumeInMonth": 2559700000.01
     }
   ],
   "intelligence": {

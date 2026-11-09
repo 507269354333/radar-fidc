@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FII",
-  "generatedAt": "2026-11-06T17:58:26.583Z",
+  "generatedAt": "2026-11-09T21:26:55.768Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -296,7 +296,7 @@
               "processNumber": "SRE/3425/2026",
               "volume": 120000000,
               "date": "2026-10-21",
-              "status": "Registro Concedido",
+              "status": "Oferta Encerrada",
               "publications": []
             }
           ]
@@ -1164,7 +1164,7 @@
                 "processNumber": "SRE/3425/2026",
                 "volume": 120000000,
                 "date": "2026-10-21",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -1769,19 +1769,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-07",
-          "value": 13.65
-        },
         {
           "date": "2026-10-08",
           "value": 13.65
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-11-05",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-06",
           "value": 13.65
         }
       ]
@@ -2151,26 +2151,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "06/11/2026",
+      "date": "09/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "05/11/2026",
+      "date": "09/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "05/11/2026",
+      "date": "09/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "05/11/2026",
-      "value": 5.4621,
+      "date": "09/11/2026",
+      "value": 5.5146,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2196,16 +2196,6 @@
     {
       "title": "Colegiado da CVM rejeita propostas de Termo de Compromisso com Riza Securitizadora S.A., ex-Virgo Companhia de Securitização, e seus ex-diretores",
       "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-propostas-de-termo-de-compromisso-com-riza-securitizadora-s-a-ex-virgo-companhia-de-securitizacao-e-seus-ex-diretores",
-      "source": "CVM"
-    },
-    {
-      "title": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM"
-    },
-    {
-      "title": "Revertida suspensão da oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
       "source": "CVM"
     }
   ],
