@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:26:55.681Z",
+  "generatedAt": "2026-11-10T18:40:51.754Z",
   "market": "ALL",
   "current": {
     "period": {
@@ -218,11 +218,15 @@
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 31
+        "count": 30
       },
       {
         "name": "Aguardando Bookbuilding",
         "count": 4
+      },
+      {
+        "name": "Oferta Encerrada",
+        "count": 1
       }
     ],
     "byMarket": [
@@ -283,7 +287,7 @@
       "start": "2026-10-26",
       "end": "2026-11-01"
     },
-    "offers": 50,
+    "offers": 49,
     "offersWithVolume": 49,
     "volume": 7075145608.15,
     "averageTicket": 144390726.69693875,
@@ -320,12 +324,6 @@
         "volume": 179600000
       },
       {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 3,
-        "volume": 136000000
-      },
-      {
         "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
         "cnpj": "39.669.186/0001-01",
         "count": 3,
@@ -342,6 +340,12 @@
         "cnpj": "24.361.690/0001-72",
         "count": 2,
         "volume": 182001698.28
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 2,
+        "volume": 136000000
       },
       {
         "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -408,7 +412,7 @@
         "date": "2026-10-26",
         "rite": "Automático",
         "audience": "Profissional",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "publications": []
       },
       {
@@ -475,7 +479,7 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 47
+        "count": 46
       },
       {
         "name": "Qualificado",
@@ -485,21 +489,17 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 50
+        "count": 49
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 46
+        "count": 45
       },
       {
         "name": "Oferta Encerrada",
-        "count": 3
-      },
-      {
-        "name": "Aguardando Bookbuilding",
-        "count": 1
+        "count": 4
       }
     ],
     "byMarket": [
@@ -513,11 +513,11 @@
       },
       {
         "name": "FIAGRO",
-        "count": 5
+        "count": 4
       }
     ],
-    "professionalShare": 0.94,
-    "top3Concentration": 0.34,
+    "professionalShare": 0.9387755102040817,
+    "top3Concentration": 0.3469387755102041,
     "busiestDays": [
       {
         "date": "2026-10-30",
@@ -535,7 +535,7 @@
     "themeSignals": [
       {
         "name": "Agronegócio",
-        "count": 7
+        "count": 6
       },
       {
         "name": "Consignado",
@@ -548,19 +548,19 @@
     ]
   },
   "changes": {
-    "offersPct": -30,
+    "offersPct": -28.57142857142857,
     "volumePct": -52.74340799956699
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 47.5,
+      "offers": 47.25,
       "volume": 7132055620.710001,
       "leaders": 22.75,
-      "professionalShare": 0.9295387129210658,
-      "top3Concentration": 0.3619817328640858
+      "professionalShare": 0.9292325904720863,
+      "top3Concentration": 0.3637164267416368
     },
     "currentVsPrior4Average": {
-      "offersPct": -26.31578947368421,
+      "offersPct": -25.925925925925924,
       "volumePct": -53.120490482838456
     }
   },
@@ -625,7 +625,7 @@
           "start": "2026-10-26",
           "end": "2026-11-01"
         },
-        "offers": 50,
+        "offers": 49,
         "volume": 7075145608.15,
         "leaders": 24
       },
@@ -641,9 +641,9 @@
     ]
   },
   "observations": [
-    "Atividade semanal de 35 ofertas ALL, 30,0% abaixo da semana anterior.",
+    "Atividade semanal de 35 ofertas ALL, 28,6% abaixo da semana anterior.",
     "Volume informado de R$ 3.343.472.693 em 31 ofertas com valor positivo; ticket médio de R$ 107.853.958.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 53,1% abaixo e a quantidade de ofertas 26,3% abaixo.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 53,1% abaixo e a quantidade de ofertas 25,9% abaixo.",
     "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 42,9% das ofertas da semana.",
     "80,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Consignado (3), Agronegócio (2), Imobiliário logístico (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -653,17 +653,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-09T08:01:15.737028"
+      "updatedAt": "2026-11-10T08:00:58.291109"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-09T21:26:55.629Z"
+      "updatedAt": "2026-11-10T18:40:51.396Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "09/11/2026 17:28"
+      "updatedAt": "10/11/2026 09:30"
     }
   },
   "macro": {
@@ -672,19 +672,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-06",
+        "date": "2026-11-09",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-08",
-          "value": 13.65
-        },
         {
           "date": "2026-10-09",
           "value": 13.65
@@ -759,6 +755,10 @@
         },
         {
           "date": "2026-11-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-09",
           "value": 13.65
         }
       ]
@@ -1054,7 +1054,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -1105,24 +1105,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4644,
+      "count": 4651,
       "latestMonth": "2026-11",
-      "offersInMonth": 19,
-      "volumeInMonth": 713772693.47
+      "offersInMonth": 26,
+      "volumeInMonth": 1378772693.4699998
     },
     {
       "market": "FIAGRO",
       "count": 190,
       "latestMonth": "2026-11",
-      "offersInMonth": 2,
-      "volumeInMonth": 70000000
+      "offersInMonth": 3,
+      "volumeInMonth": 670000000
     },
     {
       "market": "FII",
-      "count": 1546,
+      "count": 1547,
       "latestMonth": "2026-11",
-      "offersInMonth": 14,
-      "volumeInMonth": 2559700000.01
+      "offersInMonth": 15,
+      "volumeInMonth": 2604713444.01
     }
   ],
   "intelligence": {
@@ -1159,7 +1159,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.617406411079848,
+            "value": 14.368067786741223,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1300,7 +1300,7 @@
         "scores": {
           "IROP": 90.9375,
           "IRBD": 89.58333333333334,
-          "IRCC": 32.29592103821066,
+          "IRCC": 31.547905165194784,
           "IRFC": 45.51470588235294,
           "IRPM": 77.31066176470587
         },

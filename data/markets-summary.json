@@ -1,19 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-09T08:01:15.737028",
+  "sourceUpdatedAt": "2026-11-10T08:00:58.291109",
   "overall": {
-    "count": 6380,
+    "count": 6388,
     "latestMonth": "2026-11",
-    "offersInMonth": 35,
-    "volumeInMonth": 3343472693.48,
-    "leadersInMonth": 16,
+    "offersInMonth": 44,
+    "volumeInMonth": 4653486137.4800005,
+    "leadersInMonth": 21,
     "topLeaders": [
       {
         "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
         "cnpj": "22.610.500/0001-88",
-        "count": 7,
-        "volume": 205000000
+        "count": 8,
+        "volume": 405000000
+      },
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 6,
+        "volume": 825000000
       },
       {
         "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -22,22 +28,16 @@
         "volume": 2072000000
       },
       {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
+        "name": "BANCO DAYCOVAL S.A.",
+        "cnpj": "62.232.889/0001-90",
         "count": 4,
-        "volume": 225000000
+        "volume": 274300000
       },
       {
         "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
         "cnpj": "39.669.186/0001-01",
         "count": 4,
         "volume": 28872693.47
-      },
-      {
-        "name": "BANCO DAYCOVAL S.A.",
-        "cnpj": "62.232.889/0001-90",
-        "count": 3,
-        "volume": 224300000
       },
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -52,80 +52,80 @@
         "volume": 15000000
       },
       {
+        "name": "OLIVEIRA TRUST DTVM S.A.",
+        "cnpj": "36.113.876/0001-91",
+        "count": 1,
+        "volume": 300000000
+      },
+      {
         "name": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
         "cnpj": "11.504.852/0001-32",
         "count": 1,
         "volume": 150000000
       },
       {
+        "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+        "cnpj": "13.220.493/0001-17",
+        "count": 1,
+        "volume": 100000000
+      },
+      {
+        "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "27.652.684/0001-62",
+        "count": 1,
+        "volume": 45013444
+      },
+      {
         "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "cnpj": "13.486.793/0001-42",
         "count": 1,
         "volume": 20000000
-      },
-      {
-        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "cnpj": "18.945.670/0001-46",
-        "count": 1,
-        "volume": 10000000.01
-      },
-      {
-        "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "cnpj": "16.695.922/0001-09",
-        "count": 1,
-        "volume": 10000000
-      },
-      {
-        "name": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-        "cnpj": "89.960.090/0001-76",
-        "count": 1,
-        "volume": 8000000
       }
     ],
     "byMarket": [
       {
         "market": "FIDC",
-        "count": 4644,
+        "count": 4651,
         "latestMonth": "2026-11",
-        "offersInMonth": 19,
-        "volumeInMonth": 713772693.47
+        "offersInMonth": 26,
+        "volumeInMonth": 1378772693.4699998
       },
       {
         "market": "FIAGRO",
         "count": 190,
         "latestMonth": "2026-11",
-        "offersInMonth": 2,
-        "volumeInMonth": 70000000
+        "offersInMonth": 3,
+        "volumeInMonth": 670000000
       },
       {
         "market": "FII",
-        "count": 1546,
+        "count": 1547,
         "latestMonth": "2026-11",
-        "offersInMonth": 14,
-        "volumeInMonth": 2559700000.01
+        "offersInMonth": 15,
+        "volumeInMonth": 2604713444.01
       }
     ]
   },
   "markets": {
     "FIDC": {
       "market": "FIDC",
-      "count": 4644,
+      "count": 4651,
       "analytics": {
         "latestMonth": "2026-11",
-        "offersInMonth": 19,
-        "volumeInMonth": 713772693.47,
-        "offersWithVolumeInMonth": 16,
-        "leadersInMonth": 11,
+        "offersInMonth": 26,
+        "volumeInMonth": 1378772693.4699998,
+        "offersWithVolumeInMonth": 22,
+        "leadersInMonth": 15,
         "byRite": [
           {
             "name": "Automático",
-            "count": 19
+            "count": 26
           }
         ],
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 17
+            "count": 24
           },
           {
             "name": "Qualificado",
@@ -134,22 +134,28 @@
         ],
         "topLeaders": [
           {
+            "name": "BANCO DAYCOVAL S.A.",
+            "cnpj": "62.232.889/0001-90",
+            "count": 4,
+            "volume": 274300000
+          },
+          {
+            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "cnpj": "04.845.753/0001-59",
+            "count": 4,
+            "volume": 225000000
+          },
+          {
             "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
             "cnpj": "39.669.186/0001-01",
             "count": 4,
             "volume": 28872693.47
           },
           {
-            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "cnpj": "04.845.753/0001-59",
-            "count": 3,
-            "volume": 225000000
-          },
-          {
-            "name": "BANCO DAYCOVAL S.A.",
-            "cnpj": "62.232.889/0001-90",
-            "count": 3,
-            "volume": 224300000
+            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "cnpj": "22.610.500/0001-88",
+            "count": 2,
+            "volume": 240000000
           },
           {
             "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -158,16 +164,22 @@
             "volume": 15000000
           },
           {
+            "name": "OLIVEIRA TRUST DTVM S.A.",
+            "cnpj": "36.113.876/0001-91",
+            "count": 1,
+            "volume": 300000000
+          },
+          {
             "name": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
             "cnpj": "11.504.852/0001-32",
             "count": 1,
             "volume": 150000000
           },
           {
-            "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "cnpj": "22.610.500/0001-88",
+            "name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+            "cnpj": "13.220.493/0001-17",
             "count": 1,
-            "volume": 40000000
+            "volume": 100000000
           },
           {
             "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -176,22 +188,10 @@
             "volume": 20000000
           },
           {
-            "name": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-            "cnpj": "89.960.090/0001-76",
+            "name": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+            "cnpj": "58.006.471/0001-97",
             "count": 1,
-            "volume": 8000000
-          },
-          {
-            "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "cnpj": "41.592.532/0001-42",
-            "count": 1,
-            "volume": 2500000
-          },
-          {
-            "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-            "cnpj": "24.361.690/0001-72",
-            "count": 1,
-            "volume": 100000
+            "volume": 10000000
           }
         ],
         "byMonth": [
@@ -299,22 +299,22 @@
           },
           {
             "month": "2026-11",
-            "count": 19,
-            "volume": 713772693.47,
-            "withVolume": 16
+            "count": 26,
+            "volume": 1378772693.4699998,
+            "withVolume": 22
           }
         ],
         "trailing12": {
-          "offers": 833,
-          "volume": 90754323717.95004,
-          "offersWithVolume": 828,
+          "offers": 840,
+          "volume": 91419323717.95004,
+          "offersWithVolume": 834,
           "leaders": 61,
           "topLeaders": [
             {
               "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
               "cnpj": "62.285.390/0001-40",
-              "count": 178,
-              "volume": 9963139692.14
+              "count": 179,
+              "volume": 9968139692.14
             },
             {
               "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -325,14 +325,14 @@
             {
               "name": "BANCO DAYCOVAL S.A.",
               "cnpj": "62.232.889/0001-90",
-              "count": 60,
-              "volume": 5744680513.6
+              "count": 61,
+              "volume": 5794680513.6
             },
             {
               "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
               "cnpj": "22.610.500/0001-88",
-              "count": 57,
-              "volume": 2660128961.21
+              "count": 58,
+              "volume": 2860128961.21
             },
             {
               "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -359,16 +359,16 @@
               "volume": 337503656.39
             },
             {
+              "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+              "cnpj": "04.845.753/0001-59",
+              "count": 23,
+              "volume": 9980695059
+            },
+            {
               "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
               "cnpj": "59.281.253/0001-23",
               "count": 23,
               "volume": 3190896157.3999996
-            },
-            {
-              "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-              "cnpj": "04.845.753/0001-59",
-              "count": 22,
-              "volume": 9980695059
             },
             {
               "name": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
@@ -445,6 +445,174 @@
           ]
         },
         "latestOffers": [
+          {
+            "id": "194d5bdc6bc78514",
+            "market": "FIDC",
+            "name": "CS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+            "cnpj": "37.351.013/0001-15",
+            "registration": "28624",
+            "processNumber": "SRE/3628/2026",
+            "leader": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+            "leaderCnpj": "58.006.471/0001-97",
+            "volume": 10000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
+          {
+            "id": "8043307b6702732f",
+            "market": "FIDC",
+            "name": "FLUENS CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+            "cnpj": "68.833.146/0001-51",
+            "registration": "28625",
+            "processNumber": "SRE/3633/2026",
+            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "leaderCnpj": "04.845.753/0001-59",
+            "volume": 0,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Aguardando Bookbuilding",
+            "date": "2026-11-09",
+            "dateBasis": "requerimento",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
+          {
+            "id": "bbcfb0cc4fe16a05",
+            "market": "FIDC",
+            "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS BULLLA CARTÕES RESPONSABILIDADE LIMITADA",
+            "cnpj": "46.655.552/0001-39",
+            "registration": "28642",
+            "processNumber": "SRE/3634/2026",
+            "leader": "OLIVEIRA TRUST DTVM S.A.",
+            "leaderCnpj": "36.113.876/0001-91",
+            "volume": 300000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
+          {
+            "id": "a8bf19ca409d2bb9",
+            "market": "FIDC",
+            "name": "GUARDIAN GIBB FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+            "cnpj": "67.878.691/0001-00",
+            "registration": "28641",
+            "processNumber": "SRE/3632/2026",
+            "leader": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+            "leaderCnpj": "13.220.493/0001-17",
+            "volume": 100000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
+          {
+            "id": "3cc0276667ddf5ac",
+            "market": "FIDC",
+            "name": "MCP FRONTIER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+            "cnpj": "69.554.272/0001-30",
+            "registration": "28563",
+            "processNumber": "SRE/3629/2026",
+            "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "leaderCnpj": "22.610.500/0001-88",
+            "volume": 200000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
+          {
+            "id": "f4f7020b1aff414e",
+            "market": "FIDC",
+            "name": "NOVA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SERVIÇOS RESPONSABILIDADE LIMITADA",
+            "cnpj": "57.506.211/0001-18",
+            "registration": "28626",
+            "processNumber": "SRE/3630/2026",
+            "leader": "BANCO DAYCOVAL S.A.",
+            "leaderCnpj": "62.232.889/0001-90",
+            "volume": 50000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
+          {
+            "id": "24913103d5af85e4",
+            "market": "FIDC",
+            "name": "TERA PERFORMANCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL LP",
+            "cnpj": "40.155.056/0001-30",
+            "registration": "28612",
+            "processNumber": "SRE/3627/2026",
+            "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+            "leaderCnpj": "62.285.390/0001-40",
+            "volume": 5000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
           {
             "id": "088dbd66f5668b6d",
             "market": "FIDC",
@@ -636,174 +804,6 @@
             "sourceFile": "oferta_resolucao_160.csv",
             "sourceRows": 1,
             "distinctComponents": 1
-          },
-          {
-            "id": "e7c727a7f6272a94",
-            "market": "FIDC",
-            "name": "SERUM FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESPONSABILIDADE LIMITADA",
-            "cnpj": "68.931.082/0001-21",
-            "registration": "28600",
-            "processNumber": "SRE/3596/2026",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "leaderCnpj": "04.845.753/0001-59",
-            "volume": 0,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Aguardando Bookbuilding",
-            "date": "2026-11-05",
-            "dateBasis": "requerimento",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "9c22208c9457df00",
-            "market": "FIDC",
-            "name": "CARMELO CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-            "cnpj": "69.088.357/0001-70",
-            "registration": "28554",
-            "processNumber": "SRE/3589/2026",
-            "leader": "BANCO DAYCOVAL S.A.",
-            "leaderCnpj": "62.232.889/0001-90",
-            "volume": 100000000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-04",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "76fb9fb369715269",
-            "market": "FIDC",
-            "name": "EP ACESS SOSU OPPORTUNITIES III FIDC RESPONSABILIDADE LIMITADA",
-            "cnpj": "65.276.225/0001-10",
-            "registration": "28585",
-            "processNumber": "SRE/3587/2026",
-            "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-            "leaderCnpj": "13.486.793/0001-42",
-            "volume": 20000000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-04",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "e5f01586517de9ad",
-            "market": "FIDC",
-            "name": "G5 ENERGIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-            "cnpj": "69.825.769/0001-45",
-            "registration": "28581",
-            "processNumber": "SRE/3584/2026",
-            "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-            "leaderCnpj": "22.610.500/0001-88",
-            "volume": 40000000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-04",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "5b9046a97e8c973f",
-            "market": "FIDC",
-            "name": "MASTER LEPTA NP FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-            "cnpj": "56.730.030/0001-08",
-            "registration": "28580",
-            "processNumber": "SRE/3582/2026",
-            "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-            "leaderCnpj": "39.669.186/0001-01",
-            "volume": 15000014.14,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-04",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "bfe8b703a00ecb0a",
-            "market": "FIDC",
-            "name": "CORUJA SATURNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-            "cnpj": "69.003.757/0001-35",
-            "registration": "27847",
-            "processNumber": "SRE/2900/2026",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "leaderCnpj": "04.845.753/0001-59",
-            "volume": 225000000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-03",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "4452baceaf938330",
-            "market": "FIDC",
-            "name": "FERATHI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-            "cnpj": "69.333.624/0001-27",
-            "registration": "28534",
-            "processNumber": "SRE/3568/2026",
-            "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-            "leaderCnpj": "44.782.130/0001-07",
-            "volume": 5000000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-03",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
           }
         ]
       },
@@ -814,20 +814,20 @@
       "count": 190,
       "analytics": {
         "latestMonth": "2026-11",
-        "offersInMonth": 2,
-        "volumeInMonth": 70000000,
-        "offersWithVolumeInMonth": 1,
+        "offersInMonth": 3,
+        "volumeInMonth": 670000000,
+        "offersWithVolumeInMonth": 2,
         "leadersInMonth": 2,
         "byRite": [
           {
             "name": "Automático",
-            "count": 2
+            "count": 3
           }
         ],
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 1
+            "count": 2
           },
           {
             "name": "Qualificado",
@@ -836,16 +836,16 @@
         ],
         "topLeaders": [
           {
+            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "cnpj": "04.845.753/0001-59",
+            "count": 2,
+            "volume": 600000000
+          },
+          {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
             "cnpj": "59.281.253/0001-23",
             "count": 1,
             "volume": 70000000
-          },
-          {
-            "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "cnpj": "04.845.753/0001-59",
-            "count": 1,
-            "volume": 0
           }
         ],
         "byMonth": [
@@ -947,28 +947,28 @@
           },
           {
             "month": "2026-10",
-            "count": 16,
+            "count": 15,
             "volume": 4727194943,
             "withVolume": 15
           },
           {
             "month": "2026-11",
-            "count": 2,
-            "volume": 70000000,
-            "withVolume": 1
+            "count": 3,
+            "volume": 670000000,
+            "withVolume": 2
           }
         ],
         "trailing12": {
           "offers": 74,
-          "volume": 269148646887.55,
-          "offersWithVolume": 71,
+          "volume": 269748646887.55,
+          "offersWithVolume": 72,
           "leaders": 21,
           "topLeaders": [
             {
               "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
               "cnpj": "04.845.753/0001-59",
               "count": 11,
-              "volume": 4260498000
+              "volume": 4860498000
             },
             {
               "name": "BANCO DAYCOVAL S.A.",
@@ -1058,7 +1058,7 @@
         },
         "dataQuality": {
           "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-          "medianPositiveVolume": 65000465.44,
+          "medianPositiveVolume": 67500232.72,
           "outlierCount": 1,
           "outliers": [
             {
@@ -1071,6 +1071,30 @@
           ]
         },
         "latestOffers": [
+          {
+            "id": "1d27b417b60f24d7",
+            "market": "FIAGRO",
+            "name": "MKL - USIMATERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
+            "cnpj": "69.433.932/0001-24",
+            "registration": "28538",
+            "processNumber": "SRE/3541/2026",
+            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "leaderCnpj": "04.845.753/0001-59",
+            "volume": 600000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIAGRO"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
           {
             "id": "2fffe1a9f9e67e3a",
             "market": "FIAGRO",
@@ -1108,7 +1132,7 @@
             "volumeComponents": 1,
             "rite": "Automático",
             "audience": "Qualificado",
-            "status": "Registro Concedido",
+            "status": "Oferta Encerrada",
             "date": "2026-11-04",
             "dateBasis": "registro",
             "securities": [
@@ -1159,30 +1183,6 @@
             "status": "Registro Concedido",
             "date": "2026-10-30",
             "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIAGRO"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "1d27b417b60f24d7",
-            "market": "FIAGRO",
-            "name": "MKL - USIMATERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
-            "cnpj": "69.433.932/0001-24",
-            "registration": "28538",
-            "processNumber": "SRE/3541/2026",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "leaderCnpj": "04.845.753/0001-59",
-            "volume": 0,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Aguardando Bookbuilding",
-            "date": "2026-10-29",
-            "dateBasis": "requerimento",
             "securities": [
               "Cotas de FIAGRO"
             ],
@@ -1437,23 +1437,23 @@
     },
     "FII": {
       "market": "FII",
-      "count": 1546,
+      "count": 1547,
       "analytics": {
         "latestMonth": "2026-11",
-        "offersInMonth": 14,
-        "volumeInMonth": 2559700000.01,
-        "offersWithVolumeInMonth": 14,
-        "leadersInMonth": 6,
+        "offersInMonth": 15,
+        "volumeInMonth": 2604713444.01,
+        "offersWithVolumeInMonth": 15,
+        "leadersInMonth": 7,
         "byRite": [
           {
             "name": "Automático",
-            "count": 14
+            "count": 15
           }
         ],
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 10
+            "count": 11
           },
           {
             "name": "Público geral",
@@ -1478,6 +1478,12 @@
             "cnpj": "59.281.253/0001-23",
             "count": 1,
             "volume": 300000000
+          },
+          {
+            "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+            "cnpj": "27.652.684/0001-62",
+            "count": 1,
+            "volume": 45013444
           },
           {
             "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -1603,15 +1609,15 @@
           },
           {
             "month": "2026-11",
-            "count": 14,
-            "volume": 2559700000.01,
-            "withVolume": 14
+            "count": 15,
+            "volume": 2604713444.01,
+            "withVolume": 15
           }
         ],
         "trailing12": {
-          "offers": 236,
-          "volume": 73412774550.12,
-          "offersWithVolume": 236,
+          "offers": 237,
+          "volume": 73457787994.12,
+          "offersWithVolume": 237,
           "leaders": 38,
           "topLeaders": [
             {
@@ -1713,6 +1719,30 @@
           "outliers": []
         },
         "latestOffers": [
+          {
+            "id": "6e56923c2881325e",
+            "market": "FII",
+            "name": "CLASSE RIZA TERRAX RENDA DI DE RESP LIMITADA DO FII RIZA TERRAX INSTITUCIONAL",
+            "cnpj": "61.090.977/0001-31",
+            "registration": "28617",
+            "processNumber": "SRE/3625/2026",
+            "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+            "leaderCnpj": "27.652.684/0001-62",
+            "volume": 45013444,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-09",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FII"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
           {
             "id": "9891c42c4390b9f8",
             "market": "FII",
@@ -2048,35 +2078,11 @@
             "sourceFile": "oferta_resolucao_160.csv",
             "sourceRows": 1,
             "distinctComponents": 1
-          },
-          {
-            "id": "1fb5f4222d4f8ce5",
-            "market": "FII",
-            "name": "MINAS GERAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-            "cnpj": "65.275.189/0001-70",
-            "registration": "28550",
-            "processNumber": "SRE/3557/2026",
-            "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-            "leaderCnpj": "16.695.922/0001-09",
-            "volume": 1000000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-10-30",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FII"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
           }
         ]
       },
       "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos."
     }
   },
-  "updatedAt": "2026-11-09T21:26:55.656Z"
+  "updatedAt": "2026-11-10T18:40:51.720Z"
 }

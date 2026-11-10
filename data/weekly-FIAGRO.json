@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:26:55.670Z",
+  "generatedAt": "2026-11-10T18:40:51.740Z",
   "market": "FIAGRO",
   "current": {
     "period": {
@@ -38,7 +38,7 @@
         "date": "2026-11-04",
         "rite": "Automático",
         "audience": "Qualificado",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "publications": []
       }
     ],
@@ -64,7 +64,7 @@
         "count": 1
       },
       {
-        "name": "Registro Concedido",
+        "name": "Oferta Encerrada",
         "count": 1
       }
     ],
@@ -98,7 +98,7 @@
       "start": "2026-10-26",
       "end": "2026-11-01"
     },
-    "offers": 5,
+    "offers": 4,
     "offersWithVolume": 4,
     "volume": 206000000,
     "averageTicket": 51500000,
@@ -107,7 +107,7 @@
       {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
-        "count": 3,
+        "count": 2,
         "volume": 136000000
       },
       {
@@ -188,23 +188,19 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 5
+        "count": 4
       }
     ],
     "byRite": [
       {
         "name": "Automático",
-        "count": 5
+        "count": 4
       }
     ],
     "byStatus": [
       {
         "name": "Registro Concedido",
         "count": 3
-      },
-      {
-        "name": "Aguardando Bookbuilding",
-        "count": 1
       },
       {
         "name": "Oferta Encerrada",
@@ -214,7 +210,7 @@
     "byMarket": [
       {
         "name": "FIAGRO",
-        "count": 5
+        "count": 4
       }
     ],
     "professionalShare": 1,
@@ -236,24 +232,24 @@
     "themeSignals": [
       {
         "name": "Agronegócio",
-        "count": 5
+        "count": 4
       }
     ]
   },
   "changes": {
-    "offersPct": -60,
+    "offersPct": -50,
     "volumePct": -66.01941747572816
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 3.25,
+      "offers": 3,
       "volume": 1036798500,
       "leaders": 2.25,
       "professionalShare": 0.9166666666666666,
       "top3Concentration": 1
     },
     "currentVsPrior4Average": {
-      "offersPct": -38.46153846153847,
+      "offersPct": -33.33333333333333,
       "volumePct": -93.24844702225167
     }
   },
@@ -318,7 +314,7 @@
           "start": "2026-10-26",
           "end": "2026-11-01"
         },
-        "offers": 5,
+        "offers": 4,
         "volume": 206000000,
         "leaders": 3
       },
@@ -334,9 +330,9 @@
     ]
   },
   "observations": [
-    "Atividade semanal de 2 ofertas FIAGRO, 60,0% abaixo da semana anterior.",
+    "Atividade semanal de 2 ofertas FIAGRO, 50,0% abaixo da semana anterior.",
     "Volume informado de R$ 70.000.000 em 1 ofertas com valor positivo; ticket médio de R$ 70.000.000.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 93,2% abaixo e a quantidade de ofertas 38,5% abaixo.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 93,2% abaixo e a quantidade de ofertas 33,3% abaixo.",
     "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM liderou por quantidade de registros (1); os três coordenadores mais presentes concentraram 100,0% das ofertas da semana.",
     "50,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -346,17 +342,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-09T08:01:15.737028"
+      "updatedAt": "2026-11-10T08:00:58.291109"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-09T21:26:55.629Z"
+      "updatedAt": "2026-11-10T18:40:51.396Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "09/11/2026 17:28"
+      "updatedAt": "10/11/2026 09:30"
     }
   },
   "macro": {
@@ -365,19 +361,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-06",
+        "date": "2026-11-09",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-08",
-          "value": 13.65
-        },
         {
           "date": "2026-10-09",
           "value": 13.65
@@ -452,6 +444,10 @@
         },
         {
           "date": "2026-11-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-09",
           "value": 13.65
         }
       ]
@@ -747,7 +743,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -798,24 +794,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4644,
+      "count": 4651,
       "latestMonth": "2026-11",
-      "offersInMonth": 19,
-      "volumeInMonth": 713772693.47
+      "offersInMonth": 26,
+      "volumeInMonth": 1378772693.4699998
     },
     {
       "market": "FIAGRO",
       "count": 190,
       "latestMonth": "2026-11",
-      "offersInMonth": 2,
-      "volumeInMonth": 70000000
+      "offersInMonth": 3,
+      "volumeInMonth": 670000000
     },
     {
       "market": "FII",
-      "count": 1546,
+      "count": 1547,
       "latestMonth": "2026-11",
-      "offersInMonth": 14,
-      "volumeInMonth": 2559700000.01
+      "offersInMonth": 15,
+      "volumeInMonth": 2604713444.01
     }
   ],
   "intelligence": {
@@ -852,7 +848,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.617406411079848,
+            "value": 14.368067786741223,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -993,7 +989,7 @@
         "scores": {
           "IROP": 90.9375,
           "IRBD": 89.58333333333334,
-          "IRCC": 32.29592103821066,
+          "IRCC": 31.547905165194784,
           "IRFC": 45.51470588235294,
           "IRPM": 77.31066176470587
         },

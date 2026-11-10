@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-09T21:26:55.709Z",
+  "generatedAt": "2026-11-10T18:40:51.806Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-09T08:01:15.737028"
+    "updatedAt": "2026-11-10T08:00:58.291109"
   },
   "coordinators": [
     {
@@ -2400,8 +2400,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 163,
-          "volume": 11048102161.209995
+          "count": 164,
+          "volume": 11248102161.209995
         },
         {
           "market": "FIAGRO",
@@ -3406,13 +3406,13 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 57,
+          "count": 58,
           "volume": 18339045059
         },
         {
           "market": "FIAGRO",
           "count": 16,
-          "volume": 4995498000
+          "volume": 5595498000
         },
         {
           "market": "FII",
@@ -4008,8 +4008,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 206,
-          "volume": 18465952056.010002
+          "count": 207,
+          "volume": 18515952056.010002
         },
         {
           "market": "FIAGRO",
@@ -5147,7 +5147,7 @@
           "date": "2026-06-26",
           "rite": "Automático",
           "audience": "Público geral",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5670,8 +5670,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1071,
-          "volume": 59352520460.90993
+          "count": 1072,
+          "volume": 59357520460.90993
         },
         {
           "market": "FIAGRO",
@@ -6756,8 +6756,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 26,
-          "volume": 7313912292.49
+          "count": 27,
+          "volume": 7413912292.49
         },
         {
           "market": "FIAGRO",
@@ -8213,6 +8213,641 @@
           "market": "FII",
           "count": 37,
           "volume": 3477211750.81
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:27652684000162",
+      "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "27.652.684/0001-62",
+      "stats12m": {
+        "offers": 4,
+        "volume": 1675013444,
+        "offersWithVolume": 4,
+        "averageTicket": 418753361
+      },
+      "byMonth": [
+        {
+          "month": "2023-01",
+          "count": 1,
+          "volume": 125000043.48
+        },
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 124560000
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 68750000
+        },
+        {
+          "month": "2024-02",
+          "count": 1,
+          "volume": 62500000
+        },
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 124999993.7
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 120000000
+        },
+        {
+          "month": "2025-11",
+          "count": 1,
+          "volume": 36000000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 450000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 180000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 1000000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 45013444
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "6e56923c2881325e",
+          "market": "FII",
+          "name": "CLASSE RIZA TERRAX RENDA DI DE RESP LIMITADA DO FII RIZA TERRAX INSTITUCIONAL",
+          "cnpj": "61.090.977/0001-31",
+          "registration": "28617",
+          "processNumber": "SRE/3625/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 45013444,
+          "date": "2026-11-09",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "7184f02a0a754d24",
+          "market": "FII",
+          "name": "SUNO IMÓVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.323.500/0001-60",
+          "registration": "28382",
+          "processNumber": "SRE/3393/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 1000000000,
+          "date": "2026-10-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "5ddcda8c50a0169d",
+          "market": "FII",
+          "name": "MATRIZ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.132.550/0001-06",
+          "registration": "27749",
+          "processNumber": "SRE/2817/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 180000000,
+          "date": "2026-09-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "4e3690b4b2c6614a",
+          "market": "FII",
+          "name": "LWTC FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "36.501.249/0001-28",
+          "registration": "26469",
+          "processNumber": "SRE/1648/2026",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 450000000,
+          "date": "2026-05-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b989c95e2607b168",
+          "market": "FII",
+          "name": "RIZA ESTIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.574.892/0001-54",
+          "registration": "23374",
+          "processNumber": "SRE/3818/2025",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 36000000,
+          "date": "2025-11-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ce64667d3438109d",
+          "market": "FII",
+          "name": "CORPORATE CHUCRI - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.762.309/0001-03",
+          "registration": "21627",
+          "processNumber": "SRE/2320/2025",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 120000000,
+          "date": "2025-07-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4476c342a4da99c3",
+          "market": "FII",
+          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.192.125/0001-00",
+          "registration": "15435",
+          "processNumber": "SRE/1100/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 124999993.7,
+          "date": "2024-04-19",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e9f1a1501092425b",
+          "market": "FII",
+          "name": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.866.872/0001-01",
+          "registration": "14779",
+          "processNumber": "SRE/0537/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 62500000,
+          "date": "2024-02-29",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "ff089011e28ac814",
+          "market": "FII",
+          "name": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.193.237/0001-00",
+          "registration": "4268",
+          "processNumber": "SRE/0062/2024",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 68750000,
+          "date": "2024-01-05",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6e0afd0e649cc1ac",
+          "market": "FII",
+          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.192.125/0001-00",
+          "registration": "2233",
+          "processNumber": "SRE/1397/2023",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 124560000,
+          "date": "2023-07-11",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d0a625450d7fc635",
+          "market": "FII",
+          "name": "MORE RECEBÍVEIS IMOBILIÁRIOS FII FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "40.102.474/0001-69",
+          "registration": "585",
+          "processNumber": "SRE/0069/2023",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 125000043.48,
+          "date": "2023-01-27",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "4520389c8377e00b",
+          "market": "FII",
+          "name": "BPGB-001 FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "21.044.600/0001-21",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 40200000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-03-02",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "8f469497b7abd8ba",
+          "market": "FII",
+          "name": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI",
+          "cnpj": "38.294.329/0001-85",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 14000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-06-13",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "eea6655d33ca19a9",
+          "market": "FII",
+          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.501.233/0001-15",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 63913900,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-08-17",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-02-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "0586eba96decd014",
+          "market": "FII",
+          "name": "EZTB Fundo de Investimento Imobiliário - FII",
+          "cnpj": "18.312.285/0001-61",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 250000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-23",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-09-15",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "2b98533d1b358dd7",
+          "market": "FII",
+          "name": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "11.664.201/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 299999893.44,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-04-11",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "e30e020f53ae530f",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MOGNO CERTIFICADOS DE RECEBÍVEIS IMOBILIÁRIOS HIGH GRADE",
+          "cnpj": "35.652.204/0001-91",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 1170400,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-02-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "5a040dedccb45f8b",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO MOGNO FUNDO DE FUNDOS",
+          "cnpj": "29.216.463/0001-77",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 254496749.48000002,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-09-03",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-06-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "010842081e481982",
+          "market": "FII",
+          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO VERA CRUZ REAL ESTATE/RFM DESENVOLVIMENTO RESIDENCIAL",
+          "cnpj": "40.041.739/0001-66",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-05-20",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "1a4636d79bf6e9d3",
+          "market": "FII",
+          "name": "MALLS BRASIL PLURAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "26.499.833/0001-32",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 170087208.84,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-12-09",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "352812f46ae615a9",
+          "market": "FII",
+          "name": "PLURAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.501.210/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 79999975,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-09-08",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "18750605d9d0b9ed",
+          "market": "FII",
+          "name": "SPA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "18.311.024/0001-27",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 11270000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2016-12-05",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "93ff6997f47af42a",
+          "market": "FII",
+          "name": "VRE HOTÉIS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HÍBRIDO GESTÃO ATIVA - HOTEL",
+          "cnpj": "18.308.516/0001-63",
+          "registration": "",
+          "processNumber": "",
+          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "27.652.684/0001-62",
+          "volume": 53094329.5,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2017-01-23",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 26,
+          "volume": 1586049000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 6,
+          "volume": 693208000
+        },
+        {
+          "market": "FII",
+          "count": 23,
+          "volume": 3575055937.44
         }
       ]
     },
@@ -10085,8 +10720,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 84,
-          "volume": 31631843441.309994
+          "count": 85,
+          "volume": 31931843441.30999
         },
         {
           "market": "FIAGRO",
@@ -10713,620 +11348,6 @@
           "market": "FII",
           "count": 11,
           "volume": 2948085809.4
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:27652684000162",
-      "name": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-      "cnpj": "27.652.684/0001-62",
-      "stats12m": {
-        "offers": 3,
-        "volume": 1630000000,
-        "offersWithVolume": 3,
-        "averageTicket": 543333333.3333334
-      },
-      "byMonth": [
-        {
-          "month": "2023-01",
-          "count": 1,
-          "volume": 125000043.48
-        },
-        {
-          "month": "2023-07",
-          "count": 1,
-          "volume": 124560000
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 68750000
-        },
-        {
-          "month": "2024-02",
-          "count": 1,
-          "volume": 62500000
-        },
-        {
-          "month": "2024-04",
-          "count": 1,
-          "volume": 124999993.7
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 120000000
-        },
-        {
-          "month": "2025-11",
-          "count": 1,
-          "volume": 36000000
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 450000000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 180000000
-        },
-        {
-          "month": "2026-10",
-          "count": 1,
-          "volume": 1000000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "7184f02a0a754d24",
-          "market": "FII",
-          "name": "SUNO IMÓVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.323.500/0001-60",
-          "registration": "28382",
-          "processNumber": "SRE/3393/2026",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 1000000000,
-          "date": "2026-10-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "5ddcda8c50a0169d",
-          "market": "FII",
-          "name": "MATRIZ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.132.550/0001-06",
-          "registration": "27749",
-          "processNumber": "SRE/2817/2026",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 180000000,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "4e3690b4b2c6614a",
-          "market": "FII",
-          "name": "LWTC FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "36.501.249/0001-28",
-          "registration": "26469",
-          "processNumber": "SRE/1648/2026",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 450000000,
-          "date": "2026-05-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "b989c95e2607b168",
-          "market": "FII",
-          "name": "RIZA ESTIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.574.892/0001-54",
-          "registration": "23374",
-          "processNumber": "SRE/3818/2025",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 36000000,
-          "date": "2025-11-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ce64667d3438109d",
-          "market": "FII",
-          "name": "CORPORATE CHUCRI - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.762.309/0001-03",
-          "registration": "21627",
-          "processNumber": "SRE/2320/2025",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 120000000,
-          "date": "2025-07-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4476c342a4da99c3",
-          "market": "FII",
-          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.192.125/0001-00",
-          "registration": "15435",
-          "processNumber": "SRE/1100/2024",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 124999993.7,
-          "date": "2024-04-19",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e9f1a1501092425b",
-          "market": "FII",
-          "name": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.866.872/0001-01",
-          "registration": "14779",
-          "processNumber": "SRE/0537/2024",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 62500000,
-          "date": "2024-02-29",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "ff089011e28ac814",
-          "market": "FII",
-          "name": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.193.237/0001-00",
-          "registration": "4268",
-          "processNumber": "SRE/0062/2024",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 68750000,
-          "date": "2024-01-05",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6e0afd0e649cc1ac",
-          "market": "FII",
-          "name": "MORE CRÉDITO IMOBILIÁRIO FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.192.125/0001-00",
-          "registration": "2233",
-          "processNumber": "SRE/1397/2023",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 124560000,
-          "date": "2023-07-11",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d0a625450d7fc635",
-          "market": "FII",
-          "name": "MORE RECEBÍVEIS IMOBILIÁRIOS FII FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "40.102.474/0001-69",
-          "registration": "585",
-          "processNumber": "SRE/0069/2023",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 125000043.48,
-          "date": "2023-01-27",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "4520389c8377e00b",
-          "market": "FII",
-          "name": "BPGB-001 FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "21.044.600/0001-21",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 40200000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-03-02",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "8f469497b7abd8ba",
-          "market": "FII",
-          "name": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI",
-          "cnpj": "38.294.329/0001-85",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 14000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-06-13",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "eea6655d33ca19a9",
-          "market": "FII",
-          "name": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.501.233/0001-15",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 63913900,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-08-17",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-02-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "0586eba96decd014",
-          "market": "FII",
-          "name": "EZTB Fundo de Investimento Imobiliário - FII",
-          "cnpj": "18.312.285/0001-61",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 250000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-23",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-09-15",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "2b98533d1b358dd7",
-          "market": "FII",
-          "name": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "11.664.201/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 299999893.44,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-04-11",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "e30e020f53ae530f",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MOGNO CERTIFICADOS DE RECEBÍVEIS IMOBILIÁRIOS HIGH GRADE",
-          "cnpj": "35.652.204/0001-91",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 1170400,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-02-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "5a040dedccb45f8b",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO MOGNO FUNDO DE FUNDOS",
-          "cnpj": "29.216.463/0001-77",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 254496749.48000002,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-09-03",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-06-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "010842081e481982",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIARIO VERA CRUZ REAL ESTATE/RFM DESENVOLVIMENTO RESIDENCIAL",
-          "cnpj": "40.041.739/0001-66",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-05-20",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "1a4636d79bf6e9d3",
-          "market": "FII",
-          "name": "MALLS BRASIL PLURAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "26.499.833/0001-32",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 170087208.84,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-12-09",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "352812f46ae615a9",
-          "market": "FII",
-          "name": "PLURAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.501.210/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 79999975,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-08",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "18750605d9d0b9ed",
-          "market": "FII",
-          "name": "SPA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "18.311.024/0001-27",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 11270000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2016-12-05",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "93ff6997f47af42a",
-          "market": "FII",
-          "name": "VRE HOTÉIS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HÍBRIDO GESTÃO ATIVA - HOTEL",
-          "cnpj": "18.308.516/0001-63",
-          "registration": "",
-          "processNumber": "",
-          "leader": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "27.652.684/0001-62",
-          "volume": 53094329.5,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2017-01-23",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 26,
-          "volume": 1586049000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 6,
-          "volume": 693208000
-        },
-        {
-          "market": "FII",
-          "count": 22,
-          "volume": 3530042493.44
         }
       ]
     },

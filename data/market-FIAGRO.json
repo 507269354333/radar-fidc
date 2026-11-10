@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-09T08:01:15.737028",
+  "sourceUpdatedAt": "2026-11-10T08:00:58.291109",
   "market": "FIAGRO",
   "count": 190,
   "analytics": {
     "latestMonth": "2026-11",
-    "offersInMonth": 2,
-    "volumeInMonth": 70000000,
-    "offersWithVolumeInMonth": 1,
+    "offersInMonth": 3,
+    "volumeInMonth": 670000000,
+    "offersWithVolumeInMonth": 2,
     "leadersInMonth": 2,
     "byRite": [
       {
         "name": "Automático",
-        "count": 2
+        "count": 3
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 1
+        "count": 2
       },
       {
         "name": "Qualificado",
@@ -28,16 +28,16 @@
     ],
     "topLeaders": [
       {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 2,
+        "volume": 600000000
+      },
+      {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
         "count": 1,
         "volume": 70000000
-      },
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 1,
-        "volume": 0
       }
     ],
     "byMonth": [
@@ -139,28 +139,28 @@
       },
       {
         "month": "2026-10",
-        "count": 16,
+        "count": 15,
         "volume": 4727194943,
         "withVolume": 15
       },
       {
         "month": "2026-11",
-        "count": 2,
-        "volume": 70000000,
-        "withVolume": 1
+        "count": 3,
+        "volume": 670000000,
+        "withVolume": 2
       }
     ],
     "trailing12": {
       "offers": 74,
-      "volume": 269148646887.55,
-      "offersWithVolume": 71,
+      "volume": 269748646887.55,
+      "offersWithVolume": 72,
       "leaders": 21,
       "topLeaders": [
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
           "count": 11,
-          "volume": 4260498000
+          "volume": 4860498000
         },
         {
           "name": "BANCO DAYCOVAL S.A.",
@@ -250,7 +250,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 65000465.44,
+      "medianPositiveVolume": 67500232.72,
       "outlierCount": 1,
       "outliers": [
         {
@@ -263,6 +263,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "1d27b417b60f24d7",
+        "market": "FIAGRO",
+        "name": "MKL - USIMATERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
+        "cnpj": "69.433.932/0001-24",
+        "registration": "28538",
+        "processNumber": "SRE/3541/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 600000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-11-09",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "2fffe1a9f9e67e3a",
         "market": "FIAGRO",
@@ -300,7 +324,7 @@
         "volumeComponents": 1,
         "rite": "Automático",
         "audience": "Qualificado",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "date": "2026-11-04",
         "dateBasis": "registro",
         "securities": [
@@ -351,30 +375,6 @@
         "status": "Registro Concedido",
         "date": "2026-10-30",
         "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "1d27b417b60f24d7",
-        "market": "FIAGRO",
-        "name": "MKL - USIMATERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - RESP LIMITADA",
-        "cnpj": "69.433.932/0001-24",
-        "registration": "28538",
-        "processNumber": "SRE/3541/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "leaderCnpj": "04.845.753/0001-59",
-        "volume": 0,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Aguardando Bookbuilding",
-        "date": "2026-10-29",
-        "dateBasis": "requerimento",
         "securities": [
           "Cotas de FIAGRO"
         ],
@@ -626,5 +626,5 @@
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-09T21:26:55.657Z"
+  "updatedAt": "2026-11-10T18:40:51.721Z"
 }

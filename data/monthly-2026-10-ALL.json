@@ -1,17 +1,17 @@
 {
   "month": "2026-10",
   "market": "ALL",
-  "generatedAt": "2026-11-09T21:26:55.785Z",
+  "generatedAt": "2026-11-10T18:40:51.912Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
       "month": "2026-10",
-      "offers": 213,
+      "offers": 212,
       "offersWithVolume": 211,
       "registeredVolume": 30860601425.84,
       "analyticalVolume": 27560601425.84,
       "averageTicket": null,
-      "issuers": 190,
+      "issuers": 189,
       "leaders": 44,
       "topLeaders": [
         {
@@ -59,7 +59,7 @@
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
-          "count": 9,
+          "count": 8,
           "volume": 5982375000
         },
         {
@@ -309,7 +309,7 @@
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 200
+          "count": 199
         },
         {
           "name": "Qualificado",
@@ -323,7 +323,7 @@
       "byRite": [
         {
           "name": "Automático",
-          "count": 213
+          "count": 212
         }
       ]
     },
@@ -664,7 +664,7 @@
       "previousAvailableMonth": "2026-09"
     },
     "changes": {
-      "offersPct": 37.41935483870968,
+      "offersPct": 36.774193548387096,
       "officialVolumePct": -28.823826557666106,
       "analyticalVolumePct": -19.78415306305221
     },
@@ -747,7 +747,7 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração - 3 mercados",
-        "score": 14.617406411079848,
+        "score": 14.368067786741223,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -766,9 +766,9 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 14.617406411079848,
+          "score": 14.368067786741223,
           "band": "faixa baixa",
-          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 15/100, faixa baixa."
+          "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 14/100, faixa baixa."
         }
       },
       "funding": {
@@ -867,27 +867,27 @@
         "actualThrough": "2026-10",
         "officialActualVolume": 399894460535.86005,
         "adjustedActualVolume": 132094460535.86,
-        "actualOffers": 894,
+        "actualOffers": 893,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 142496169507.43,
-            "offers": 977,
+            "offers": 976,
             "monthlyVolumeAssumption": 5200854485.785,
             "monthlyOfferAssumption": 41
           },
           {
             "label": "Base",
             "volume": 154855805851,
-            "offers": 1043,
+            "offers": 1042,
             "monthlyVolumeAssumption": 11380672657.57,
             "monthlyOfferAssumption": 74.5
           },
           {
             "label": "Expansão",
             "volume": 169785168663.69,
-            "offers": 1187,
+            "offers": 1186,
             "monthlyVolumeAssumption": 18845354063.914997,
             "monthlyOfferAssumption": 145.75
           }
@@ -1813,18 +1813,18 @@
     "FIAGRO": {
       "current": {
         "month": "2026-10",
-        "offers": 16,
+        "offers": 15,
         "offersWithVolume": 15,
         "registeredVolume": 4727194943,
         "analyticalVolume": 4727194943,
         "averageTicket": 315146329.53333336,
-        "issuers": 16,
+        "issuers": 15,
         "leaders": 8,
         "topLeaders": [
           {
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
             "cnpj": "04.845.753/0001-59",
-            "count": 5,
+            "count": 4,
             "volume": 3666000000
           },
           {
@@ -2093,7 +2093,7 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 15
+            "count": 14
           },
           {
             "name": "Qualificado",
@@ -2103,7 +2103,7 @@
         "byRite": [
           {
             "name": "Automático",
-            "count": 16
+            "count": 15
           }
         ]
       },
@@ -2408,7 +2408,7 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 23.076923076923077,
+        "offersPct": 15.384615384615385,
         "officialVolumePct": -49.3393603867782,
         "analyticalVolumePct": -49.3393603867782
       },
@@ -2484,8 +2484,8 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 32.29592103821066,
-          "countHHI": 8.035714285714286,
+          "score": 31.547905165194784,
+          "countHHI": 6.539682539682541,
           "volumeHHI": 56.55612779070702,
           "interpretation": "baixa",
           "education": {
@@ -2505,7 +2505,7 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 32.29592103821066,
+            "score": 31.547905165194784,
             "band": "faixa baixa",
             "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 32/100, faixa baixa próximo da transição para a faixa intermediária."
           }
@@ -2606,27 +2606,27 @@
           "actualThrough": "2026-10",
           "officialActualVolume": 268143894700.29,
           "adjustedActualVolume": 18143894700.29,
-          "actualOffers": 59,
+          "actualOffers": 58,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
               "volume": 18477645398.45,
-              "offers": 65,
+              "offers": 64,
               "monthlyVolumeAssumption": 166875349.07999998,
               "monthlyOfferAssumption": 2.75
             },
             {
               "label": "Base",
               "volume": 19324009875.34,
-              "offers": 68,
+              "offers": 67,
               "monthlyVolumeAssumption": 590057587.525,
               "monthlyOfferAssumption": 4.5
             },
             {
               "label": "Expansão",
               "volume": 20331816039.53,
-              "offers": 75,
+              "offers": 74,
               "monthlyVolumeAssumption": 1093960669.62,
               "monthlyOfferAssumption": 7.75
             }
@@ -2636,9 +2636,9 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIAGRO ficou 23,1% acima da última competência disponível (2026-09).",
+        "A quantidade de ofertas FIAGRO ficou 15,4% acima da última competência disponível (2026-09).",
         "O volume analítico ajustado ficou 49,3% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
-        "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou o mês por quantidade, com 5 ofertas.",
+        "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou o mês por quantidade, com 4 ofertas.",
         "O IROP encerrou em 91/100 (forte); o IRPM ficou em 77/100 (expansivo)."
       ],
       "transmission": [
@@ -3558,19 +3558,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-06",
+        "date": "2026-11-09",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-08",
-          "value": 13.65
-        },
         {
           "date": "2026-10-09",
           "value": 13.65
@@ -3645,6 +3641,10 @@
         },
         {
           "date": "2026-11-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-09",
           "value": 13.65
         }
       ]
@@ -3940,7 +3940,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -4031,7 +4031,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.617406411079848,
+            "value": 14.368067786741223,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -4172,7 +4172,7 @@
         "scores": {
           "IROP": 90.9375,
           "IRBD": 89.58333333333334,
-          "IRCC": 32.29592103821066,
+          "IRCC": 31.547905165194784,
           "IRFC": 45.51470588235294,
           "IRPM": 77.31066176470587
         },
@@ -4240,17 +4240,17 @@
           {
             "label": "Conservador",
             "volume": 18477645398.45,
-            "offers": 65
+            "offers": 64
           },
           {
             "label": "Base",
             "volume": 19324009875.34,
-            "offers": 68
+            "offers": 67
           },
           {
             "label": "Expansão",
             "volume": 20331816039.53,
-            "offers": 75
+            "offers": 74
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

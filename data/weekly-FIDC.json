@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:26:55.669Z",
+  "generatedAt": "2026-11-10T18:40:51.738Z",
   "market": "FIDC",
   "current": {
     "period": {
@@ -358,7 +358,7 @@
         "date": "2026-10-26",
         "rite": "Automático",
         "audience": "Profissional",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "publications": []
       },
       {
@@ -471,11 +471,11 @@
     "byStatus": [
       {
         "name": "Registro Concedido",
-        "count": 35
+        "count": 34
       },
       {
         "name": "Oferta Encerrada",
-        "count": 2
+        "count": 3
       }
     ],
     "byMarket": [
@@ -621,17 +621,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-09T08:01:15.737028"
+      "updatedAt": "2026-11-10T08:00:58.291109"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-09T21:26:55.629Z"
+      "updatedAt": "2026-11-10T18:40:51.396Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "09/11/2026 17:28"
+      "updatedAt": "10/11/2026 09:30"
     }
   },
   "macro": {
@@ -640,19 +640,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-06",
+        "date": "2026-11-09",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-08",
-          "value": 13.65
-        },
         {
           "date": "2026-10-09",
           "value": 13.65
@@ -727,6 +723,10 @@
         },
         {
           "date": "2026-11-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-09",
           "value": 13.65
         }
       ]
@@ -1022,7 +1022,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -1073,24 +1073,24 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4644,
+      "count": 4651,
       "latestMonth": "2026-11",
-      "offersInMonth": 19,
-      "volumeInMonth": 713772693.47
+      "offersInMonth": 26,
+      "volumeInMonth": 1378772693.4699998
     },
     {
       "market": "FIAGRO",
       "count": 190,
       "latestMonth": "2026-11",
-      "offersInMonth": 2,
-      "volumeInMonth": 70000000
+      "offersInMonth": 3,
+      "volumeInMonth": 670000000
     },
     {
       "market": "FII",
-      "count": 1546,
+      "count": 1547,
       "latestMonth": "2026-11",
-      "offersInMonth": 14,
-      "volumeInMonth": 2559700000.01
+      "offersInMonth": 15,
+      "volumeInMonth": 2604713444.01
     }
   ],
   "intelligence": {
@@ -1127,7 +1127,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.617406411079848,
+            "value": 14.368067786741223,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1268,7 +1268,7 @@
         "scores": {
           "IROP": 90.9375,
           "IRBD": 89.58333333333334,
-          "IRCC": 32.29592103821066,
+          "IRCC": 31.547905165194784,
           "IRFC": 45.51470588235294,
           "IRPM": 77.31066176470587
         },

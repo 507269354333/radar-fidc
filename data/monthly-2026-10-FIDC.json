@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-09T21:26:55.743Z",
+  "generatedAt": "2026-11-10T18:40:51.846Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-06",
+        "date": "2026-11-09",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-08",
-          "value": 13.65
-        },
         {
           "date": "2026-10-09",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-06",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-09",
           "value": 13.65
         }
       ]
@@ -2192,7 +2192,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -2283,7 +2283,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.617406411079848,
+            "value": 14.368067786741223,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2424,7 +2424,7 @@
         "scores": {
           "IROP": 90.9375,
           "IRBD": 89.58333333333334,
-          "IRCC": 32.29592103821066,
+          "IRCC": 31.547905165194784,
           "IRFC": 45.51470588235294,
           "IRPM": 77.31066176470587
         },
@@ -2492,17 +2492,17 @@
           {
             "label": "Conservador",
             "volume": 18477645398.45,
-            "offers": 65
+            "offers": 64
           },
           {
             "label": "Base",
             "volume": 19324009875.34,
-            "offers": 68
+            "offers": 67
           },
           {
             "label": "Expansão",
             "volume": 20331816039.53,
-            "offers": 75
+            "offers": 74
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
