@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-10T18:40:51.803Z",
+  "generatedAt": "2026-11-11T18:42:31.286Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-10T08:00:58.291109"
+    "updatedAt": "2026-11-11T08:00:45.465244"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
-        "offers": 179,
-        "volume": 9968139692.14,
-        "offersWithVolume": 179,
-        "averageTicket": 55687931.241005585
+        "offers": 180,
+        "volume": 10048139692.14,
+        "offersWithVolume": 180,
+        "averageTicket": 55822998.28966666
       },
       "byMonth": [
         {
@@ -105,11 +105,27 @@
         },
         {
           "month": "2026-11",
-          "count": 1,
-          "volume": 5000000
+          "count": 2,
+          "volume": 85000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "2b5190d449430771",
+          "market": "FIDC",
+          "name": "VIXTRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "45.523.699/0001-02",
+          "registration": "28657",
+          "processNumber": "SRE/3647/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 80000000,
+          "date": "2026-11-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "24913103d5af85e4",
           "market": "FIDC",
@@ -573,29 +589,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "43ee86b7b5d19ba0",
-          "market": "FIDC",
-          "name": "GPR FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
-          "cnpj": "35.982.683/0001-04",
-          "registration": "28072",
-          "processNumber": "SRE/3127/2026",
-          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "62.285.390/0001-40",
-          "volume": 10000000,
-          "date": "2026-09-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1072,
-          "volume": 59357520460.90993
+          "count": 1073,
+          "volume": 59437520460.90993
         },
         {
           "market": "FIAGRO",
@@ -604,8 +604,8 @@
         },
         {
           "market": "FII",
-          "count": 47,
-          "volume": 3989251955.92
+          "count": 48,
+          "volume": 3994251955.92
         }
       ]
     },
@@ -614,10 +614,10 @@
       "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
       "cnpj": "39.669.186/0001-01",
       "stats12m": {
-        "offers": 112,
-        "volume": 3369834612.8199997,
-        "offersWithVolume": 112,
-        "averageTicket": 30087809.043035712
+        "offers": 113,
+        "volume": 3380725612.8199997,
+        "offersWithVolume": 113,
+        "averageTicket": 29917925.77716814
       },
       "byMonth": [
         {
@@ -707,11 +707,27 @@
         },
         {
           "month": "2026-11",
-          "count": 4,
-          "volume": 28872693.47
+          "count": 5,
+          "volume": 39763693.47
         }
       ],
       "recentOffers": [
+        {
+          "id": "56c6ca96730b2eb7",
+          "market": "FIDC",
+          "name": "SARFATY INSURED CREDIT FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.658.801/0001-66",
+          "registration": "28631",
+          "processNumber": "SRE/3646/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 10891000,
+          "date": "2026-11-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "af57ed46e788f19f",
           "market": "FIDC",
@@ -1077,7 +1093,7 @@
           "date": "2026-09-24",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1157,7 +1173,7 @@
           "date": "2026-09-10",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1175,29 +1191,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "a99710d43ef891f5",
-          "market": "FIDC",
-          "name": "MENTORE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "46.082.763/0001-20",
-          "registration": "27742",
-          "processNumber": "SRE/2815/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 50000000,
-          "date": "2026-09-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 255,
-          "volume": 7370967107.500001
+          "count": 256,
+          "volume": 7381858107.500001
         },
         {
           "market": "FIAGRO",
@@ -1216,10 +1216,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 61,
-        "volume": 5794680513.6,
-        "offersWithVolume": 61,
-        "averageTicket": 94994762.51803279
+        "offers": 63,
+        "volume": 5919680513.6,
+        "offersWithVolume": 63,
+        "averageTicket": 93963182.75555556
       },
       "byMonth": [
         {
@@ -1309,11 +1309,43 @@
         },
         {
           "month": "2026-11",
-          "count": 4,
-          "volume": 274300000
+          "count": 6,
+          "volume": 399300000
         }
       ],
       "recentOffers": [
+        {
+          "id": "7d086c0cb4e5486d",
+          "market": "FIDC",
+          "name": "CONECTEPAG ELETROBIDU FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+          "cnpj": "64.655.872/0001-70",
+          "registration": "28630",
+          "processNumber": "SRE/3649/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50000000,
+          "date": "2026-11-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "d5590779abe369b8",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NXSO MULTICARTEIRA RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.804.095/0001-41",
+          "registration": "28588",
+          "processNumber": "SRE/3650/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 75000000,
+          "date": "2026-11-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "f4f7020b1aff414e",
           "market": "FIDC",
@@ -1761,45 +1793,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "69cff8a55c8e6829",
-          "market": "FIDC",
-          "name": "MAIS TODOS PF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.088.190/0001-20",
-          "registration": "27815",
-          "processNumber": "SRE/2873/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 10000000,
-          "date": "2026-09-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "02b49ae7eb0805d7",
-          "market": "FIDC",
-          "name": "FIDC VALE CONSIGNADO FINANCEIRO RESP LIMITADA",
-          "cnpj": "61.386.747/0001-14",
-          "registration": "27768",
-          "processNumber": "SRE/2831/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 15000000,
-          "date": "2026-09-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 207,
-          "volume": 18515952056.010002
+          "count": 209,
+          "volume": 18640952056.010002
         },
         {
           "market": "FIAGRO",
@@ -4828,7 +4828,7 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 23,
+        "offers": 24,
         "volume": 9980695059,
         "offersWithVolume": 19,
         "averageTicket": 525299739.94736844
@@ -4921,11 +4921,27 @@
         },
         {
           "month": "2026-11",
-          "count": 4,
+          "count": 5,
           "volume": 225000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "930571beed941fb9",
+          "market": "FIDC",
+          "name": "GALLERIA HOME EQUITY FIDC",
+          "cnpj": "37.294.759/0001-34",
+          "registration": "28664",
+          "processNumber": "SRE/3656/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-11-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "8043307b6702732f",
           "market": "FIDC",
@@ -5389,28 +5405,12 @@
           "audience": "Qualificado",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "6bff5b9b97d0b4d9",
-          "market": "FIDC",
-          "name": "HELM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.291.962/0001-27",
-          "registration": "21433",
-          "processNumber": "SRE/2166/2025",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2025-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Revogada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 58,
+          "count": 59,
           "volume": 18339045059
         },
         {
@@ -6022,8 +6022,8 @@
         },
         {
           "market": "FII",
-          "count": 180,
-          "volume": 27333101446.090004
+          "count": 181,
+          "volume": 27433101446.090004
         }
       ]
     },
@@ -10201,8 +10201,8 @@
         },
         {
           "market": "FII",
-          "count": 147,
-          "volume": 74455823026.59001
+          "count": 148,
+          "volume": 74599323026.59001
         }
       ]
     },
@@ -12958,6 +12958,285 @@
       ]
     },
     {
+      "key": "CNPJ:33817677000176",
+      "name": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "cnpj": "33.817.677/0001-76",
+      "stats12m": {
+        "offers": 7,
+        "volume": 2117500000,
+        "offersWithVolume": 6,
+        "averageTicket": 352916666.6666667
+      },
+      "byMonth": [
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 30000000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 332000000
+        },
+        {
+          "month": "2024-12",
+          "count": 2,
+          "volume": 765000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 277500000
+        },
+        {
+          "month": "2026-02",
+          "count": 1,
+          "volume": 240000000
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 1250000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 100000000
+        },
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 150000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 0
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "332f4c530fd5dd3b",
+          "market": "FIDC",
+          "name": "DAYCOVAL D421 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "66.359.239/0001-60",
+          "registration": "28651",
+          "processNumber": "SRE/3637/2026",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 0,
+          "date": "2026-11-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "89da209033753dcd",
+          "market": "FIDC",
+          "name": "IFOOD PAGO CREDITO IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.882.747/0001-30",
+          "registration": "28406",
+          "processNumber": "SRE/3416/2026",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 150000000,
+          "date": "2026-10-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "f25678c1f1d83979",
+          "market": "FIDC",
+          "name": "TELCOCASH FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.574.816/0001-62",
+          "registration": "27722",
+          "processNumber": "SRE/2791/2026",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 100000000,
+          "date": "2026-08-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6d88602ac7cbc500",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS PICPAY FGTS II DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.839.682/0001-76",
+          "registration": "26277",
+          "processNumber": "SRE/1474/2026",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 1250000000,
+          "date": "2026-05-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "81a61e70ad0da9b1",
+          "market": "FIDC",
+          "name": "PEROLA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.960.578/0001-56",
+          "registration": "24900",
+          "processNumber": "SRE/0604/2026",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 100000000,
+          "date": "2026-03-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "678332edd81a1b69",
+          "market": "FIDC",
+          "name": "COBUCCIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CONSIGNADO PRIVADO - RESP LIMITADA",
+          "cnpj": "64.352.617/0001-59",
+          "registration": "24669",
+          "processNumber": "SRE/0407/2026",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 240000000,
+          "date": "2026-02-10",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1bf1c123852460ef",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COBUCCIO INSS",
+          "cnpj": "63.931.003/0001-69",
+          "registration": "24017",
+          "processNumber": "SRE/4398/2025",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 277500000,
+          "date": "2025-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "51f5024a43a37bcd",
+          "market": "FIDC",
+          "name": "COBUCCIO EMPRESTIMOS INSS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE CLASSE UNICA FECHADA",
+          "cnpj": "54.582.555/0001-18",
+          "registration": "18939",
+          "processNumber": "SRE/4183/2024",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 65000000,
+          "date": "2024-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "278f1e1dd3a442a2",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS PICPAY FGTS",
+          "cnpj": "58.148.845/0001-09",
+          "registration": "18409",
+          "processNumber": "SRE/3699/2024",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 700000000,
+          "date": "2024-12-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "eca7a361c85a8dd9",
+          "market": "FIDC",
+          "name": "APPIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "57.651.404/0001-62",
+          "registration": "18170",
+          "processNumber": "SRE/3497/2024",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 332000000,
+          "date": "2024-11-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "57c3617278eee0ca",
+          "market": "FIDC",
+          "name": "COBUCCIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE CLASSE ÚNICA FECHADA DE RESPONS LIMITADA",
+          "cnpj": "32.526.025/0001-10",
+          "registration": "16482",
+          "processNumber": "SRE/2017/2024",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 50000000,
+          "date": "2024-07-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7f088873f82968b0",
+          "market": "FIDC",
+          "name": "FARM TECH BRADESCO ASSET AGRO I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "40.996.065/0001-53",
+          "registration": "15411",
+          "processNumber": "SRE/1084/2024",
+          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "33.817.677/0001-76",
+          "volume": 30000000,
+          "date": "2024-04-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 12,
+          "volume": 3294500000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 101950000
+        }
+      ]
+    },
+    {
       "key": "CNPJ:37678915000160",
       "name": "FIDD DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "37.678.915/0001-60",
@@ -13781,264 +14060,6 @@
           "market": "FII",
           "count": 7,
           "volume": 194964822.18
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:33817677000176",
-      "name": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "cnpj": "33.817.677/0001-76",
-      "stats12m": {
-        "offers": 6,
-        "volume": 2117500000,
-        "offersWithVolume": 6,
-        "averageTicket": 352916666.6666667
-      },
-      "byMonth": [
-        {
-          "month": "2024-04",
-          "count": 1,
-          "volume": 30000000
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 50000000
-        },
-        {
-          "month": "2024-11",
-          "count": 1,
-          "volume": 332000000
-        },
-        {
-          "month": "2024-12",
-          "count": 2,
-          "volume": 765000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 277500000
-        },
-        {
-          "month": "2026-02",
-          "count": 1,
-          "volume": 240000000
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 1250000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 100000000
-        },
-        {
-          "month": "2026-10",
-          "count": 1,
-          "volume": 150000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "89da209033753dcd",
-          "market": "FIDC",
-          "name": "IFOOD PAGO CREDITO IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.882.747/0001-30",
-          "registration": "28406",
-          "processNumber": "SRE/3416/2026",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 150000000,
-          "date": "2026-10-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "f25678c1f1d83979",
-          "market": "FIDC",
-          "name": "TELCOCASH FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.574.816/0001-62",
-          "registration": "27722",
-          "processNumber": "SRE/2791/2026",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 100000000,
-          "date": "2026-08-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6d88602ac7cbc500",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS PICPAY FGTS II DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.839.682/0001-76",
-          "registration": "26277",
-          "processNumber": "SRE/1474/2026",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 1250000000,
-          "date": "2026-05-12",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "81a61e70ad0da9b1",
-          "market": "FIDC",
-          "name": "PEROLA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.960.578/0001-56",
-          "registration": "24900",
-          "processNumber": "SRE/0604/2026",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 100000000,
-          "date": "2026-03-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "678332edd81a1b69",
-          "market": "FIDC",
-          "name": "COBUCCIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CONSIGNADO PRIVADO - RESP LIMITADA",
-          "cnpj": "64.352.617/0001-59",
-          "registration": "24669",
-          "processNumber": "SRE/0407/2026",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 240000000,
-          "date": "2026-02-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "1bf1c123852460ef",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COBUCCIO INSS",
-          "cnpj": "63.931.003/0001-69",
-          "registration": "24017",
-          "processNumber": "SRE/4398/2025",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 277500000,
-          "date": "2025-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "51f5024a43a37bcd",
-          "market": "FIDC",
-          "name": "COBUCCIO EMPRESTIMOS INSS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE CLASSE UNICA FECHADA",
-          "cnpj": "54.582.555/0001-18",
-          "registration": "18939",
-          "processNumber": "SRE/4183/2024",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 65000000,
-          "date": "2024-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "278f1e1dd3a442a2",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS PICPAY FGTS",
-          "cnpj": "58.148.845/0001-09",
-          "registration": "18409",
-          "processNumber": "SRE/3699/2024",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 700000000,
-          "date": "2024-12-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "eca7a361c85a8dd9",
-          "market": "FIDC",
-          "name": "APPIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.651.404/0001-62",
-          "registration": "18170",
-          "processNumber": "SRE/3497/2024",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 332000000,
-          "date": "2024-11-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "57c3617278eee0ca",
-          "market": "FIDC",
-          "name": "COBUCCIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE CLASSE ÚNICA FECHADA DE RESPONS LIMITADA",
-          "cnpj": "32.526.025/0001-10",
-          "registration": "16482",
-          "processNumber": "SRE/2017/2024",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 50000000,
-          "date": "2024-07-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7f088873f82968b0",
-          "market": "FIDC",
-          "name": "FARM TECH BRADESCO ASSET AGRO I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "40.996.065/0001-53",
-          "registration": "15411",
-          "processNumber": "SRE/1084/2024",
-          "leader": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-          "leaderCnpj": "33.817.677/0001-76",
-          "volume": 30000000,
-          "date": "2024-04-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 11,
-          "volume": 3294500000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 101950000
         }
       ]
     },
@@ -29085,7 +29106,7 @@
         {
           "market": "FIAGRO",
           "count": 3,
-          "volume": 250255750000
+          "volume": 260255750000
         },
         {
           "market": "FII",

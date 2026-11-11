@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-10T08:00:58.291109",
+  "sourceUpdatedAt": "2026-11-11T08:00:45.465244",
   "market": "FIAGRO",
   "count": 190,
   "analytics": {
     "latestMonth": "2026-11",
-    "offersInMonth": 3,
-    "volumeInMonth": 670000000,
-    "offersWithVolumeInMonth": 2,
-    "leadersInMonth": 2,
+    "offersInMonth": 4,
+    "volumeInMonth": 10670000000,
+    "offersWithVolumeInMonth": 3,
+    "leadersInMonth": 3,
     "byRite": [
       {
         "name": "Automático",
-        "count": 3
+        "count": 4
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 2
+        "count": 3
       },
       {
         "name": "Qualificado",
@@ -32,6 +32,12 @@
         "cnpj": "04.845.753/0001-59",
         "count": 2,
         "volume": 600000000
+      },
+      {
+        "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+        "cnpj": "46.482.072/0001-13",
+        "count": 1,
+        "volume": 10000000000
       },
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -133,7 +139,7 @@
       },
       {
         "month": "2026-09",
-        "count": 13,
+        "count": 12,
         "volume": 9331100000.1,
         "withVolume": 12
       },
@@ -145,15 +151,15 @@
       },
       {
         "month": "2026-11",
-        "count": 3,
-        "volume": 670000000,
-        "withVolume": 2
+        "count": 4,
+        "volume": 10670000000,
+        "withVolume": 3
       }
     ],
     "trailing12": {
       "offers": 74,
-      "volume": 269748646887.55,
-      "offersWithVolume": 72,
+      "volume": 279748646887.55,
+      "offersWithVolume": 73,
       "leaders": 21,
       "topLeaders": [
         {
@@ -208,7 +214,7 @@
           "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
           "cnpj": "46.482.072/0001-13",
           "count": 2,
-          "volume": 250000000000
+          "volume": 260000000000
         },
         {
           "name": "BANCO FATOR S/A",
@@ -250,8 +256,8 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 67500232.72,
-      "outlierCount": 1,
+      "medianPositiveVolume": 70000000,
+      "outlierCount": 2,
       "outliers": [
         {
           "id": "f28399b31bc4c68a",
@@ -259,10 +265,41 @@
           "date": "2026-08-28",
           "volume": 250000000000,
           "leader": "BTG PACTUAL INVESTMENT BANKING LTDA."
+        },
+        {
+          "id": "4c3200af91d57353",
+          "name": "FIAGRO BTG PACTUAL II RESPONSABILIDADE LIMITADA",
+          "date": "2026-11-10",
+          "volume": 10000000000,
+          "leader": "BTG PACTUAL INVESTMENT BANKING LTDA."
         }
       ]
     },
     "latestOffers": [
+      {
+        "id": "4c3200af91d57353",
+        "market": "FIAGRO",
+        "name": "FIAGRO BTG PACTUAL II RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.816.734/0001-87",
+        "registration": "27799",
+        "processNumber": "SRE/2866/2026",
+        "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+        "leaderCnpj": "46.482.072/0001-13",
+        "volume": 10000000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-11-10",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "1d27b417b60f24d7",
         "market": "FIAGRO",
@@ -598,33 +635,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "3f9ec942cc072e0d",
-        "market": "FIAGRO",
-        "name": "GREEN PLACE FIAGRO DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.880.557/0001-35",
-        "registration": "28236",
-        "processNumber": "SRE/3263/2026",
-        "leader": "MIVE CAPITAL MARKETS LTDA",
-        "leaderCnpj": "55.440.852/0001-91",
-        "volume": 35000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-06",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-10T18:40:51.721Z"
+  "updatedAt": "2026-11-11T18:42:31.229Z"
 }

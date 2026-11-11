@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-10T18:40:51.846Z",
+  "generatedAt": "2026-11-11T18:42:31.328Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -551,7 +551,7 @@
               "processNumber": "SRE/3103/2026",
               "volume": 600000000,
               "date": "2026-09-24",
-              "status": "Registro Concedido",
+              "status": "Oferta Encerrada",
               "publications": []
             }
           ]
@@ -1439,7 +1439,7 @@
                 "processNumber": "SRE/3103/2026",
                 "volume": 600000000,
                 "date": "2026-09-24",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-06",
+        "date": "2026-11-09",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-09",
-          "value": 13.65
-        },
         {
           "date": "2026-10-13",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-09",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-10",
           "value": 13.65
         }
       ]
@@ -2192,26 +2192,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "10/11/2026",
+      "date": "11/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "09/11/2026",
+      "date": "10/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "09/11/2026",
-      "value": 5.5146,
+      "date": "10/11/2026",
+      "value": 5.584,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2268,7 +2268,7 @@
         "evidence": [
           {
             "label": "IROP agregado",
-            "value": 84.5138888888889,
+            "value": 84.68750000000001,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2278,7 +2278,7 @@
           },
           {
             "label": "IRBD",
-            "value": 88.8888888888889,
+            "value": 89.58333333333333,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2422,11 +2422,11 @@
         "headline": "Pipeline forte, capital ainda seletivo",
         "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
-          "IROP": 90.9375,
-          "IRBD": 89.58333333333334,
+          "IROP": 91.45833333333334,
+          "IRBD": 91.66666666666667,
           "IRCC": 31.547905165194784,
           "IRFC": 45.51470588235294,
-          "IRPM": 77.31066176470587
+          "IRPM": 77.67524509803923
         },
         "bands": {
           "offer": "alto",
@@ -2484,25 +2484,25 @@
       {
         "market": "FIAGRO",
         "current": {
-          "IROP": 90.9375,
-          "IRPM": 77.31066176470587,
+          "IROP": 91.45833333333334,
+          "IRPM": 77.67524509803923,
           "IRFC": 45.51470588235294
         },
         "scenarios": [
           {
             "label": "Conservador",
             "volume": 18477645398.45,
-            "offers": 64
+            "offers": 63
           },
           {
             "label": "Base",
             "volume": 19324009875.34,
-            "offers": 67
+            "offers": 66
           },
           {
             "label": "Expansão",
             "volume": 20331816039.53,
-            "offers": 74
+            "offers": 72
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
