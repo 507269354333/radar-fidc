@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:42:31.243Z",
+  "generatedAt": "2026-11-12T18:57:00.398Z",
   "market": "FIDC",
   "current": {
     "period": {
@@ -621,17 +621,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-11T08:00:45.465244"
+      "updatedAt": "2026-11-12T08:00:40.937671"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-11T18:42:30.793Z"
+      "updatedAt": "2026-11-12T18:57:00.337Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "11/11/2026 09:35"
+      "updatedAt": "12/11/2026 09:42"
     }
   },
   "macro": {
@@ -640,19 +640,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-13",
-          "value": 13.65
-        },
         {
           "date": "2026-10-14",
           "value": 13.65
@@ -727,6 +723,10 @@
         },
         {
           "date": "2026-11-10",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-11",
           "value": 13.65
         }
       ]
@@ -1022,26 +1022,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "10/11/2026",
+      "date": "11/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "10/11/2026",
+      "date": "11/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "10/11/2026",
-      "value": 5.584,
+      "date": "11/11/2026",
+      "value": 5.5606,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1053,7 +1053,7 @@
     },
     "igpmProjection": {
       "date": null,
-      "value": 0.87,
+      "value": 0.78,
       "label": "IGP-M projetado",
       "unit": "%"
     }
@@ -1073,10 +1073,10 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4657,
+      "count": 4660,
       "latestMonth": "2026-11",
-      "offersInMonth": 32,
-      "volumeInMonth": 1594663693.47
+      "offersInMonth": 35,
+      "volumeInMonth": 1684663693.47
     },
     {
       "market": "FIAGRO",
@@ -1087,10 +1087,10 @@
     },
     {
       "market": "FII",
-      "count": 1550,
+      "count": 1551,
       "latestMonth": "2026-11",
-      "offersInMonth": 18,
-      "volumeInMonth": 2853213444.01
+      "offersInMonth": 19,
+      "volumeInMonth": 2932254835.99
     }
   ],
   "intelligence": {

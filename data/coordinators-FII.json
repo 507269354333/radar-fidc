@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-11T18:42:31.289Z",
+  "generatedAt": "2026-11-12T18:57:00.452Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-11T08:00:45.465244"
+    "updatedAt": "2026-11-12T08:00:40.937671"
   },
   "coordinators": [
     {
@@ -3585,7 +3585,7 @@
           "date": "2026-06-23",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Caducado",
+          "status": "Registro Concedido",
           "publications": []
         },
         {
@@ -4008,8 +4008,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 209,
-          "volume": 18640952056.010002
+          "count": 211,
+          "volume": 18710952056.010002
         },
         {
           "market": "FIAGRO",
@@ -12000,6 +12000,573 @@
       ]
     },
     {
+      "key": "CNPJ:03751794000113",
+      "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "cnpj": "03.751.794/0001-13",
+      "stats12m": {
+        "offers": 2,
+        "volume": 124041627.78,
+        "offersWithVolume": 2,
+        "averageTicket": 62020813.89
+      },
+      "byMonth": [
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2023-12",
+          "count": 2,
+          "volume": 130000000
+        },
+        {
+          "month": "2024-08",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 6000000
+        },
+        {
+          "month": "2024-12",
+          "count": 1,
+          "volume": 82000000
+        },
+        {
+          "month": "2025-02",
+          "count": 1,
+          "volume": 2700000
+        },
+        {
+          "month": "2025-07",
+          "count": 2,
+          "volume": 315236312.28
+        },
+        {
+          "month": "2026-03",
+          "count": 1,
+          "volume": 45000235.8
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 79041391.98
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "62d3b0b43b9eb9d0",
+          "market": "FII",
+          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "37.262.752/0001-30",
+          "registration": "28438",
+          "processNumber": "SRE/3658/2026",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 79041391.98,
+          "date": "2026-11-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "72426e039bc5127c",
+          "market": "FII",
+          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "37.262.752/0001-30",
+          "registration": "25588",
+          "processNumber": "SRE/0833/2026",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 45000235.8,
+          "date": "2026-03-20",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "db66218f00ef5339",
+          "market": "FII",
+          "name": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "32.892.018/0001-31",
+          "registration": "21538",
+          "processNumber": "SRE/2330/2025",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 77736302.28,
+          "date": "2025-07-31",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bd97ee4ab8d6a913",
+          "market": "FII",
+          "name": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "51.890.054/0001-00",
+          "registration": "21461",
+          "processNumber": "SRE/2198/2025",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 237500010,
+          "date": "2025-07-18",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "57b75f09d1df7be0",
+          "market": "FII",
+          "name": "LOTEAR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "33.554.611/0001-30",
+          "registration": "19397",
+          "processNumber": "SRE/0348/2025",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 2700000,
+          "date": "2025-02-07",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "d97fccb3a687674d",
+          "market": "FII",
+          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "37.262.752/0001-30",
+          "registration": "18961",
+          "processNumber": "SRE/4203/2024",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 82000000,
+          "date": "2024-12-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "08a1c630de982b0b",
+          "market": "FII",
+          "name": "TERRA MINAS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "53.275.496/0001-72",
+          "registration": "18217",
+          "processNumber": "SRE/3532/2024",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 6000000,
+          "date": "2024-11-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b39c59a1ace9c801",
+          "market": "FII",
+          "name": "MASH EMPREENDIMENTOS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "56.524.816/0001-79",
+          "registration": "17001",
+          "processNumber": "SRE/2486/2024",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 50000000,
+          "date": "2024-08-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "95930d8a5bd6a8e7",
+          "market": "FII",
+          "name": "ÍCONE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "53.137.434/0001-02",
+          "registration": "3978",
+          "processNumber": "SRE/2947/2023",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 120000000,
+          "date": "2023-12-19",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b109b8dcad3d84df",
+          "market": "FII",
+          "name": "GESIM SMART FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "52.904.581/0001-90",
+          "registration": "3876",
+          "processNumber": "SRE/2834/2023",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 10000000,
+          "date": "2023-12-12",
+          "rite": "Automático",
+          "audience": "Público geral",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "651b9a3b43b61aee",
+          "market": "FII",
+          "name": "GESIM SMART FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "52.904.581/0001-90",
+          "registration": "3668",
+          "processNumber": "SRE/2659/2023",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 10000000,
+          "date": "2023-11-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "a097e067c8d9d36d",
+          "market": "FII",
+          "name": "ARAM SKY FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "33.554.611/0001-30",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 13500011.95,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-01-19",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "5f2cddf2cfff38eb",
+          "market": "FII",
+          "name": "FEDERAL HIGH YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+          "cnpj": "33.827.762/0001-15",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-01-02",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "cf9567c30cca14ea",
+          "market": "FII",
+          "name": "FLORIANO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "41.820.693/0001-46",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 2004335.17,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-25",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "e1ef81d1d1affaf0",
+          "market": "FII",
+          "name": "Fundo de Investimento Imobiliário - FII Panamby Renda Master",
+          "cnpj": "34.197.754/0001-03",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 0,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-06-01",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a9b233054178a998",
+          "market": "FII",
+          "name": "HSI ATIVOS FINANCEIROS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "35.360.687/0001-50",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 84239857.08,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-06-10",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "a49bbcfa2d51cf45",
+          "market": "FII",
+          "name": "KRONOS FUNDO DE INVESTIMENTO IMOBILIARIO",
+          "cnpj": "36.731.458/0001-68",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 47846281.379999995,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-09-01",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "4cbb87c71e6901f3",
+          "market": "FII",
+          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "37.262.752/0001-30",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 159094158.4,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-16",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-06-07",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "c1001d3819fbac13",
+          "market": "FII",
+          "name": "LC I FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "34.691.520/0001-00",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 18500000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-08-25",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-08-30",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "52592fe39e8841a5",
+          "market": "FII",
+          "name": "MPM FUNDO DE INVESTIMENTOS IMOBILIÁRIOS - FII",
+          "cnpj": "27.539.729/0001-97",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 36523338.33,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-12-19",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-27",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-10-01",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "d0b6da2f3cf26ad8",
+          "market": "FII",
+          "name": "R CAP 1810 FUNDO DE FUNDOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "36.814.809/0001-02",
+          "registration": "",
+          "processNumber": "",
+          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "03.751.794/0001-13",
+          "volume": 304260000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-02",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 89,
+          "volume": 2326824193.76
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 25000000
+        },
+        {
+          "market": "FII",
+          "count": 21,
+          "volume": 1385945922.37
+        }
+      ]
+    },
+    {
       "key": "CNPJ:33775974000104",
       "name": "ATIVA INVESTIMENTOS S.A. C.T.C.V.",
       "cnpj": "33.775.974/0001-04",
@@ -14145,552 +14712,6 @@
           "market": "FII",
           "count": 1,
           "volume": 50000000
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:03751794000113",
-      "name": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "cnpj": "03.751.794/0001-13",
-      "stats12m": {
-        "offers": 1,
-        "volume": 45000235.8,
-        "offersWithVolume": 1,
-        "averageTicket": 45000235.8
-      },
-      "byMonth": [
-        {
-          "month": "2023-11",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2023-12",
-          "count": 2,
-          "volume": 130000000
-        },
-        {
-          "month": "2024-08",
-          "count": 1,
-          "volume": 50000000
-        },
-        {
-          "month": "2024-11",
-          "count": 1,
-          "volume": 6000000
-        },
-        {
-          "month": "2024-12",
-          "count": 1,
-          "volume": 82000000
-        },
-        {
-          "month": "2025-02",
-          "count": 1,
-          "volume": 2700000
-        },
-        {
-          "month": "2025-07",
-          "count": 2,
-          "volume": 315236312.28
-        },
-        {
-          "month": "2026-03",
-          "count": 1,
-          "volume": 45000235.8
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "72426e039bc5127c",
-          "market": "FII",
-          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "37.262.752/0001-30",
-          "registration": "25588",
-          "processNumber": "SRE/0833/2026",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 45000235.8,
-          "date": "2026-03-20",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "db66218f00ef5339",
-          "market": "FII",
-          "name": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "32.892.018/0001-31",
-          "registration": "21538",
-          "processNumber": "SRE/2330/2025",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 77736302.28,
-          "date": "2025-07-31",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bd97ee4ab8d6a913",
-          "market": "FII",
-          "name": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "51.890.054/0001-00",
-          "registration": "21461",
-          "processNumber": "SRE/2198/2025",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 237500010,
-          "date": "2025-07-18",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "57b75f09d1df7be0",
-          "market": "FII",
-          "name": "LOTEAR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "33.554.611/0001-30",
-          "registration": "19397",
-          "processNumber": "SRE/0348/2025",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 2700000,
-          "date": "2025-02-07",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "d97fccb3a687674d",
-          "market": "FII",
-          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "37.262.752/0001-30",
-          "registration": "18961",
-          "processNumber": "SRE/4203/2024",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 82000000,
-          "date": "2024-12-26",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "08a1c630de982b0b",
-          "market": "FII",
-          "name": "TERRA MINAS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "53.275.496/0001-72",
-          "registration": "18217",
-          "processNumber": "SRE/3532/2024",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 6000000,
-          "date": "2024-11-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b39c59a1ace9c801",
-          "market": "FII",
-          "name": "MASH EMPREENDIMENTOS FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "56.524.816/0001-79",
-          "registration": "17001",
-          "processNumber": "SRE/2486/2024",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 50000000,
-          "date": "2024-08-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "95930d8a5bd6a8e7",
-          "market": "FII",
-          "name": "ÍCONE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "53.137.434/0001-02",
-          "registration": "3978",
-          "processNumber": "SRE/2947/2023",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 120000000,
-          "date": "2023-12-19",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b109b8dcad3d84df",
-          "market": "FII",
-          "name": "GESIM SMART FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "52.904.581/0001-90",
-          "registration": "3876",
-          "processNumber": "SRE/2834/2023",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 10000000,
-          "date": "2023-12-12",
-          "rite": "Automático",
-          "audience": "Público geral",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "651b9a3b43b61aee",
-          "market": "FII",
-          "name": "GESIM SMART FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "52.904.581/0001-90",
-          "registration": "3668",
-          "processNumber": "SRE/2659/2023",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 10000000,
-          "date": "2023-11-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        },
-        {
-          "id": "a097e067c8d9d36d",
-          "market": "FII",
-          "name": "ARAM SKY FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "33.554.611/0001-30",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 13500011.95,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-01-19",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "5f2cddf2cfff38eb",
-          "market": "FII",
-          "name": "FEDERAL HIGH YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-          "cnpj": "33.827.762/0001-15",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-01-02",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "cf9567c30cca14ea",
-          "market": "FII",
-          "name": "FLORIANO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "41.820.693/0001-46",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 2004335.17,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-25",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "e1ef81d1d1affaf0",
-          "market": "FII",
-          "name": "Fundo de Investimento Imobiliário - FII Panamby Renda Master",
-          "cnpj": "34.197.754/0001-03",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 0,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-06-01",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a9b233054178a998",
-          "market": "FII",
-          "name": "HSI ATIVOS FINANCEIROS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "35.360.687/0001-50",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 84239857.08,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-06-10",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "a49bbcfa2d51cf45",
-          "market": "FII",
-          "name": "KRONOS FUNDO DE INVESTIMENTO IMOBILIARIO",
-          "cnpj": "36.731.458/0001-68",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 47846281.379999995,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-09-01",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "4cbb87c71e6901f3",
-          "market": "FII",
-          "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "37.262.752/0001-30",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 159094158.4,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-16",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-06-07",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "c1001d3819fbac13",
-          "market": "FII",
-          "name": "LC I FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "34.691.520/0001-00",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 18500000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-08-25",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-08-30",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "52592fe39e8841a5",
-          "market": "FII",
-          "name": "MPM FUNDO DE INVESTIMENTOS IMOBILIÁRIOS - FII",
-          "cnpj": "27.539.729/0001-97",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 36523338.33,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-12-19",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-27",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-10-01",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "d0b6da2f3cf26ad8",
-          "market": "FII",
-          "name": "R CAP 1810 FUNDO DE FUNDOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "36.814.809/0001-02",
-          "registration": "",
-          "processNumber": "",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 304260000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-02",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 88,
-          "volume": 2306824193.76
-        },
-        {
-          "market": "FIAGRO",
-          "count": 1,
-          "volume": 25000000
-        },
-        {
-          "market": "FII",
-          "count": 20,
-          "volume": 1306904530.3899999
         }
       ]
     },

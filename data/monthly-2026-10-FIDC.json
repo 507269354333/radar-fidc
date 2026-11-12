@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-11T18:42:31.328Z",
+  "generatedAt": "2026-11-12T18:57:00.491Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-13",
-          "value": 13.65
-        },
         {
           "date": "2026-10-14",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-10",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-11",
           "value": 13.65
         }
       ]
@@ -2192,26 +2192,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "10/11/2026",
+      "date": "11/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "10/11/2026",
+      "date": "11/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "10/11/2026",
-      "value": 5.584,
+      "date": "11/11/2026",
+      "value": 5.5606,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2223,7 +2223,7 @@
     },
     "igpmProjection": {
       "date": null,
-      "value": 0.87,
+      "value": 0.78,
       "label": "IGP-M projetado",
       "unit": "%"
     }
