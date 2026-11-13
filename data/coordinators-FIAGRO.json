@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-11-12T18:57:00.450Z",
+  "generatedAt": "2026-11-13T18:31:23.037Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-12T08:00:40.937671"
+    "updatedAt": "2026-11-13T08:00:41.082289"
   },
   "coordinators": [
     {
@@ -12,10 +12,10 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 11,
-        "volume": 4860498000,
-        "offersWithVolume": 10,
-        "averageTicket": 486049800
+        "offers": 12,
+        "volume": 4891284000,
+        "offersWithVolume": 11,
+        "averageTicket": 444662181.8181818
       },
       "byMonth": [
         {
@@ -66,15 +66,31 @@
         {
           "month": "2026-10",
           "count": 4,
-          "volume": 3666000000
+          "volume": 2336786000
         },
         {
           "month": "2026-11",
-          "count": 2,
-          "volume": 600000000
+          "count": 3,
+          "volume": 1960000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "9ec297adda443104",
+          "market": "FIAGRO",
+          "name": "FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS OPEA AGRO INSUMOS RESPONSABILIDADE LIMI",
+          "cnpj": "47.936.340/0001-92",
+          "registration": "28676",
+          "processNumber": "SRE/3670/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1360000000,
+          "date": "2026-11-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "1d27b417b60f24d7",
           "market": "FIAGRO",
@@ -148,11 +164,11 @@
           "processNumber": "SRE/3271/2026",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "leaderCnpj": "04.845.753/0001-59",
-          "volume": 3000000000,
+          "volume": 1670786000,
           "date": "2026-10-14",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -336,12 +352,12 @@
         {
           "market": "FIDC",
           "count": 59,
-          "volume": 18339045059
+          "volume": 18369045059
         },
         {
           "market": "FIAGRO",
-          "count": 16,
-          "volume": 5595498000
+          "count": 17,
+          "volume": 5626284000
         },
         {
           "market": "FII",
@@ -515,7 +531,7 @@
           "date": "2026-09-04",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1181,7 +1197,7 @@
           "date": "2026-06-23",
           "rite": "Automático",
           "audience": "Qualificado",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -2104,7 +2120,7 @@
         {
           "market": "FIDC",
           "count": 1073,
-          "volume": 59437520460.90993
+          "volume": 59547520460.90993
         },
         {
           "market": "FIAGRO",
@@ -2123,7 +2139,7 @@
       "name": "BANCO VOTORANTIM S.A.",
       "cnpj": "59.588.111/0001-03",
       "stats12m": {
-        "offers": 3,
+        "offers": 4,
         "volume": 260652000,
         "offersWithVolume": 3,
         "averageTicket": 86884000
@@ -2163,9 +2179,30 @@
           "month": "2026-06",
           "count": 1,
           "volume": 27000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 0
         }
       ],
       "recentOffers": [
+        {
+          "id": "33ffe9da693290d9",
+          "market": "FIAGRO",
+          "name": "FIAGRO OPEA BIOFINANCE II - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.883.736/0001-51",
+          "registration": "28679",
+          "processNumber": "SRE/3666/2026",
+          "leader": "BANCO VOTORANTIM S.A.",
+          "leaderCnpj": "59.588.111/0001-03",
+          "volume": 0,
+          "date": "2026-11-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "7d05fcba527e8b51",
           "market": "FIAGRO",
@@ -2303,7 +2340,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 8,
+          "count": 9,
           "volume": 699927000
         },
         {
@@ -3054,6 +3091,59 @@
           "market": "FII",
           "count": 23,
           "volume": 3575055937.44
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:58006471000197",
+      "name": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "58.006.471/0001-97",
+      "stats12m": {
+        "offers": 1,
+        "volume": 115000000,
+        "offersWithVolume": 1,
+        "averageTicket": 115000000
+      },
+      "byMonth": [
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 115000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "c4d61ef7cb340738",
+          "market": "FIAGRO",
+          "name": "RUIZ FIAGRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.464.003/0001-82",
+          "registration": "28682",
+          "processNumber": "SRE/3668/2026",
+          "leader": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "58.006.471/0001-97",
+          "volume": 115000000,
+          "date": "2026-11-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 4,
+          "volume": 160500000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 115000000
+        },
+        {
+          "market": "FII",
+          "count": 0,
+          "volume": 0
         }
       ]
     },

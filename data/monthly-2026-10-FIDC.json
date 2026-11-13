@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-12T18:57:00.491Z",
+  "generatedAt": "2026-11-13T18:31:23.069Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -326,9 +326,9 @@
       "month": "2026-09",
       "offers": 104,
       "offersWithVolume": 104,
-      "registeredVolume": 22372388041.93,
-      "analyticalVolume": 13372388041.929998,
-      "averageTicket": 131101843.54833332,
+      "registeredVolume": 22482388041.93,
+      "analyticalVolume": 13482388041.929998,
+      "averageTicket": 132180274.92088234,
       "issuers": 96,
       "leaders": 33,
       "topLeaders": [
@@ -336,7 +336,7 @@
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
           "count": 18,
-          "volume": 560500001.3299999
+          "volume": 670500001.33
         },
         {
           "name": "BANCO DAYCOVAL S.A.",
@@ -655,14 +655,14 @@
     },
     "changes": {
       "offersPct": 60.57692307692307,
-      "officialVolumePct": -19.239485410555563,
-      "analyticalVolumePct": 10.436936636177434
+      "officialVolumePct": -19.634623889095774,
+      "analyticalVolumePct": 9.535904638566977
     },
     "indices": {
       "month": "2026-10",
       "dataQuality": {
-        "medianPositiveVolume": 25000000,
-        "threshold": 2500000000,
+        "medianPositiveVolume": 25000000.08,
+        "threshold": 2500000008,
         "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
         "outliers": [
           {
@@ -858,28 +858,28 @@
       "projection": {
         "year": 2026,
         "actualThrough": "2026-10",
-        "officialActualVolume": 73863688409.64001,
-        "adjustedActualVolume": 56063688409.639984,
+        "officialActualVolume": 73973688409.64001,
+        "adjustedActualVolume": 56173688409.639984,
         "actualOffers": 652,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 60669342336.86498,
+            "volume": 60779342336.86498,
             "offers": 713,
             "monthlyVolumeAssumption": 2302826963.6125,
             "monthlyOfferAssumption": 30.5
           },
           {
             "label": "Base",
-            "volume": 64178711625.09998,
+            "volume": 64288711625.09998,
             "offers": 758,
             "monthlyVolumeAssumption": 4057511607.7299995,
             "monthlyOfferAssumption": 53
           },
           {
             "label": "Expansão",
-            "volume": 73736873972.80998,
+            "volume": 73846873972.80998,
             "offers": 866,
             "monthlyVolumeAssumption": 8836592781.585,
             "monthlyOfferAssumption": 106.75
@@ -1214,9 +1214,9 @@
         "month": "2026-09",
         "offers": 104,
         "offersWithVolume": 104,
-        "registeredVolume": 22372388041.93,
-        "analyticalVolume": 13372388041.929998,
-        "averageTicket": 131101843.54833332,
+        "registeredVolume": 22482388041.93,
+        "analyticalVolume": 13482388041.929998,
+        "averageTicket": 132180274.92088234,
         "issuers": 96,
         "leaders": 33,
         "topLeaders": [
@@ -1224,7 +1224,7 @@
             "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
             "cnpj": "62.285.390/0001-40",
             "count": 18,
-            "volume": 560500001.3299999
+            "volume": 670500001.33
           },
           {
             "name": "BANCO DAYCOVAL S.A.",
@@ -1543,14 +1543,14 @@
       },
       "changes": {
         "offersPct": 60.57692307692307,
-        "officialVolumePct": -19.239485410555563,
-        "analyticalVolumePct": 10.436936636177434
+        "officialVolumePct": -19.634623889095774,
+        "analyticalVolumePct": 9.535904638566977
       },
       "indices": {
         "month": "2026-10",
         "dataQuality": {
-          "medianPositiveVolume": 25000000,
-          "threshold": 2500000000,
+          "medianPositiveVolume": 25000000.08,
+          "threshold": 2500000008,
           "rule": "Oferta com volume > 100x a mediana positiva dos 12 meses é preservada no dado oficial, mas isolada dos índices e cenários analíticos.",
           "outliers": [
             {
@@ -1746,28 +1746,28 @@
         "projection": {
           "year": 2026,
           "actualThrough": "2026-10",
-          "officialActualVolume": 73863688409.64001,
-          "adjustedActualVolume": 56063688409.639984,
+          "officialActualVolume": 73973688409.64001,
+          "adjustedActualVolume": 56173688409.639984,
           "actualOffers": 652,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 60669342336.86498,
+              "volume": 60779342336.86498,
               "offers": 713,
               "monthlyVolumeAssumption": 2302826963.6125,
               "monthlyOfferAssumption": 30.5
             },
             {
               "label": "Base",
-              "volume": 64178711625.09998,
+              "volume": 64288711625.09998,
               "offers": 758,
               "monthlyVolumeAssumption": 4057511607.7299995,
               "monthlyOfferAssumption": 53
             },
             {
               "label": "Expansão",
-              "volume": 73736873972.80998,
+              "volume": 73846873972.80998,
               "offers": 866,
               "monthlyVolumeAssumption": 8836592781.585,
               "monthlyOfferAssumption": 106.75
@@ -1779,7 +1779,7 @@
       },
       "editorial": [
         "A quantidade de ofertas FIDC ficou 60,6% acima da última competência disponível (2026-09).",
-        "O volume analítico ajustado ficou 10,4% acima da última competência disponível. O volume oficial continua reportado separadamente.",
+        "O volume analítico ajustado ficou 9,5% acima da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 1 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 28 ofertas.",
         "O IROP encerrou em 96/100 (forte); o IRPM ficou em 81/100 (expansivo)."
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-14",
-          "value": 13.65
-        },
         {
           "date": "2026-10-15",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-11",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-12",
           "value": 13.65
         }
       ]
@@ -2192,32 +2192,32 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "12/11/2026",
+      "date": "13/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "11/11/2026",
-      "value": 5.5606,
+      "date": "12/11/2026",
+      "value": 5.6143,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.21,
+      "value": 0.38,
       "label": "IPCA projetado",
       "unit": "%"
     },
@@ -2283,7 +2283,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.368067786741223,
+            "value": 12.249268253886276,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2424,7 +2424,7 @@
         "scores": {
           "IROP": 91.45833333333334,
           "IRBD": 91.66666666666667,
-          "IRCC": 31.547905165194784,
+          "IRCC": 25.19150656662994,
           "IRFC": 45.51470588235294,
           "IRPM": 77.67524509803923
         },
@@ -2465,17 +2465,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 60669342336.86498,
+            "volume": 60779342336.86498,
             "offers": 713
           },
           {
             "label": "Base",
-            "volume": 64178711625.09998,
+            "volume": 64288711625.09998,
             "offers": 758
           },
           {
             "label": "Expansão",
-            "volume": 73736873972.80998,
+            "volume": 73846873972.80998,
             "offers": 866
           }
         ],
@@ -2491,17 +2491,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 18477645398.45,
+            "volume": 17148431398.45,
             "offers": 63
           },
           {
             "label": "Base",
-            "volume": 19324009875.34,
+            "volume": 17994795875.34,
             "offers": 66
           },
           {
             "label": "Expansão",
-            "volume": 20331816039.53,
+            "volume": 19002602039.53,
             "offers": 72
           }
         ],

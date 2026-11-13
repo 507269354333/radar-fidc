@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-12T18:57:00.448Z",
+  "generatedAt": "2026-11-13T18:31:23.036Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-12T08:00:40.937671"
+    "updatedAt": "2026-11-13T08:00:41.082289"
   },
   "coordinators": [
     {
@@ -13,9 +13,9 @@
       "cnpj": "62.285.390/0001-40",
       "stats12m": {
         "offers": 180,
-        "volume": 10048139692.14,
+        "volume": 10158139692.14,
         "offersWithVolume": 180,
-        "averageTicket": 55822998.28966666
+        "averageTicket": 56434109.40077777
       },
       "byMonth": [
         {
@@ -96,7 +96,7 @@
         {
           "month": "2026-09",
           "count": 18,
-          "volume": 560500001.3299999
+          "volume": 670500001.33
         },
         {
           "month": "2026-10",
@@ -595,7 +595,7 @@
         {
           "market": "FIDC",
           "count": 1073,
-          "volume": 59437520460.90993
+          "volume": 59547520460.90993
         },
         {
           "market": "FIAGRO",
@@ -4829,9 +4829,9 @@
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
         "offers": 24,
-        "volume": 9980695059,
-        "offersWithVolume": 19,
-        "averageTicket": 525299739.94736844
+        "volume": 10010695059,
+        "offersWithVolume": 20,
+        "averageTicket": 500534752.95
       },
       "byMonth": [
         {
@@ -4922,10 +4922,26 @@
         {
           "month": "2026-11",
           "count": 5,
-          "volume": 225000000
+          "volume": 255000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "8043307b6702732f",
+          "market": "FIDC",
+          "name": "FLUENS CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.833.146/0001-51",
+          "registration": "28625",
+          "processNumber": "SRE/3633/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 30000000,
+          "date": "2026-11-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "930571beed941fb9",
           "market": "FIDC",
@@ -4937,22 +4953,6 @@
           "leaderCnpj": "04.845.753/0001-59",
           "volume": 0,
           "date": "2026-11-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
-          "publications": []
-        },
-        {
-          "id": "8043307b6702732f",
-          "market": "FIDC",
-          "name": "FLUENS CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.833.146/0001-51",
-          "registration": "28625",
-          "processNumber": "SRE/3633/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-11-09",
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Aguardando Bookbuilding",
@@ -5411,12 +5411,12 @@
         {
           "market": "FIDC",
           "count": 59,
-          "volume": 18339045059
+          "volume": 18369045059
         },
         {
           "market": "FIAGRO",
-          "count": 16,
-          "volume": 5595498000
+          "count": 17,
+          "volume": 5626284000
         },
         {
           "market": "FII",
@@ -9594,7 +9594,7 @@
         },
         {
           "market": "FIAGRO",
-          "count": 8,
+          "count": 9,
           "volume": 699927000
         },
         {
@@ -12958,6 +12958,228 @@
       ]
     },
     {
+      "key": "CNPJ:41592532000142",
+      "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "cnpj": "41.592.532/0001-42",
+      "stats12m": {
+        "offers": 8,
+        "volume": 56650000,
+        "offersWithVolume": 8,
+        "averageTicket": 7081250
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 5000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-08",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 6000000
+        },
+        {
+          "month": "2026-10",
+          "count": 3,
+          "volume": 18150000
+        },
+        {
+          "month": "2026-11",
+          "count": 2,
+          "volume": 22500000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "85ede595cc1f32ab",
+          "market": "FIDC",
+          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.237.118/0001-34",
+          "registration": "28685",
+          "processNumber": "SRE/3672/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 20000000,
+          "date": "2026-11-12",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "19ac8ca30568979b",
+          "market": "FIDC",
+          "name": "EDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.865.749/0001-06",
+          "registration": "28599",
+          "processNumber": "SRE/3601/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 2500000,
+          "date": "2026-11-05",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "df1065fa04913d39",
+          "market": "FIDC",
+          "name": "ATLAS CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.238.677/0001-04",
+          "registration": "28501",
+          "processNumber": "SRE/3503/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 5000000,
+          "date": "2026-10-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7eb2893c95eced71",
+          "market": "FIDC",
+          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.237.118/0001-34",
+          "registration": "28326",
+          "processNumber": "SRE/3344/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 2650000,
+          "date": "2026-10-14",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "424f09427a246277",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS APTX - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.566.022/0001-57",
+          "registration": "28221",
+          "processNumber": "SRE/3248/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10500000,
+          "date": "2026-10-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "ebf9c777ba398e06",
+          "market": "FIDC",
+          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.580/0001-98",
+          "registration": "28038",
+          "processNumber": "SRE/3106/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 4500000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "1a38df3b7ae6f5e9",
+          "market": "FIDC",
+          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.166.580/0001-98",
+          "registration": "28053",
+          "processNumber": "SRE/3105/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 1500000,
+          "date": "2026-09-24",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "c03fd825dfa196fb",
+          "market": "FIDC",
+          "name": "BRIDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.784.717/0001-05",
+          "registration": "27667",
+          "processNumber": "SRE/2744/2026",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10000000,
+          "date": "2026-08-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "368dd16a77e7ae17",
+          "market": "FIDC",
+          "name": "LEDOROTAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE ILIMITADA",
+          "cnpj": "61.516.625/0001-03",
+          "registration": "21278",
+          "processNumber": "SRE/2010/2025",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 10000000,
+          "date": "2025-07-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "b59ab9c88bcedf0e",
+          "market": "FIDC",
+          "name": "INSOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.626.024/0001-42",
+          "registration": "16341",
+          "processNumber": "SRE/1912/2024",
+          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "41.592.532/0001-42",
+          "volume": 5000000,
+          "date": "2024-06-28",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 10,
+          "volume": 71650000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 7,
+          "volume": 194964822.18
+        }
+      ]
+    },
+    {
       "key": "CNPJ:33817677000176",
       "name": "ABC BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "33.817.677/0001-76",
@@ -13854,212 +14076,6 @@
           "market": "FII",
           "count": 1,
           "volume": 3000000
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:41592532000142",
-      "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "cnpj": "41.592.532/0001-42",
-      "stats12m": {
-        "offers": 7,
-        "volume": 36650000,
-        "offersWithVolume": 7,
-        "averageTicket": 5235714.285714285
-      },
-      "byMonth": [
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 5000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-08",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 6000000
-        },
-        {
-          "month": "2026-10",
-          "count": 3,
-          "volume": 18150000
-        },
-        {
-          "month": "2026-11",
-          "count": 1,
-          "volume": 2500000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "19ac8ca30568979b",
-          "market": "FIDC",
-          "name": "EDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.865.749/0001-06",
-          "registration": "28599",
-          "processNumber": "SRE/3601/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 2500000,
-          "date": "2026-11-05",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "df1065fa04913d39",
-          "market": "FIDC",
-          "name": "ATLAS CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.238.677/0001-04",
-          "registration": "28501",
-          "processNumber": "SRE/3503/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 5000000,
-          "date": "2026-10-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7eb2893c95eced71",
-          "market": "FIDC",
-          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.237.118/0001-34",
-          "registration": "28326",
-          "processNumber": "SRE/3344/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 2650000,
-          "date": "2026-10-14",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "424f09427a246277",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS APTX - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.566.022/0001-57",
-          "registration": "28221",
-          "processNumber": "SRE/3248/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10500000,
-          "date": "2026-10-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "ebf9c777ba398e06",
-          "market": "FIDC",
-          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.166.580/0001-98",
-          "registration": "28038",
-          "processNumber": "SRE/3106/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 4500000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "1a38df3b7ae6f5e9",
-          "market": "FIDC",
-          "name": "FRONTIER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.166.580/0001-98",
-          "registration": "28053",
-          "processNumber": "SRE/3105/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 1500000,
-          "date": "2026-09-24",
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "c03fd825dfa196fb",
-          "market": "FIDC",
-          "name": "BRIDGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.784.717/0001-05",
-          "registration": "27667",
-          "processNumber": "SRE/2744/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10000000,
-          "date": "2026-08-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "368dd16a77e7ae17",
-          "market": "FIDC",
-          "name": "LEDOROTAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE ILIMITADA",
-          "cnpj": "61.516.625/0001-03",
-          "registration": "21278",
-          "processNumber": "SRE/2010/2025",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 10000000,
-          "date": "2025-07-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "b59ab9c88bcedf0e",
-          "market": "FIDC",
-          "name": "INSOL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.626.024/0001-42",
-          "registration": "16341",
-          "processNumber": "SRE/1912/2024",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 5000000,
-          "date": "2024-06-28",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 9,
-          "volume": 51650000
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 7,
-          "volume": 194964822.18
         }
       ]
     },
@@ -15571,8 +15587,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
+          "count": 1,
+          "volume": 115000000
         },
         {
           "market": "FII",
@@ -22059,6 +22075,59 @@
           "market": "FII",
           "count": 1,
           "volume": 125000000
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:31681693000159",
+      "name": "INVESTCOOP ASSET MANAGEMENT LTDA.",
+      "cnpj": "31.681.693/0001-59",
+      "stats12m": {
+        "offers": 1,
+        "volume": 100315000,
+        "offersWithVolume": 1,
+        "averageTicket": 100315000
+      },
+      "byMonth": [
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 100315000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8926dc0089287b6b",
+          "market": "FIDC",
+          "name": "ANTECIPA SAÚDE FIDC DE CRÉDITO CORPORATIVO RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.013.556/0001-93",
+          "registration": "28677",
+          "processNumber": "SRE/3669/2026",
+          "leader": "INVESTCOOP ASSET MANAGEMENT LTDA.",
+          "leaderCnpj": "31.681.693/0001-59",
+          "volume": 100315000,
+          "date": "2026-11-12",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 1,
+          "volume": 100315000
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 4,
+          "volume": 381202052.49
         }
       ]
     },

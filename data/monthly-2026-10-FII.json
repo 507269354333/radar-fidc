@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FII",
-  "generatedAt": "2026-11-12T18:57:00.525Z",
+  "generatedAt": "2026-11-13T18:31:23.091Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1769,19 +1769,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-14",
-          "value": 13.65
-        },
         {
           "date": "2026-10-15",
           "value": 13.65
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-11-11",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-12",
           "value": 13.65
         }
       ]
@@ -2151,32 +2151,32 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "12/11/2026",
+      "date": "13/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "11/11/2026",
-      "value": 5.5606,
+      "date": "12/11/2026",
+      "value": 5.6143,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.21,
+      "value": 0.38,
       "label": "IPCA projetado",
       "unit": "%"
     },
@@ -2242,7 +2242,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.368067786741223,
+            "value": 12.249268253886276,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2383,7 +2383,7 @@
         "scores": {
           "IROP": 91.45833333333334,
           "IRBD": 91.66666666666667,
-          "IRCC": 31.547905165194784,
+          "IRCC": 25.19150656662994,
           "IRFC": 45.51470588235294,
           "IRPM": 77.67524509803923
         },
@@ -2424,17 +2424,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 60669342336.86498,
+            "volume": 60779342336.86498,
             "offers": 713
           },
           {
             "label": "Base",
-            "volume": 64178711625.09998,
+            "volume": 64288711625.09998,
             "offers": 758
           },
           {
             "label": "Expansão",
-            "volume": 73736873972.80998,
+            "volume": 73846873972.80998,
             "offers": 866
           }
         ],
@@ -2450,17 +2450,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 18477645398.45,
+            "volume": 17148431398.45,
             "offers": 63
           },
           {
             "label": "Base",
-            "volume": 19324009875.34,
+            "volume": 17994795875.34,
             "offers": 66
           },
           {
             "label": "Expansão",
-            "volume": 20331816039.53,
+            "volume": 19002602039.53,
             "offers": 72
           }
         ],

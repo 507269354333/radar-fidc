@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:57:00.412Z",
+  "generatedAt": "2026-11-13T18:31:23.011Z",
   "market": "ALL",
   "current": {
     "period": {
@@ -554,14 +554,14 @@
   "benchmarks": {
     "prior4Average": {
       "offers": 47.25,
-      "volume": 7132055620.710001,
+      "volume": 6799752120.710001,
       "leaders": 22.75,
       "professionalShare": 0.9292325904720863,
       "top3Concentration": 0.3637164267416368
     },
     "currentVsPrior4Average": {
       "offersPct": -25.925925925925924,
-      "volumePct": -53.120490482838456
+      "volumePct": -50.829491514892325
     }
   },
   "history": {
@@ -608,7 +608,7 @@
           "end": "2026-10-18"
         },
         "offers": 34,
-        "volume": 6855121000.57,
+        "volume": 5525907000.57,
         "leaders": 17
       },
       {
@@ -643,7 +643,7 @@
   "observations": [
     "Atividade semanal de 35 ofertas ALL, 28,6% abaixo da semana anterior.",
     "Volume informado de R$ 3.343.472.693 em 31 ofertas com valor positivo; ticket médio de R$ 107.853.958.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 53,1% abaixo e a quantidade de ofertas 25,9% abaixo.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 50,8% abaixo e a quantidade de ofertas 25,9% abaixo.",
     "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA. liderou por quantidade de registros (7); os três coordenadores mais presentes concentraram 42,9% das ofertas da semana.",
     "80,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Consignado (3), Agronegócio (2), Imobiliário logístico (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -653,17 +653,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-12T08:00:40.937671"
+      "updatedAt": "2026-11-13T08:00:41.082289"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-12T18:57:00.337Z"
+      "updatedAt": "2026-11-13T18:31:22.957Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "12/11/2026 09:42"
+      "updatedAt": "13/11/2026 09:36"
     }
   },
   "macro": {
@@ -672,19 +672,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-14",
-          "value": 13.65
-        },
         {
           "date": "2026-10-15",
           "value": 13.65
@@ -759,6 +755,10 @@
         },
         {
           "date": "2026-11-11",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-12",
           "value": 13.65
         }
       ]
@@ -1054,32 +1054,32 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "12/11/2026",
+      "date": "13/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "11/11/2026",
+      "date": "12/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "11/11/2026",
-      "value": 5.5606,
+      "date": "12/11/2026",
+      "value": 5.6143,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
     "ipcaProjection": {
       "date": null,
-      "value": 0.21,
+      "value": 0.38,
       "label": "IPCA projetado",
       "unit": "%"
     },
@@ -1105,17 +1105,17 @@
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4660,
+      "count": 4662,
       "latestMonth": "2026-11",
-      "offersInMonth": 35,
-      "volumeInMonth": 1684663693.47
+      "offersInMonth": 37,
+      "volumeInMonth": 1834978693.47
     },
     {
       "market": "FIAGRO",
-      "count": 190,
+      "count": 193,
       "latestMonth": "2026-11",
-      "offersInMonth": 4,
-      "volumeInMonth": 10670000000
+      "offersInMonth": 7,
+      "volumeInMonth": 12145000000
     },
     {
       "market": "FII",
@@ -1159,7 +1159,7 @@
           },
           {
             "label": "IRCC",
-            "value": 14.368067786741223,
+            "value": 12.249268253886276,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1300,7 +1300,7 @@
         "scores": {
           "IROP": 91.45833333333334,
           "IRBD": 91.66666666666667,
-          "IRCC": 31.547905165194784,
+          "IRCC": 25.19150656662994,
           "IRFC": 45.51470588235294,
           "IRPM": 77.67524509803923
         },
