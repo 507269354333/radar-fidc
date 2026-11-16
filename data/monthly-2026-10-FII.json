@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FII",
-  "generatedAt": "2026-11-13T18:31:23.091Z",
+  "generatedAt": "2026-11-16T21:02:31.354Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -329,9 +329,9 @@
       "month": "2026-09",
       "offers": 38,
       "offersWithVolume": 38,
-      "registeredVolume": 11654562740.01,
-      "analyticalVolume": 11654562740.01,
-      "averageTicket": 306699019.47394735,
+      "registeredVolume": 11345802740.01,
+      "analyticalVolume": 11345802740.01,
+      "averageTicket": 298573756.3160526,
       "issuers": 37,
       "leaders": 16,
       "topLeaders": [
@@ -345,7 +345,7 @@
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
           "count": 4,
-          "volume": 1816220019.96
+          "volume": 1507460019.96
         },
         {
           "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -506,24 +506,6 @@
           ]
         },
         {
-          "name": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "66.768.655/0001-12",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "count": 1,
-          "volume": 617520000,
-          "records": [
-            {
-              "id": "3349e44559d69a8b",
-              "registration": "27765",
-              "processNumber": "SRE/2828/2026",
-              "volume": 617520000,
-              "date": "2026-09-03",
-              "status": "Registro Concedido",
-              "publications": []
-            }
-          ]
-        },
-        {
           "name": "ITAÚ CRÉDITO IMOBILIÁRIO CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
           "cnpj": "64.542.109/0001-33",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -612,6 +594,24 @@
               "publications": []
             }
           ]
+        },
+        {
+          "name": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.768.655/0001-12",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "count": 1,
+          "volume": 308760000,
+          "records": [
+            {
+              "id": "3349e44559d69a8b",
+              "registration": "27765",
+              "processNumber": "SRE/2828/2026",
+              "volume": 308760000,
+              "date": "2026-09-03",
+              "status": "Registro Concedido",
+              "publications": []
+            }
+          ]
         }
       ],
       "outliers": [],
@@ -643,8 +643,8 @@
     },
     "changes": {
       "offersPct": -21.052631578947366,
-      "officialVolumePct": -30.796624857132304,
-      "analyticalVolumePct": -30.796624857132304
+      "officialVolumePct": -28.913352725689183,
+      "analyticalVolumePct": -28.913352725689183
     },
     "indices": {
       "month": "2026-10",
@@ -658,13 +658,13 @@
       "offerPressure": {
         "code": "IROP",
         "name": "Índice Radar de Oferta Primária",
-        "score": 66.77083333333334,
+        "score": 70.10416666666667,
         "components": {
-          "volume": 54.166666666666664,
+          "volume": 62.5,
           "quantity": 70.83333333333334,
           "breadth": 81.25
         },
-        "interpretation": "intermediária",
+        "interpretation": "forte",
         "education": {
           "code": "IROP",
           "name": "Índice Radar de Oferta Primária",
@@ -683,9 +683,9 @@
             "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
             "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
           ],
-          "score": 66.77083333333334,
-          "band": "faixa intermediária",
-          "currentReading": "A intensidade das ofertas está intermediária frente à janela recente. Score 67/100, faixa intermediária próximo da transição para a faixa alta."
+          "score": 70.10416666666667,
+          "band": "faixa alta",
+          "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 70/100, faixa alta."
         }
       },
       "breadth": {
@@ -810,7 +810,7 @@
       "pulse": {
         "code": "IRPM",
         "name": "Índice Radar de Pulso de Mercado",
-        "score": 60.39399509803922,
+        "score": 62.72732843137255,
         "interpretation": "equilibrado",
         "education": {
           "code": "IRPM",
@@ -830,38 +830,38 @@
             "Não substitui análise de cada vertical ou operação.",
             "Ainda está construindo histórico de validação fora da amostra."
           ],
-          "score": 60.39399509803922,
+          "score": 62.72732843137255,
           "band": "faixa intermediária",
-          "currentReading": "O pulso está equilibrado: atividade e funding ainda não formam um sinal extremo. Score 60/100, faixa intermediária próximo da transição para a faixa alta."
+          "currentReading": "O pulso está equilibrado: atividade e funding ainda não formam um sinal extremo. Score 63/100, faixa intermediária próximo da transição para a faixa alta."
         }
       },
       "projection": {
         "year": 2026,
         "actualThrough": "2026-10",
-        "officialActualVolume": 57886877425.93001,
-        "adjustedActualVolume": 57886877425.93001,
+        "officialActualVolume": 55078117425.93001,
+        "adjustedActualVolume": 55078117425.93001,
         "actualOffers": 183,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 63349181772.115005,
+            "volume": 60511155686.79001,
             "offers": 199,
-            "monthlyVolumeAssumption": 2731152173.0924997,
+            "monthlyVolumeAssumption": 2716519130.4300003,
             "monthlyOfferAssumption": 7.75
           },
           {
             "label": "Base",
-            "volume": 71353084350.56001,
+            "volume": 66609374701.850006,
             "offers": 217,
-            "monthlyVolumeAssumption": 6733103462.315001,
+            "monthlyVolumeAssumption": 5765628637.959999,
             "monthlyOfferAssumption": 17
           },
           {
             "label": "Expansão",
-            "volume": 75716478651.35,
+            "volume": 72612918401.14001,
             "offers": 246,
-            "monthlyVolumeAssumption": 8914800612.71,
+            "monthlyVolumeAssumption": 8767400487.605,
             "monthlyOfferAssumption": 31.25
           }
         ],
@@ -1197,9 +1197,9 @@
         "month": "2026-09",
         "offers": 38,
         "offersWithVolume": 38,
-        "registeredVolume": 11654562740.01,
-        "analyticalVolume": 11654562740.01,
-        "averageTicket": 306699019.47394735,
+        "registeredVolume": 11345802740.01,
+        "analyticalVolume": 11345802740.01,
+        "averageTicket": 298573756.3160526,
         "issuers": 37,
         "leaders": 16,
         "topLeaders": [
@@ -1213,7 +1213,7 @@
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
             "cnpj": "04.845.753/0001-59",
             "count": 4,
-            "volume": 1816220019.96
+            "volume": 1507460019.96
           },
           {
             "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -1374,24 +1374,6 @@
             ]
           },
           {
-            "name": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-            "cnpj": "66.768.655/0001-12",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "count": 1,
-            "volume": 617520000,
-            "records": [
-              {
-                "id": "3349e44559d69a8b",
-                "registration": "27765",
-                "processNumber": "SRE/2828/2026",
-                "volume": 617520000,
-                "date": "2026-09-03",
-                "status": "Registro Concedido",
-                "publications": []
-              }
-            ]
-          },
-          {
             "name": "ITAÚ CRÉDITO IMOBILIÁRIO CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
             "cnpj": "64.542.109/0001-33",
             "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -1480,6 +1462,24 @@
                 "publications": []
               }
             ]
+          },
+          {
+            "name": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+            "cnpj": "66.768.655/0001-12",
+            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "count": 1,
+            "volume": 308760000,
+            "records": [
+              {
+                "id": "3349e44559d69a8b",
+                "registration": "27765",
+                "processNumber": "SRE/2828/2026",
+                "volume": 308760000,
+                "date": "2026-09-03",
+                "status": "Registro Concedido",
+                "publications": []
+              }
+            ]
           }
         ],
         "outliers": [],
@@ -1511,8 +1511,8 @@
       },
       "changes": {
         "offersPct": -21.052631578947366,
-        "officialVolumePct": -30.796624857132304,
-        "analyticalVolumePct": -30.796624857132304
+        "officialVolumePct": -28.913352725689183,
+        "analyticalVolumePct": -28.913352725689183
       },
       "indices": {
         "month": "2026-10",
@@ -1526,13 +1526,13 @@
         "offerPressure": {
           "code": "IROP",
           "name": "Índice Radar de Oferta Primária",
-          "score": 66.77083333333334,
+          "score": 70.10416666666667,
           "components": {
-            "volume": 54.166666666666664,
+            "volume": 62.5,
             "quantity": 70.83333333333334,
             "breadth": 81.25
           },
-          "interpretation": "intermediária",
+          "interpretation": "forte",
           "education": {
             "code": "IROP",
             "name": "Índice Radar de Oferta Primária",
@@ -1551,9 +1551,9 @@
               "Uma janela de 12 meses captura o ciclo recente, não um ciclo econômico completo.",
               "Não mede qualidade de crédito, retorno ou atratividade de uma oferta."
             ],
-            "score": 66.77083333333334,
-            "band": "faixa intermediária",
-            "currentReading": "A intensidade das ofertas está intermediária frente à janela recente. Score 67/100, faixa intermediária próximo da transição para a faixa alta."
+            "score": 70.10416666666667,
+            "band": "faixa alta",
+            "currentReading": "A intensidade relativa das ofertas está forte frente à janela recente. Score 70/100, faixa alta."
           }
         },
         "breadth": {
@@ -1678,7 +1678,7 @@
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado",
-          "score": 60.39399509803922,
+          "score": 62.72732843137255,
           "interpretation": "equilibrado",
           "education": {
             "code": "IRPM",
@@ -1698,38 +1698,38 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 60.39399509803922,
+            "score": 62.72732843137255,
             "band": "faixa intermediária",
-            "currentReading": "O pulso está equilibrado: atividade e funding ainda não formam um sinal extremo. Score 60/100, faixa intermediária próximo da transição para a faixa alta."
+            "currentReading": "O pulso está equilibrado: atividade e funding ainda não formam um sinal extremo. Score 63/100, faixa intermediária próximo da transição para a faixa alta."
           }
         },
         "projection": {
           "year": 2026,
           "actualThrough": "2026-10",
-          "officialActualVolume": 57886877425.93001,
-          "adjustedActualVolume": 57886877425.93001,
+          "officialActualVolume": 55078117425.93001,
+          "adjustedActualVolume": 55078117425.93001,
           "actualOffers": 183,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 63349181772.115005,
+              "volume": 60511155686.79001,
               "offers": 199,
-              "monthlyVolumeAssumption": 2731152173.0924997,
+              "monthlyVolumeAssumption": 2716519130.4300003,
               "monthlyOfferAssumption": 7.75
             },
             {
               "label": "Base",
-              "volume": 71353084350.56001,
+              "volume": 66609374701.850006,
               "offers": 217,
-              "monthlyVolumeAssumption": 6733103462.315001,
+              "monthlyVolumeAssumption": 5765628637.959999,
               "monthlyOfferAssumption": 17
             },
             {
               "label": "Expansão",
-              "volume": 75716478651.35,
+              "volume": 72612918401.14001,
               "offers": 246,
-              "monthlyVolumeAssumption": 8914800612.71,
+              "monthlyVolumeAssumption": 8767400487.605,
               "monthlyOfferAssumption": 31.25
             }
           ],
@@ -1739,9 +1739,9 @@
       },
       "editorial": [
         "A quantidade de ofertas FII ficou 21,1% abaixo da última competência disponível (2026-09).",
-        "O volume analítico ajustado ficou 30,8% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
+        "O volume analítico ajustado ficou 28,9% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
         "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 4 ofertas.",
-        "O IROP encerrou em 67/100 (intermediária); o IRPM ficou em 60/100 (equilibrado)."
+        "O IROP encerrou em 70/100 (forte); o IRPM ficou em 63/100 (equilibrado)."
       ],
       "transmission": [
         {
@@ -1769,19 +1769,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-15",
-          "value": 13.65
-        },
         {
           "date": "2026-10-16",
           "value": 13.65
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-11-12",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-13",
           "value": 13.65
         }
       ]
@@ -2151,26 +2151,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "12/11/2026",
+      "date": "13/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "12/11/2026",
+      "date": "13/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "12/11/2026",
-      "value": 5.6143,
+      "date": "13/11/2026",
+      "value": 5.6518,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2187,18 +2187,7 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [
-    {
-      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
-      "source": "CVM"
-    },
-    {
-      "title": "Colegiado da CVM rejeita propostas de Termo de Compromisso com Riza Securitizadora S.A., ex-Virgo Companhia de Securitização, e seus ex-diretores",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-propostas-de-termo-de-compromisso-com-riza-securitizadora-s-a-ex-virgo-companhia-de-securitizacao-e-seus-ex-diretores",
-      "source": "CVM"
-    }
-  ],
+  "regulatoryHighlights": [],
   "houseView": {
     "headline": "FII liderou o volume analítico entre as verticais acompanhadas.",
     "principles": [
@@ -2227,7 +2216,7 @@
         "evidence": [
           {
             "label": "IROP agregado",
-            "value": 84.68750000000001,
+            "value": 83.5763888888889,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2242,7 +2231,7 @@
           },
           {
             "label": "IRCC",
-            "value": 12.249268253886276,
+            "value": 12.227075551831943,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2267,22 +2256,22 @@
       },
       {
         "id": "leading-vertical",
-        "title": "FIDC lidera a pressão relativa de oferta",
-        "statement": "Na competência 2026-10, FIDC apresenta o maior IROP entre as três verticais. Isso mede intensidade relativa do pipeline na própria história do segmento; não significa maior retorno, melhor qualidade ou captação garantida.",
+        "title": "FIAGRO lidera a pressão relativa de oferta",
+        "statement": "Na competência 2026-10, FIAGRO apresenta o maior IROP entre as três verticais. Isso mede intensidade relativa do pipeline na própria história do segmento; não significa maior retorno, melhor qualidade ou captação garantida.",
         "evidence": [
           {
-            "label": "IROP FIDC",
-            "value": 95.83333333333334,
+            "label": "IROP FIAGRO",
+            "value": 91.45833333333334,
             "source": "Metodologia Radar / CVM"
           },
           {
-            "label": "IRBD FIDC",
-            "value": 95.83333333333334,
+            "label": "IRBD FIAGRO",
+            "value": 91.66666666666667,
             "source": "Metodologia Radar / CVM"
           },
           {
-            "label": "IRPM FIDC",
-            "value": 80.73774509803923,
+            "label": "IRPM FIAGRO",
+            "value": 77.67524509803923,
             "source": "Metodologia Radar / CVM + BCB"
           },
           {
@@ -2299,7 +2288,7 @@
           "funding restritivo pode aumentar seletividade"
         ],
         "confirms": [
-          "IROP de FIDC permanece acima das demais verticais",
+          "IROP de FIAGRO permanece acima das demais verticais",
           "breadth acompanha o aumento de oferta",
           "novas competências mantêm atividade sem depender de poucos coordenadores"
         ],
@@ -2317,7 +2306,7 @@
         "evidence": [
           {
             "label": "IROP FII",
-            "value": 66.77083333333334,
+            "value": 70.10416666666667,
             "source": "Metodologia Radar / CVM"
           },
           {
@@ -2332,7 +2321,7 @@
           },
           {
             "label": "Cenário base anual",
-            "value": 71353084350.56001,
+            "value": 66609374701.850006,
             "source": "Cenário Radar"
           }
         ],
@@ -2363,11 +2352,11 @@
         "headline": "Pipeline forte, capital ainda seletivo",
         "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
-          "IROP": 95.83333333333334,
+          "IROP": 89.16666666666669,
           "IRBD": 95.83333333333334,
-          "IRCC": 6.038479083183482,
+          "IRCC": 4.822543363467581,
           "IRFC": 45.51470588235294,
-          "IRPM": 80.73774509803923
+          "IRPM": 76.07107843137256
         },
         "bands": {
           "offer": "alto",
@@ -2383,7 +2372,7 @@
         "scores": {
           "IROP": 91.45833333333334,
           "IRBD": 91.66666666666667,
-          "IRCC": 25.19150656662994,
+          "IRCC": 26.34086418018284,
           "IRFC": 45.51470588235294,
           "IRPM": 77.67524509803923
         },
@@ -2396,17 +2385,17 @@
       },
       {
         "market": "FII",
-        "headline": "Mercado em leitura intermediária",
-        "statement": "Oferta primária e funding precisam ser lidos em conjunto antes de inferir expansão ou retração.",
+        "headline": "Pipeline forte, capital ainda seletivo",
+        "statement": "A atividade de ofertas está elevada em relação à própria história recente, enquanto as condições de funding permanecem menos favoráveis. Isso tende a aumentar a importância de estrutura, documentação, diferenciação e janela de distribuição.",
         "scores": {
-          "IROP": 66.77083333333334,
+          "IROP": 70.10416666666667,
           "IRBD": 81.25,
           "IRCC": 5.517819111845403,
           "IRFC": 45.51470588235294,
-          "IRPM": 60.39399509803922
+          "IRPM": 62.72732843137255
         },
         "bands": {
-          "offer": "intermediário",
+          "offer": "alto",
           "funding": "intermediário",
           "pulse": "intermediário",
           "concentration": "baixo"
@@ -2417,24 +2406,24 @@
       {
         "market": "FIDC",
         "current": {
-          "IROP": 95.83333333333334,
-          "IRPM": 80.73774509803923,
+          "IROP": 89.16666666666669,
+          "IRPM": 76.07107843137256,
           "IRFC": 45.51470588235294
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 60779342336.86498,
+            "volume": 58454342336.86499,
             "offers": 713
           },
           {
             "label": "Base",
-            "volume": 64288711625.09998,
+            "volume": 61963711625.09999,
             "offers": 758
           },
           {
             "label": "Expansão",
-            "volume": 73846873972.80998,
+            "volume": 70954970519.69499,
             "offers": 866
           }
         ],
@@ -2450,17 +2439,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 17148431398.45,
+            "volume": 16788431398.45,
             "offers": 63
           },
           {
             "label": "Base",
-            "volume": 17994795875.34,
+            "volume": 17423943875.34,
             "offers": 66
           },
           {
             "label": "Expansão",
-            "volume": 19002602039.53,
+            "volume": 18642602039.53,
             "offers": 72
           }
         ],
@@ -2469,24 +2458,24 @@
       {
         "market": "FII",
         "current": {
-          "IROP": 66.77083333333334,
-          "IRPM": 60.39399509803922,
+          "IROP": 70.10416666666667,
+          "IRPM": 62.72732843137255,
           "IRFC": 45.51470588235294
         },
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 63349181772.115005,
+            "volume": 60511155686.79001,
             "offers": 199
           },
           {
             "label": "Base",
-            "volume": 71353084350.56001,
+            "volume": 66609374701.850006,
             "offers": 217
           },
           {
             "label": "Expansão",
-            "volume": 75716478651.35,
+            "volume": 72612918401.14001,
             "offers": 246
           }
         ],

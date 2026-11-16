@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-13T18:31:23.039Z",
+  "generatedAt": "2026-11-16T21:02:31.295Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-13T08:00:41.082289"
+    "updatedAt": "2026-11-16T08:01:23.071325"
   },
   "coordinators": [
     {
@@ -595,7 +595,7 @@
         {
           "market": "FIDC",
           "count": 81,
-          "volume": 24612390133.030003
+          "volume": 24412390133.030003
         },
         {
           "market": "FIAGRO",
@@ -605,7 +605,7 @@
         {
           "market": "FII",
           "count": 148,
-          "volume": 74599323026.59001
+          "volume": 73288767466.95001
         }
       ]
     },
@@ -1327,7 +1327,7 @@
           "date": "2026-10-27",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1359,7 +1359,7 @@
           "date": "2026-10-22",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1818,10 +1818,10 @@
       "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
       "cnpj": "22.610.500/0001-88",
       "stats12m": {
-        "offers": 16,
-        "volume": 1260598779.0800002,
-        "offersWithVolume": 16,
-        "averageTicket": 78787423.69250001
+        "offers": 17,
+        "volume": 1360598779.0800002,
+        "offersWithVolume": 17,
+        "averageTicket": 80035222.29882354
       },
       "byMonth": [
         {
@@ -1867,17 +1867,17 @@
         {
           "month": "2025-06",
           "count": 2,
-          "volume": 229500000
+          "volume": 153000000
         },
         {
           "month": "2025-07",
           "count": 1,
-          "volume": 300000000
+          "volume": 150000000
         },
         {
           "month": "2025-11",
           "count": 2,
-          "volume": 405000000
+          "volume": 347500000
         },
         {
           "month": "2026-02",
@@ -1911,11 +1911,27 @@
         },
         {
           "month": "2026-11",
-          "count": 6,
-          "volume": 165000000
+          "count": 7,
+          "volume": 265000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "a07ec0cce322a78b",
+          "market": "FII",
+          "name": "MANDACARU 333 FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.963.766/0001-78",
+          "registration": "28689",
+          "processNumber": "SRE/3679/2026",
+          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+          "leaderCnpj": "22.610.500/0001-88",
+          "volume": 100000000,
+          "date": "2026-11-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "9891c42c4390b9f8",
           "market": "FII",
@@ -2197,7 +2213,7 @@
           "processNumber": "SRE/3788/2025",
           "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "leaderCnpj": "22.610.500/0001-88",
-          "volume": 115000000,
+          "volume": 57500000,
           "date": "2025-11-19",
           "rite": "Automático",
           "audience": "Profissional",
@@ -2213,7 +2229,7 @@
           "processNumber": "SRE/2208/2025",
           "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "leaderCnpj": "22.610.500/0001-88",
-          "volume": 300000000,
+          "volume": 150000000,
           "date": "2025-07-21",
           "rite": "Automático",
           "audience": "Profissional",
@@ -2229,7 +2245,7 @@
           "processNumber": "SRE/2383/2025",
           "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "leaderCnpj": "22.610.500/0001-88",
-          "volume": 153000000,
+          "volume": 76500000,
           "date": "2025-06-30",
           "rite": "Automático",
           "audience": "Profissional",
@@ -2379,29 +2395,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "2a25210f0e4a42bf",
-          "market": "FII",
-          "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SYN 5 RESPONSABILIDADE LIMITADA",
-          "cnpj": "58.564.382/0001-66",
-          "registration": "19033",
-          "processNumber": "SRE/0025/2025",
-          "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "22.610.500/0001-88",
-          "volume": 6000000,
-          "date": "2025-01-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 164,
-          "volume": 11248102161.209995
+          "count": 165,
+          "volume": 11298102161.209995
         },
         {
           "market": "FIAGRO",
@@ -2410,8 +2410,8 @@
         },
         {
           "market": "FII",
-          "count": 91,
-          "volume": 7102616722.009998
+          "count": 92,
+          "volume": 6918616722.009998
         }
       ]
     },
@@ -3036,9 +3036,9 @@
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
         "offers": 13,
-        "volume": 8359467211.42,
+        "volume": 8050707211.42,
         "offersWithVolume": 13,
-        "averageTicket": 643035939.34
+        "averageTicket": 619285170.1092308
       },
       "byMonth": [
         {
@@ -3054,12 +3054,12 @@
         {
           "month": "2024-10",
           "count": 1,
-          "volume": 720000000
+          "volume": 240000000
         },
         {
           "month": "2025-01",
           "count": 1,
-          "volume": 999180000
+          "volume": 384300000
         },
         {
           "month": "2025-06",
@@ -3089,7 +3089,7 @@
         {
           "month": "2026-09",
           "count": 4,
-          "volume": 1816220019.96
+          "volume": 1507460019.96
         },
         {
           "month": "2026-10",
@@ -3155,7 +3155,7 @@
           "processNumber": "SRE/2828/2026",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "leaderCnpj": "04.845.753/0001-59",
-          "volume": 617520000,
+          "volume": 308760000,
           "date": "2026-09-03",
           "rite": "Automático",
           "audience": "Profissional",
@@ -3347,7 +3347,7 @@
           "processNumber": "SRE/0233/2025",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "leaderCnpj": "04.845.753/0001-59",
-          "volume": 999180000,
+          "volume": 384300000,
           "date": "2025-01-28",
           "rite": "Automático",
           "audience": "Qualificado",
@@ -3363,7 +3363,7 @@
           "processNumber": "SRE/3295/2024",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "leaderCnpj": "04.845.753/0001-59",
-          "volume": 720000000,
+          "volume": 240000000,
           "date": "2024-10-23",
           "rite": "Automático",
           "audience": "Profissional",
@@ -3407,17 +3407,17 @@
         {
           "market": "FIDC",
           "count": 59,
-          "volume": 18369045059
+          "volume": 18456045059
         },
         {
           "market": "FIAGRO",
-          "count": 17,
+          "count": 18,
           "volume": 5626284000
         },
         {
           "market": "FII",
           "count": 19,
-          "volume": 11952159211.42
+          "volume": 10548519211.42
         }
       ]
     },
@@ -3427,9 +3427,9 @@
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
         "offers": 11,
-        "volume": 3947375658.9700003,
+        "volume": 1447375658.97,
         "offersWithVolume": 11,
-        "averageTicket": 358852332.6336364
+        "averageTicket": 131579605.36090909
       },
       "byMonth": [
         {
@@ -3510,7 +3510,7 @@
         {
           "month": "2026-06",
           "count": 2,
-          "volume": 3050000000
+          "volume": 550000000
         },
         {
           "month": "2026-09",
@@ -3581,7 +3581,7 @@
           "processNumber": "SRE/1988/2026",
           "leader": "BANCO DAYCOVAL S.A.",
           "leaderCnpj": "62.232.889/0001-90",
-          "volume": 3000000000,
+          "volume": 500000000,
           "date": "2026-06-23",
           "rite": "Automático",
           "audience": "Profissional",
@@ -4009,17 +4009,17 @@
         {
           "market": "FIDC",
           "count": 211,
-          "volume": 18710952056.010002
+          "volume": 17585952056.010002
         },
         {
           "market": "FIAGRO",
           "count": 21,
-          "volume": 2179127400
+          "volume": 1819127400
         },
         {
           "market": "FII",
           "count": 44,
-          "volume": 6749012290.5
+          "volume": 4249012290.5000005
         }
       ]
     },
@@ -5106,7 +5106,7 @@
         {
           "market": "FIDC",
           "count": 1073,
-          "volume": 59547520460.90993
+          "volume": 57071520460.90996
         },
         {
           "market": "FIAGRO",
@@ -7342,7 +7342,7 @@
         {
           "market": "FIAGRO",
           "count": 3,
-          "volume": 260255750000
+          "volume": 30255750000
         },
         {
           "market": "FII",
@@ -12567,6 +12567,80 @@
       ]
     },
     {
+      "key": "CNPJ:11468803000191",
+      "name": "PRADA ADMINISTRADORA DE RECURSOS LTDA.",
+      "cnpj": "11.468.803/0001-91",
+      "stats12m": {
+        "offers": 2,
+        "volume": 15974999.36,
+        "offersWithVolume": 2,
+        "averageTicket": 7987499.68
+      },
+      "byMonth": [
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 15000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 974999.36
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "0e91ed11d5304c22",
+          "market": "FII",
+          "name": "CAATIVA CACAU FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.952.986/0001-10",
+          "registration": "28634",
+          "processNumber": "SRE/3680/2026",
+          "leader": "PRADA ADMINISTRADORA DE RECURSOS LTDA.",
+          "leaderCnpj": "11.468.803/0001-91",
+          "volume": 974999.36,
+          "date": "2026-11-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "a64aefb2e1e4c8f9",
+          "market": "FII",
+          "name": "CAATIVA CACAU FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.952.986/0001-10",
+          "registration": "23824",
+          "processNumber": "SRE/4234/2025",
+          "leader": "PRADA ADMINISTRADORA DE RECURSOS LTDA.",
+          "leaderCnpj": "11.468.803/0001-91",
+          "volume": 15000000,
+          "date": "2025-12-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 2,
+          "volume": 15974999.36
+        }
+      ]
+    },
+    {
       "key": "CNPJ:33775974000104",
       "name": "ATIVA INVESTIMENTOS S.A. C.T.C.V.",
       "cnpj": "33.775.974/0001-04",
@@ -14765,59 +14839,6 @@
           "market": "FII",
           "count": 1,
           "volume": 40648000
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:11468803000191",
-      "name": "PRADA ADMINISTRADORA DE RECURSOS LTDA.",
-      "cnpj": "11.468.803/0001-91",
-      "stats12m": {
-        "offers": 1,
-        "volume": 15000000,
-        "offersWithVolume": 1,
-        "averageTicket": 15000000
-      },
-      "byMonth": [
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 15000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "a64aefb2e1e4c8f9",
-          "market": "FII",
-          "name": "CAATIVA CACAU FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.952.986/0001-10",
-          "registration": "23824",
-          "processNumber": "SRE/4234/2025",
-          "leader": "PRADA ADMINISTRADORA DE RECURSOS LTDA.",
-          "leaderCnpj": "11.468.803/0001-91",
-          "volume": 15000000,
-          "date": "2025-12-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 15000000
         }
       ]
     },

@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-11-13T18:31:23.037Z",
+  "generatedAt": "2026-11-16T21:02:31.293Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-13T08:00:41.082289"
+    "updatedAt": "2026-11-16T08:01:23.071325"
   },
   "coordinators": [
     {
@@ -12,7 +12,7 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 12,
+        "offers": 13,
         "volume": 4891284000,
         "offersWithVolume": 11,
         "averageTicket": 444662181.8181818
@@ -70,11 +70,27 @@
         },
         {
           "month": "2026-11",
-          "count": 3,
+          "count": 4,
           "volume": 1960000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "a4389d0c7f59fa5b",
+          "market": "FIAGRO",
+          "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
+          "cnpj": "69.984.140/0001-48",
+          "registration": "28697",
+          "processNumber": "SRE/3686/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 0,
+          "date": "2026-11-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
         {
           "id": "9ec297adda443104",
           "market": "FIAGRO",
@@ -352,17 +368,17 @@
         {
           "market": "FIDC",
           "count": 59,
-          "volume": 18369045059
+          "volume": 18456045059
         },
         {
           "market": "FIAGRO",
-          "count": 17,
+          "count": 18,
           "volume": 5626284000
         },
         {
           "market": "FII",
           "count": 19,
-          "volume": 11952159211.42
+          "volume": 10548519211.42
         }
       ]
     },
@@ -372,9 +388,9 @@
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
         "offers": 11,
-        "volume": 1176327400,
+        "volume": 816327400,
         "offersWithVolume": 11,
-        "averageTicket": 106938854.54545455
+        "averageTicket": 74211581.81818181
       },
       "byMonth": [
         {
@@ -440,7 +456,7 @@
         {
           "month": "2026-08",
           "count": 2,
-          "volume": 455000000
+          "volume": 175000000
         },
         {
           "month": "2026-09",
@@ -450,7 +466,7 @@
         {
           "month": "2026-10",
           "count": 4,
-          "volume": 364015000
+          "volume": 284015000
         }
       ],
       "recentOffers": [
@@ -495,7 +511,7 @@
           "processNumber": "SRE/3348/2026",
           "leader": "BANCO DAYCOVAL S.A.",
           "leaderCnpj": "62.232.889/0001-90",
-          "volume": 180000000,
+          "volume": 100000000,
           "date": "2026-10-14",
           "rite": "Automático",
           "audience": "Qualificado",
@@ -575,7 +591,7 @@
           "processNumber": "SRE/2737/2026",
           "leader": "BANCO DAYCOVAL S.A.",
           "leaderCnpj": "62.232.889/0001-90",
-          "volume": 420000000,
+          "volume": 140000000,
           "date": "2026-08-27",
           "rite": "Automático",
           "audience": "Profissional",
@@ -795,17 +811,17 @@
         {
           "market": "FIDC",
           "count": 211,
-          "volume": 18710952056.010002
+          "volume": 17585952056.010002
         },
         {
           "market": "FIAGRO",
           "count": 21,
-          "volume": 2179127400
+          "volume": 1819127400
         },
         {
           "market": "FII",
           "count": 44,
-          "volume": 6749012290.5
+          "volume": 4249012290.5000005
         }
       ]
     },
@@ -1075,7 +1091,7 @@
         {
           "market": "FIDC",
           "count": 81,
-          "volume": 24612390133.030003
+          "volume": 24412390133.030003
         },
         {
           "market": "FIAGRO",
@@ -1085,7 +1101,7 @@
         {
           "market": "FII",
           "count": 148,
-          "volume": 74599323026.59001
+          "volume": 73288767466.95001
         }
       ]
     },
@@ -1760,8 +1776,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 164,
-          "volume": 11248102161.209995
+          "count": 165,
+          "volume": 11298102161.209995
         },
         {
           "market": "FIAGRO",
@@ -1770,8 +1786,8 @@
         },
         {
           "market": "FII",
-          "count": 91,
-          "volume": 7102616722.009998
+          "count": 92,
+          "volume": 6918616722.009998
         }
       ]
     },
@@ -2120,7 +2136,7 @@
         {
           "market": "FIDC",
           "count": 1073,
-          "volume": 59547520460.90993
+          "volume": 57071520460.90996
         },
         {
           "market": "FIAGRO",
@@ -2356,9 +2372,9 @@
       "cnpj": "46.482.072/0001-13",
       "stats12m": {
         "offers": 2,
-        "volume": 260000000000,
+        "volume": 30000000000,
         "offersWithVolume": 2,
-        "averageTicket": 130000000000
+        "averageTicket": 15000000000
       },
       "byMonth": [
         {
@@ -2369,7 +2385,7 @@
         {
           "month": "2026-08",
           "count": 1,
-          "volume": 250000000000
+          "volume": 20000000000
         },
         {
           "month": "2026-11",
@@ -2403,7 +2419,7 @@
           "processNumber": "SRE/2779/2026",
           "leader": "BTG PACTUAL INVESTMENT BANKING LTDA.",
           "leaderCnpj": "46.482.072/0001-13",
-          "volume": 250000000000,
+          "volume": 20000000000,
           "date": "2026-08-28",
           "rite": "Automático",
           "audience": "Profissional",
@@ -2436,7 +2452,7 @@
         {
           "market": "FIAGRO",
           "count": 3,
-          "volume": 260255750000
+          "volume": 30255750000
         },
         {
           "market": "FII",
