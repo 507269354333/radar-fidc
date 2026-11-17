@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIAGRO",
-  "generatedAt": "2026-11-16T21:02:31.339Z",
+  "generatedAt": "2026-11-17T19:51:49.314Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1639,19 +1639,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-13",
+        "date": "2026-11-16",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-16",
-          "value": 13.65
-        },
         {
           "date": "2026-10-19",
           "value": 13.65
@@ -1726,6 +1722,10 @@
         },
         {
           "date": "2026-11-13",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-16",
           "value": 13.65
         }
       ]
@@ -2021,26 +2021,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "16/11/2026",
+      "date": "17/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "13/11/2026",
-      "value": 5.6518,
+      "date": "16/11/2026",
+      "value": 5.7324,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2057,7 +2057,28 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [],
+  "regulatoryHighlights": [
+    {
+      "title": "CVM informa que o Sistema SRE ficará temporariamente indisponível",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-informa-que-o-sistema-sre-ficara-temporariamente-indisponivel",
+      "source": "CVM"
+    },
+    {
+      "title": "Área técnica da CVM reforça obrigação da divulgação completa e tempestiva de informações pelas companhias securitizadoras",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-reforca-obrigacao-da-divulgacao-completa-e-tempestiva-de-informacoes-pelas-companhias-securitizadoras",
+      "source": "CVM"
+    },
+    {
+      "title": "CVM revoga suspensão da oferta de CRI da B.SEC Companhia de Securitização",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-revoga-suspensao-da-oferta-de-cri-da-b-sec-companhia-de-securitizacao",
+      "source": "CVM"
+    },
+    {
+      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
+      "source": "CVM"
+    }
+  ],
   "houseView": {
     "headline": "FIAGRO liderou o volume analítico entre as verticais acompanhadas.",
     "principles": [
@@ -2101,7 +2122,7 @@
           },
           {
             "label": "IRCC",
-            "value": 12.227075551831943,
+            "value": 12.269690860608264,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2224,7 +2245,7 @@
         "scores": {
           "IROP": 89.16666666666669,
           "IRBD": 95.83333333333334,
-          "IRCC": 4.822543363467581,
+          "IRCC": 4.95038928979655,
           "IRFC": 45.51470588235294,
           "IRPM": 76.07107843137256
         },
@@ -2293,8 +2314,8 @@
           },
           {
             "label": "Expansão",
-            "volume": 70954970519.69499,
-            "offers": 866
+            "volume": 70829970519.69499,
+            "offers": 867
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -2341,7 +2362,7 @@
           {
             "label": "Base",
             "volume": 66609374701.850006,
-            "offers": 217
+            "offers": 216
           },
           {
             "label": "Expansão",

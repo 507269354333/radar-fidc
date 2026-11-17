@@ -81,9 +81,9 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 4.822543363467581,
-        "countHHI": 4.489322051801875,
-        "volumeHHI": 5.1557646751332875,
+        "score": 4.95038928979655,
+        "countHHI": 4.550144570466822,
+        "volumeHHI": 5.350634009126278,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -102,7 +102,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 4.822543363467581,
+          "score": 4.95038928979655,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 5/100, faixa baixa."
         }
@@ -222,10 +222,10 @@
           },
           {
             "label": "Expansão",
-            "volume": 70954970519.69499,
-            "offers": 866,
-            "monthlyVolumeAssumption": 8553141055.0275,
-            "monthlyOfferAssumption": 106.75
+            "volume": 70829970519.69499,
+            "offers": 867,
+            "monthlyVolumeAssumption": 8490641055.0275,
+            "monthlyOfferAssumption": 107.5
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -662,9 +662,9 @@
           {
             "label": "Base",
             "volume": 66609374701.850006,
-            "offers": 217,
+            "offers": 216,
             "monthlyVolumeAssumption": 5765628637.959999,
-            "monthlyOfferAssumption": 17
+            "monthlyOfferAssumption": 16.5
           },
           {
             "label": "Expansão",
@@ -757,7 +757,7 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração - 3 mercados",
-        "score": 12.227075551831943,
+        "score": 12.269690860608264,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -776,7 +776,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 12.227075551831943,
+          "score": 12.269690860608264,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 12/100, faixa baixa."
         }
@@ -890,16 +890,16 @@
           {
             "label": "Base",
             "volume": 145997030202.28998,
-            "offers": 1041,
+            "offers": 1040,
             "monthlyVolumeAssumption": 10307771833.214998,
-            "monthlyOfferAssumption": 74.5
+            "monthlyOfferAssumption": 74
           },
           {
             "label": "Expansão",
-            "volume": 162210490960.365,
-            "offers": 1184,
-            "monthlyVolumeAssumption": 18414502212.2525,
-            "monthlyOfferAssumption": 145.5
+            "volume": 162085490960.365,
+            "offers": 1185,
+            "monthlyVolumeAssumption": 18352002212.2525,
+            "monthlyOfferAssumption": 146.25
           }
         ],
         "method": "Soma dos cenários analíticos de FIDC, FIAGRO e FII; cada vertical aplica sua própria regra de outlier antes da agregação."
@@ -1031,5 +1031,5 @@
     "qualitative": "Sim, como camada posterior e separada. A interpretação Radar explica mecanismos, contexto regulatório, confirmação e invalidação; ela não altera retrospectivamente o score.",
     "caveat": "Os índices são proprietários, não oficiais e ainda constroem track record histórico. Não devem ser apresentados como modelos preditivos validados de longo prazo."
   },
-  "generatedAt": "2026-11-16T21:02:31.279Z"
+  "generatedAt": "2026-11-17T19:51:49.262Z"
 }

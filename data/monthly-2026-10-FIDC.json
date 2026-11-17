@@ -1,17 +1,17 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-16T21:02:31.326Z",
+  "generatedAt": "2026-11-17T19:51:49.303Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
       "month": "2026-10",
-      "offers": 167,
-      "offersWithVolume": 166,
-      "registeredVolume": 15943055708.61,
-      "analyticalVolume": 12643055708.61,
-      "averageTicket": 76624580.05218183,
-      "issuers": 146,
+      "offers": 166,
+      "offersWithVolume": 165,
+      "registeredVolume": 15693055708.61,
+      "analyticalVolume": 12393055708.61,
+      "averageTicket": 75567412.85737805,
+      "issuers": 145,
       "leaders": 38,
       "topLeaders": [
         {
@@ -221,24 +221,6 @@
           ]
         },
         {
-          "name": "PAGALEVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA III",
-          "cnpj": "68.511.465/0001-40",
-          "leader": "BANCO VOTORANTIM S.A.",
-          "count": 1,
-          "volume": 250000000,
-          "records": [
-            {
-              "id": "3ac80f845ebb4e31",
-              "registration": "28349",
-              "processNumber": "SRE/3362/2026",
-              "volume": 250000000,
-              "date": "2026-10-15",
-              "status": "Oferta Encerrada",
-              "publications": []
-            }
-          ]
-        },
-        {
           "name": "ASA LP II FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIM",
           "cnpj": "56.924.942/0001-10",
           "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -291,6 +273,24 @@
               "publications": []
             }
           ]
+        },
+        {
+          "name": "IF-AÇOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "52.073.804/0001-14",
+          "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "count": 1,
+          "volume": 225000000,
+          "records": [
+            {
+              "id": "da65b4058641be96",
+              "registration": "28332",
+              "processNumber": "SRE/3371/2026",
+              "volume": 225000000,
+              "date": "2026-10-16",
+              "status": "Registro Concedido",
+              "publications": []
+            }
+          ]
         }
       ],
       "outliers": [
@@ -308,7 +308,7 @@
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 159
+          "count": 158
         },
         {
           "name": "Qualificado",
@@ -318,18 +318,18 @@
       "byRite": [
         {
           "name": "Automático",
-          "count": 167
+          "count": 166
         }
       ]
     },
     "previous": {
       "month": "2026-09",
-      "offers": 104,
-      "offersWithVolume": 104,
-      "registeredVolume": 22482388041.93,
-      "analyticalVolume": 13482388041.929998,
-      "averageTicket": 132180274.92088234,
-      "issuers": 96,
+      "offers": 105,
+      "offersWithVolume": 105,
+      "registeredVolume": 22732388041.93,
+      "analyticalVolume": 13732388041.929998,
+      "averageTicket": 133324155.74689318,
+      "issuers": 97,
       "leaders": 33,
       "topLeaders": [
         {
@@ -635,7 +635,7 @@
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 96
+          "count": 97
         },
         {
           "name": "Qualificado",
@@ -645,7 +645,7 @@
       "byRite": [
         {
           "name": "Automático",
-          "count": 104
+          "count": 105
         }
       ]
     },
@@ -654,9 +654,9 @@
       "calendarGap": 0
     },
     "changes": {
-      "offersPct": 60.57692307692307,
-      "officialVolumePct": -29.086466798473737,
-      "analyticalVolumePct": -6.225398132064501
+      "offersPct": 58.0952380952381,
+      "officialVolumePct": -30.966092609082324,
+      "analyticalVolumePct": -9.753091226598947
     },
     "indices": {
       "month": "2026-10",
@@ -738,9 +738,9 @@
       "concentration": {
         "code": "IRCC",
         "name": "Índice Radar de Concentração",
-        "score": 4.822543363467581,
-        "countHHI": 4.489322051801875,
-        "volumeHHI": 5.1557646751332875,
+        "score": 4.95038928979655,
+        "countHHI": 4.550144570466822,
+        "volumeHHI": 5.350634009126278,
         "interpretation": "baixa",
         "education": {
           "code": "IRCC",
@@ -759,7 +759,7 @@
             "Concentração não é sinônimo de problema concorrencial.",
             "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
           ],
-          "score": 4.822543363467581,
+          "score": 4.95038928979655,
           "band": "faixa baixa",
           "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 5/100, faixa baixa."
         }
@@ -879,10 +879,10 @@
           },
           {
             "label": "Expansão",
-            "volume": 70954970519.69499,
-            "offers": 866,
-            "monthlyVolumeAssumption": 8553141055.0275,
-            "monthlyOfferAssumption": 106.75
+            "volume": 70829970519.69499,
+            "offers": 867,
+            "monthlyVolumeAssumption": 8490641055.0275,
+            "monthlyOfferAssumption": 107.5
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -894,12 +894,12 @@
     "FIDC": {
       "current": {
         "month": "2026-10",
-        "offers": 167,
-        "offersWithVolume": 166,
-        "registeredVolume": 15943055708.61,
-        "analyticalVolume": 12643055708.61,
-        "averageTicket": 76624580.05218183,
-        "issuers": 146,
+        "offers": 166,
+        "offersWithVolume": 165,
+        "registeredVolume": 15693055708.61,
+        "analyticalVolume": 12393055708.61,
+        "averageTicket": 75567412.85737805,
+        "issuers": 145,
         "leaders": 38,
         "topLeaders": [
           {
@@ -1109,24 +1109,6 @@
             ]
           },
           {
-            "name": "PAGALEVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA III",
-            "cnpj": "68.511.465/0001-40",
-            "leader": "BANCO VOTORANTIM S.A.",
-            "count": 1,
-            "volume": 250000000,
-            "records": [
-              {
-                "id": "3ac80f845ebb4e31",
-                "registration": "28349",
-                "processNumber": "SRE/3362/2026",
-                "volume": 250000000,
-                "date": "2026-10-15",
-                "status": "Oferta Encerrada",
-                "publications": []
-              }
-            ]
-          },
-          {
             "name": "ASA LP II FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIM",
             "cnpj": "56.924.942/0001-10",
             "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -1179,6 +1161,24 @@
                 "publications": []
               }
             ]
+          },
+          {
+            "name": "IF-AÇOR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS RESPONSABILIDADE LIMITADA",
+            "cnpj": "52.073.804/0001-14",
+            "leader": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+            "count": 1,
+            "volume": 225000000,
+            "records": [
+              {
+                "id": "da65b4058641be96",
+                "registration": "28332",
+                "processNumber": "SRE/3371/2026",
+                "volume": 225000000,
+                "date": "2026-10-16",
+                "status": "Registro Concedido",
+                "publications": []
+              }
+            ]
           }
         ],
         "outliers": [
@@ -1196,7 +1196,7 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 159
+            "count": 158
           },
           {
             "name": "Qualificado",
@@ -1206,18 +1206,18 @@
         "byRite": [
           {
             "name": "Automático",
-            "count": 167
+            "count": 166
           }
         ]
       },
       "previous": {
         "month": "2026-09",
-        "offers": 104,
-        "offersWithVolume": 104,
-        "registeredVolume": 22482388041.93,
-        "analyticalVolume": 13482388041.929998,
-        "averageTicket": 132180274.92088234,
-        "issuers": 96,
+        "offers": 105,
+        "offersWithVolume": 105,
+        "registeredVolume": 22732388041.93,
+        "analyticalVolume": 13732388041.929998,
+        "averageTicket": 133324155.74689318,
+        "issuers": 97,
         "leaders": 33,
         "topLeaders": [
           {
@@ -1523,7 +1523,7 @@
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 96
+            "count": 97
           },
           {
             "name": "Qualificado",
@@ -1533,7 +1533,7 @@
         "byRite": [
           {
             "name": "Automático",
-            "count": 104
+            "count": 105
           }
         ]
       },
@@ -1542,9 +1542,9 @@
         "calendarGap": 0
       },
       "changes": {
-        "offersPct": 60.57692307692307,
-        "officialVolumePct": -29.086466798473737,
-        "analyticalVolumePct": -6.225398132064501
+        "offersPct": 58.0952380952381,
+        "officialVolumePct": -30.966092609082324,
+        "analyticalVolumePct": -9.753091226598947
       },
       "indices": {
         "month": "2026-10",
@@ -1626,9 +1626,9 @@
         "concentration": {
           "code": "IRCC",
           "name": "Índice Radar de Concentração",
-          "score": 4.822543363467581,
-          "countHHI": 4.489322051801875,
-          "volumeHHI": 5.1557646751332875,
+          "score": 4.95038928979655,
+          "countHHI": 4.550144570466822,
+          "volumeHHI": 5.350634009126278,
           "interpretation": "baixa",
           "education": {
             "code": "IRCC",
@@ -1647,7 +1647,7 @@
               "Concentração não é sinônimo de problema concorrencial.",
               "O índice não mede participação econômica fora das ofertas capturadas pelo Radar."
             ],
-            "score": 4.822543363467581,
+            "score": 4.95038928979655,
             "band": "faixa baixa",
             "currentReading": "A concentração está baixa: a atividade observada está relativamente distribuída entre coordenadores. Score 5/100, faixa baixa."
           }
@@ -1767,10 +1767,10 @@
             },
             {
               "label": "Expansão",
-              "volume": 70954970519.69499,
-              "offers": 866,
-              "monthlyVolumeAssumption": 8553141055.0275,
-              "monthlyOfferAssumption": 106.75
+              "volume": 70829970519.69499,
+              "offers": 867,
+              "monthlyVolumeAssumption": 8490641055.0275,
+              "monthlyOfferAssumption": 107.5
             }
           ],
           "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -1778,8 +1778,8 @@
         "methodology": "Escala 0-100. IROP: 40% percentil do volume analítico ajustado, 35% quantidade de ofertas e 25% breadth de emissores/coordenadores nos últimos 12 meses. Outliers >100x a mediana são preservados no dado oficial, mas isolados dos índices e cenários. IRCC usa HHI normalizado por quantidade e volume ajustado. IRFC combina Selic, spread PJ, inadimplência PJ e crescimento trimestral do saldo PJ, reponderando componentes disponíveis. IRPM = 70% IROP + 30% IRFC. Volume registrado não equivale a captação efetiva."
       },
       "editorial": [
-        "A quantidade de ofertas FIDC ficou 60,6% acima da última competência disponível (2026-09).",
-        "O volume analítico ajustado ficou 6,2% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
+        "A quantidade de ofertas FIDC ficou 58,1% acima da última competência disponível (2026-09).",
+        "O volume analítico ajustado ficou 9,8% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
         "A base oficial contém 1 outlier(s) de volume no mês; eles foram preservados no dado bruto e isolados dos índices/projeções para evitar distorção estatística.",
         "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 28 ofertas.",
         "O IROP encerrou em 89/100 (forte); o IRPM ficou em 76/100 (expansivo)."
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-13",
+        "date": "2026-11-16",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-16",
-          "value": 13.65
-        },
         {
           "date": "2026-10-19",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-13",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-16",
           "value": 13.65
         }
       ]
@@ -2192,26 +2192,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "16/11/2026",
+      "date": "17/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "13/11/2026",
-      "value": 5.6518,
+      "date": "16/11/2026",
+      "value": 5.7324,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2228,7 +2228,28 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [],
+  "regulatoryHighlights": [
+    {
+      "title": "CVM informa que o Sistema SRE ficará temporariamente indisponível",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-informa-que-o-sistema-sre-ficara-temporariamente-indisponivel",
+      "source": "CVM"
+    },
+    {
+      "title": "Área técnica da CVM reforça obrigação da divulgação completa e tempestiva de informações pelas companhias securitizadoras",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-reforca-obrigacao-da-divulgacao-completa-e-tempestiva-de-informacoes-pelas-companhias-securitizadoras",
+      "source": "CVM"
+    },
+    {
+      "title": "CVM revoga suspensão da oferta de CRI da B.SEC Companhia de Securitização",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-revoga-suspensao-da-oferta-de-cri-da-b-sec-companhia-de-securitizacao",
+      "source": "CVM"
+    },
+    {
+      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
+      "source": "CVM"
+    }
+  ],
   "houseView": {
     "headline": "FIDC liderou o volume analítico do mês; o Radar isolou 1 outlier(s) oficial(is) para preservar a leitura.",
     "principles": [
@@ -2272,7 +2293,7 @@
           },
           {
             "label": "IRCC",
-            "value": 12.227075551831943,
+            "value": 12.269690860608264,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2395,7 +2416,7 @@
         "scores": {
           "IROP": 89.16666666666669,
           "IRBD": 95.83333333333334,
-          "IRCC": 4.822543363467581,
+          "IRCC": 4.95038928979655,
           "IRFC": 45.51470588235294,
           "IRPM": 76.07107843137256
         },
@@ -2464,8 +2485,8 @@
           },
           {
             "label": "Expansão",
-            "volume": 70954970519.69499,
-            "offers": 866
+            "volume": 70829970519.69499,
+            "offers": 867
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."
@@ -2512,7 +2533,7 @@
           {
             "label": "Base",
             "volume": 66609374701.850006,
-            "offers": 217
+            "offers": 216
           },
           {
             "label": "Expansão",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:02:31.257Z",
+  "generatedAt": "2026-11-17T19:51:49.241Z",
   "market": "FIAGRO",
   "current": {
     "period": {
@@ -155,23 +155,17 @@
       "start": "2026-11-02",
       "end": "2026-11-08"
     },
-    "offers": 2,
+    "offers": 1,
     "offersWithVolume": 1,
     "volume": 70000000,
     "averageTicket": 70000000,
-    "leaders": 2,
+    "leaders": 1,
     "topLeaders": [
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
         "count": 1,
         "volume": 70000000
-      },
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 1,
-        "volume": 0
       }
     ],
     "topOffers": [
@@ -193,10 +187,6 @@
     ],
     "byAudience": [
       {
-        "name": "Profissional",
-        "count": 1
-      },
-      {
         "name": "Qualificado",
         "count": 1
       }
@@ -204,14 +194,10 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 2
+        "count": 1
       }
     ],
     "byStatus": [
-      {
-        "name": "Aguardando Bookbuilding",
-        "count": 1
-      },
       {
         "name": "Oferta Encerrada",
         "count": 1
@@ -220,42 +206,38 @@
     "byMarket": [
       {
         "name": "FIAGRO",
-        "count": 2
+        "count": 1
       }
     ],
-    "professionalShare": 0.5,
+    "professionalShare": 0,
     "top3Concentration": 1,
     "busiestDays": [
       {
         "date": "2026-11-04",
-        "count": 1
-      },
-      {
-        "date": "2026-11-05",
         "count": 1
       }
     ],
     "themeSignals": [
       {
         "name": "Agronegócio",
-        "count": 2
+        "count": 1
       }
     ]
   },
   "changes": {
-    "offersPct": 200,
+    "offersPct": 500,
     "volumePct": 17150
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 3,
+      "offers": 2.75,
       "volume": 688245000,
-      "leaders": 2.25,
-      "professionalShare": 0.7916666666666666,
+      "leaders": 2,
+      "professionalShare": 0.6666666666666666,
       "top3Concentration": 1
     },
     "currentVsPrior4Average": {
-      "offersPct": 100,
+      "offersPct": 118.18181818181819,
       "volumePct": 1654.4624370681952
     }
   },
@@ -320,9 +302,9 @@
           "start": "2026-11-02",
           "end": "2026-11-08"
         },
-        "offers": 2,
+        "offers": 1,
         "volume": 70000000,
-        "leaders": 2
+        "leaders": 1
       },
       {
         "period": {
@@ -336,9 +318,9 @@
     ]
   },
   "observations": [
-    "Atividade semanal de 6 ofertas FIAGRO, 200,0% acima da semana anterior.",
+    "Atividade semanal de 6 ofertas FIAGRO, 500,0% acima da semana anterior.",
     "Volume informado de R$ 12.075.000.000 em 4 ofertas com valor positivo; ticket médio de R$ 3.018.750.000.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 1654,5% acima e a quantidade de ofertas 100,0% acima.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 1654,5% acima e a quantidade de ofertas 118,2% acima.",
     "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou por quantidade de registros (3); os três coordenadores mais presentes concentraram 83,3% das ofertas da semana.",
     "100,0% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Agronegócio (6). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -348,17 +330,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-16T08:01:23.071325"
+      "updatedAt": "2026-11-17T08:01:40.011722"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-16T21:02:31.220Z"
+      "updatedAt": "2026-11-17T19:51:49.203Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "16/11/2026 09:33"
+      "updatedAt": "17/11/2026 09:29"
     }
   },
   "macro": {
@@ -367,19 +349,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-13",
+        "date": "2026-11-16",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-16",
-          "value": 13.65
-        },
         {
           "date": "2026-10-19",
           "value": 13.65
@@ -454,6 +432,10 @@
         },
         {
           "date": "2026-11-13",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-16",
           "value": 13.65
         }
       ]
@@ -749,26 +731,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "16/11/2026",
+      "date": "17/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "13/11/2026",
+      "date": "16/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "13/11/2026",
-      "value": 5.6518,
+      "date": "16/11/2026",
+      "value": 5.7324,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -785,28 +767,49 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [],
+  "regulatoryHighlights": [
+    {
+      "title": "CVM informa que o Sistema SRE ficará temporariamente indisponível",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-informa-que-o-sistema-sre-ficara-temporariamente-indisponivel",
+      "source": "CVM"
+    },
+    {
+      "title": "Área técnica da CVM reforça obrigação da divulgação completa e tempestiva de informações pelas companhias securitizadoras",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-reforca-obrigacao-da-divulgacao-completa-e-tempestiva-de-informacoes-pelas-companhias-securitizadoras",
+      "source": "CVM"
+    },
+    {
+      "title": "CVM revoga suspensão da oferta de CRI da B.SEC Companhia de Securitização",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-revoga-suspensao-da-oferta-de-cri-da-b-sec-companhia-de-securitizacao",
+      "source": "CVM"
+    },
+    {
+      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
+      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
+      "source": "CVM"
+    }
+  ],
   "marketComparison": [
     {
       "market": "FIDC",
-      "count": 4664,
+      "count": 4668,
       "latestMonth": "2026-11",
-      "offersInMonth": 39,
-      "volumeInMonth": 1975478693.47
+      "offersInMonth": 43,
+      "volumeInMonth": 2319228693.4700003
     },
     {
       "market": "FIAGRO",
       "count": 194,
       "latestMonth": "2026-11",
       "offersInMonth": 8,
-      "volumeInMonth": 12145000000
+      "volumeInMonth": 12245000000
     },
     {
       "market": "FII",
-      "count": 1553,
+      "count": 1555,
       "latestMonth": "2026-11",
-      "offersInMonth": 21,
-      "volumeInMonth": 3033229835.3500004
+      "offersInMonth": 23,
+      "volumeInMonth": 3067214989.48
     }
   ],
   "intelligence": {
@@ -843,7 +846,7 @@
           },
           {
             "label": "IRCC",
-            "value": 12.227075551831943,
+            "value": 12.269690860608264,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -966,7 +969,7 @@
         "scores": {
           "IROP": 89.16666666666669,
           "IRBD": 95.83333333333334,
-          "IRCC": 4.822543363467581,
+          "IRCC": 4.95038928979655,
           "IRFC": 45.51470588235294,
           "IRPM": 76.07107843137256
         },

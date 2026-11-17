@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-16T21:02:31.295Z",
+  "generatedAt": "2026-11-17T19:51:49.276Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-16T08:01:23.071325"
+    "updatedAt": "2026-11-17T08:01:40.011722"
   },
   "coordinators": [
     {
@@ -3406,13 +3406,13 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 59,
-          "volume": 18456045059
+          "count": 60,
+          "volume": 18490045059
         },
         {
           "market": "FIAGRO",
           "count": 18,
-          "volume": 5626284000
+          "volume": 5726284000
         },
         {
           "market": "FII",
@@ -3504,13 +3504,13 @@
         },
         {
           "month": "2026-05",
-          "count": 1,
-          "volume": 50000000
+          "count": 2,
+          "volume": 550000000
         },
         {
           "month": "2026-06",
-          "count": 2,
-          "volume": 550000000
+          "count": 1,
+          "volume": 50000000
         },
         {
           "month": "2026-09",
@@ -3573,22 +3573,6 @@
           "publications": []
         },
         {
-          "id": "1c0f72440be483a6",
-          "market": "FII",
-          "name": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "65.838.122/0001-05",
-          "registration": "26845",
-          "processNumber": "SRE/1988/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 500000000,
-          "date": "2026-06-23",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
           "id": "29f8caa5a6463954",
           "market": "FII",
           "name": "TRN FEEDER C25 FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
@@ -3618,6 +3602,22 @@
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "1c0f72440be483a6",
+          "market": "FII",
+          "name": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.838.122/0001-05",
+          "registration": "26845",
+          "processNumber": "SRE/1988/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 500000000,
+          "date": "2026-05-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
           "publications": []
         },
         {
@@ -5105,8 +5105,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 1073,
-          "volume": 57071520460.90996
+          "count": 1075,
+          "volume": 57341270460.90996
         },
         {
           "market": "FIAGRO",
@@ -8321,7 +8321,7 @@
           "date": "2026-09-02",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -10728,6 +10728,138 @@
       ]
     },
     {
+      "key": "CNPJ:39669186000101",
+      "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "cnpj": "39.669.186/0001-01",
+      "stats12m": {
+        "offers": 4,
+        "volume": 368971987.53,
+        "offersWithVolume": 4,
+        "averageTicket": 92242996.8825
+      },
+      "byMonth": [
+        {
+          "month": "2024-06",
+          "count": 1,
+          "volume": 1000000
+        },
+        {
+          "month": "2025-12",
+          "count": 1,
+          "volume": 51999300
+        },
+        {
+          "month": "2026-09",
+          "count": 2,
+          "volume": 292987687.53
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 23985000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "4b06599c83f23aba",
+          "market": "FII",
+          "name": "POXIM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "45.254.732/0001-46",
+          "registration": "28701",
+          "processNumber": "SRE/3690/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 23985000,
+          "date": "2026-11-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "2b2118aaff51d100",
+          "market": "FII",
+          "name": "BRIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "67.863.429/0001-83",
+          "registration": "27965",
+          "processNumber": "SRE/3011/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 153000000,
+          "date": "2026-09-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "7e3edf37046e77fd",
+          "market": "FII",
+          "name": "CASCAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "68.577.138/0001-91",
+          "registration": "27933",
+          "processNumber": "SRE/2991/2026",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 139987687.53,
+          "date": "2026-09-16",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9912e381fea657b8",
+          "market": "FII",
+          "name": "POXIM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "45.254.732/0001-46",
+          "registration": "24043",
+          "processNumber": "SRE/4434/2025",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 51999300,
+          "date": "2025-12-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "bb7b7c31e8942ea0",
+          "market": "FII",
+          "name": "BRIO RENDA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "55.435.378/0001-00",
+          "registration": "16048",
+          "processNumber": "SRE/1648/2024",
+          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+          "leaderCnpj": "39.669.186/0001-01",
+          "volume": 1000000,
+          "date": "2024-06-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 257,
+          "volume": 7421858107.500001
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 5,
+          "volume": 369971987.53
+        }
+      ]
+    },
+    {
       "key": "CNPJ:36864992000142",
       "name": "APEX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "36.864.992/0001-42",
@@ -11340,117 +11472,6 @@
           "market": "FII",
           "count": 11,
           "volume": 2948085809.4
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:39669186000101",
-      "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "cnpj": "39.669.186/0001-01",
-      "stats12m": {
-        "offers": 3,
-        "volume": 344986987.53,
-        "offersWithVolume": 3,
-        "averageTicket": 114995662.50999999
-      },
-      "byMonth": [
-        {
-          "month": "2024-06",
-          "count": 1,
-          "volume": 1000000
-        },
-        {
-          "month": "2025-12",
-          "count": 1,
-          "volume": 51999300
-        },
-        {
-          "month": "2026-09",
-          "count": 2,
-          "volume": 292987687.53
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "2b2118aaff51d100",
-          "market": "FII",
-          "name": "BRIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.863.429/0001-83",
-          "registration": "27965",
-          "processNumber": "SRE/3011/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 153000000,
-          "date": "2026-09-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "7e3edf37046e77fd",
-          "market": "FII",
-          "name": "CASCAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.577.138/0001-91",
-          "registration": "27933",
-          "processNumber": "SRE/2991/2026",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 139987687.53,
-          "date": "2026-09-16",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9912e381fea657b8",
-          "market": "FII",
-          "name": "POXIM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-          "cnpj": "45.254.732/0001-46",
-          "registration": "24043",
-          "processNumber": "SRE/4434/2025",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 51999300,
-          "date": "2025-12-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "bb7b7c31e8942ea0",
-          "market": "FII",
-          "name": "BRIO RENDA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "55.435.378/0001-00",
-          "registration": "16048",
-          "processNumber": "SRE/1648/2024",
-          "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "39.669.186/0001-01",
-          "volume": 1000000,
-          "date": "2024-06-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 256,
-          "volume": 7381858107.500001
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 4,
-          "volume": 345986987.53
         }
       ]
     },
@@ -12563,6 +12584,80 @@
           "market": "FII",
           "count": 21,
           "volume": 1385945922.37
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:05816451000115",
+      "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
+      "cnpj": "05.816.451/0001-15",
+      "stats12m": {
+        "offers": 2,
+        "volume": 60000154.13,
+        "offersWithVolume": 2,
+        "averageTicket": 30000077.065
+      },
+      "byMonth": [
+        {
+          "month": "2026-10",
+          "count": 1,
+          "volume": 50000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 10000154.13
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "8214115228dd82be",
+          "market": "FII",
+          "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.056.494/0001-09",
+          "registration": "28709",
+          "processNumber": "SRE/3694/2026",
+          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
+          "leaderCnpj": "05.816.451/0001-15",
+          "volume": 10000154.13,
+          "date": "2026-11-16",
+          "rite": "Automático",
+          "audience": "Qualificado",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "b0f5df98e9883807",
+          "market": "FII",
+          "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "64.056.494/0001-09",
+          "registration": "28272",
+          "processNumber": "SRE/3298/2026",
+          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
+          "leaderCnpj": "05.816.451/0001-15",
+          "volume": 50000000,
+          "date": "2026-10-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 4,
+          "volume": 240000000.4
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 2,
+          "volume": 60000154.13
         }
       ]
     },
@@ -14733,59 +14828,6 @@
           "market": "FII",
           "count": 7,
           "volume": 2204922289.53
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:05816451000115",
-      "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
-      "cnpj": "05.816.451/0001-15",
-      "stats12m": {
-        "offers": 1,
-        "volume": 50000000,
-        "offersWithVolume": 1,
-        "averageTicket": 50000000
-      },
-      "byMonth": [
-        {
-          "month": "2026-10",
-          "count": 1,
-          "volume": 50000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "b0f5df98e9883807",
-          "market": "FII",
-          "name": "MELLO ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.056.494/0001-09",
-          "registration": "28272",
-          "processNumber": "SRE/3298/2026",
-          "leader": "GENIAL INSTITUCIONAL CCTVM S.A.",
-          "leaderCnpj": "05.816.451/0001-15",
-          "volume": 50000000,
-          "date": "2026-10-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 4,
-          "volume": 240000000.4
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 50000000
         }
       ]
     },
