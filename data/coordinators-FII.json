@@ -1,10 +1,10 @@
 {
   "market": "FII",
-  "generatedAt": "2026-11-17T19:51:49.276Z",
+  "generatedAt": "2026-11-18T19:24:25.279Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-17T08:01:40.011722"
+    "updatedAt": "2026-11-18T08:00:41.358013"
   },
   "coordinators": [
     {
@@ -789,7 +789,7 @@
           "date": "2026-10-07",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1798,8 +1798,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 180,
-          "volume": 21340365590.539997
+          "count": 181,
+          "volume": 21347865590.539997
         },
         {
           "market": "FIAGRO",
@@ -3015,8 +3015,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 143,
-          "volume": 2066871934.23
+          "count": 144,
+          "volume": 2067871934.29
         },
         {
           "market": "FIAGRO",
@@ -3035,10 +3035,10 @@
       "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
-        "offers": 13,
-        "volume": 8050707211.42,
-        "offersWithVolume": 13,
-        "averageTicket": 619285170.1092308
+        "offers": 14,
+        "volume": 9710223211.42,
+        "offersWithVolume": 14,
+        "averageTicket": 693587372.2442857
       },
       "byMonth": [
         {
@@ -3095,9 +3095,30 @@
           "month": "2026-10",
           "count": 1,
           "volume": 1024500000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 1659516000
         }
       ],
       "recentOffers": [
+        {
+          "id": "5259b572c97b9fb8",
+          "market": "FII",
+          "name": "KINEA BROOKFIELD PLATAFORMA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.919.287/0001-66",
+          "registration": "28728",
+          "processNumber": "SRE/3711/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 1659516000,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "77a12b121ced73a8",
           "market": "FII",
@@ -3416,8 +3437,8 @@
         },
         {
           "market": "FII",
-          "count": 19,
-          "volume": 10548519211.42
+          "count": 20,
+          "volume": 12208035211.42
         }
       ]
     },
@@ -3617,7 +3638,7 @@
           "date": "2026-05-13",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -4008,8 +4029,8 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 211,
-          "volume": 17585952056.010002
+          "count": 213,
+          "volume": 17905952056.010002
         },
         {
           "market": "FIAGRO",
@@ -5110,8 +5131,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 8,
-          "volume": 1311046282.63
+          "count": 9,
+          "volume": 1321046282.63
         },
         {
           "market": "FII",
@@ -11947,6 +11968,101 @@
       ]
     },
     {
+      "key": "CNPJ:02600837000105",
+      "name": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
+      "cnpj": "02.600.837/0001-05",
+      "stats12m": {
+        "offers": 2,
+        "volume": 130092638.8,
+        "offersWithVolume": 2,
+        "averageTicket": 65046319.4
+      },
+      "byMonth": [
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 100000031.46
+        },
+        {
+          "month": "2026-05",
+          "count": 1,
+          "volume": 100092638.8
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 30000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "c04e572085cb696a",
+          "market": "FII",
+          "name": "AF INVEST REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "60.077.386/0001-61",
+          "registration": "28707",
+          "processNumber": "SRE/3698/2026",
+          "leader": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
+          "leaderCnpj": "02.600.837/0001-05",
+          "volume": 30000000,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "a22ff5564e7ac1ff",
+          "market": "FII",
+          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "36.642.293/0001-58",
+          "registration": "26229",
+          "processNumber": "SRE/1486/2026",
+          "leader": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
+          "leaderCnpj": "02.600.837/0001-05",
+          "volume": 100092638.8,
+          "date": "2026-05-13",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8e4db3d5484b5081",
+          "market": "FII",
+          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS",
+          "cnpj": "36.642.293/0001-58",
+          "registration": "4264",
+          "processNumber": "SRE/0083/2024",
+          "leader": "AFS AUDITORES E CONSULTORES",
+          "leaderCnpj": "02.600.837/0001-05",
+          "volume": 100000031.46,
+          "date": "2024-01-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 3,
+          "volume": 230092670.26
+        }
+      ]
+    },
+    {
       "key": "CNPJ:50290187000183",
       "name": "MAX CAPITAL MARKETS LTDA.",
       "cnpj": "50.290.187/0001-83",
@@ -14584,80 +14700,6 @@
       ]
     },
     {
-      "key": "CNPJ:02600837000105",
-      "name": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
-      "cnpj": "02.600.837/0001-05",
-      "stats12m": {
-        "offers": 1,
-        "volume": 100092638.8,
-        "offersWithVolume": 1,
-        "averageTicket": 100092638.8
-      },
-      "byMonth": [
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 100000031.46
-        },
-        {
-          "month": "2026-05",
-          "count": 1,
-          "volume": 100092638.8
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "a22ff5564e7ac1ff",
-          "market": "FII",
-          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "36.642.293/0001-58",
-          "registration": "26229",
-          "processNumber": "SRE/1486/2026",
-          "leader": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
-          "leaderCnpj": "02.600.837/0001-05",
-          "volume": 100092638.8,
-          "date": "2026-05-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8e4db3d5484b5081",
-          "market": "FII",
-          "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS",
-          "cnpj": "36.642.293/0001-58",
-          "registration": "4264",
-          "processNumber": "SRE/0083/2024",
-          "leader": "AFS AUDITORES E CONSULTORES",
-          "leaderCnpj": "02.600.837/0001-05",
-          "volume": 100000031.46,
-          "date": "2024-01-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 2,
-          "volume": 200092670.26
-        }
-      ]
-    },
-    {
       "key": "CNPJ:47754034000135",
       "name": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
       "cnpj": "47.754.034/0001-35",
@@ -14934,6 +14976,172 @@
           "market": "FII",
           "count": 1,
           "volume": 8500493.61
+        }
+      ]
+    },
+    {
+      "key": "CNPJ:40434681000110",
+      "name": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "cnpj": "40.434.681/0001-10",
+      "stats12m": {
+        "offers": 1,
+        "volume": 3000000,
+        "offersWithVolume": 1,
+        "averageTicket": 3000000
+      },
+      "byMonth": [
+        {
+          "month": "2023-07",
+          "count": 1,
+          "volume": 5500000
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 80000000
+        },
+        {
+          "month": "2024-04",
+          "count": 1,
+          "volume": 5000000
+        },
+        {
+          "month": "2024-07",
+          "count": 1,
+          "volume": 80000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 3000000
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "5bcad1a4b5e358e8",
+          "market": "FII",
+          "name": "SEVEN FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "57.307.513/0001-67",
+          "registration": "28722",
+          "processNumber": "SRE/3705/2026",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 3000000,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "7b90dad0bd4f9e03",
+          "market": "FII",
+          "name": "FLORESTA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.889.479/0001-08",
+          "registration": "16475",
+          "processNumber": "SRE/2009/2024",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 80000000,
+          "date": "2024-07-08",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "c4736779c360e1b3",
+          "market": "FII",
+          "name": "JMP FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "54.419.040/0001-00",
+          "registration": "15454",
+          "processNumber": "SRE/1162/2024",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 5000000,
+          "date": "2024-04-25",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "337ad484412c08c2",
+          "market": "FII",
+          "name": "FLORESTA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.889.479/0001-08",
+          "registration": "4208",
+          "processNumber": "SRE/0002/2024",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 80000000,
+          "date": "2024-01-02",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "6772a45824dd07ee",
+          "market": "FII",
+          "name": "THOR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "51.303.221/0001-70",
+          "registration": "2284",
+          "processNumber": "SRE/1439/2023",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 5500000,
+          "date": "2023-07-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "2b5ad3a263a378ee",
+          "market": "FII",
+          "name": "ASSET BANK - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+          "cnpj": "44.585.121/0001-18",
+          "registration": "",
+          "processNumber": "",
+          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+          "leaderCnpj": "40.434.681/0001-10",
+          "volume": 14334650.4,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2024-08-02",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 29,
+          "volume": 324672101.55
+        },
+        {
+          "market": "FIAGRO",
+          "count": 1,
+          "volume": 10000000
+        },
+        {
+          "market": "FII",
+          "count": 6,
+          "volume": 187834650.4
         }
       ]
     },
@@ -15815,151 +16023,6 @@
           "market": "FII",
           "count": 1,
           "volume": 101950000
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:40434681000110",
-      "name": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "cnpj": "40.434.681/0001-10",
-      "stats12m": {
-        "offers": 0,
-        "volume": 0,
-        "offersWithVolume": 0,
-        "averageTicket": null
-      },
-      "byMonth": [
-        {
-          "month": "2023-07",
-          "count": 1,
-          "volume": 5500000
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 80000000
-        },
-        {
-          "month": "2024-04",
-          "count": 1,
-          "volume": 5000000
-        },
-        {
-          "month": "2024-07",
-          "count": 1,
-          "volume": 80000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "7b90dad0bd4f9e03",
-          "market": "FII",
-          "name": "FLORESTA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.889.479/0001-08",
-          "registration": "16475",
-          "processNumber": "SRE/2009/2024",
-          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "40.434.681/0001-10",
-          "volume": 80000000,
-          "date": "2024-07-08",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "c4736779c360e1b3",
-          "market": "FII",
-          "name": "JMP FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "54.419.040/0001-00",
-          "registration": "15454",
-          "processNumber": "SRE/1162/2024",
-          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "40.434.681/0001-10",
-          "volume": 5000000,
-          "date": "2024-04-25",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "337ad484412c08c2",
-          "market": "FII",
-          "name": "FLORESTA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.889.479/0001-08",
-          "registration": "4208",
-          "processNumber": "SRE/0002/2024",
-          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "40.434.681/0001-10",
-          "volume": 80000000,
-          "date": "2024-01-02",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "6772a45824dd07ee",
-          "market": "FII",
-          "name": "THOR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "51.303.221/0001-70",
-          "registration": "2284",
-          "processNumber": "SRE/1439/2023",
-          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "40.434.681/0001-10",
-          "volume": 5500000,
-          "date": "2023-07-17",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "2b5ad3a263a378ee",
-          "market": "FII",
-          "name": "ASSET BANK - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-          "cnpj": "44.585.121/0001-18",
-          "registration": "",
-          "processNumber": "",
-          "leader": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-          "leaderCnpj": "40.434.681/0001-10",
-          "volume": 14334650.4,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2024-08-02",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 29,
-          "volume": 324672101.55
-        },
-        {
-          "market": "FIAGRO",
-          "count": 1,
-          "volume": 10000000
-        },
-        {
-          "market": "FII",
-          "count": 5,
-          "volume": 184834650.4
         }
       ]
     },
@@ -18558,7 +18621,7 @@
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 19,
+          "count": 20,
           "volume": 28249982059.640003
         },
         {
@@ -18682,7 +18745,7 @@
         {
           "market": "FIAGRO",
           "count": 9,
-          "volume": 699927000
+          "volume": 795927000
         },
         {
           "market": "FII",

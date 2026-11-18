@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-17T19:51:49.273Z",
+  "generatedAt": "2026-11-18T19:24:25.277Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-17T08:01:40.011722"
+    "updatedAt": "2026-11-18T08:00:41.358013"
   },
   "coordinators": [
     {
@@ -599,8 +599,8 @@
         },
         {
           "market": "FIAGRO",
-          "count": 8,
-          "volume": 1311046282.63
+          "count": 9,
+          "volume": 1321046282.63
         },
         {
           "market": "FII",
@@ -1216,10 +1216,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 65,
-        "volume": 4864680513.599999,
-        "offersWithVolume": 65,
-        "averageTicket": 74841238.67076921
+        "offers": 67,
+        "volume": 5184680513.599999,
+        "offersWithVolume": 67,
+        "averageTicket": 77383291.24776119
       },
       "byMonth": [
         {
@@ -1309,11 +1309,43 @@
         },
         {
           "month": "2026-11",
-          "count": 8,
-          "volume": 469300000
+          "count": 10,
+          "volume": 789300000
         }
       ],
       "recentOffers": [
+        {
+          "id": "a869e79d0255e79a",
+          "market": "FIDC",
+          "name": "CONSIGNADOS IX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.086.325/0001-81",
+          "registration": "28693",
+          "processNumber": "SRE/3706/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 230000000,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
+        {
+          "id": "3d193c68ee0bf57b",
+          "market": "FIDC",
+          "name": "CONSIGNADOS XIII FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.802.702/0001-09",
+          "registration": "28721",
+          "processNumber": "SRE/3704/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 90000000,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "a89d74a19ec41e97",
           "market": "FIDC",
@@ -1761,45 +1793,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "3dc99e0440db7809",
-          "market": "FIDC",
-          "name": "ST TARUMÃ S FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.448.736/0001-60",
-          "registration": "27866",
-          "processNumber": "SRE/2916/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 160000000,
-          "date": "2026-09-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "e572cb4f6bae7ba7",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CLT CAPITAL",
-          "cnpj": "65.803.947/0001-86",
-          "registration": "27852",
-          "processNumber": "SRE/2907/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 400000000,
-          "date": "2026-09-10",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 211,
-          "volume": 17585952056.010002
+          "count": 213,
+          "volume": 17905952056.010002
         },
         {
           "market": "FIAGRO",
@@ -2420,10 +2420,10 @@
       "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "cnpj": "13.486.793/0001-42",
       "stats12m": {
-        "offers": 31,
-        "volume": 1392803997.88,
-        "offersWithVolume": 31,
-        "averageTicket": 44929161.22193549
+        "offers": 32,
+        "volume": 1400303997.88,
+        "offersWithVolume": 32,
+        "averageTicket": 43759499.93375
       },
       "byMonth": [
         {
@@ -2513,11 +2513,27 @@
         },
         {
           "month": "2026-11",
-          "count": 1,
-          "volume": 20000000
+          "count": 2,
+          "volume": 27500000
         }
       ],
       "recentOffers": [
+        {
+          "id": "ab6b9ceaf09e7e5d",
+          "market": "FIDC",
+          "name": "FLEETER AUTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MERCANTIS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.281.804/0001-51",
+          "registration": "28724",
+          "processNumber": "SRE/3707/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 7500000,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "76fb9fb369715269",
           "market": "FIDC",
@@ -2981,29 +2997,13 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "publications": []
-        },
-        {
-          "id": "62b449a8b6ea00c2",
-          "market": "FIDC",
-          "name": "MEZZUS OPORTUNIDADES PRECATÓRIOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "64.156.127/0001-87",
-          "registration": "24621",
-          "processNumber": "SRE/0362/2026",
-          "leader": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "13.486.793/0001-42",
-          "volume": 500000,
-          "date": "2026-02-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 180,
-          "volume": 21340365590.539997
+          "count": 181,
+          "volume": 21347865590.539997
         },
         {
           "market": "FIAGRO",
@@ -4971,7 +4971,7 @@
           "date": "2026-11-13",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -5420,8 +5420,8 @@
         },
         {
           "market": "FII",
-          "count": 19,
-          "volume": 10548519211.42
+          "count": 20,
+          "volume": 12208035211.42
         }
       ]
     },
@@ -6609,17 +6609,12 @@
       "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "cnpj": "16.695.922/0001-09",
       "stats12m": {
-        "offers": 19,
-        "volume": 229097000.59,
-        "offersWithVolume": 19,
-        "averageTicket": 12057736.873157894
+        "offers": 20,
+        "volume": 230097000.65,
+        "offersWithVolume": 20,
+        "averageTicket": 11504850.0325
       },
       "byMonth": [
-        {
-          "month": "2024-06",
-          "count": 5,
-          "volume": 132099999.88000001
-        },
         {
           "month": "2024-07",
           "count": 6,
@@ -6704,9 +6699,30 @@
           "month": "2026-10",
           "count": 5,
           "volume": 24697000.53
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 1000000.06
         }
       ],
       "recentOffers": [
+        {
+          "id": "e44e3fb59740d814",
+          "market": "FIDC",
+          "name": "7 CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.579.006/0001-73",
+          "registration": "28717",
+          "processNumber": "SRE/3700/2026",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 1000000.06,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "ff658ddd53741885",
           "market": "FIDC",
@@ -7170,29 +7186,13 @@
           "audience": "Profissional",
           "status": "Registro Caducado",
           "publications": []
-        },
-        {
-          "id": "8b7379053a92e8c0",
-          "market": "FIDC",
-          "name": "CHAVANTES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "57.740.051/0001-77",
-          "registration": "19595",
-          "processNumber": "SRE/0533/2025",
-          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-          "leaderCnpj": "16.695.922/0001-09",
-          "volume": 5000000,
-          "date": "2025-02-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 143,
-          "volume": 2066871934.23
+          "count": 144,
+          "volume": 2067871934.29
         },
         {
           "market": "FIAGRO",
@@ -9595,7 +9595,7 @@
         {
           "market": "FIAGRO",
           "count": 9,
-          "volume": 699927000
+          "volume": 795927000
         },
         {
           "market": "FII",
@@ -14198,7 +14198,7 @@
           "date": "2026-05-22",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -15318,6 +15318,545 @@
       ]
     },
     {
+      "key": "CNPJ:90400888000142",
+      "name": "BANCO SANTANDER (BRASIL) S.A.",
+      "cnpj": "90.400.888/0001-42",
+      "stats12m": {
+        "offers": 4,
+        "volume": 8900000000,
+        "offersWithVolume": 3,
+        "averageTicket": 2966666666.6666665
+      },
+      "byMonth": [
+        {
+          "month": "2023-05",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2023-11",
+          "count": 1,
+          "volume": 3500000000
+        },
+        {
+          "month": "2023-12",
+          "count": 1,
+          "volume": 300000000
+        },
+        {
+          "month": "2024-01",
+          "count": 1,
+          "volume": 750000000
+        },
+        {
+          "month": "2024-11",
+          "count": 1,
+          "volume": 1500000000
+        },
+        {
+          "month": "2025-03",
+          "count": 1,
+          "volume": 490000000
+        },
+        {
+          "month": "2025-04",
+          "count": 1,
+          "volume": 1500000000
+        },
+        {
+          "month": "2025-05",
+          "count": 1,
+          "volume": 200000000
+        },
+        {
+          "month": "2025-07",
+          "count": 1,
+          "volume": 900000000
+        },
+        {
+          "month": "2025-12",
+          "count": 2,
+          "volume": 3900000000
+        },
+        {
+          "month": "2026-09",
+          "count": 1,
+          "volume": 5000000000
+        },
+        {
+          "month": "2026-11",
+          "count": 1,
+          "volume": 0
+        }
+      ],
+      "recentOffers": [
+        {
+          "id": "4dc223502a406898",
+          "market": "FIDC",
+          "name": "PARANA BANCO CONSIGNADO INSS V FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESP LIMITADA",
+          "cnpj": "69.740.980/0001-65",
+          "registration": "28705",
+          "processNumber": "SRE/3702/2026",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 0,
+          "date": "2026-11-17",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "publications": []
+        },
+        {
+          "id": "c7bf675e443d7950",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SANTANDER AUTO LOANS II SEGMENTO FINANCEIRO - RL",
+          "cnpj": "67.148.005/0001-37",
+          "registration": "27585",
+          "processNumber": "SRE/2687/2026",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 5000000000,
+          "date": "2026-09-03",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "12bb8dbba421873c",
+          "market": "FIDC",
+          "name": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.662.224/0001-89",
+          "registration": "23734",
+          "processNumber": "SRE/4180/2025",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 3000000000,
+          "date": "2025-12-11",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "9f67928b301bc09b",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS STELLANTIS MOBILITY II - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.322.011/0001-08",
+          "registration": "23005",
+          "processNumber": "SRE/3522/2025",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 900000000,
+          "date": "2025-12-04",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "8999df5cdd27f868",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS STELLANTIS MOBILITY I - RESPONSABILIDADE LIMITADA",
+          "cnpj": "61.351.481/0001-74",
+          "registration": "21160",
+          "processNumber": "SRE/1905/2025",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 900000000,
+          "date": "2025-07-15",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "57622abc4f098599",
+          "market": "FIDC",
+          "name": "D365 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "46.450.551/0001-58",
+          "registration": "20368",
+          "processNumber": "SRE/1248/2025",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 200000000,
+          "date": "2025-05-06",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "17e452cbb0e61d1f",
+          "market": "FIDC",
+          "name": "AGRO FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "47.228.232/0001-65",
+          "registration": "20365",
+          "processNumber": "SRE/1202/2025",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 1500000000,
+          "date": "2025-04-30",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e61f29c023cc89b5",
+          "market": "FIDC",
+          "name": "CHEMICAL XIV - FIDC - INDUSTRIA PETROQUIMICA",
+          "cnpj": "59.534.745/0001-83",
+          "registration": "19565",
+          "processNumber": "SRE/0519/2025",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 490000000,
+          "date": "2025-03-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e3ad4c8af202b28f",
+          "market": "FIDC",
+          "name": "D365 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "46.450.551/0001-58",
+          "registration": "18270",
+          "processNumber": "SRE/3586/2024",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 1500000000,
+          "date": "2024-11-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "43cf4765c3977485",
+          "market": "FIDC",
+          "name": "AGRO FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "47.228.232/0001-65",
+          "registration": "4392",
+          "processNumber": "SRE/0177/2024",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 750000000,
+          "date": "2024-01-22",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "cd0d062eb646ecaf",
+          "market": "FIDC",
+          "name": "SAN Créditos Estruturados I Fundo de Investimento em Direitos Creditórios Não Padronizados",
+          "cnpj": "40.132.424/0001-24",
+          "registration": "4171",
+          "processNumber": "SRE/3086/2023",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 300000000,
+          "date": "2023-12-27",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Caducado",
+          "publications": []
+        },
+        {
+          "id": "05520a355d3e95ab",
+          "market": "FIDC",
+          "name": "AGRO FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "47.228.232/0001-65",
+          "registration": "3627",
+          "processNumber": "SRE/2620/2023",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 3500000000,
+          "date": "2023-11-21",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "3d1573ace6af7abd",
+          "market": "FIDC",
+          "name": "D365 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "46.450.551/0001-58",
+          "registration": "1688",
+          "processNumber": "SRE/0921/2023",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 200000000,
+          "date": "2023-05-18",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Encerrada",
+          "publications": []
+        },
+        {
+          "id": "e28f6b8d80b99fc1",
+          "market": "FIDC",
+          "name": "BR ELETRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "35.818.950/0001-02",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 3686032000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-03-20",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "d27fc1f1ab088b20",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TRAMONTINA I",
+          "cnpj": "39.375.599/0001-83",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 186750000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-23",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "bc37c9e0178d6393",
+          "market": "FIDC",
+          "name": "GRUPO TIRADENTES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EDUCACIONAL",
+          "cnpj": "21.081.952/0001-57",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 226088219.9,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-06-30",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2020-09-17",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-05-15",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "23861e508c943351",
+          "market": "FIDC",
+          "name": "PÁTRIA CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "28.819.553/0001-90",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 1540150000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2018-09-28",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2019-06-18",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-11-17",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "8dd4966cade34933",
+          "market": "FIDC",
+          "name": "SAN Créditos Estruturados I Fundo de Investimento em Direitos Creditórios Não Padronizados",
+          "cnpj": "40.132.424/0001-24",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 1220970999.74,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2023-12-22",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "f03b06a2835c3d75",
+          "market": "FIDC",
+          "name": "SANTANDER FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "47.228.232/0001-65",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 2549990840,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-10-21",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-11-18",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2022-12-16",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "21d74f5b192bcb37",
+          "market": "FIDC",
+          "name": "SYNGENTA TECH I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+          "cnpj": "41.196.339/0001-92",
+          "registration": "",
+          "processNumber": "",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 600000000,
+          "date": "",
+          "rite": "ICVM 476",
+          "audience": "",
+          "status": "Dispensada de Registro",
+          "publications": [
+            {
+              "field": "Ultimo_Comunicado",
+              "label": "Ultimo Comunicado",
+              "value": "Comunicado de Encerramento",
+              "url": ""
+            },
+            {
+              "field": "Data_Comunicado",
+              "label": "Data Comunicado",
+              "value": "2021-12-10",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "byMarket": [
+        {
+          "market": "FIDC",
+          "count": 20,
+          "volume": 28249982059.640003
+        },
+        {
+          "market": "FIAGRO",
+          "count": 0,
+          "volume": 0
+        },
+        {
+          "market": "FII",
+          "count": 1,
+          "volume": 175700937.42
+        }
+      ]
+    },
+    {
       "key": "CNPJ:12461756000117",
       "name": "PÁTRIA INVESTIMENTOS LTDA.",
       "cnpj": "12.461.756/0001-17",
@@ -16302,524 +16841,6 @@
           "market": "FII",
           "count": 0,
           "volume": 0
-        }
-      ]
-    },
-    {
-      "key": "CNPJ:90400888000142",
-      "name": "BANCO SANTANDER (BRASIL) S.A.",
-      "cnpj": "90.400.888/0001-42",
-      "stats12m": {
-        "offers": 3,
-        "volume": 8900000000,
-        "offersWithVolume": 3,
-        "averageTicket": 2966666666.6666665
-      },
-      "byMonth": [
-        {
-          "month": "2023-05",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2023-11",
-          "count": 1,
-          "volume": 3500000000
-        },
-        {
-          "month": "2023-12",
-          "count": 1,
-          "volume": 300000000
-        },
-        {
-          "month": "2024-01",
-          "count": 1,
-          "volume": 750000000
-        },
-        {
-          "month": "2024-11",
-          "count": 1,
-          "volume": 1500000000
-        },
-        {
-          "month": "2025-03",
-          "count": 1,
-          "volume": 490000000
-        },
-        {
-          "month": "2025-04",
-          "count": 1,
-          "volume": 1500000000
-        },
-        {
-          "month": "2025-05",
-          "count": 1,
-          "volume": 200000000
-        },
-        {
-          "month": "2025-07",
-          "count": 1,
-          "volume": 900000000
-        },
-        {
-          "month": "2025-12",
-          "count": 2,
-          "volume": 3900000000
-        },
-        {
-          "month": "2026-09",
-          "count": 1,
-          "volume": 5000000000
-        }
-      ],
-      "recentOffers": [
-        {
-          "id": "c7bf675e443d7950",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS SANTANDER AUTO LOANS II SEGMENTO FINANCEIRO - RL",
-          "cnpj": "67.148.005/0001-37",
-          "registration": "27585",
-          "processNumber": "SRE/2687/2026",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 5000000000,
-          "date": "2026-09-03",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "12bb8dbba421873c",
-          "market": "FIDC",
-          "name": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.662.224/0001-89",
-          "registration": "23734",
-          "processNumber": "SRE/4180/2025",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 3000000000,
-          "date": "2025-12-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "9f67928b301bc09b",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS STELLANTIS MOBILITY II - RESPONSABILIDADE LIMITADA",
-          "cnpj": "63.322.011/0001-08",
-          "registration": "23005",
-          "processNumber": "SRE/3522/2025",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 900000000,
-          "date": "2025-12-04",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "8999df5cdd27f868",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS STELLANTIS MOBILITY I - RESPONSABILIDADE LIMITADA",
-          "cnpj": "61.351.481/0001-74",
-          "registration": "21160",
-          "processNumber": "SRE/1905/2025",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 900000000,
-          "date": "2025-07-15",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "57622abc4f098599",
-          "market": "FIDC",
-          "name": "D365 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "46.450.551/0001-58",
-          "registration": "20368",
-          "processNumber": "SRE/1248/2025",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 200000000,
-          "date": "2025-05-06",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "17e452cbb0e61d1f",
-          "market": "FIDC",
-          "name": "AGRO FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "47.228.232/0001-65",
-          "registration": "20365",
-          "processNumber": "SRE/1202/2025",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 1500000000,
-          "date": "2025-04-30",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e61f29c023cc89b5",
-          "market": "FIDC",
-          "name": "CHEMICAL XIV - FIDC - INDUSTRIA PETROQUIMICA",
-          "cnpj": "59.534.745/0001-83",
-          "registration": "19565",
-          "processNumber": "SRE/0519/2025",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 490000000,
-          "date": "2025-03-24",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e3ad4c8af202b28f",
-          "market": "FIDC",
-          "name": "D365 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "46.450.551/0001-58",
-          "registration": "18270",
-          "processNumber": "SRE/3586/2024",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 1500000000,
-          "date": "2024-11-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "43cf4765c3977485",
-          "market": "FIDC",
-          "name": "AGRO FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "47.228.232/0001-65",
-          "registration": "4392",
-          "processNumber": "SRE/0177/2024",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 750000000,
-          "date": "2024-01-22",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "cd0d062eb646ecaf",
-          "market": "FIDC",
-          "name": "SAN Créditos Estruturados I Fundo de Investimento em Direitos Creditórios Não Padronizados",
-          "cnpj": "40.132.424/0001-24",
-          "registration": "4171",
-          "processNumber": "SRE/3086/2023",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 300000000,
-          "date": "2023-12-27",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Caducado",
-          "publications": []
-        },
-        {
-          "id": "05520a355d3e95ab",
-          "market": "FIDC",
-          "name": "AGRO FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "47.228.232/0001-65",
-          "registration": "3627",
-          "processNumber": "SRE/2620/2023",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 3500000000,
-          "date": "2023-11-21",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "3d1573ace6af7abd",
-          "market": "FIDC",
-          "name": "D365 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "46.450.551/0001-58",
-          "registration": "1688",
-          "processNumber": "SRE/0921/2023",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 200000000,
-          "date": "2023-05-18",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "publications": []
-        },
-        {
-          "id": "e28f6b8d80b99fc1",
-          "market": "FIDC",
-          "name": "BR ELETRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "35.818.950/0001-02",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 3686032000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-03-20",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "d27fc1f1ab088b20",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TRAMONTINA I",
-          "cnpj": "39.375.599/0001-83",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 186750000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-23",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "bc37c9e0178d6393",
-          "market": "FIDC",
-          "name": "GRUPO TIRADENTES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS EDUCACIONAL",
-          "cnpj": "21.081.952/0001-57",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 226088219.9,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-06-30",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2020-09-17",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-05-15",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "23861e508c943351",
-          "market": "FIDC",
-          "name": "PÁTRIA CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "28.819.553/0001-90",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 1540150000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2018-09-28",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2019-06-18",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-11-17",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "8dd4966cade34933",
-          "market": "FIDC",
-          "name": "SAN Créditos Estruturados I Fundo de Investimento em Direitos Creditórios Não Padronizados",
-          "cnpj": "40.132.424/0001-24",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 1220970999.74,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2023-12-22",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "f03b06a2835c3d75",
-          "market": "FIDC",
-          "name": "SANTANDER FLEX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "47.228.232/0001-65",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 2549990840,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-10-21",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-11-18",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2022-12-16",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "id": "21d74f5b192bcb37",
-          "market": "FIDC",
-          "name": "SYNGENTA TECH I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-          "cnpj": "41.196.339/0001-92",
-          "registration": "",
-          "processNumber": "",
-          "leader": "BANCO SANTANDER (BRASIL) S.A.",
-          "leaderCnpj": "90.400.888/0001-42",
-          "volume": 600000000,
-          "date": "",
-          "rite": "ICVM 476",
-          "audience": "",
-          "status": "Dispensada de Registro",
-          "publications": [
-            {
-              "field": "Ultimo_Comunicado",
-              "label": "Ultimo Comunicado",
-              "value": "Comunicado de Encerramento",
-              "url": ""
-            },
-            {
-              "field": "Data_Comunicado",
-              "label": "Data Comunicado",
-              "value": "2021-12-10",
-              "url": ""
-            }
-          ]
-        }
-      ],
-      "byMarket": [
-        {
-          "market": "FIDC",
-          "count": 19,
-          "volume": 28249982059.640003
-        },
-        {
-          "market": "FIAGRO",
-          "count": 0,
-          "volume": 0
-        },
-        {
-          "market": "FII",
-          "count": 1,
-          "volume": 175700937.42
         }
       ]
     },
@@ -20547,8 +20568,8 @@
         },
         {
           "market": "FII",
-          "count": 5,
-          "volume": 184834650.4
+          "count": 6,
+          "volume": 187834650.4
         }
       ]
     },

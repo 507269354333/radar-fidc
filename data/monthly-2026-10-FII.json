@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FII",
-  "generatedAt": "2026-11-17T19:51:49.325Z",
+  "generatedAt": "2026-11-18T19:24:25.328Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -89,7 +89,7 @@
               "processNumber": "SRE/3280/2026",
               "volume": 1232392957.8,
               "date": "2026-10-07",
-              "status": "Registro Concedido",
+              "status": "Oferta Encerrada",
               "publications": []
             }
           ]
@@ -957,7 +957,7 @@
                 "processNumber": "SRE/3280/2026",
                 "volume": 1232392957.8,
                 "date": "2026-10-07",
-                "status": "Registro Concedido",
+                "status": "Oferta Encerrada",
                 "publications": []
               }
             ]
@@ -1769,19 +1769,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-13",
+        "date": "2026-11-16",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-19",
-          "value": 13.65
-        },
         {
           "date": "2026-10-20",
           "value": 13.65
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-11-16",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-17",
           "value": 13.65
         }
       ]
@@ -2151,26 +2151,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "17/11/2026",
+      "date": "18/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "16/11/2026",
+      "date": "17/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "16/11/2026",
+      "date": "17/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "16/11/2026",
-      "value": 5.7324,
+      "date": "17/11/2026",
+      "value": 5.7851,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },

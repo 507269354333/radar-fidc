@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T19:51:49.263Z",
+  "generatedAt": "2026-11-18T19:24:25.266Z",
   "macro": {
-    "generatedAt": "2026-11-17T05:09:18.808Z",
+    "generatedAt": "2026-11-18T04:37:04.331Z",
     "items": [
       {
         "key": "selic",
@@ -12,7 +12,7 @@
         "display": "13,65%",
         "change": 0,
         "changePct": 0,
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "source": "BCB / SGS",
         "status": "ok",
         "deltaDisplay": "+0 p.p."
@@ -50,11 +50,11 @@
         "label": "USD/BRL",
         "fullLabel": "Dólar / Real",
         "category": "Câmbio",
-        "value": 5.7324,
-        "display": "R$ 5,7324",
-        "change": 0.08060000000000045,
-        "changePct": 1.4260943416256833,
-        "date": "2026-11-16",
+        "value": 5.7851,
+        "display": "R$ 5,7851",
+        "change": 0.05269999999999975,
+        "changePct": 0.919335705812574,
+        "date": "2026-11-17",
         "source": "BCB / PTAX",
         "status": "ok"
       },
@@ -166,24 +166,24 @@
   "overview": {
     "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "sourceUpdatedAt": "2026-11-17T08:01:40.011722",
-    "count": 4668,
+    "sourceUpdatedAt": "2026-11-18T08:00:41.358013",
+    "count": 4673,
     "analytics": {
       "latestMonth": "2026-11",
-      "offersInMonth": 43,
-      "volumeInMonth": 2319228693.4700003,
-      "offersWithVolumeInMonth": 39,
-      "leadersInMonth": 18,
+      "offersInMonth": 48,
+      "volumeInMonth": 2647728693.5299997,
+      "offersWithVolumeInMonth": 43,
+      "leadersInMonth": 20,
       "byRite": [
         {
           "name": "Automático",
-          "count": 43
+          "count": 48
         }
       ],
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 39
+          "count": 44
         },
         {
           "name": "Qualificado",
@@ -194,8 +194,8 @@
         {
           "name": "BANCO DAYCOVAL S.A.",
           "cnpj": "62.232.889/0001-90",
-          "count": 8,
-          "volume": 469300000
+          "count": 10,
+          "volume": 789300000
         },
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -222,6 +222,12 @@
           "volume": 290000000
         },
         {
+          "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "cnpj": "13.486.793/0001-42",
+          "count": 2,
+          "volume": 27500000
+        },
+        {
           "name": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
           "cnpj": "41.592.532/0001-42",
           "count": 2,
@@ -244,12 +250,6 @@
           "cnpj": "36.113.876/0001-91",
           "count": 1,
           "volume": 300000000
-        },
-        {
-          "name": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-          "cnpj": "11.504.852/0001-32",
-          "count": 1,
-          "volume": 150000000
         }
       ],
       "byMonth": [
@@ -357,15 +357,15 @@
         },
         {
           "month": "2026-11",
-          "count": 43,
-          "volume": 2319228693.4700003,
-          "withVolume": 39
+          "count": 48,
+          "volume": 2647728693.5299997,
+          "withVolume": 43
         }
       ],
       "trailing12": {
-        "offers": 857,
-        "volume": 89988779717.95004,
-        "offersWithVolume": 851,
+        "offers": 862,
+        "volume": 90317279718.01004,
+        "offersWithVolume": 855,
         "leaders": 62,
         "topLeaders": [
           {
@@ -383,8 +383,8 @@
           {
             "name": "BANCO DAYCOVAL S.A.",
             "cnpj": "62.232.889/0001-90",
-            "count": 65,
-            "volume": 4864680513.599999
+            "count": 67,
+            "volume": 5184680513.599999
           },
           {
             "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -395,8 +395,8 @@
           {
             "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
             "cnpj": "13.486.793/0001-42",
-            "count": 31,
-            "volume": 1392803997.88
+            "count": 32,
+            "volume": 1400303997.88
           },
           {
             "name": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -437,8 +437,8 @@
           {
             "name": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
             "cnpj": "16.695.922/0001-09",
-            "count": 19,
-            "volume": 229097000.59
+            "count": 20,
+            "volume": 230097000.65
           },
           {
             "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -503,6 +503,126 @@
         ]
       },
       "latestOffers": [
+        {
+          "id": "e44e3fb59740d814",
+          "market": "FIDC",
+          "name": "7 CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+          "cnpj": "66.579.006/0001-73",
+          "registration": "28717",
+          "processNumber": "SRE/3700/2026",
+          "leader": "ID CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+          "leaderCnpj": "16.695.922/0001-09",
+          "volume": 1000000.06,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-11-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "a869e79d0255e79a",
+          "market": "FIDC",
+          "name": "CONSIGNADOS IX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "59.086.325/0001-81",
+          "registration": "28693",
+          "processNumber": "SRE/3706/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 230000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-11-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "3d193c68ee0bf57b",
+          "market": "FIDC",
+          "name": "CONSIGNADOS XIII FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "63.802.702/0001-09",
+          "registration": "28721",
+          "processNumber": "SRE/3704/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 90000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-11-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "ab6b9ceaf09e7e5d",
+          "market": "FIDC",
+          "name": "FLEETER AUTO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MERCANTIS - RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.281.804/0001-51",
+          "registration": "28724",
+          "processNumber": "SRE/3707/2026",
+          "leader": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "13.486.793/0001-42",
+          "volume": 7500000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-11-17",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "4dc223502a406898",
+          "market": "FIDC",
+          "name": "PARANA BANCO CONSIGNADO INSS V FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESP LIMITADA",
+          "cnpj": "69.740.980/0001-65",
+          "registration": "28705",
+          "processNumber": "SRE/3702/2026",
+          "leader": "BANCO SANTANDER (BRASIL) S.A.",
+          "leaderCnpj": "90.400.888/0001-42",
+          "volume": 0,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Aguardando Bookbuilding",
+          "date": "2026-11-17",
+          "dateBasis": "requerimento",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
         {
           "id": "1c6c31066abef24e",
           "market": "FIDC",
@@ -660,7 +780,7 @@
           "volumeComponents": 1,
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "date": "2026-11-13",
           "dateBasis": "registro",
           "securities": [
@@ -734,126 +854,6 @@
           "audience": "Profissional",
           "status": "Oferta Encerrada",
           "date": "2026-11-12",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "85ede595cc1f32ab",
-          "market": "FIDC",
-          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.237.118/0001-34",
-          "registration": "28685",
-          "processNumber": "SRE/3672/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 20000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Qualificado",
-          "status": "Registro Concedido",
-          "date": "2026-11-12",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "a89d74a19ec41e97",
-          "market": "FIDC",
-          "name": "CASHGO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "54.705.382/0001-88",
-          "registration": "28672",
-          "processNumber": "SRE/3661/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 20000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-11-11",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "b77629ed044a0a1d",
-          "market": "FIDC",
-          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CONSIGNADO EXT SETHI - RESPONSABILIDADE LIMITADA",
-          "cnpj": "64.656.842/0001-89",
-          "registration": "28660",
-          "processNumber": "SRE/3659/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-11-11",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "5036a9c519e6ca5b",
-          "market": "FIDC",
-          "name": "GUIBOR SL I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP. LIMITADA",
-          "cnpj": "67.294.246/0001-94",
-          "registration": "28666",
-          "processNumber": "SRE/3660/2026",
-          "leader": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-          "leaderCnpj": "03.751.794/0001-13",
-          "volume": 20000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-11-11",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "7d086c0cb4e5486d",
-          "market": "FIDC",
-          "name": "CONECTEPAG ELETROBIDU FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-          "cnpj": "64.655.872/0001-70",
-          "registration": "28630",
-          "processNumber": "SRE/3649/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 50000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-11-10",
           "dateBasis": "registro",
           "securities": [
             "Cotas de FIDC"

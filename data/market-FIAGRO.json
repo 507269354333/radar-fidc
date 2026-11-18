@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-17T08:01:40.011722",
+  "sourceUpdatedAt": "2026-11-18T08:00:41.358013",
   "market": "FIAGRO",
-  "count": 194,
+  "count": 195,
   "analytics": {
     "latestMonth": "2026-11",
-    "offersInMonth": 8,
-    "volumeInMonth": 12245000000,
-    "offersWithVolumeInMonth": 6,
-    "leadersInMonth": 5,
+    "offersInMonth": 9,
+    "volumeInMonth": 12351000000,
+    "offersWithVolumeInMonth": 8,
+    "leadersInMonth": 6,
     "byRite": [
       {
         "name": "Automático",
-        "count": 8
+        "count": 9
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 7
+        "count": 8
       },
       {
         "name": "Qualificado",
@@ -46,16 +46,22 @@
         "volume": 115000000
       },
       {
+        "name": "BANCO VOTORANTIM S.A.",
+        "cnpj": "59.588.111/0001-03",
+        "count": 1,
+        "volume": 96000000
+      },
+      {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
         "cnpj": "59.281.253/0001-23",
         "count": 1,
         "volume": 70000000
       },
       {
-        "name": "BANCO VOTORANTIM S.A.",
-        "cnpj": "59.588.111/0001-03",
+        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "62.285.390/0001-40",
         "count": 1,
-        "volume": 0
+        "volume": 10000000
       }
     ],
     "byMonth": [
@@ -163,15 +169,15 @@
       },
       {
         "month": "2026-11",
-        "count": 8,
-        "volume": 12245000000,
-        "withVolume": 6
+        "count": 9,
+        "volume": 12351000000,
+        "withVolume": 8
       }
     ],
     "trailing12": {
-      "offers": 78,
-      "volume": 49634432887.55,
-      "offersWithVolume": 76,
+      "offers": 79,
+      "volume": 49740432887.55,
+      "offersWithVolume": 78,
       "leaders": 22,
       "topLeaders": [
         {
@@ -213,14 +219,14 @@
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
-          "count": 4,
-          "volume": 791068282.63
+          "count": 5,
+          "volume": 801068282.63
         },
         {
           "name": "BANCO VOTORANTIM S.A.",
           "cnpj": "59.588.111/0001-03",
           "count": 4,
-          "volume": 260652000
+          "volume": 356652000
         },
         {
           "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -289,6 +295,54 @@
     },
     "latestOffers": [
       {
+        "id": "d9b238f8e3fd28e4",
+        "market": "FIAGRO",
+        "name": "AGROCRED FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "34.850.033/0001-42",
+        "registration": "28720",
+        "processNumber": "SRE/3703/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "leaderCnpj": "62.285.390/0001-40",
+        "volume": 10000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-11-17",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
+        "id": "33ffe9da693290d9",
+        "market": "FIAGRO",
+        "name": "FIAGRO OPEA BIOFINANCE II - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.883.736/0001-51",
+        "registration": "28679",
+        "processNumber": "SRE/3666/2026",
+        "leader": "BANCO VOTORANTIM S.A.",
+        "leaderCnpj": "59.588.111/0001-03",
+        "volume": 96000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-11-17",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
+      {
         "id": "2fffe1a9f9e67e3a",
         "market": "FIAGRO",
         "name": "AGRO SLB-IMR FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - RESP LIMITADA",
@@ -327,30 +381,6 @@
         "audience": "Profissional",
         "status": "Aguardando Bookbuilding",
         "date": "2026-11-13",
-        "dateBasis": "requerimento",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "33ffe9da693290d9",
-        "market": "FIAGRO",
-        "name": "FIAGRO OPEA BIOFINANCE II - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.883.736/0001-51",
-        "registration": "28679",
-        "processNumber": "SRE/3666/2026",
-        "leader": "BANCO VOTORANTIM S.A.",
-        "leaderCnpj": "59.588.111/0001-03",
-        "volume": 0,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Aguardando Bookbuilding",
-        "date": "2026-11-12",
         "dateBasis": "requerimento",
         "securities": [
           "Cotas de FIAGRO"
@@ -623,33 +653,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "9357cd7322bc5429",
-        "market": "FIAGRO",
-        "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
-        "cnpj": "62.919.053/0001-68",
-        "registration": "28432",
-        "processNumber": "SRE/3452/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "leaderCnpj": "62.232.889/0001-90",
-        "volume": 80000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-10-22",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-17T19:51:49.229Z"
+  "updatedAt": "2026-11-18T19:24:25.232Z"
 }
