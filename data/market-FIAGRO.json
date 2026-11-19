@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-18T08:00:41.358013",
+  "sourceUpdatedAt": "2026-11-19T08:00:45.021706",
   "market": "FIAGRO",
-  "count": 195,
+  "count": 194,
   "analytics": {
     "latestMonth": "2026-11",
-    "offersInMonth": 9,
-    "volumeInMonth": 12351000000,
-    "offersWithVolumeInMonth": 8,
-    "leadersInMonth": 6,
+    "offersInMonth": 8,
+    "volumeInMonth": 12341000000,
+    "offersWithVolumeInMonth": 7,
+    "leadersInMonth": 5,
     "byRite": [
       {
         "name": "Automático",
-        "count": 9
+        "count": 8
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 8
+        "count": 7
       },
       {
         "name": "Qualificado",
@@ -56,12 +56,6 @@
         "cnpj": "59.281.253/0001-23",
         "count": 1,
         "volume": 70000000
-      },
-      {
-        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "62.285.390/0001-40",
-        "count": 1,
-        "volume": 10000000
       }
     ],
     "byMonth": [
@@ -169,15 +163,15 @@
       },
       {
         "month": "2026-11",
-        "count": 9,
-        "volume": 12351000000,
-        "withVolume": 8
+        "count": 8,
+        "volume": 12341000000,
+        "withVolume": 7
       }
     ],
     "trailing12": {
-      "offers": 79,
-      "volume": 49740432887.55,
-      "offersWithVolume": 78,
+      "offers": 78,
+      "volume": 49730432887.55,
+      "offersWithVolume": 77,
       "leaders": 22,
       "topLeaders": [
         {
@@ -219,8 +213,8 @@
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
-          "count": 5,
-          "volume": 801068282.63
+          "count": 4,
+          "volume": 791068282.63
         },
         {
           "name": "BANCO VOTORANTIM S.A.",
@@ -274,7 +268,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 71000000,
+      "medianPositiveVolume": 72000000,
       "outlierCount": 2,
       "outliers": [
         {
@@ -294,30 +288,6 @@
       ]
     },
     "latestOffers": [
-      {
-        "id": "d9b238f8e3fd28e4",
-        "market": "FIAGRO",
-        "name": "AGROCRED FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "34.850.033/0001-42",
-        "registration": "28720",
-        "processNumber": "SRE/3703/2026",
-        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "leaderCnpj": "62.285.390/0001-40",
-        "volume": 10000000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-11-17",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
       {
         "id": "33ffe9da693290d9",
         "market": "FIAGRO",
@@ -653,9 +623,33 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
+      },
+      {
+        "id": "9357cd7322bc5429",
+        "market": "FIAGRO",
+        "name": "VALORA AGRO TERRAS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO DE RESP LIMITADA",
+        "cnpj": "62.919.053/0001-68",
+        "registration": "28432",
+        "processNumber": "SRE/3452/2026",
+        "leader": "BANCO DAYCOVAL S.A.",
+        "leaderCnpj": "62.232.889/0001-90",
+        "volume": 80000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-10-22",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-18T19:24:25.232Z"
+  "updatedAt": "2026-11-19T19:29:28.061Z"
 }
