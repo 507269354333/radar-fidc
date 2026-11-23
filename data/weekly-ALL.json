@@ -1,7 +1,262 @@
 {
-  "generatedAt": "2026-11-20T19:06:49.427Z",
+  "generatedAt": "2026-11-23T22:39:44.397Z",
   "market": "ALL",
   "current": {
+    "period": {
+      "start": "2026-11-16",
+      "end": "2026-11-22"
+    },
+    "offers": 13,
+    "offersWithVolume": 11,
+    "volume": 868735154.13,
+    "averageTicket": 78975923.10272728,
+    "leaders": 9,
+    "topLeaders": [
+      {
+        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "cnpj": "04.845.753/0001-59",
+        "count": 3,
+        "volume": 134000000
+      },
+      {
+        "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "62.285.390/0001-40",
+        "count": 2,
+        "volume": 269750000
+      },
+      {
+        "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "cnpj": "39.669.186/0001-01",
+        "count": 2,
+        "volume": 63985000
+      },
+      {
+        "name": "BANCO DAYCOVAL S.A.",
+        "cnpj": "62.232.889/0001-90",
+        "count": 1,
+        "volume": 230000000
+      },
+      {
+        "name": "BANCO VOTORANTIM S.A.",
+        "cnpj": "59.588.111/0001-03",
+        "count": 1,
+        "volume": 96000000
+      },
+      {
+        "name": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "cnpj": "02.276.653/0001-23",
+        "count": 1,
+        "volume": 35000000
+      },
+      {
+        "name": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
+        "cnpj": "02.600.837/0001-05",
+        "count": 1,
+        "volume": 30000000
+      },
+      {
+        "name": "GENIAL INSTITUCIONAL CCTVM S.A.",
+        "cnpj": "05.816.451/0001-15",
+        "count": 1,
+        "volume": 10000154.13
+      },
+      {
+        "name": "BANCO SANTANDER (BRASIL) S.A.",
+        "cnpj": "90.400.888/0001-42",
+        "count": 1,
+        "volume": 0
+      }
+    ],
+    "topOffers": [
+      {
+        "id": "5a109f7566828ea7",
+        "market": "FIDC",
+        "name": "QUALI INSS RECEIVABLES I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+        "cnpj": "70.112.307/0001-60",
+        "registration": "28690",
+        "processNumber": "SRE/3692/2026",
+        "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "volume": 243750000,
+        "date": "2026-11-16",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "a869e79d0255e79a",
+        "market": "FIDC",
+        "name": "CONSIGNADOS IX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+        "cnpj": "59.086.325/0001-81",
+        "registration": "28693",
+        "processNumber": "SRE/3706/2026",
+        "leader": "BANCO DAYCOVAL S.A.",
+        "volume": 230000000,
+        "date": "2026-11-17",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "2fffe1a9f9e67e3a",
+        "market": "FIAGRO",
+        "name": "AGRO SLB-IMR FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - RESP LIMITADA",
+        "cnpj": "63.504.290/0001-20",
+        "registration": "28590",
+        "processNumber": "SRE/3602/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "volume": 100000000,
+        "date": "2026-11-16",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "33ffe9da693290d9",
+        "market": "FIAGRO",
+        "name": "FIAGRO OPEA BIOFINANCE II - DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+        "cnpj": "69.883.736/0001-51",
+        "registration": "28679",
+        "processNumber": "SRE/3666/2026",
+        "leader": "BANCO VOTORANTIM S.A.",
+        "volume": 96000000,
+        "date": "2026-11-17",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "dc1558bdabf73581",
+        "market": "FIDC",
+        "name": "LEPTA SPECIAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+        "cnpj": "55.586.406/0001-90",
+        "registration": "28703",
+        "processNumber": "SRE/3691/2026",
+        "leader": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "volume": 40000000,
+        "date": "2026-11-16",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "645cd4d9ac9d512d",
+        "market": "FIDC",
+        "name": "TD I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+        "cnpj": "63.679.664/0001-49",
+        "registration": "28667",
+        "processNumber": "SRE/3712/2026",
+        "leader": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "volume": 35000000,
+        "date": "2026-11-18",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "e7c727a7f6272a94",
+        "market": "FIDC",
+        "name": "SERUM FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RECEBIVEIS COMERCIAIS RESPONSABILIDADE LIMITADA",
+        "cnpj": "68.931.082/0001-21",
+        "registration": "28600",
+        "processNumber": "SRE/3596/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "volume": 34000000,
+        "date": "2026-11-16",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      },
+      {
+        "id": "c04e572085cb696a",
+        "market": "FII",
+        "name": "AF INVEST REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+        "cnpj": "60.077.386/0001-61",
+        "registration": "28707",
+        "processNumber": "SRE/3698/2026",
+        "leader": "ARAUJO FONTES CONSULTORIA E NEGÓCIOS IMOBILIÁRIOS LTDA",
+        "volume": 30000000,
+        "date": "2026-11-17",
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "publications": []
+      }
+    ],
+    "byAudience": [
+      {
+        "name": "Profissional",
+        "count": 11
+      },
+      {
+        "name": "Qualificado",
+        "count": 2
+      }
+    ],
+    "byRite": [
+      {
+        "name": "Automático",
+        "count": 13
+      }
+    ],
+    "byStatus": [
+      {
+        "name": "Registro Concedido",
+        "count": 11
+      },
+      {
+        "name": "Aguardando Bookbuilding",
+        "count": 2
+      }
+    ],
+    "byMarket": [
+      {
+        "name": "FIDC",
+        "count": 8
+      },
+      {
+        "name": "FII",
+        "count": 3
+      },
+      {
+        "name": "FIAGRO",
+        "count": 2
+      }
+    ],
+    "professionalShare": 0.8461538461538461,
+    "top3Concentration": 0.5384615384615384,
+    "busiestDays": [
+      {
+        "date": "2026-11-16",
+        "count": 8
+      },
+      {
+        "date": "2026-11-17",
+        "count": 4
+      },
+      {
+        "date": "2026-11-18",
+        "count": 1
+      }
+    ],
+    "themeSignals": [
+      {
+        "name": "Consignado",
+        "count": 3
+      },
+      {
+        "name": "Agronegócio",
+        "count": 2
+      }
+    ]
+  },
+  "prior": {
     "period": {
       "start": "2026-11-09",
       "end": "2026-11-15"
@@ -270,315 +525,25 @@
       }
     ]
   },
-  "prior": {
-    "period": {
-      "start": "2026-11-02",
-      "end": "2026-11-08"
-    },
-    "offers": 33,
-    "offersWithVolume": 31,
-    "volume": 3343472693.48,
-    "averageTicket": 107853957.85419355,
-    "leaders": 16,
-    "topLeaders": [
-      {
-        "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "cnpj": "22.610.500/0001-88",
-        "count": 7,
-        "volume": 205000000
-      },
-      {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 4,
-        "volume": 2072000000
-      },
-      {
-        "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-        "cnpj": "39.669.186/0001-01",
-        "count": 4,
-        "volume": 28872693.47
-      },
-      {
-        "name": "BANCO DAYCOVAL S.A.",
-        "cnpj": "62.232.889/0001-90",
-        "count": 3,
-        "volume": 224300000
-      },
-      {
-        "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "cnpj": "59.281.253/0001-23",
-        "count": 2,
-        "volume": 370000000
-      },
-      {
-        "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "cnpj": "04.845.753/0001-59",
-        "count": 2,
-        "volume": 225000000
-      },
-      {
-        "name": "ACTUAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-        "cnpj": "44.782.130/0001-07",
-        "count": 2,
-        "volume": 15000000
-      },
-      {
-        "name": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-        "cnpj": "11.504.852/0001-32",
-        "count": 1,
-        "volume": 150000000
-      },
-      {
-        "name": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-        "cnpj": "13.486.793/0001-42",
-        "count": 1,
-        "volume": 20000000
-      },
-      {
-        "name": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-        "cnpj": "18.945.670/0001-46",
-        "count": 1,
-        "volume": 10000000.01
-      }
-    ],
-    "topOffers": [
-      {
-        "id": "c5c63c5c0f875758",
-        "market": "FII",
-        "name": "MAUÁ CAPITAL PRIME PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.853.463/0001-00",
-        "registration": "28524",
-        "processNumber": "SRE/3525/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 1500000000,
-        "date": "2026-11-03",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "3a59cfb431697c87",
-        "market": "FII",
-        "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO LOTUS TOWERS - RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.591.656/0001-22",
-        "registration": "28571",
-        "processNumber": "SRE/3575/2026",
-        "leader": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-        "volume": 300000000,
-        "date": "2026-11-03",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "9f635aab5f0db072",
-        "market": "FII",
-        "name": "ARX FUNDO DE INVESTIMENTO IMOBILIARIO PORTFOLIO RENDA CDI+ II RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.693.630/0001-95",
-        "registration": "28572",
-        "processNumber": "SRE/3576/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 250000000,
-        "date": "2026-11-03",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "bfe8b703a00ecb0a",
-        "market": "FIDC",
-        "name": "CORUJA SATURNO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.003.757/0001-35",
-        "registration": "27847",
-        "processNumber": "SRE/2900/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "volume": 225000000,
-        "date": "2026-11-03",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "a27d7eab29c86889",
-        "market": "FII",
-        "name": "FULWOOD DESENVOLVIMENTO LOGISTICO I FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
-        "cnpj": "68.281.456/0001-00",
-        "registration": "28574",
-        "processNumber": "SRE/3578/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 224000000,
-        "date": "2026-11-03",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "c853343ded4195b9",
-        "market": "FIDC",
-        "name": "BLIPAY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS FINANCEIRO - RESPONSABILIDADE LIMITADA",
-        "cnpj": "57.354.123/0001-48",
-        "registration": "28594",
-        "processNumber": "SRE/3592/2026",
-        "leader": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-        "volume": 150000000,
-        "date": "2026-11-05",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "9c22208c9457df00",
-        "market": "FIDC",
-        "name": "CARMELO CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-        "cnpj": "69.088.357/0001-70",
-        "registration": "28554",
-        "processNumber": "SRE/3589/2026",
-        "leader": "BANCO DAYCOVAL S.A.",
-        "volume": 100000000,
-        "date": "2026-11-04",
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "publications": []
-      },
-      {
-        "id": "24cdc564a3e89924",
-        "market": "FII",
-        "name": "FULWOOD DESENVOLVIMENTO LOGÍSTICO I FEEDERFUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA",
-        "cnpj": "68.281.552/0001-59",
-        "registration": "28561",
-        "processNumber": "SRE/3579/2026",
-        "leader": "XP INVESTIMENTOS CCTVM S.A.",
-        "volume": 98000000,
-        "date": "2026-11-05",
-        "rite": "Automático",
-        "audience": "Público geral",
-        "status": "Registro Concedido",
-        "publications": []
-      }
-    ],
-    "byAudience": [
-      {
-        "name": "Profissional",
-        "count": 26
-      },
-      {
-        "name": "Público geral",
-        "count": 4
-      },
-      {
-        "name": "Qualificado",
-        "count": 3
-      }
-    ],
-    "byRite": [
-      {
-        "name": "Automático",
-        "count": 33
-      }
-    ],
-    "byStatus": [
-      {
-        "name": "Registro Concedido",
-        "count": 29
-      },
-      {
-        "name": "Aguardando Bookbuilding",
-        "count": 2
-      },
-      {
-        "name": "Oferta Encerrada",
-        "count": 2
-      }
-    ],
-    "byMarket": [
-      {
-        "name": "FIDC",
-        "count": 18
-      },
-      {
-        "name": "FII",
-        "count": 14
-      },
-      {
-        "name": "FIAGRO",
-        "count": 1
-      }
-    ],
-    "professionalShare": 0.7878787878787878,
-    "top3Concentration": 0.45454545454545453,
-    "busiestDays": [
-      {
-        "date": "2026-11-03",
-        "count": 12
-      },
-      {
-        "date": "2026-11-06",
-        "count": 11
-      },
-      {
-        "date": "2026-11-04",
-        "count": 5
-      }
-    ],
-    "themeSignals": [
-      {
-        "name": "Consignado",
-        "count": 3
-      },
-      {
-        "name": "Imobiliário logístico",
-        "count": 2
-      },
-      {
-        "name": "Agronegócio",
-        "count": 1
-      },
-      {
-        "name": "Infraestrutura",
-        "count": 1
-      },
-      {
-        "name": "Veículos",
-        "count": 1
-      }
-    ]
-  },
   "changes": {
-    "offersPct": -3.0303030303030303,
-    "volumePct": 313.05065425750007
+    "offersPct": -59.375,
+    "volumePct": -93.7094835708241
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 41.75,
-      "volume": 5739853300.69,
-      "leaders": 20.25,
-      "professionalShare": 0.8889770943342372,
-      "top3Concentration": 0.38743399457685174
+      "offers": 41.5,
+      "volume": 7893435509.3825,
+      "leaders": 20.75,
+      "professionalShare": 0.9034183822130251,
+      "top3Concentration": 0.3980874036677608
     },
     "currentVsPrior4Average": {
-      "offersPct": -23.353293413173652,
-      "volumePct": 140.60259229412438
+      "offersPct": -68.67469879518072,
+      "volumePct": -88.99420723590657
     }
   },
   "history": {
     "weeks": [
-      {
-        "period": {
-          "start": "2026-09-21",
-          "end": "2026-09-27"
-        },
-        "offers": 26,
-        "volume": 13515851754.76,
-        "leaders": 14
-      },
       {
         "period": {
           "start": "2026-09-28",
@@ -641,33 +606,42 @@
         "offers": 32,
         "volume": 13810235835.34,
         "leaders": 18
+      },
+      {
+        "period": {
+          "start": "2026-11-16",
+          "end": "2026-11-22"
+        },
+        "offers": 13,
+        "volume": 868735154.13,
+        "leaders": 9
       }
     ]
   },
   "observations": [
-    "Atividade semanal de 32 ofertas ALL, 3,0% abaixo da semana anterior.",
-    "Volume informado de R$ 13.810.235.835 em 30 ofertas com valor positivo; ticket médio de R$ 460.341.195.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 140,6% acima e a quantidade de ofertas 23,4% abaixo.",
-    "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou por quantidade de registros (5); os três coordenadores mais presentes concentraram 40,6% das ofertas da semana.",
-    "90,6% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
-    "Sinais de tema pela denominação dos veículos: Agronegócio (5), Consignado (1), Escritórios (1). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
+    "Atividade semanal de 13 ofertas ALL, 59,4% abaixo da semana anterior.",
+    "Volume informado de R$ 868.735.154 em 11 ofertas com valor positivo; ticket médio de R$ 78.975.923.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 89,0% abaixo e a quantidade de ofertas 68,7% abaixo.",
+    "ITAU BBA ASSESSORIA FINANCEIRA S.A liderou por quantidade de registros (3); os três coordenadores mais presentes concentraram 53,8% das ofertas da semana.",
+    "84,6% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
+    "Sinais de tema pela denominação dos veículos: Consignado (3), Agronegócio (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
   ],
   "methodology": "Semana fechada de segunda a domingo. São consideradas as datas oficiais usadas pelo Radar: registro e, quando ausente, requerimento/protocolo. Volumes semanais somam somente valores positivos informados na base CVM. O benchmark de 4 semanas usa as quatro semanas completas anteriores à semana analisada. Sinais de tema, quando exibidos, usam apenas termos da denominação e são marcados como indicativos.",
   "sources": {
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-20T08:00:44.315053"
+      "updatedAt": "2026-11-23T08:01:22.010886"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-20T19:06:49.357Z"
+      "updatedAt": "2026-11-23T22:39:43.415Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "19/11/2026 18:22"
+      "updatedAt": "23/11/2026 18:12"
     }
   },
   "macro": {
@@ -676,19 +650,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-19",
+        "date": "2026-11-23",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-22",
-          "value": 13.65
-        },
         {
           "date": "2026-10-23",
           "value": 13.65
@@ -763,6 +733,10 @@
         },
         {
           "date": "2026-11-19",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-23",
           "value": 13.65
         }
       ]
@@ -1058,26 +1032,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "19/11/2026",
+      "date": "23/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "19/11/2026",
+      "date": "23/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "19/11/2026",
+      "date": "23/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "19/11/2026",
-      "value": 5.8889,
+      "date": "23/11/2026",
+      "value": 5.9708,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1094,28 +1068,7 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [
-    {
-      "title": "CVM informa que o Sistema SRE ficará temporariamente indisponível",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-informa-que-o-sistema-sre-ficara-temporariamente-indisponivel",
-      "source": "CVM"
-    },
-    {
-      "title": "Área técnica da CVM reforça obrigação da divulgação completa e tempestiva de informações pelas companhias securitizadoras",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-reforca-obrigacao-da-divulgacao-completa-e-tempestiva-de-informacoes-pelas-companhias-securitizadoras",
-      "source": "CVM"
-    },
-    {
-      "title": "CVM revoga suspensão da oferta de CRI da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-revoga-suspensao-da-oferta-de-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM"
-    },
-    {
-      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
-      "source": "CVM"
-    }
-  ],
+  "regulatoryHighlights": [],
   "marketComparison": [
     {
       "market": "FIDC",

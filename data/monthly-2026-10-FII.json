@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FII",
-  "generatedAt": "2026-11-20T19:06:49.546Z",
+  "generatedAt": "2026-11-23T22:39:44.776Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1769,19 +1769,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-19",
+        "date": "2026-11-23",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-22",
-          "value": 13.65
-        },
         {
           "date": "2026-10-23",
           "value": 13.65
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-11-19",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-23",
           "value": 13.65
         }
       ]
@@ -2151,26 +2151,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "19/11/2026",
+      "date": "23/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "19/11/2026",
+      "date": "23/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "19/11/2026",
+      "date": "23/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "19/11/2026",
-      "value": 5.8889,
+      "date": "23/11/2026",
+      "value": 5.9708,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2187,28 +2187,7 @@
       "unit": "%"
     }
   },
-  "regulatoryHighlights": [
-    {
-      "title": "CVM informa que o Sistema SRE ficará temporariamente indisponível",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-informa-que-o-sistema-sre-ficara-temporariamente-indisponivel",
-      "source": "CVM"
-    },
-    {
-      "title": "Área técnica da CVM reforça obrigação da divulgação completa e tempestiva de informações pelas companhias securitizadoras",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-reforca-obrigacao-da-divulgacao-completa-e-tempestiva-de-informacoes-pelas-companhias-securitizadoras",
-      "source": "CVM"
-    },
-    {
-      "title": "CVM revoga suspensão da oferta de CRI da B.SEC Companhia de Securitização",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-revoga-suspensao-da-oferta-de-cri-da-b-sec-companhia-de-securitizacao",
-      "source": "CVM"
-    },
-    {
-      "title": "CVM debate futuro da tokenização no 2º Encontro com o Mercado do GTT",
-      "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-futuro-da-tokenizacao-no-2o-encontro-com-o-mercado-do-gtt",
-      "source": "CVM"
-    }
-  ],
+  "regulatoryHighlights": [],
   "houseView": {
     "headline": "FII liderou o volume analítico entre as verticais acompanhadas.",
     "principles": [
