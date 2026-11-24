@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "ALL",
-  "generatedAt": "2026-11-23T22:39:44.830Z",
+  "generatedAt": "2026-11-24T21:12:24.699Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -331,8 +331,8 @@
       "month": "2026-09",
       "offers": 155,
       "offersWithVolume": 155,
-      "registeredVolume": 43409290782.04,
-      "analyticalVolume": 34409290782.04,
+      "registeredVolume": 43079526740.439995,
+      "analyticalVolume": 34079526740.439995,
       "averageTicket": null,
       "issuers": 144,
       "leaders": 36,
@@ -371,7 +371,7 @@
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
           "count": 9,
-          "volume": 6259860019.96
+          "volume": 5930095978.360001
         },
         {
           "name": "XP INVESTIMENTOS CCTVM S.A.",
@@ -665,8 +665,8 @@
     },
     "changes": {
       "offersPct": 36.12903225806451,
-      "officialVolumePct": -37.625363285035554,
-      "analyticalVolumePct": -30.901256941191786
+      "officialVolumePct": -37.14789953710746,
+      "analyticalVolumePct": -30.232636130988045
     },
     "indices": {
       "month": "2026-10",
@@ -865,28 +865,28 @@
       "projection": {
         "year": 2026,
         "actualThrough": "2026-10",
-        "officialActualVolume": 163181486535.86,
-        "adjustedActualVolume": 125381486535.86,
+        "officialActualVolume": 162851722494.25998,
+        "adjustedActualVolume": 125051722494.26001,
         "actualOffers": 892,
         "remainingMonths": 2,
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 135753929422.105,
+            "volume": 135424165380.505,
             "offers": 975,
             "monthlyVolumeAssumption": 5186221443.1225,
             "monthlyOfferAssumption": 41
           },
           {
             "label": "Base",
-            "volume": 145997030202.28998,
+            "volume": 145667266160.69,
             "offers": 1040,
             "monthlyVolumeAssumption": 10307771833.214998,
             "monthlyOfferAssumption": 74
           },
           {
             "label": "Expansão",
-            "volume": 162085490960.365,
+            "volume": 161755726918.765,
             "offers": 1185,
             "monthlyVolumeAssumption": 18352002212.2525,
             "monthlyOfferAssumption": 146.25
@@ -2318,7 +2318,7 @@
                 "processNumber": "SRE/3007/2026",
                 "volume": 4500000,
                 "date": "2026-09-17",
-                "status": "Registro Concedido",
+                "status": "Oferta Revogada",
                 "publications": []
               }
             ]
@@ -2962,9 +2962,9 @@
         "month": "2026-09",
         "offers": 38,
         "offersWithVolume": 38,
-        "registeredVolume": 11345802740.01,
-        "analyticalVolume": 11345802740.01,
-        "averageTicket": 298573756.3160526,
+        "registeredVolume": 11016038698.409998,
+        "analyticalVolume": 11016038698.409998,
+        "averageTicket": 289895755.22131574,
         "issuers": 37,
         "leaders": 16,
         "topLeaders": [
@@ -2978,7 +2978,7 @@
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
             "cnpj": "04.845.753/0001-59",
             "count": 4,
-            "volume": 1507460019.96
+            "volume": 1177695978.3600001
           },
           {
             "name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -3139,24 +3139,6 @@
             ]
           },
           {
-            "name": "ITAÚ CRÉDITO IMOBILIÁRIO CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-            "cnpj": "64.542.109/0001-33",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "count": 1,
-            "volume": 500000019.96,
-            "records": [
-              {
-                "id": "7dd8df53f38d1b33",
-                "registration": "27774",
-                "processNumber": "SRE/2838/2026",
-                "volume": 500000019.96,
-                "date": "2026-09-11",
-                "status": "Registro Concedido",
-                "publications": []
-              }
-            ]
-          },
-          {
             "name": "PAC-MAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
             "cnpj": "68.948.341/0001-27",
             "leader": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -3245,6 +3227,24 @@
                 "publications": []
               }
             ]
+          },
+          {
+            "name": "HIRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+            "cnpj": "63.806.554/0001-09",
+            "leader": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+            "count": 1,
+            "volume": 301872949.67,
+            "records": [
+              {
+                "id": "c601088793564c30",
+                "registration": "27950",
+                "processNumber": "SRE/2996/2026",
+                "volume": 301872949.67,
+                "date": "2026-09-16",
+                "status": "Registro Concedido",
+                "publications": []
+              }
+            ]
           }
         ],
         "outliers": [],
@@ -3276,8 +3276,8 @@
       },
       "changes": {
         "offersPct": -21.052631578947366,
-        "officialVolumePct": -28.913352725689183,
-        "analyticalVolumePct": -28.913352725689183
+        "officialVolumePct": -26.785380888375833,
+        "analyticalVolumePct": -26.785380888375833
       },
       "indices": {
         "month": "2026-10",
@@ -3471,28 +3471,28 @@
         "projection": {
           "year": 2026,
           "actualThrough": "2026-10",
-          "officialActualVolume": 55078117425.93001,
-          "adjustedActualVolume": 55078117425.93001,
+          "officialActualVolume": 54748353384.33001,
+          "adjustedActualVolume": 54748353384.33001,
           "actualOffers": 183,
           "remainingMonths": 2,
           "scenarios": [
             {
               "label": "Conservador",
-              "volume": 60511155686.79001,
+              "volume": 60181391645.19001,
               "offers": 199,
               "monthlyVolumeAssumption": 2716519130.4300003,
               "monthlyOfferAssumption": 7.75
             },
             {
               "label": "Base",
-              "volume": 66609374701.850006,
+              "volume": 66279610660.25001,
               "offers": 216,
               "monthlyVolumeAssumption": 5765628637.959999,
               "monthlyOfferAssumption": 16.5
             },
             {
               "label": "Expansão",
-              "volume": 72612918401.14001,
+              "volume": 72283154359.54001,
               "offers": 246,
               "monthlyVolumeAssumption": 8767400487.605,
               "monthlyOfferAssumption": 31.25
@@ -3504,7 +3504,7 @@
       },
       "editorial": [
         "A quantidade de ofertas FII ficou 21,1% abaixo da última competência disponível (2026-09).",
-        "O volume analítico ajustado ficou 28,9% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
+        "O volume analítico ajustado ficou 26,8% abaixo da última competência disponível. O volume oficial continua reportado separadamente.",
         "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou o mês por quantidade, com 4 ofertas.",
         "O IROP encerrou em 70/100 (forte); o IRPM ficou em 63/100 (equilibrado)."
       ],
@@ -3916,7 +3916,7 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "23/11/2026",
+      "date": "24/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
@@ -4086,7 +4086,7 @@
           },
           {
             "label": "Cenário base anual",
-            "value": 66609374701.850006,
+            "value": 66279610660.25001,
             "source": "Cenário Radar"
           }
         ],
@@ -4230,17 +4230,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 60511155686.79001,
+            "volume": 60181391645.19001,
             "offers": 199
           },
           {
             "label": "Base",
-            "volume": 66609374701.850006,
+            "volume": 66279610660.25001,
             "offers": 216
           },
           {
             "label": "Expansão",
-            "volume": 72612918401.14001,
+            "volume": 72283154359.54001,
             "offers": 246
           }
         ],
