@@ -1,10 +1,10 @@
 {
   "market": "FIDC",
-  "generatedAt": "2026-11-24T21:12:24.637Z",
+  "generatedAt": "2026-11-25T20:28:45.363Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-24T08:00:57.353180"
+    "updatedAt": "2026-11-25T08:00:44.655655"
   },
   "coordinators": [
     {
@@ -1216,10 +1216,10 @@
       "name": "BANCO DAYCOVAL S.A.",
       "cnpj": "62.232.889/0001-90",
       "stats12m": {
-        "offers": 66,
-        "volume": 5094680513.599999,
-        "offersWithVolume": 66,
-        "averageTicket": 77192128.99393938
+        "offers": 67,
+        "volume": 5144680513.599999,
+        "offersWithVolume": 67,
+        "averageTicket": 76786276.32238805
       },
       "byMonth": [
         {
@@ -1309,11 +1309,27 @@
         },
         {
           "month": "2026-11",
-          "count": 9,
-          "volume": 699300000
+          "count": 10,
+          "volume": 749300000
         }
       ],
       "recentOffers": [
+        {
+          "id": "778f421a2b2d3d3c",
+          "market": "FIDC",
+          "name": "DAYCOVAL POUPA CLT FIDC RESPONSABILIDADE LIMITADA",
+          "cnpj": "69.291.382/0001-56",
+          "registration": "28696",
+          "processNumber": "SRE/3774/2026",
+          "leader": "BANCO DAYCOVAL S.A.",
+          "leaderCnpj": "62.232.889/0001-90",
+          "volume": 50000000,
+          "date": "2026-11-24",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "a869e79d0255e79a",
           "market": "FIDC",
@@ -1743,7 +1759,7 @@
           "date": "2026-09-15",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -1777,29 +1793,13 @@
           "audience": "Profissional",
           "status": "Registro Concedido",
           "publications": []
-        },
-        {
-          "id": "3dc99e0440db7809",
-          "market": "FIDC",
-          "name": "ST TARUMÃ S FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.448.736/0001-60",
-          "registration": "27866",
-          "processNumber": "SRE/2916/2026",
-          "leader": "BANCO DAYCOVAL S.A.",
-          "leaderCnpj": "62.232.889/0001-90",
-          "volume": 160000000,
-          "date": "2026-09-11",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "publications": []
         }
       ],
       "byMarket": [
         {
           "market": "FIDC",
-          "count": 212,
-          "volume": 17815952056.010002
+          "count": 213,
+          "volume": 17865952056.010002
         },
         {
           "market": "FIAGRO",
@@ -3767,7 +3767,7 @@
           "date": "2026-10-27",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -4829,9 +4829,9 @@
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
         "offers": 25,
-        "volume": 10131695059,
-        "offersWithVolume": 22,
-        "averageTicket": 460531593.59090906
+        "volume": 10506695005.75,
+        "offersWithVolume": 23,
+        "averageTicket": 456812826.3369565
       },
       "byMonth": [
         {
@@ -4922,7 +4922,7 @@
         {
           "month": "2026-11",
           "count": 6,
-          "volume": 376000000
+          "volume": 750999946.75
         }
       ],
       "recentOffers": [
@@ -4935,11 +4935,11 @@
           "processNumber": "SRE/3696/2026",
           "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-11-16",
+          "volume": 374999946.75,
+          "date": "2026-11-24",
           "rite": "Automático",
           "audience": "Qualificado",
-          "status": "Aguardando Bookbuilding",
+          "status": "Registro Concedido",
           "publications": []
         },
         {
@@ -5411,7 +5411,7 @@
         {
           "market": "FIDC",
           "count": 60,
-          "volume": 18490045059
+          "volume": 18865045005.75
         },
         {
           "market": "FIAGRO",
@@ -5749,7 +5749,7 @@
           "date": "2026-05-28",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -10830,7 +10830,7 @@
         {
           "market": "FII",
           "count": 10,
-          "volume": 767835517.84
+          "volume": 768836343
         }
       ]
     },
@@ -15907,7 +15907,7 @@
           "date": "2026-09-28",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {
@@ -15923,7 +15923,7 @@
           "date": "2026-09-28",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {

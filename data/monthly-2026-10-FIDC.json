@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIDC",
-  "generatedAt": "2026-11-24T21:12:24.667Z",
+  "generatedAt": "2026-11-25T20:28:45.396Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1810,19 +1810,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-19",
+        "date": "2026-11-23",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-23",
-          "value": 13.65
-        },
         {
           "date": "2026-10-26",
           "value": 13.65
@@ -1897,6 +1893,10 @@
         },
         {
           "date": "2026-11-23",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-24",
           "value": 13.65
         }
       ]
@@ -2192,26 +2192,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "24/11/2026",
+      "date": "25/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "23/11/2026",
+      "date": "24/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "23/11/2026",
+      "date": "24/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "23/11/2026",
-      "value": 5.9708,
+      "date": "24/11/2026",
+      "value": 5.8573,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2362,7 +2362,7 @@
           },
           {
             "label": "Cenário base anual",
-            "value": 66279610660.25001,
+            "value": 66280611485.41,
             "source": "Cenário Radar"
           }
         ],
@@ -2506,17 +2506,17 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 60181391645.19001,
+            "volume": 60182392470.350006,
             "offers": 199
           },
           {
             "label": "Base",
-            "volume": 66279610660.25001,
+            "volume": 66280611485.41,
             "offers": 216
           },
           {
             "label": "Expansão",
-            "volume": 72283154359.54001,
+            "volume": 72284155184.70001,
             "offers": 246
           }
         ],
