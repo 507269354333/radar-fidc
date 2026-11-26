@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "market": "FIAGRO",
-  "generatedAt": "2026-11-25T20:28:45.407Z",
+  "generatedAt": "2026-11-26T20:11:37.435Z",
   "title": "Carta Mensal Radar - 2026-10",
   "aggregate": {
     "current": {
@@ -1639,19 +1639,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-26",
-          "value": 13.65
-        },
         {
           "date": "2026-10-27",
           "value": 13.65
@@ -1726,6 +1722,10 @@
         },
         {
           "date": "2026-11-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-25",
           "value": 13.65
         }
       ]
@@ -2021,26 +2021,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "25/11/2026",
+      "date": "26/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "24/11/2026",
+      "date": "25/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "24/11/2026",
+      "date": "25/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "24/11/2026",
-      "value": 5.8573,
+      "date": "25/11/2026",
+      "value": 5.8825,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -2101,7 +2101,7 @@
           },
           {
             "label": "IRCC",
-            "value": 12.269690860608264,
+            "value": 12.28124383847117,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -2224,7 +2224,7 @@
         "scores": {
           "IROP": 89.16666666666669,
           "IRBD": 95.83333333333334,
-          "IRCC": 4.95038928979655,
+          "IRCC": 4.985048223385263,
           "IRFC": 45.51470588235294,
           "IRPM": 76.07107843137256
         },
@@ -2283,18 +2283,18 @@
         "scenarios": [
           {
             "label": "Conservador",
-            "volume": 58454342336.86499,
-            "offers": 713
+            "volume": 58454573249.46498,
+            "offers": 712
           },
           {
             "label": "Base",
-            "volume": 61963711625.09999,
-            "offers": 758
+            "volume": 61963942537.69998,
+            "offers": 757
           },
           {
             "label": "Expansão",
-            "volume": 70829970519.69499,
-            "offers": 867
+            "volume": 70830547801.19498,
+            "offers": 866
           }
         ],
         "method": "Cenários usam volume analítico ajustado: realizado no ano sem outliers estatísticos + p25/mediana/p75 dos 12 meses encerrados no mês de referência para os meses restantes. Não são previsão de captação efetiva."

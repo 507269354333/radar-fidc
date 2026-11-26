@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T20:28:45.351Z",
+  "generatedAt": "2026-11-26T20:11:37.350Z",
   "macro": {
-    "generatedAt": "2026-11-25T05:33:13.108Z",
+    "generatedAt": "2026-11-26T05:15:13.249Z",
     "items": [
       {
         "key": "selic",
@@ -12,7 +12,7 @@
         "display": "13,65%",
         "change": 0,
         "changePct": 0,
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "source": "BCB / SGS",
         "status": "ok",
         "deltaDisplay": "+0 p.p."
@@ -50,11 +50,11 @@
         "label": "USD/BRL",
         "fullLabel": "Dólar / Real",
         "category": "Câmbio",
-        "value": 5.8573,
-        "display": "R$ 5,8573",
-        "change": -0.11349999999999927,
-        "changePct": -1.9009177999597893,
-        "date": "2026-11-24",
+        "value": 5.8825,
+        "display": "R$ 5,8825",
+        "change": 0.02519999999999989,
+        "changePct": 0.43023235961960893,
+        "date": "2026-11-25",
         "source": "BCB / PTAX",
         "status": "ok"
       },
@@ -166,24 +166,24 @@
   "overview": {
     "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "sourceUpdatedAt": "2026-11-25T08:00:44.655655",
+    "sourceUpdatedAt": "2026-11-26T08:00:44.716774",
     "count": 4672,
     "analytics": {
       "latestMonth": "2026-11",
-      "offersInMonth": 47,
-      "volumeInMonth": 3009228640.2200003,
-      "offersWithVolumeInMonth": 43,
-      "leadersInMonth": 20,
+      "offersInMonth": 48,
+      "volumeInMonth": 3524228640.2200003,
+      "offersWithVolumeInMonth": 45,
+      "leadersInMonth": 19,
       "byRite": [
         {
           "name": "Automático",
-          "count": 47
+          "count": 48
         }
       ],
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 43
+          "count": 44
         },
         {
           "name": "Qualificado",
@@ -200,8 +200,8 @@
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
-          "count": 6,
-          "volume": 750999946.75
+          "count": 7,
+          "volume": 1250999946.75
         },
         {
           "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -212,8 +212,8 @@
         {
           "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
           "cnpj": "62.285.390/0001-40",
-          "count": 4,
-          "volume": 354750000
+          "count": 5,
+          "volume": 369750000
         },
         {
           "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -322,7 +322,7 @@
         {
           "month": "2026-05",
           "count": 92,
-          "volume": 7189836170.5,
+          "volume": 7190067083.1,
           "withVolume": 92
         },
         {
@@ -351,28 +351,28 @@
         },
         {
           "month": "2026-10",
-          "count": 166,
+          "count": 165,
           "volume": 15693055708.61,
           "withVolume": 165
         },
         {
           "month": "2026-11",
-          "count": 47,
-          "volume": 3009228640.2200003,
-          "withVolume": 43
+          "count": 48,
+          "volume": 3524228640.2200003,
+          "withVolume": 45
         }
       ],
       "trailing12": {
         "offers": 861,
-        "volume": 90678779664.70004,
-        "offersWithVolume": 855,
+        "volume": 91194010577.30005,
+        "offersWithVolume": 857,
         "leaders": 62,
         "topLeaders": [
           {
             "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
             "cnpj": "62.285.390/0001-40",
-            "count": 182,
-            "volume": 9271889692.14
+            "count": 183,
+            "volume": 9286889692.14
           },
           {
             "name": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
@@ -390,7 +390,7 @@
             "name": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
             "cnpj": "22.610.500/0001-88",
             "count": 59,
-            "volume": 2910128961.21
+            "volume": 2910359873.81
           },
           {
             "name": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -420,7 +420,7 @@
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
             "cnpj": "04.845.753/0001-59",
             "count": 25,
-            "volume": 10506695005.75
+            "volume": 11006695005.75
           },
           {
             "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -503,6 +503,54 @@
         ]
       },
       "latestOffers": [
+        {
+          "id": "c7e0a0d5bb3f0d32",
+          "market": "FIDC",
+          "name": "APG SAFIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "65.216.273/0001-13",
+          "registration": "28649",
+          "processNumber": "SRE/3794/2026",
+          "leader": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+          "leaderCnpj": "62.285.390/0001-40",
+          "volume": 15000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-11-25",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
+        {
+          "id": "b71dd22b340d7208",
+          "market": "FIDC",
+          "name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TURBI I DE RESPONSABILIDADE LIMITADA",
+          "cnpj": "49.936.440/0001-44",
+          "registration": "28402",
+          "processNumber": "SRE/3412/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 500000000,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "date": "2026-11-25",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
         {
           "id": "778f421a2b2d3d3c",
           "market": "FIDC",
@@ -804,54 +852,6 @@
           "volumeComponents": 1,
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-11-12",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "8043307b6702732f",
-          "market": "FIDC",
-          "name": "FLUENS CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-          "cnpj": "68.833.146/0001-51",
-          "registration": "28625",
-          "processNumber": "SRE/3633/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 30000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Oferta Encerrada",
-          "date": "2026-11-12",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
-        },
-        {
-          "id": "85ede595cc1f32ab",
-          "market": "FIDC",
-          "name": "PORTUS FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-          "cnpj": "69.237.118/0001-34",
-          "registration": "28685",
-          "processNumber": "SRE/3672/2026",
-          "leader": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-          "leaderCnpj": "41.592.532/0001-42",
-          "volume": 20000000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Qualificado",
           "status": "Registro Concedido",
           "date": "2026-11-12",
           "dateBasis": "registro",

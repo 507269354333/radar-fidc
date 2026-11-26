@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T20:28:45.337Z",
+  "generatedAt": "2026-11-26T20:11:37.330Z",
   "market": "ALL",
   "current": {
     "period": {
@@ -261,11 +261,11 @@
       "start": "2026-11-09",
       "end": "2026-11-15"
     },
-    "offers": 32,
+    "offers": 31,
     "offersWithVolume": 30,
     "volume": 13810235835.34,
     "averageTicket": 460341194.51133335,
-    "leaders": 18,
+    "leaders": 17,
     "topLeaders": [
       {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -453,7 +453,7 @@
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 29
+        "count": 28
       },
       {
         "name": "Qualificado",
@@ -463,7 +463,7 @@
     "byRite": [
       {
         "name": "Automático",
-        "count": 32
+        "count": 31
       }
     ],
     "byStatus": [
@@ -472,18 +472,18 @@
         "count": 28
       },
       {
-        "name": "Aguardando Bookbuilding",
+        "name": "Oferta Encerrada",
         "count": 2
       },
       {
-        "name": "Oferta Encerrada",
-        "count": 2
+        "name": "Aguardando Bookbuilding",
+        "count": 1
       }
     ],
     "byMarket": [
       {
         "name": "FIDC",
-        "count": 20
+        "count": 19
       },
       {
         "name": "FII",
@@ -494,15 +494,15 @@
         "count": 5
       }
     ],
-    "professionalShare": 0.90625,
-    "top3Concentration": 0.40625,
+    "professionalShare": 0.9032258064516129,
+    "top3Concentration": 0.41935483870967744,
     "busiestDays": [
       {
-        "date": "2026-11-10",
-        "count": 9
+        "date": "2026-11-09",
+        "count": 8
       },
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "count": 8
       },
       {
@@ -526,19 +526,19 @@
     ]
   },
   "changes": {
-    "offersPct": -62.5,
+    "offersPct": -61.29032258064516,
     "volumePct": -93.7094835708241
   },
   "benchmarks": {
     "prior4Average": {
-      "offers": 41.5,
+      "offers": 41,
       "volume": 7893435509.3825,
-      "leaders": 20.75,
-      "professionalShare": 0.9034183822130251,
-      "top3Concentration": 0.3980874036677608
+      "leaders": 20.5,
+      "professionalShare": 0.9025680653493069,
+      "top3Concentration": 0.4032489828776085
     },
     "currentVsPrior4Average": {
-      "offersPct": -71.08433734939759,
+      "offersPct": -70.73170731707317,
       "volumePct": -88.99420723590657
     }
   },
@@ -576,7 +576,7 @@
           "start": "2026-10-19",
           "end": "2026-10-25"
         },
-        "offers": 52,
+        "offers": 51,
         "volume": 7344887900.559999,
         "leaders": 25
       },
@@ -603,9 +603,9 @@
           "start": "2026-11-09",
           "end": "2026-11-15"
         },
-        "offers": 32,
+        "offers": 31,
         "volume": 13810235835.34,
-        "leaders": 18
+        "leaders": 17
       },
       {
         "period": {
@@ -619,9 +619,9 @@
     ]
   },
   "observations": [
-    "Atividade semanal de 12 ofertas ALL, 62,5% abaixo da semana anterior.",
+    "Atividade semanal de 12 ofertas ALL, 61,3% abaixo da semana anterior.",
     "Volume informado de R$ 868.735.154 em 11 ofertas com valor positivo; ticket médio de R$ 78.975.923.",
-    "Contra a média das quatro semanas anteriores, o volume ficou 89,0% abaixo e a quantidade de ofertas 71,1% abaixo.",
+    "Contra a média das quatro semanas anteriores, o volume ficou 89,0% abaixo e a quantidade de ofertas 70,7% abaixo.",
     "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. liderou por quantidade de registros (2); os três coordenadores mais presentes concentraram 50,0% das ofertas da semana.",
     "91,7% das ofertas da semana foram destinadas a investidores profissionais, conforme o campo oficial de público-alvo.",
     "Sinais de tema pela denominação dos veículos: Consignado (3), Agronegócio (2). Esta leitura é indicativa e não substitui a estratégia descrita nos documentos da oferta."
@@ -631,17 +631,17 @@
     "cvm": {
       "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
       "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-      "updatedAt": "2026-11-25T08:00:44.655655"
+      "updatedAt": "2026-11-26T08:00:44.716774"
     },
     "bcb": {
       "name": "Banco Central do Brasil — SGS",
       "url": "https://www.bcb.gov.br/estatisticas/indecoreestruturacao",
-      "updatedAt": "2026-11-25T20:28:45.288Z"
+      "updatedAt": "2026-11-26T20:11:36.777Z"
     },
     "anbima": {
       "name": "ANBIMA — Quadro de Indicadores",
       "url": "https://www.anbima.com.br/informacoes/indicadores/",
-      "updatedAt": "25/11/2026 09:34"
+      "updatedAt": "26/11/2026 09:34"
     }
   },
   "macro": {
@@ -650,19 +650,15 @@
       "label": "Taxa Selic anualizada",
       "unit": "%",
       "latest": {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "value": 13.65
       },
       "previous": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "value": 13.65
       },
       "change": 0,
       "history": [
-        {
-          "date": "2026-10-26",
-          "value": 13.65
-        },
         {
           "date": "2026-10-27",
           "value": 13.65
@@ -737,6 +733,10 @@
         },
         {
           "date": "2026-11-24",
+          "value": 13.65
+        },
+        {
+          "date": "2026-11-25",
           "value": 13.65
         }
       ]
@@ -1032,26 +1032,26 @@
   },
   "anbima": {
     "selicEstimate": {
-      "date": "25/11/2026",
+      "date": "26/11/2026",
       "value": 13.65,
       "label": "Estimativa Selic",
       "unit": "% a.a."
     },
     "selicBc": {
-      "date": "24/11/2026",
+      "date": "25/11/2026",
       "value": 13.65,
       "label": "Selic BCB",
       "unit": "% a.a."
     },
     "diB3": {
-      "date": "24/11/2026",
+      "date": "25/11/2026",
       "value": 13.65,
       "label": "DI-B3",
       "unit": "% a.a."
     },
     "dollarSell": {
-      "date": "24/11/2026",
-      "value": 5.8573,
+      "date": "25/11/2026",
+      "value": 5.8825,
       "label": "Dólar comercial venda",
       "unit": "R$/US$"
     },
@@ -1074,8 +1074,8 @@
       "market": "FIDC",
       "count": 4672,
       "latestMonth": "2026-11",
-      "offersInMonth": 47,
-      "volumeInMonth": 3009228640.2200003
+      "offersInMonth": 48,
+      "volumeInMonth": 3524228640.2200003
     },
     {
       "market": "FIAGRO",
@@ -1126,7 +1126,7 @@
           },
           {
             "label": "IRCC",
-            "value": 12.269690860608264,
+            "value": 12.28124383847117,
             "source": "Metodologia Radar / CVM"
           }
         ],
@@ -1249,7 +1249,7 @@
         "scores": {
           "IROP": 89.16666666666669,
           "IRBD": 95.83333333333334,
-          "IRCC": 4.95038928979655,
+          "IRCC": 4.985048223385263,
           "IRFC": 45.51470588235294,
           "IRPM": 76.07107843137256
         },
