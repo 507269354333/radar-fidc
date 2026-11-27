@@ -1,19 +1,19 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-26T08:00:44.716774",
+  "sourceUpdatedAt": "2026-11-27T08:00:39.901478",
   "overall": {
     "count": 6422,
     "latestMonth": "2026-11",
-    "offersInMonth": 80,
-    "volumeInMonth": 18962443629.699997,
+    "offersInMonth": 81,
+    "volumeInMonth": 19212443629.699997,
     "leadersInMonth": 30,
     "topLeaders": [
       {
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
         "count": 11,
-        "volume": 3310999946.75
+        "volume": 3560999946.75
       },
       {
         "name": "BANCO DAYCOVAL S.A.",
@@ -34,16 +34,16 @@
         "volume": 103748693.47
       },
       {
+        "name": "XP INVESTIMENTOS CCTVM S.A.",
+        "cnpj": "02.332.886/0001-04",
+        "count": 6,
+        "volume": 2215500000
+      },
+      {
         "name": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
         "cnpj": "62.285.390/0001-40",
         "count": 6,
         "volume": 374750000
-      },
-      {
-        "name": "XP INVESTIMENTOS CCTVM S.A.",
-        "cnpj": "02.332.886/0001-04",
-        "count": 5,
-        "volume": 2215500000
       },
       {
         "name": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -87,7 +87,7 @@
         "market": "FIDC",
         "count": 4672,
         "latestMonth": "2026-11",
-        "offersInMonth": 48,
+        "offersInMonth": 49,
         "volumeInMonth": 3524228640.2200003
       },
       {
@@ -95,7 +95,7 @@
         "count": 194,
         "latestMonth": "2026-11",
         "offersInMonth": 8,
-        "volumeInMonth": 12341000000
+        "volumeInMonth": 12591000000
       },
       {
         "market": "FII",
@@ -112,20 +112,20 @@
       "count": 4672,
       "analytics": {
         "latestMonth": "2026-11",
-        "offersInMonth": 48,
+        "offersInMonth": 49,
         "volumeInMonth": 3524228640.2200003,
         "offersWithVolumeInMonth": 45,
-        "leadersInMonth": 19,
+        "leadersInMonth": 20,
         "byRite": [
           {
             "name": "Automático",
-            "count": 48
+            "count": 49
           }
         ],
         "byAudience": [
           {
             "name": "Profissional",
-            "count": 44
+            "count": 45
           },
           {
             "name": "Qualificado",
@@ -281,7 +281,7 @@
           },
           {
             "month": "2026-08",
-            "count": 32,
+            "count": 31,
             "volume": 2485004803.17,
             "withVolume": 31
           },
@@ -299,7 +299,7 @@
           },
           {
             "month": "2026-11",
-            "count": 48,
+            "count": 49,
             "volume": 3524228640.2200003,
             "withVolume": 45
           }
@@ -445,6 +445,30 @@
           ]
         },
         "latestOffers": [
+          {
+            "id": "cfe52c962e5633fd",
+            "market": "FIDC",
+            "name": "ERSTER ERFOLG DÍVIDA ATIVA FUNDO DE INVESTIMENTO EM COTAS DE FIDC",
+            "cnpj": "68.670.302/0001-00",
+            "registration": "27661",
+            "processNumber": "SRE/2764/2026",
+            "leader": "XP INVESTIMENTOS CCTVM S.A.",
+            "leaderCnpj": "02.332.886/0001-04",
+            "volume": 0,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Oferta Revogada",
+            "date": "2026-11-26",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIDC"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
           {
             "id": "c7e0a0d5bb3f0d32",
             "market": "FIDC",
@@ -780,30 +804,6 @@
             "sourceFile": "oferta_resolucao_160.csv",
             "sourceRows": 1,
             "distinctComponents": 1
-          },
-          {
-            "id": "8926dc0089287b6b",
-            "market": "FIDC",
-            "name": "ANTECIPA SAÚDE FIDC DE CRÉDITO CORPORATIVO RESPONSABILIDADE LIMITADA",
-            "cnpj": "67.013.556/0001-93",
-            "registration": "28677",
-            "processNumber": "SRE/3669/2026",
-            "leader": "INVESTCOOP ASSET MANAGEMENT LTDA.",
-            "leaderCnpj": "31.681.693/0001-59",
-            "volume": 100315000,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Registro Concedido",
-            "date": "2026-11-12",
-            "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIDC"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
           }
         ]
       },
@@ -815,8 +815,8 @@
       "analytics": {
         "latestMonth": "2026-11",
         "offersInMonth": 8,
-        "volumeInMonth": 12341000000,
-        "offersWithVolumeInMonth": 7,
+        "volumeInMonth": 12591000000,
+        "offersWithVolumeInMonth": 8,
         "leadersInMonth": 5,
         "byRite": [
           {
@@ -839,7 +839,7 @@
             "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
             "cnpj": "04.845.753/0001-59",
             "count": 4,
-            "volume": 2060000000
+            "volume": 2310000000
           },
           {
             "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -972,21 +972,21 @@
           {
             "month": "2026-11",
             "count": 8,
-            "volume": 12341000000,
-            "withVolume": 7
+            "volume": 12591000000,
+            "withVolume": 8
           }
         ],
         "trailing12": {
           "offers": 78,
-          "volume": 49730432887.55,
-          "offersWithVolume": 77,
+          "volume": 49980432887.55,
+          "offersWithVolume": 78,
           "leaders": 22,
           "topLeaders": [
             {
               "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
               "cnpj": "04.845.753/0001-59",
               "count": 13,
-              "volume": 4991284000
+              "volume": 5241284000
             },
             {
               "name": "BANCO DAYCOVAL S.A.",
@@ -1076,7 +1076,7 @@
         },
         "dataQuality": {
           "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-          "medianPositiveVolume": 72000000,
+          "medianPositiveVolume": 73300065.10499999,
           "outlierCount": 2,
           "outliers": [
             {
@@ -1096,6 +1096,30 @@
           ]
         },
         "latestOffers": [
+          {
+            "id": "a4389d0c7f59fa5b",
+            "market": "FIAGRO",
+            "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
+            "cnpj": "69.984.140/0001-48",
+            "registration": "28697",
+            "processNumber": "SRE/3686/2026",
+            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+            "leaderCnpj": "04.845.753/0001-59",
+            "volume": 250000000,
+            "volumeComponents": 1,
+            "rite": "Automático",
+            "audience": "Profissional",
+            "status": "Registro Concedido",
+            "date": "2026-11-26",
+            "dateBasis": "registro",
+            "securities": [
+              "Cotas de FIAGRO"
+            ],
+            "publications": [],
+            "sourceFile": "oferta_resolucao_160.csv",
+            "sourceRows": 1,
+            "distinctComponents": 1
+          },
           {
             "id": "33ffe9da693290d9",
             "market": "FIAGRO",
@@ -1136,30 +1160,6 @@
             "status": "Registro Concedido",
             "date": "2026-11-16",
             "dateBasis": "registro",
-            "securities": [
-              "Cotas de FIAGRO"
-            ],
-            "publications": [],
-            "sourceFile": "oferta_resolucao_160.csv",
-            "sourceRows": 1,
-            "distinctComponents": 1
-          },
-          {
-            "id": "a4389d0c7f59fa5b",
-            "market": "FIAGRO",
-            "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
-            "cnpj": "69.984.140/0001-48",
-            "registration": "28697",
-            "processNumber": "SRE/3686/2026",
-            "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-            "leaderCnpj": "04.845.753/0001-59",
-            "volume": 0,
-            "volumeComponents": 1,
-            "rite": "Automático",
-            "audience": "Profissional",
-            "status": "Aguardando Bookbuilding",
-            "date": "2026-11-13",
-            "dateBasis": "requerimento",
             "securities": [
               "Cotas de FIAGRO"
             ],
@@ -1421,7 +1421,7 @@
             "volumeComponents": 1,
             "rite": "Automático",
             "audience": "Profissional",
-            "status": "Registro Concedido",
+            "status": "Oferta Encerrada",
             "date": "2026-10-23",
             "dateBasis": "registro",
             "securities": [
@@ -2131,5 +2131,5 @@
       "methodology": "Ofertas FII identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos."
     }
   },
-  "updatedAt": "2026-11-26T20:11:37.294Z"
+  "updatedAt": "2026-11-27T19:58:00.193Z"
 }

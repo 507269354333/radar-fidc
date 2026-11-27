@@ -1,10 +1,10 @@
 {
   "market": "FIAGRO",
-  "generatedAt": "2026-11-26T20:11:37.369Z",
+  "generatedAt": "2026-11-27T19:58:00.263Z",
   "source": {
     "name": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "url": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "updatedAt": "2026-11-26T08:00:44.716774"
+    "updatedAt": "2026-11-27T08:00:39.901478"
   },
   "coordinators": [
     {
@@ -13,9 +13,9 @@
       "cnpj": "04.845.753/0001-59",
       "stats12m": {
         "offers": 13,
-        "volume": 4991284000,
-        "offersWithVolume": 12,
-        "averageTicket": 415940333.3333333
+        "volume": 5241284000,
+        "offersWithVolume": 13,
+        "averageTicket": 403175692.3076923
       },
       "byMonth": [
         {
@@ -71,10 +71,26 @@
         {
           "month": "2026-11",
           "count": 4,
-          "volume": 2060000000
+          "volume": 2310000000
         }
       ],
       "recentOffers": [
+        {
+          "id": "a4389d0c7f59fa5b",
+          "market": "FIAGRO",
+          "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
+          "cnpj": "69.984.140/0001-48",
+          "registration": "28697",
+          "processNumber": "SRE/3686/2026",
+          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+          "leaderCnpj": "04.845.753/0001-59",
+          "volume": 250000000,
+          "date": "2026-11-26",
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Registro Concedido",
+          "publications": []
+        },
         {
           "id": "2fffe1a9f9e67e3a",
           "market": "FIAGRO",
@@ -89,22 +105,6 @@
           "rite": "Automático",
           "audience": "Profissional",
           "status": "Registro Concedido",
-          "publications": []
-        },
-        {
-          "id": "a4389d0c7f59fa5b",
-          "market": "FIAGRO",
-          "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
-          "cnpj": "69.984.140/0001-48",
-          "registration": "28697",
-          "processNumber": "SRE/3686/2026",
-          "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-          "leaderCnpj": "04.845.753/0001-59",
-          "volume": 0,
-          "date": "2026-11-13",
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Aguardando Bookbuilding",
           "publications": []
         },
         {
@@ -373,7 +373,7 @@
         {
           "market": "FIAGRO",
           "count": 18,
-          "volume": 5726284000
+          "volume": 5976284000
         },
         {
           "market": "FII",
@@ -483,7 +483,7 @@
           "date": "2026-10-23",
           "rite": "Automático",
           "audience": "Profissional",
-          "status": "Registro Concedido",
+          "status": "Oferta Encerrada",
           "publications": []
         },
         {

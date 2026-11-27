@@ -1,14 +1,14 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-26T08:00:44.716774",
+  "sourceUpdatedAt": "2026-11-27T08:00:39.901478",
   "market": "FIAGRO",
   "count": 194,
   "analytics": {
     "latestMonth": "2026-11",
     "offersInMonth": 8,
-    "volumeInMonth": 12341000000,
-    "offersWithVolumeInMonth": 7,
+    "volumeInMonth": 12591000000,
+    "offersWithVolumeInMonth": 8,
     "leadersInMonth": 5,
     "byRite": [
       {
@@ -31,7 +31,7 @@
         "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
         "cnpj": "04.845.753/0001-59",
         "count": 4,
-        "volume": 2060000000
+        "volume": 2310000000
       },
       {
         "name": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -164,21 +164,21 @@
       {
         "month": "2026-11",
         "count": 8,
-        "volume": 12341000000,
-        "withVolume": 7
+        "volume": 12591000000,
+        "withVolume": 8
       }
     ],
     "trailing12": {
       "offers": 78,
-      "volume": 49730432887.55,
-      "offersWithVolume": 77,
+      "volume": 49980432887.55,
+      "offersWithVolume": 78,
       "leaders": 22,
       "topLeaders": [
         {
           "name": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
           "cnpj": "04.845.753/0001-59",
           "count": 13,
-          "volume": 4991284000
+          "volume": 5241284000
         },
         {
           "name": "BANCO DAYCOVAL S.A.",
@@ -268,7 +268,7 @@
     },
     "dataQuality": {
       "rule": "volume > 100x a mediana positiva dos últimos 12 meses",
-      "medianPositiveVolume": 72000000,
+      "medianPositiveVolume": 73300065.10499999,
       "outlierCount": 2,
       "outliers": [
         {
@@ -288,6 +288,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "a4389d0c7f59fa5b",
+        "market": "FIAGRO",
+        "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
+        "cnpj": "69.984.140/0001-48",
+        "registration": "28697",
+        "processNumber": "SRE/3686/2026",
+        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+        "leaderCnpj": "04.845.753/0001-59",
+        "volume": 250000000,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Registro Concedido",
+        "date": "2026-11-26",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIAGRO"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "33ffe9da693290d9",
         "market": "FIAGRO",
@@ -328,30 +352,6 @@
         "status": "Registro Concedido",
         "date": "2026-11-16",
         "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIAGRO"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
-      },
-      {
-        "id": "a4389d0c7f59fa5b",
-        "market": "FIAGRO",
-        "name": "GUANABARA - MKL FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - RESP. LIMITADA",
-        "cnpj": "69.984.140/0001-48",
-        "registration": "28697",
-        "processNumber": "SRE/3686/2026",
-        "leader": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-        "leaderCnpj": "04.845.753/0001-59",
-        "volume": 0,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Aguardando Bookbuilding",
-        "date": "2026-11-13",
-        "dateBasis": "requerimento",
         "securities": [
           "Cotas de FIAGRO"
         ],
@@ -613,7 +613,7 @@
         "volumeComponents": 1,
         "rite": "Automático",
         "audience": "Profissional",
-        "status": "Registro Concedido",
+        "status": "Oferta Encerrada",
         "date": "2026-10-23",
         "dateBasis": "registro",
         "securities": [
@@ -651,5 +651,5 @@
     ]
   },
   "methodology": "Ofertas FIAGRO identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-26T20:11:37.296Z"
+  "updatedAt": "2026-11-27T19:58:00.194Z"
 }

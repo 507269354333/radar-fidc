@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T20:11:37.350Z",
+  "generatedAt": "2026-11-27T19:58:00.245Z",
   "macro": {
-    "generatedAt": "2026-11-26T05:15:13.249Z",
+    "generatedAt": "2026-11-27T05:13:14.818Z",
     "items": [
       {
         "key": "selic",
@@ -12,7 +12,7 @@
         "display": "13,65%",
         "change": 0,
         "changePct": 0,
-        "date": "2026-11-25",
+        "date": "2026-11-26",
         "source": "BCB / SGS",
         "status": "ok",
         "deltaDisplay": "+0 p.p."
@@ -50,11 +50,11 @@
         "label": "USD/BRL",
         "fullLabel": "Dólar / Real",
         "category": "Câmbio",
-        "value": 5.8825,
-        "display": "R$ 5,8825",
-        "change": 0.02519999999999989,
-        "changePct": 0.43023235961960893,
-        "date": "2026-11-25",
+        "value": 5.7446,
+        "display": "R$ 5,7446",
+        "change": -0.13790000000000013,
+        "changePct": -2.344241393965152,
+        "date": "2026-11-26",
         "source": "BCB / PTAX",
         "status": "ok"
       },
@@ -166,24 +166,24 @@
   "overview": {
     "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
     "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-    "sourceUpdatedAt": "2026-11-26T08:00:44.716774",
+    "sourceUpdatedAt": "2026-11-27T08:00:39.901478",
     "count": 4672,
     "analytics": {
       "latestMonth": "2026-11",
-      "offersInMonth": 48,
+      "offersInMonth": 49,
       "volumeInMonth": 3524228640.2200003,
       "offersWithVolumeInMonth": 45,
-      "leadersInMonth": 19,
+      "leadersInMonth": 20,
       "byRite": [
         {
           "name": "Automático",
-          "count": 48
+          "count": 49
         }
       ],
       "byAudience": [
         {
           "name": "Profissional",
-          "count": 44
+          "count": 45
         },
         {
           "name": "Qualificado",
@@ -339,7 +339,7 @@
         },
         {
           "month": "2026-08",
-          "count": 32,
+          "count": 31,
           "volume": 2485004803.17,
           "withVolume": 31
         },
@@ -357,7 +357,7 @@
         },
         {
           "month": "2026-11",
-          "count": 48,
+          "count": 49,
           "volume": 3524228640.2200003,
           "withVolume": 45
         }
@@ -503,6 +503,30 @@
         ]
       },
       "latestOffers": [
+        {
+          "id": "cfe52c962e5633fd",
+          "market": "FIDC",
+          "name": "ERSTER ERFOLG DÍVIDA ATIVA FUNDO DE INVESTIMENTO EM COTAS DE FIDC",
+          "cnpj": "68.670.302/0001-00",
+          "registration": "27661",
+          "processNumber": "SRE/2764/2026",
+          "leader": "XP INVESTIMENTOS CCTVM S.A.",
+          "leaderCnpj": "02.332.886/0001-04",
+          "volume": 0,
+          "volumeComponents": 1,
+          "rite": "Automático",
+          "audience": "Profissional",
+          "status": "Oferta Revogada",
+          "date": "2026-11-26",
+          "dateBasis": "registro",
+          "securities": [
+            "Cotas de FIDC"
+          ],
+          "publications": [],
+          "sourceFile": "oferta_resolucao_160.csv",
+          "sourceRows": 1,
+          "distinctComponents": 1
+        },
         {
           "id": "c7e0a0d5bb3f0d32",
           "market": "FIDC",
@@ -838,30 +862,6 @@
           "sourceFile": "oferta_resolucao_160.csv",
           "sourceRows": 1,
           "distinctComponents": 1
-        },
-        {
-          "id": "8926dc0089287b6b",
-          "market": "FIDC",
-          "name": "ANTECIPA SAÚDE FIDC DE CRÉDITO CORPORATIVO RESPONSABILIDADE LIMITADA",
-          "cnpj": "67.013.556/0001-93",
-          "registration": "28677",
-          "processNumber": "SRE/3669/2026",
-          "leader": "INVESTCOOP ASSET MANAGEMENT LTDA.",
-          "leaderCnpj": "31.681.693/0001-59",
-          "volume": 100315000,
-          "volumeComponents": 1,
-          "rite": "Automático",
-          "audience": "Profissional",
-          "status": "Registro Concedido",
-          "date": "2026-11-12",
-          "dateBasis": "registro",
-          "securities": [
-            "Cotas de FIDC"
-          ],
-          "publications": [],
-          "sourceFile": "oferta_resolucao_160.csv",
-          "sourceRows": 1,
-          "distinctComponents": 1
         }
       ]
     },
@@ -1068,8 +1068,8 @@
         "funding": {
           "code": "IRFC",
           "name": "Índice Radar de Condições de Funding",
-          "score": 45.51470588235294,
-          "interpretation": "neutras/medianas",
+          "score": 30.86764705882353,
+          "interpretation": "restritivas",
           "education": {
             "code": "IRFC",
             "name": "Índice Radar de Condições de Funding",
@@ -1088,15 +1088,15 @@
               "Não incorpora diretamente fluxo de fundos, book de ordens ou captação efetiva.",
               "É um indicador de regime, não uma taxa de funding de uma operação específica."
             ],
-            "score": 45.51470588235294,
-            "band": "faixa intermediária",
-            "currentReading": "O funding está em zona intermediária: não há evidência suficiente de abundância nem de restrição extrema. Score 46/100, faixa intermediária."
+            "score": 30.86764705882353,
+            "band": "faixa baixa",
+            "currentReading": "O ambiente de funding está relativamente restritivo dentro da amostra observada. Score 31/100, faixa baixa próximo da transição para a faixa intermediária."
           }
         },
         "pulse": {
           "code": "IRPM",
           "name": "Índice Radar de Pulso de Mercado - 3 mercados",
-          "score": 72.1578839869281,
+          "score": 67.76376633986929,
           "interpretation": "expansivo",
           "education": {
             "code": "IRPM",
@@ -1116,9 +1116,9 @@
               "Não substitui análise de cada vertical ou operação.",
               "Ainda está construindo histórico de validação fora da amostra."
             ],
-            "score": 72.1578839869281,
+            "score": 67.76376633986929,
             "band": "faixa alta",
-            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 72/100, faixa alta."
+            "currentReading": "O pulso combinado de oferta e funding está expansivo. Score 68/100, faixa alta."
           }
         }
       }

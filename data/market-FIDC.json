@@ -1,25 +1,25 @@
 {
   "source": "CVM Dados Abertos — Ofertas Públicas de Distribuição",
   "sourceUrl": "https://dados.cvm.gov.br/dataset/oferta-distrib",
-  "sourceUpdatedAt": "2026-11-26T08:00:44.716774",
+  "sourceUpdatedAt": "2026-11-27T08:00:39.901478",
   "market": "FIDC",
   "count": 4672,
   "analytics": {
     "latestMonth": "2026-11",
-    "offersInMonth": 48,
+    "offersInMonth": 49,
     "volumeInMonth": 3524228640.2200003,
     "offersWithVolumeInMonth": 45,
-    "leadersInMonth": 19,
+    "leadersInMonth": 20,
     "byRite": [
       {
         "name": "Automático",
-        "count": 48
+        "count": 49
       }
     ],
     "byAudience": [
       {
         "name": "Profissional",
-        "count": 44
+        "count": 45
       },
       {
         "name": "Qualificado",
@@ -175,7 +175,7 @@
       },
       {
         "month": "2026-08",
-        "count": 32,
+        "count": 31,
         "volume": 2485004803.17,
         "withVolume": 31
       },
@@ -193,7 +193,7 @@
       },
       {
         "month": "2026-11",
-        "count": 48,
+        "count": 49,
         "volume": 3524228640.2200003,
         "withVolume": 45
       }
@@ -339,6 +339,30 @@
       ]
     },
     "latestOffers": [
+      {
+        "id": "cfe52c962e5633fd",
+        "market": "FIDC",
+        "name": "ERSTER ERFOLG DÍVIDA ATIVA FUNDO DE INVESTIMENTO EM COTAS DE FIDC",
+        "cnpj": "68.670.302/0001-00",
+        "registration": "27661",
+        "processNumber": "SRE/2764/2026",
+        "leader": "XP INVESTIMENTOS CCTVM S.A.",
+        "leaderCnpj": "02.332.886/0001-04",
+        "volume": 0,
+        "volumeComponents": 1,
+        "rite": "Automático",
+        "audience": "Profissional",
+        "status": "Oferta Revogada",
+        "date": "2026-11-26",
+        "dateBasis": "registro",
+        "securities": [
+          "Cotas de FIDC"
+        ],
+        "publications": [],
+        "sourceFile": "oferta_resolucao_160.csv",
+        "sourceRows": 1,
+        "distinctComponents": 1
+      },
       {
         "id": "c7e0a0d5bb3f0d32",
         "market": "FIDC",
@@ -674,33 +698,9 @@
         "sourceFile": "oferta_resolucao_160.csv",
         "sourceRows": 1,
         "distinctComponents": 1
-      },
-      {
-        "id": "8926dc0089287b6b",
-        "market": "FIDC",
-        "name": "ANTECIPA SAÚDE FIDC DE CRÉDITO CORPORATIVO RESPONSABILIDADE LIMITADA",
-        "cnpj": "67.013.556/0001-93",
-        "registration": "28677",
-        "processNumber": "SRE/3669/2026",
-        "leader": "INVESTCOOP ASSET MANAGEMENT LTDA.",
-        "leaderCnpj": "31.681.693/0001-59",
-        "volume": 100315000,
-        "volumeComponents": 1,
-        "rite": "Automático",
-        "audience": "Profissional",
-        "status": "Registro Concedido",
-        "date": "2026-11-12",
-        "dateBasis": "registro",
-        "securities": [
-          "Cotas de FIDC"
-        ],
-        "publications": [],
-        "sourceFile": "oferta_resolucao_160.csv",
-        "sourceRows": 1,
-        "distinctComponents": 1
       }
     ]
   },
   "methodology": "Ofertas FIDC identificadas exclusivamente pelos campos oficiais de tipo de fundo/ativo/valor mobiliário da CVM. FIAGRO prevalece sobre classificações históricas FIAGRO-FIDC/FII. Linhas de classes ou séries são consolidadas pelo número oficial da oferta ou processo; volumes somam somente componentes distintos.",
-  "updatedAt": "2026-11-26T20:11:37.295Z"
+  "updatedAt": "2026-11-27T19:58:00.194Z"
 }
